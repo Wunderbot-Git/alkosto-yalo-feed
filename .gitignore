@@ -1,0 +1,11 @@
+# Working files generated during feed processing
+productFeed.csv
+filtered_products.csv
+filtered_celulares.csv
+
+# Local environment
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store

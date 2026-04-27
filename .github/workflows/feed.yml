@@ -1,0 +1,52 @@
+name: Refresh Alkosto product feed
+
+on:
+  schedule:
+    # Bogotá is UTC-5. 8:00 / 13:00 local => 13:00 / 18:00 UTC.
+    - cron: "0 13 * * *"
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Process computers / tablets feed
+        env:
+          ALKOSTO_USERNAME: ${{ secrets.ALKOSTO_USERNAME }}
+          ALKOSTO_PASSWORD: ${{ secrets.ALKOSTO_PASSWORD }}
+        run: |
+          python process_alkosto_products.py
+          python replace_image_urls.py filtered_products.json
+
+      - name: Process celulares feed
+        env:
+          ALKOSTO_USERNAME: ${{ secrets.ALKOSTO_USERNAME }}
+          ALKOSTO_PASSWORD: ${{ secrets.ALKOSTO_PASSWORD }}
+        run: |
+          python process_alkosto_celulares.py --skip-download
+          python replace_image_urls.py filtered_celulares.json
+
+      - name: Commit updated JSON if changed
+        run: |
+          git config user.name "alkosto-feed-bot"
+          git config user.email "alkosto-feed-bot@users.noreply.github.com"
+          git add filtered_products.json filtered_celulares.json
+          if git diff --cached --quiet; then
+            echo "No changes in feed output."
+          else
+            git commit -m "feed: refresh $(date -u +'%Y-%m-%d %H:%MZ')"
+            git push
+          fi
