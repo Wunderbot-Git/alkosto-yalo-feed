@@ -113,7 +113,11 @@
     "Velocidad del Procesador": "(4 x 2.4GHz /4 x 2.0GHz)",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "Ultralink",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "precio_codensa": 999900,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 6902176165610,
@@ -784,7 +788,11 @@
     "Version Sistema Operativo": "15",
     "Velocidad del Procesador": "2,5 Ghz",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "precio_codensa": 1449050,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 7708803796429,
@@ -1065,7 +1073,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 7268010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 195950640199,
@@ -1121,7 +1133,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 9099010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 840023266881,
@@ -1459,7 +1475,11 @@
     "Velocidad del Procesador": "(4 x 2.4GHz /4 x 2.0GHz)",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "Ultralink",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "precio_codensa": 999900,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 195951030692,
@@ -1514,7 +1534,13 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOs 26",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_davivienda": 3389010,
+    "precio_tarjeta_alkosto": 3289010,
+    "metodos_pago": [
+      "davivienda",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6932204520951,
@@ -1625,7 +1651,11 @@
     "Sistema Operativo": "Android",
     "Version Sistema Operativo": "Android 15",
     "Velocidad del Procesador": "2x4.32 GHz + 6x3.53 GHz (3nm) (8 nucleos)",
-    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
+    "precio_master_bines": 3449900,
+    "metodos_pago": [
+      "master_bines"
+    ]
   },
   {
     "Identificador del producto": 840023291302,
@@ -1739,7 +1769,11 @@
     "Sistema Operativo": "Android",
     "Version Sistema Operativo": "16",
     "Velocidad del Procesador": "Hasta 4,6 GHz",
-    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
+    "precio_tarjeta_alkosto": 5999050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6932169399180,
@@ -2022,7 +2056,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 5558010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 8806097331759,
@@ -2305,7 +2343,11 @@
     "Sistema Operativo": "Android",
     "Version Sistema Operativo": "15",
     "Velocidad del Procesador": "2,6 GHz",
-    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
+    "precio_tarjeta_alkosto": 1639050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 8806095745961,
@@ -2470,7 +2512,13 @@
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 17",
     "Velocidad del Procesador": "3,4 Ghz",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_davivienda": 3839010,
+    "precio_tarjeta_alkosto": 3839010,
+    "metodos_pago": [
+      "davivienda",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 8806099002015,
@@ -2689,7 +2737,11 @@
     "Velocidad del Procesador": "2 x 2.3 GHz -A78 | 6 x 2.0 GHz - A55",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "Tecnologias propias HONOR",
-    "Memoria Expandible": "1080 GB"
+    "Memoria Expandible": "1080 GB",
+    "precio_tarjeta_alkosto": 669050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 4894947111181,
@@ -2749,7 +2801,11 @@
     "Velocidad del Procesador": "(4 x 2.4GHz /4 x 2.0GHz)",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "Ultralink",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "precio_codensa": 999900,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 6941764485617,
@@ -2917,7 +2973,11 @@
     "Velocidad del Procesador": "(2 x 2.0GHz /6 x 1.7GHz /4 x 1.8GHz)",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "Ultralink",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "precio_tarjeta_alkosto": 449900,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6942103172762,
@@ -3191,7 +3251,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 6749010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6932554450113,
@@ -3420,7 +3484,11 @@
     "Velocidad del Procesador": "2*Arm Cortex A78 @ Up to 2.6GHz<br>6*Arm Cortex A55 @ Up to 2.0GHz",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "GPS, AGPS, Glonass, Galileo, Beidou, QZSS",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "precio_tarjeta_alkosto": 669050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 840023296970,
@@ -3591,7 +3659,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 5558010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6935117898155,
@@ -3703,7 +3775,11 @@
     "Version Sistema Operativo": "Android 15",
     "Velocidad del Procesador": "4x2,1 GHz + 4x1,8Ghz",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "precio_tarjeta_alkosto": 799050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6932169370233,
@@ -3927,7 +4003,13 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_master_bines": 4419010,
+    "precio_tarjeta_alkosto": 4469010,
+    "metodos_pago": [
+      "master_bines",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6936520877300,
@@ -4040,7 +4122,11 @@
     "Sistema Operativo": "Android",
     "Version Sistema Operativo": "Android 16",
     "Velocidad del Procesador": "3.2GHz, 2.9GHz, 2.6GHz, 1.95GHz",
-    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
+    "precio_codensa": 2799990,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 8806097667735,
@@ -4431,7 +4517,13 @@
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 17",
     "Velocidad del Procesador": "3,4 Ghz",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_davivienda": 3269010,
+    "precio_tarjeta_alkosto": 3269010,
+    "metodos_pago": [
+      "davivienda",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 4894947105272,
@@ -4659,7 +4751,11 @@
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "Multi-screen connect",
     "Producto en Combo": "Sí es en Combo",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "precio_tarjeta_alkosto": 3299050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 8806095303413,
@@ -4877,7 +4973,13 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_davivienda": 4059010,
+    "precio_tarjeta_alkosto": 4059010,
+    "metodos_pago": [
+      "davivienda",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 840023293511,
@@ -4935,7 +5037,11 @@
     "Velocidad del Procesador": "2*Arm Cortex A78 @ Up to 2.6GHz<br>6*Arm Cortex A55 @ Up to 2.0GHz",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "GPS, AGPS, Glonass, Galileo, Beidou, QZSS",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "precio_tarjeta_alkosto": 669050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6941764467330,
@@ -5049,7 +5155,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 6799010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 7705946480765,
@@ -5266,7 +5376,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 5049010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 8806097671763,
@@ -5322,7 +5436,11 @@
     "Sistema Operativo": "Android",
     "Version Sistema Operativo": "Android 16",
     "Velocidad del Procesador": "3.2GHz, 2.9GHz, 2.6GHz, 1.95GHz",
-    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
+    "precio_codensa": 2799990,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 7708803796726,
@@ -5435,7 +5553,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 9099010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 4894947105333,
@@ -5546,7 +5668,13 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_davivienda": 2699010,
+    "precio_tarjeta_alkosto": 2699010,
+    "metodos_pago": [
+      "davivienda",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6932554444815,
@@ -6110,7 +6238,13 @@
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 17",
     "Velocidad del Procesador": "3,4 Ghz",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_davivienda": 3839010,
+    "precio_tarjeta_alkosto": 3839010,
+    "metodos_pago": [
+      "davivienda",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6932554469412,
@@ -6223,7 +6357,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 6229010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 7709343619513,
@@ -6338,7 +6476,11 @@
     "Velocidad del Procesador": "2 x 2.3 GHz -A78 | 6 x 2.0 GHz - A55",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "Tecnologias propias HONOR",
-    "Memoria Expandible": "1080 GB"
+    "Memoria Expandible": "1080 GB",
+    "precio_tarjeta_alkosto": 669050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6932554480448,
@@ -6451,7 +6593,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 5558010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 4894947116599,
@@ -6509,7 +6655,11 @@
     "Velocidad del Procesador": "(2 x 2.0GHz /6 x 1.7GHz /4 x 1.8GHz)",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "Ultralink",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "precio_tarjeta_alkosto": 449900,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 840493602615,
@@ -6567,7 +6717,11 @@
     "Velocidad del Procesador": "2,0 GHz",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "GPS, Glonass, Galileo, QZSS",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "precio_codensa": 459050,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 840493610641,
@@ -7344,7 +7498,13 @@
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 17",
     "Velocidad del Procesador": "3,4 Ghz",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_davivienda": 3269010,
+    "precio_tarjeta_alkosto": 3269010,
+    "metodos_pago": [
+      "davivienda",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 840493618326,
@@ -7627,7 +7787,11 @@
     "Velocidad del Procesador": "2.5",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Memoria Expandible": "1000 GB",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "precio_codensa": 1051900,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 6902176159855,
@@ -7967,7 +8131,11 @@
     "Sistema Operativo": "Android",
     "Version Sistema Operativo": "16",
     "Velocidad del Procesador": "Hasta 4,6 GHz",
-    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
+    "precio_tarjeta_alkosto": 4719050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6932169397933,
@@ -8134,7 +8302,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 5558010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 8806099056339,
@@ -8300,7 +8472,13 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOs 26",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_davivienda": 3389010,
+    "precio_tarjeta_alkosto": 3289010,
+    "metodos_pago": [
+      "davivienda",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 195950623963,
@@ -8356,7 +8534,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 5799010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 7705946476331,
@@ -8522,7 +8704,13 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_master_bines": 4419010,
+    "precio_tarjeta_alkosto": 4469010,
+    "metodos_pago": [
+      "master_bines",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 8806097458166,
@@ -8692,7 +8880,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 8539010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 7705946479059,
@@ -8859,7 +9051,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 7268010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6932554480455,
@@ -9083,7 +9279,11 @@
     "Velocidad del Procesador": "2,0 GHz",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "GPS, Glonass, Galileo, QZSS",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "precio_codensa": 449050,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 840493618449,
@@ -9198,7 +9398,11 @@
     "Sistema Operativo": "Android",
     "Version Sistema Operativo": "16",
     "Velocidad del Procesador": "Hasta 4,6 GHz",
-    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
+    "precio_tarjeta_alkosto": 4719050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6942103169144,
@@ -9488,7 +9692,11 @@
     "Otras Tecnologias de Conectividad": "Multi-screen connect",
     "Memoria Expandible": "2000 GB",
     "Producto en Combo": "Sí es en Combo",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "precio_tarjeta_alkosto": 2199050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 840493613536,
@@ -9604,7 +9812,11 @@
     "Velocidad del Procesador": "4x2,8 GHz + 4x1,9 GHz",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Memoria Expandible": "1024 GB",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "precio_tarjeta_alkosto": 1599050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 7705946478557,
@@ -9712,7 +9924,13 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_davivienda": 4059010,
+    "precio_tarjeta_alkosto": 4059010,
+    "metodos_pago": [
+      "davivienda",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 195950051964,
@@ -9765,7 +9983,13 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_davivienda": 4299000,
+    "precio_tarjeta_alkosto": 4299000,
+    "metodos_pago": [
+      "davivienda",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 840023296963,
@@ -9934,7 +10158,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 9099010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 8806099057206,
@@ -10390,7 +10618,11 @@
     "Sistema Operativo": "Android",
     "Version Sistema Operativo": "Android 16",
     "Velocidad del Procesador": "3.2GHz, 2.9GHz, 2.6GHz, 1.95GHz",
-    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
+    "precio_codensa": 2799990,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 6941764474772,
@@ -10783,7 +11015,11 @@
     "Velocidad del Procesador": "2*Arm Cortex A78 @ Up to 2.6GHz<br>6*Arm Cortex A55 @ Up to 2.0GHz",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "GPS, AGPS, Glonass, Galileo, Beidou, QZSS",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "precio_tarjeta_alkosto": 669050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 8806097805892,
@@ -11237,7 +11473,13 @@
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 17",
     "Velocidad del Procesador": "3,4 Ghz",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_davivienda": 3839010,
+    "precio_tarjeta_alkosto": 3839010,
+    "metodos_pago": [
+      "davivienda",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 7709843066978,
@@ -11412,7 +11654,11 @@
     "Otras Tecnologias de Conectividad": "Multi-screen connect",
     "Memoria Expandible": "2000 GB",
     "Producto en Combo": "Sí es en Combo",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "precio_tarjeta_alkosto": 2449050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 8806095868684,
@@ -11469,7 +11715,11 @@
     "Sistema Operativo": "Android",
     "Version Sistema Operativo": "Android 15",
     "Velocidad del Procesador": "2x4.32 GHz + 6x3.53 GHz (3nm) (8 nucleos)",
-    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
+    "precio_master_bines": 3449900,
+    "metodos_pago": [
+      "master_bines"
+    ]
   },
   {
     "Identificador del producto": 6932169372800,
@@ -11584,7 +11834,11 @@
     "Velocidad del Procesador": "4x2,8 GHz + 4x1,9 GHz",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Memoria Expandible": "1024 GB",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "precio_tarjeta_alkosto": 1599050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6936520869923,
@@ -11812,7 +12066,11 @@
     "Velocidad del Procesador": "2,0 GHz",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "GPS, Glonass, Galileo, QZSS",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "precio_codensa": 459050,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 840493606200,
@@ -11927,7 +12185,11 @@
     "Velocidad del Procesador": "(4 x 2,6 GHz / 4 x 2,0 GHz)",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "Ultralink",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "precio_tarjeta_alkosto": 1387900,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 840493606194,
@@ -12039,7 +12301,13 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOs 26",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_davivienda": 3389010,
+    "precio_tarjeta_alkosto": 3289010,
+    "metodos_pago": [
+      "davivienda",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6936520845415,
@@ -12258,7 +12526,11 @@
     "Version Sistema Operativo": "Android 16",
     "Velocidad del Procesador": "2 x 2.5 GHz & 6 x 2.0 GHz",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "precio_codensa": 1051900,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 7705946476348,
@@ -12426,7 +12698,11 @@
     "Velocidad del Procesador": "(4 x 2,6 GHz / 4 x 2,0 GHz)",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "Ultralink",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "precio_tarjeta_alkosto": 1387900,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6932554405397,
@@ -12484,7 +12760,11 @@
     "Version Sistema Operativo": "15",
     "Velocidad del Procesador": "2,2 GHz",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
-    "Memoria Expandible": "2048 GB"
+    "Memoria Expandible": "2048 GB",
+    "precio_codensa": 849050,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 8806095301501,
@@ -12591,7 +12871,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 5799010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 195950638998,
@@ -12647,7 +12931,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 6749010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 7708803796801,
@@ -13041,7 +13329,11 @@
     "Sistema Operativo": "Android",
     "Version Sistema Operativo": "Android 15",
     "Velocidad del Procesador": "2x4.32 GHz + 6x3.53 GHz (3nm) (8 nucleos)",
-    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
+    "precio_master_bines": 3449900,
+    "metodos_pago": [
+      "master_bines"
+    ]
   },
   {
     "Identificador del producto": 195949822179,
@@ -13095,7 +13387,13 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_davivienda": 4059010,
+    "precio_tarjeta_alkosto": 4059010,
+    "metodos_pago": [
+      "davivienda",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 840023291319,
@@ -13598,7 +13896,11 @@
     "Sistema Operativo": "Android",
     "Version Sistema Operativo": "16",
     "Velocidad del Procesador": "Hasta 4,6 GHz",
-    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
+    "precio_tarjeta_alkosto": 5999050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6941764467903,
@@ -14115,7 +14417,11 @@
     "Sistema Operativo": "Android",
     "Version Sistema Operativo": "16",
     "Velocidad del Procesador": "Hasta 4,6 GHz",
-    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
+    "precio_tarjeta_alkosto": 5999050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 195950627541,
@@ -14171,7 +14477,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 6229010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6941764475465,
@@ -14228,7 +14538,11 @@
     "Version Sistema Operativo": "15",
     "Velocidad del Procesador": "2,5 Ghz",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "precio_codensa": 1449050,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 8806097661849,
@@ -14504,7 +14818,11 @@
     "Velocidad del Procesador": "(2 x 2.0GHz /6 x 1.7GHz /4 x 1.8GHz)",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "Ultralink",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "precio_tarjeta_alkosto": 449900,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 840023280252,
@@ -14675,7 +14993,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 6799010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6932169370240,
@@ -14899,7 +15221,11 @@
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "HONOR Share",
     "Memoria Expandible": "0 GB",
-    "Producto en Combo": "Sí es en Combo"
+    "Producto en Combo": "Sí es en Combo",
+    "precio_codensa": 1049050,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 8806097671602,
@@ -14955,7 +15281,11 @@
     "Sistema Operativo": "Android",
     "Version Sistema Operativo": "Android 16",
     "Velocidad del Procesador": "3.2GHz, 2.9GHz, 2.6GHz, 1.95GHz",
-    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
+    "precio_codensa": 2799990,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 6902176131585,
@@ -15117,7 +15447,11 @@
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 17",
     "Velocidad del Procesador": "3,7 Ghz",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 6599010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 4894947068669,
@@ -15290,7 +15624,11 @@
     "Velocidad del Procesador": "2,0 GHz",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "GPS, Glonass, Galileo, QZSS",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "precio_codensa": 689050,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 8806097661498,
@@ -15456,7 +15794,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 6799010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 8806099056315,
@@ -15679,7 +16021,11 @@
     "Sistema Operativo": "Android",
     "Version Sistema Operativo": "15",
     "Velocidad del Procesador": "2,6 GHz",
-    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
+    "precio_tarjeta_alkosto": 1439050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 840493618302,
@@ -15848,7 +16194,11 @@
     "Version Sistema Operativo": "15",
     "Velocidad del Procesador": "2,2 GHz",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
-    "Memoria Expandible": "2048 GB"
+    "Memoria Expandible": "2048 GB",
+    "precio_codensa": 849050,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 6902176165511,
@@ -16190,7 +16540,11 @@
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "HONOR Share",
     "Memoria Expandible": "0 GB",
-    "Producto en Combo": "Sí es en Combo"
+    "Producto en Combo": "Sí es en Combo",
+    "precio_codensa": 1049050,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 7705946479189,
@@ -16526,7 +16880,11 @@
     "Otras Tecnologias de Conectividad": "Multi-screen connect",
     "Memoria Expandible": "2000 GB",
     "Producto en Combo": "Sí es en Combo",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "precio_tarjeta_alkosto": 2449050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 7709997692351,
@@ -16639,7 +16997,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 6749010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 7709467012023,
@@ -16797,7 +17159,13 @@
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOs 15",
     "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
-    "Otras Tecnologias de Conectividad": "5G"
+    "Otras Tecnologias de Conectividad": "5G",
+    "precio_davivienda": 2479010,
+    "precio_tarjeta_alkosto": 2379010,
+    "metodos_pago": [
+      "davivienda",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6932554485191,
@@ -16854,7 +17222,11 @@
     "Sistema Operativo": "Android",
     "Version Sistema Operativo": "15",
     "Velocidad del Procesador": "2,6 GHz",
-    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
+    "precio_tarjeta_alkosto": 1639050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 8806095855905,
@@ -17079,7 +17451,11 @@
     "Version Sistema Operativo": "Android 16",
     "Velocidad del Procesador": "2 x 2.5 GHz & 6 x 2.0 GHz",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "precio_codensa": 1051900,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 4894461989198,
@@ -17358,7 +17734,11 @@
     "Velocidad del Procesador": "(4 x 2.4GHz /4 x 2.0GHz)",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "Ultralink",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "precio_codensa": 999900,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 6941764450417,
@@ -17469,7 +17849,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 5049010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 195950624762,
@@ -17525,7 +17909,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 6799010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6941487285617,
@@ -17745,7 +18133,11 @@
     "Velocidad del Procesador": "(4 x 2,6 GHz / 4 x 2,0 GHz)",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "Ultralink",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "precio_tarjeta_alkosto": 1387900,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 195950643480,
@@ -17801,7 +18193,13 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_master_bines": 4419010,
+    "precio_tarjeta_alkosto": 4469010,
+    "metodos_pago": [
+      "master_bines",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 8806097667063,
@@ -17912,7 +18310,11 @@
     "Version Sistema Operativo": "Android 16",
     "Velocidad del Procesador": "2 x 2.5 GHz & 6 x 2.0 GHz",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "precio_codensa": 1051900,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 840493603667,
@@ -18132,7 +18534,13 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_davivienda": 4059010,
+    "precio_tarjeta_alkosto": 4059010,
+    "metodos_pago": [
+      "davivienda",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 8806097805939,
@@ -18298,7 +18706,13 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOs 26",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_davivienda": 4479010,
+    "precio_tarjeta_alkosto": 4379010,
+    "metodos_pago": [
+      "davivienda",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 8806097885429,
@@ -18521,7 +18935,11 @@
     "Velocidad del Procesador": "2,0 GHz",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "GPS, Glonass, Galileo, QZSS",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "precio_codensa": 689050,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 6932554405564,
@@ -18579,7 +18997,11 @@
     "Version Sistema Operativo": "15",
     "Velocidad del Procesador": "2,2 GHz",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
-    "Memoria Expandible": "2048 GB"
+    "Memoria Expandible": "2048 GB",
+    "precio_codensa": 849050,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 8806099160289,
@@ -18691,7 +19113,11 @@
     "Sistema Operativo": "Android",
     "Version Sistema Operativo": "15",
     "Velocidad del Procesador": "2,6 GHz",
-    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
+    "precio_tarjeta_alkosto": 1439050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6941764449114,
@@ -18804,7 +19230,11 @@
     "Velocidad del Procesador": "(4 x 2,6 GHz / 4 x 2,0 GHz)",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "Ultralink",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "precio_tarjeta_alkosto": 1387900,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 840023280436,
@@ -19369,7 +19799,13 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOs 26",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_davivienda": 4479010,
+    "precio_tarjeta_alkosto": 4379010,
+    "metodos_pago": [
+      "davivienda",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6932204521330,
@@ -20036,7 +20472,11 @@
     "Version Sistema Operativo": "Android 15",
     "Velocidad del Procesador": "4x2,1 GHz + 4x1,8Ghz",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "precio_tarjeta_alkosto": 799050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6932554485153,
@@ -20093,7 +20533,11 @@
     "Sistema Operativo": "Android",
     "Version Sistema Operativo": "15",
     "Velocidad del Procesador": "2,6 GHz",
-    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
+    "precio_tarjeta_alkosto": 1639050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 840023291487,
@@ -20426,7 +20870,13 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOs 26",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_davivienda": 4479010,
+    "precio_tarjeta_alkosto": 4379010,
+    "metodos_pago": [
+      "davivienda",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 4894947096334,
@@ -20882,7 +21332,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 8539010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 195950640595,
@@ -20936,7 +21390,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 11399010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6935117899022,
@@ -21048,7 +21506,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 5558010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 7708334730480,
@@ -21109,7 +21571,11 @@
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Otras Tecnologias de Conectividad": "Multi-screen connect",
     "Producto en Combo": "Sí es en Combo",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "precio_tarjeta_alkosto": 3299050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 8806095872247,
@@ -21222,7 +21688,11 @@
     "Sistema Operativo": "Android",
     "Version Sistema Operativo": "Android 15",
     "Velocidad del Procesador": "2x4.32 GHz + 6x3.53 GHz (3nm) (8 nucleos)",
-    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
+    "precio_master_bines": 3449900,
+    "metodos_pago": [
+      "master_bines"
+    ]
   },
   {
     "Identificador del producto": 8806095856780,
@@ -21340,7 +21810,11 @@
     "Otras Tecnologias de Conectividad": "Multi-screen connect",
     "Memoria Expandible": "2000 GB",
     "Producto en Combo": "Sí es en Combo",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "precio_tarjeta_alkosto": 2199050,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 7705946477895,
@@ -21510,7 +21984,13 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_davivienda": 4059010,
+    "precio_tarjeta_alkosto": 4059010,
+    "metodos_pago": [
+      "davivienda",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6936520881239,
@@ -21732,7 +22212,13 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_master_bines": 4419010,
+    "precio_tarjeta_alkosto": 4469010,
+    "metodos_pago": [
+      "master_bines",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 4894947118708,
@@ -21789,7 +22275,11 @@
     "Version Sistema Operativo": "Android 16",
     "Velocidad del Procesador": "2 x 2.5 GHz & 6 x 2.0 GHz",
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "precio_codensa": 1051900,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 6941764474765,
@@ -22134,7 +22624,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 5799010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 8806095303048,
@@ -22238,7 +22732,13 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_davivienda": 4299000,
+    "precio_tarjeta_alkosto": 4299000,
+    "metodos_pago": [
+      "davivienda",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 7709467012030,
@@ -22294,7 +22794,11 @@
     "Sistema Operativo": "Android",
     "Version Sistema Operativo": "Android 16",
     "Velocidad del Procesador": "4 × 2,5 GHz + 4 × 2,0 GHz",
-    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
+    "precio_codensa": 2599050,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 6936520855544,
@@ -22460,7 +22964,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 5049010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 8806097113331,
@@ -22740,7 +23248,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 5799010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 6936520869916,
@@ -22854,7 +23366,11 @@
     "Sistema Operativo": "Android",
     "Version Sistema Operativo": "Android 16",
     "Velocidad del Procesador": "4 × 2,5 GHz + 4 × 2,0 GHz",
-    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
+    "precio_codensa": 2599050,
+    "metodos_pago": [
+      "codensa"
+    ]
   },
   {
     "Identificador del producto": 195950622768,
@@ -22910,7 +23426,11 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_tarjeta_alkosto": 5049010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 195950643688,
@@ -22966,7 +23486,13 @@
     "Marca del Procesador": "Apple",
     "Sistema Operativo": "iOS",
     "Version Sistema Operativo": "iOS 18",
-    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos"
+    "Número de Núcleos (más núcleos más multitareas)": "6 Nucleos",
+    "precio_master_bines": 4419010,
+    "precio_tarjeta_alkosto": 4469010,
+    "metodos_pago": [
+      "master_bines",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 8806099001100,

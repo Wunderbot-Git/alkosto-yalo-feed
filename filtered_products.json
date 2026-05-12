@@ -5147,7 +5147,11 @@
     "Producto en Combo": "Sí es en Combo",
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "5 Mpx",
-    "Resolucion Camara Posterior": "8 Mpx"
+    "Resolucion Camara Posterior": "8 Mpx",
+    "precio_tarjeta_alkosto": 949030,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 4711121995606,
@@ -6013,7 +6017,11 @@
     "Modelo del Procesador": "Apple A18 Pro",
     "Capacidad de Disco": "Estado Solido SSD 256 GB",
     "No. Puertos USB tipo C": "2 Puertos",
-    "No. Salidas de Audio": "1 Puertos"
+    "No. Salidas de Audio": "1 Puertos",
+    "precio_tarjeta_alkosto": 2449010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 4711636049771,
@@ -7489,7 +7497,13 @@
     "Número de Núcleos (más núcleos más multitareas)": "5 Nucleos",
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
-    "Resolucion Camara Posterior": "12 Mpx"
+    "Resolucion Camara Posterior": "12 Mpx",
+    "precio_codensa": 1939010,
+    "precio_tarjeta_alkosto": 1939010,
+    "metodos_pago": [
+      "codensa",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 4711636344470,
@@ -11731,7 +11745,11 @@
     "Modelo del Procesador": "Apple A18 Pro",
     "Capacidad de Disco": "Estado Solido SSD 256 GB",
     "No. Puertos USB tipo C": "2 Puertos",
-    "No. Salidas de Audio": "1 Puertos"
+    "No. Salidas de Audio": "1 Puertos",
+    "precio_tarjeta_alkosto": 2449010,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 4711387908259,
@@ -12602,7 +12620,13 @@
     "Número de Núcleos (más núcleos más multitareas)": "5 Nucleos",
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
-    "Resolucion Camara Posterior": "12 Mpx"
+    "Resolucion Camara Posterior": "12 Mpx",
+    "precio_codensa": 1939010,
+    "precio_tarjeta_alkosto": 1939010,
+    "metodos_pago": [
+      "codensa",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 199896754361,
@@ -12655,7 +12679,11 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara FHD de 1080p con cambio automático HDR",
-    "Modelo Tarjeta de Video/Grafica": "Tarjeta gráfica Intel 8"
+    "Modelo Tarjeta de Video/Grafica": "Tarjeta gráfica Intel 8",
+    "precio_tarjeta_alkosto": 2199070,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 4711636099905,
@@ -12807,7 +12835,13 @@
     "Número de Núcleos (más núcleos más multitareas)": "5 Nucleos",
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
-    "Resolucion Camara Posterior": "12 Mpx"
+    "Resolucion Camara Posterior": "12 Mpx",
+    "precio_codensa": 1939010,
+    "precio_tarjeta_alkosto": 1939010,
+    "metodos_pago": [
+      "codensa",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 195950489811,
@@ -12915,7 +12949,11 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
-    "Resolucion Camara WEB": "HD"
+    "Resolucion Camara WEB": "HD",
+    "precio_master_bines": 2399070,
+    "metodos_pago": [
+      "master_bines"
+    ]
   },
   {
     "Identificador del producto": 10343958098,
@@ -15039,7 +15077,13 @@
     "No. Puertos HDMI": "1 Puertos",
     "No. Puertos USB": "2 Puertos",
     "No. Puertos USB tipo C": "2 Puertos",
-    "No. Salidas de Audio": "1 Puertos"
+    "No. Salidas de Audio": "1 Puertos",
+    "precio_codensa": 1899050,
+    "precio_tarjeta_alkosto": 1849050,
+    "metodos_pago": [
+      "codensa",
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 8806097886808,
@@ -15767,7 +15811,11 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
-    "Resolucion Camara WEB": "HD"
+    "Resolucion Camara WEB": "HD",
+    "precio_tarjeta_alkosto": 2249070,
+    "metodos_pago": [
+      "tarjeta_alkosto"
+    ]
   },
   {
     "Identificador del producto": 195950854039,
@@ -17436,6 +17484,12 @@
     "No. Puertos USB": "2 Puertos",
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
-    "Resolucion Camara WEB": "Cámara FHD HP True Vision de 1080p."
+    "Resolucion Camara WEB": "Cámara FHD HP True Vision de 1080p.",
+    "precio_codensa": 2518070,
+    "precio_tarjeta_alkosto": 2498070,
+    "metodos_pago": [
+      "codensa",
+      "tarjeta_alkosto"
+    ]
   }
 ]
