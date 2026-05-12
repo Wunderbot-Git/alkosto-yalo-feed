@@ -5,6 +5,7 @@ Script to download, filter, clean, and convert Alkosto celulares product CSV to 
 
 import csv
 import json
+import re
 import requests
 from requests.auth import HTTPBasicAuth
 import pandas as pd
@@ -147,11 +148,30 @@ def convert_to_json(df, output_file):
     """
     Convert DataFrame to JSON format. Drops attributes that are null or empty
     string per record, so they're not sent downstream (e.g. to Algolia).
+    Also expands 'Precio por método de pago' (format: 'method:value;method:value')
+    into per-method numeric fields plus a 'metodos_pago' array. Method names are
+    discovered dynamically — no hard-coded list.
     """
     print(f"Converting to JSON and saving to {output_file}...")
 
     df_safe = df.astype(object).where(df.notna(), None)
     raw = df_safe.to_dict(orient='records')
+
+    for record in raw:
+        pmp = record.get('Precio por método de pago')
+        if not isinstance(pmp, str) or not pmp:
+            continue
+        methods = []
+        for part in pmp.split(';'):
+            method, _, value = part.strip().partition(':')
+            method = re.sub(r'[^a-z0-9_]+', '_', method.strip().lower()).strip('_')
+            value = value.strip()
+            if not method or not value.isdigit():
+                continue
+            record[f'precio_{method}'] = int(value)
+            methods.append(method)
+        if methods:
+            record['metodos_pago'] = methods
 
     data = [
         {k: v for k, v in record.items() if v is not None and v != ''}
