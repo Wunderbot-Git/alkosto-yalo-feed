@@ -23,8 +23,13 @@ CSV_URL = "https://www.alkosto.com/alkostows/integration/datafeedfull/productFee
 OUTPUT_CSV = "filtered_products.csv"
 OUTPUT_JSON = "filtered_products.json"
 
-# Filter: include everything under this level-1 category, except the excluded subcategories
-CATEGORY_LEVEL1 = "Computadores y Tablet"
+# Filter: include everything whose category starts with any of these prefixes,
+# except the explicit subcategory exclusions. Trailing '>' on each prefix is
+# required so we match category-tree nodes and not arbitrary substrings.
+CATEGORY_PREFIXES = [
+    "Computadores y Tablet>",
+    "TV>Smart TV>",
+]
 EXCLUDED_SUBCATEGORIES = [
     "Computadores y Tablet>Impresión>Resmas Papel",
     "Computadores y Tablet>Impresión>Tintas, Tóner y Cartuchos",
@@ -55,10 +60,10 @@ def download_csv(url, username, password, output_file="productFeed.csv"):
         sys.exit(1)
 
 
-def filter_by_categories(input_file, level1, excluded, output_file):
+def filter_by_categories(input_file, prefixes, excluded, output_file):
     """
-    Filter CSV rows: keep everything under the given level-1 category,
-    minus the excluded full subcategory paths.
+    Filter CSV rows: keep everything whose category starts with any of the
+    given prefixes, minus the excluded full subcategory paths.
     """
     print(f"Filtering products by categories...")
 
@@ -92,10 +97,9 @@ def filter_by_categories(input_file, level1, excluded, output_file):
 
     print(f"Using column '{category_column}' for filtering")
 
-    # Filter: level-1 prefix match minus explicit exclusions
-    prefix = f"{level1}>"
+    # Filter: any-of-prefixes match minus explicit exclusions
     categories_str = df[category_column].astype(str)
-    mask = categories_str.str.startswith(prefix) & ~categories_str.isin(excluded)
+    mask = categories_str.str.startswith(tuple(prefixes)) & ~categories_str.isin(excluded)
     df_filtered = df[mask]
 
     print(f"Products after filtering: {len(df_filtered)}")
@@ -245,7 +249,7 @@ Examples:
         print()
 
     # Step 2: Filter by categories
-    df_filtered = filter_by_categories(downloaded_file, CATEGORY_LEVEL1, EXCLUDED_SUBCATEGORIES, OUTPUT_CSV)
+    df_filtered = filter_by_categories(downloaded_file, CATEGORY_PREFIXES, EXCLUDED_SUBCATEGORIES, OUTPUT_CSV)
     print()
 
     # Step 3: Clean empty columns
