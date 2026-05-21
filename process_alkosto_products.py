@@ -36,6 +36,19 @@ EXCLUDED_SUBCATEGORIES = [
     "Computadores y Tablet>Proyectores y Videobeam",
 ]
 
+# Derived 'tipo_producto' field — maps a category-tree prefix to a short type
+# label. Used by Algolia Rules so query routing doesn't depend on enumerating
+# brand-level paths. Order matters: first matching prefix wins, so list the
+# longest/most-specific first.
+TIPO_PRODUCTO_PREFIXES = [
+    ("TV>Smart TV>", "televisor"),
+    ("Computadores y Tablet>Computadores Portátiles>", "laptop"),
+    ("Computadores y Tablet>Computadores Escritorio y All in One", "desktop"),
+    ("Computadores y Tablet>Tabletas y iPads", "tablet"),
+    ("Computadores y Tablet>Monitores", "monitor"),
+    ("Computadores y Tablet>Impresión>", "impresora"),
+]
+
 
 def download_csv(url, username, password, output_file="productFeed.csv"):
     """
@@ -161,6 +174,14 @@ def convert_to_json(df, output_file):
     raw = df_safe.to_dict(orient='records')
 
     for record in raw:
+        # Derive tipo_producto from the category prefix (first match wins).
+        cat = record.get('Categoría')
+        if isinstance(cat, str):
+            for prefix, tipo in TIPO_PRODUCTO_PREFIXES:
+                if cat.startswith(prefix):
+                    record['tipo_producto'] = tipo
+                    break
+
         pmp = record.get('Precio por método de pago')
         if not isinstance(pmp, str) or not pmp:
             continue
