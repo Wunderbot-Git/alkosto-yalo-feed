@@ -53,7 +53,8 @@
     "Resolucion Otras Camaras Posteriores": "2 MPX",
     "Red de Transmision de Datos": "5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 45
   },
   {
     "Identificador del producto": 4894947111242,
@@ -112,7 +113,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Ultralink",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 56
   },
   {
     "Identificador del producto": 7705946478564,
@@ -166,7 +168,8 @@
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "128 GB"
+    "Memoria Expandible": "128 GB",
+    "descuento_porcentaje": 36
   },
   {
     "Identificador del producto": 840023298578,
@@ -225,7 +228,8 @@
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
     "Otras Tecnologias de Conectividad": "GPS, AGPS, Glonass, Galileo, Beidou, QZSS",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 49
   },
   {
     "Identificador del producto": 8806097885740,
@@ -279,7 +283,8 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 4
   },
   {
     "Identificador del producto": 6936520877881,
@@ -336,7 +341,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Infrarojo | Tecnologias propias HONOR",
-    "Memoria Expandible": "1080 GB"
+    "Memoria Expandible": "1080 GB",
+    "descuento_porcentaje": 23
   },
   {
     "Identificador del producto": 7708216980521,
@@ -389,7 +395,8 @@
     "Resolucion Otras Camaras Posteriores": "8",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 44
   },
   {
     "Identificador del producto": 840023266881,
@@ -439,7 +446,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "Otras Tecnologias de Conectividad": "Supports GPS, AGPS, LTEPP, SUPL,Glonass, Galileo",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806099057626,
@@ -494,7 +502,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Resolucion Otras Camaras Posteriores": "12MP, 5MP",
     "Red de Transmision de Datos": "5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 11
   },
   {
     "Identificador del producto": 7708803796399,
@@ -554,7 +563,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Producto en Combo": "Sí es en Combo",
-    "Resolucion Otras Camaras Frontales": "8 MPX"
+    "Resolucion Otras Camaras Frontales": "8 MPX",
+    "descuento_porcentaje": 26
   },
   {
     "Identificador del producto": 8806099056254,
@@ -609,7 +619,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": 4894947116711,
@@ -669,7 +680,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Memoria Expandible": "0 GB",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 6941764475403,
@@ -725,7 +737,8 @@
     "Resolucion Otras Camaras Posteriores": "2 MPX",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 38
   },
   {
     "Identificador del producto": 7708803796429,
@@ -785,7 +798,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Producto en Combo": "Sí es en Combo",
-    "Resolucion Otras Camaras Frontales": "8 MPX"
+    "Resolucion Otras Camaras Frontales": "8 MPX",
+    "descuento_porcentaje": 26
   },
   {
     "Identificador del producto": 840493607894,
@@ -842,7 +856,8 @@
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
     "Otras Tecnologias de Conectividad": "GPS, AGPS, Glonass, Galileo, Beidou, QZSS",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 840023291302,
@@ -899,7 +914,8 @@
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
     "Otras Tecnologias de Conectividad": "GPS, AGPS, Glonass, Galileo, Beidou, QZSS",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": 6932554484149,
@@ -955,7 +971,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Resolucion Otras Camaras Posteriores": "50",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 6932169399180,
@@ -1012,7 +1029,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "Memoria Expandible": "1024 GB",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 20
   },
   {
     "Identificador del producto": 6932204523273,
@@ -1068,7 +1086,8 @@
     "Resolucion Otras Camaras Posteriores": "0,08",
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": 840023293801,
@@ -1125,7 +1144,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 53
   },
   {
     "Identificador del producto": 840493610658,
@@ -1182,7 +1202,8 @@
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
     "Otras Tecnologias de Conectividad": "GPS, Glonass, BeiDou, Galileo, QZSS",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 45
   },
   {
     "Identificador del producto": 7709101666230,
@@ -1240,7 +1261,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
     "Otras Tecnologias de Conectividad": "Tecnologias propias HONOR",
-    "Producto en Combo": "Sí es en Combo"
+    "Producto en Combo": "Sí es en Combo",
+    "descuento_porcentaje": 24
   },
   {
     "Identificador del producto": 8806099056223,
@@ -1294,7 +1316,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 7
   },
   {
     "Identificador del producto": 195950627749,
@@ -1349,7 +1372,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 3
   },
   {
     "Identificador del producto": 195950640199,
@@ -1404,7 +1428,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 6932169370233,
@@ -1461,7 +1486,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Infrarrojo",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 40
   },
   {
     "Identificador del producto": 6932554469566,
@@ -1518,7 +1544,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "1024 GB"
+    "Memoria Expandible": "1024 GB",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 8806097885719,
@@ -1572,7 +1599,8 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 16
   },
   {
     "Identificador del producto": 195950643886,
@@ -1629,6 +1657,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 6,
     "precio_master_bines": 4149010,
     "metodos_pago": [
       "master_bines"
@@ -1691,7 +1720,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Ultralink",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 56
   },
   {
     "Identificador del producto": 6941764485617,
@@ -1748,7 +1778,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Resolucion Otras Camaras Posteriores": "OiS",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
-    "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria)."
+    "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
+    "descuento_porcentaje": 25
   },
   {
     "Identificador del producto": 6935117898223,
@@ -1801,7 +1832,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "1024 GB"
+    "Memoria Expandible": "1024 GB",
+    "descuento_porcentaje": 45
   },
   {
     "Identificador del producto": 4894947116537,
@@ -1858,7 +1890,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Ultralink",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 6942103172762,
@@ -1916,7 +1949,8 @@
     "Resolucion Otras Camaras Posteriores": "12MPX + 8MPX",
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 6941764465077,
@@ -1974,7 +2008,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": 4894947111150,
@@ -2033,7 +2068,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Ultralink",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 56
   },
   {
     "Identificador del producto": 195951030692,
@@ -2089,6 +2125,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 5,
     "precio_davivienda": 3199010,
     "precio_tarjeta_alkosto": 3099010,
     "metodos_pago": [
@@ -2148,7 +2185,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 53
   },
   {
     "Identificador del producto": 8806095869414,
@@ -2206,6 +2244,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 30,
     "precio_master_bines": 3249990,
     "metodos_pago": [
       "master_bines"
@@ -2265,7 +2304,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Memoria Expandible": "1000 GB",
-    "Producto Recondicionado": "Sí es recondicionado"
+    "Producto Recondicionado": "Sí es recondicionado",
+    "descuento_porcentaje": 55
   },
   {
     "Identificador del producto": 8806097461760,
@@ -2320,7 +2360,8 @@
     "Resolucion Otras Camaras Posteriores": "12MP+5MP",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 840493602653,
@@ -2377,7 +2418,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "GPS, Glonass, Galileo, QZSS",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 39
   },
   {
     "Identificador del producto": 8806097331742,
@@ -2436,6 +2478,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 38,
     "precio_tarjeta_alkosto": 3199990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -2492,7 +2535,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": 7708803796085,
@@ -2550,7 +2594,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
-    "Producto en Combo": "Sí es en Combo"
+    "Producto en Combo": "Sí es en Combo",
+    "descuento_porcentaje": 17
   },
   {
     "Identificador del producto": 8806097885535,
@@ -2604,7 +2649,8 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 16
   },
   {
     "Identificador del producto": 6932554476076,
@@ -2661,7 +2707,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "2048 GB"
+    "Memoria Expandible": "2048 GB",
+    "descuento_porcentaje": 42
   },
   {
     "Identificador del producto": 195950644685,
@@ -2716,7 +2763,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806097331759,
@@ -2775,6 +2823,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 38,
     "precio_tarjeta_alkosto": 3199990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -2836,7 +2885,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
-    "Resolucion Otras Camaras Frontales": "10 MPX"
+    "Resolucion Otras Camaras Frontales": "10 MPX",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 6932554455903,
@@ -2892,7 +2942,8 @@
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "1024 GB"
+    "Memoria Expandible": "1024 GB",
+    "descuento_porcentaje": 53
   },
   {
     "Identificador del producto": 6942103172809,
@@ -2950,7 +3001,8 @@
     "Resolucion Otras Camaras Posteriores": "12MPX + 8MPX",
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 4894947105272,
@@ -3008,7 +3060,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 45
   },
   {
     "Identificador del producto": 4894947117374,
@@ -3063,7 +3116,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 40
   },
   {
     "Identificador del producto": 8806097885160,
@@ -3117,7 +3171,8 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 6941764494794,
@@ -3172,7 +3227,8 @@
     "Resolucion Otras Camaras Posteriores": "2 MPX",
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": 6932169372817,
@@ -3229,7 +3285,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 56
   },
   {
     "Identificador del producto": 840023293498,
@@ -3286,7 +3343,8 @@
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
     "Otras Tecnologias de Conectividad": "GPS, AGPS, Glonass, Galileo, Beidou, QZSS",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 48
   },
   {
     "Identificador del producto": 840023296970,
@@ -3345,6 +3403,7 @@
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
     "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 33,
     "precio_tarjeta_alkosto": 1799050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -3406,7 +3465,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "Otras Tecnologias de Conectividad": "Multi-screen connect",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 43
   },
   {
     "Identificador del producto": 195950645088,
@@ -3461,7 +3521,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 6941764475458,
@@ -3518,7 +3579,8 @@
     "Resolucion Otras Camaras Posteriores": "2MPX",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 7708860504432,
@@ -3571,7 +3633,8 @@
     "Resolucion Otras Camaras Posteriores": "8",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 44
   },
   {
     "Identificador del producto": 195950639193,
@@ -3626,7 +3689,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 4
   },
   {
     "Identificador del producto": 6932554450113,
@@ -3682,7 +3746,8 @@
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "2048 GB"
+    "Memoria Expandible": "2048 GB",
+    "descuento_porcentaje": 53
   },
   {
     "Identificador del producto": 6936520878673,
@@ -3739,7 +3804,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Tecnologias propias HONOR",
-    "Memoria Expandible": "1080 GB"
+    "Memoria Expandible": "1080 GB",
+    "descuento_porcentaje": 39
   },
   {
     "Identificador del producto": 6932554480448,
@@ -3796,7 +3862,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "2048 GB"
+    "Memoria Expandible": "2048 GB",
+    "descuento_porcentaje": 47
   },
   {
     "Identificador del producto": 195950644487,
@@ -3851,7 +3918,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 4894947116599,
@@ -3908,7 +3976,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Ultralink",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 840493602615,
@@ -3965,7 +4034,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "GPS, Glonass, Galileo, QZSS",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 49
   },
   {
     "Identificador del producto": 840493610641,
@@ -4022,7 +4092,8 @@
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
     "Otras Tecnologias de Conectividad": "GPS, Glonass, BeiDou, Galileo, QZSS",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 45
   },
   {
     "Identificador del producto": 195950622560,
@@ -4077,7 +4148,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 8
   },
   {
     "Identificador del producto": 8806097671763,
@@ -4134,6 +4206,7 @@
     "Red de Transmision de Datos": "5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 24,
     "precio_tarjeta_alkosto": 2699990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -4194,7 +4267,8 @@
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Producto en Combo": "Sí es en Combo"
+    "Producto en Combo": "Sí es en Combo",
+    "descuento_porcentaje": 15
   },
   {
     "Identificador del producto": 4894947105333,
@@ -4252,7 +4326,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 45
   },
   {
     "Identificador del producto": 195950051902,
@@ -4304,7 +4379,8 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 17
   },
   {
     "Identificador del producto": 6932554444815,
@@ -4359,7 +4435,8 @@
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "1024 GB"
+    "Memoria Expandible": "1024 GB",
+    "descuento_porcentaje": 48
   },
   {
     "Identificador del producto": 6941764476554,
@@ -4416,7 +4493,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "Memoria Expandible": "2000 GB",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 41
   },
   {
     "Identificador del producto": 7709101666223,
@@ -4474,7 +4552,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
     "Otras Tecnologias de Conectividad": "Tecnologias propias HONOR",
-    "Producto en Combo": "Sí es en Combo"
+    "Producto en Combo": "Sí es en Combo",
+    "descuento_porcentaje": 24
   },
   {
     "Identificador del producto": 6932169381321,
@@ -4534,6 +4613,7 @@
     "Espacios Para SIM Card": "Dual SIM",
     "Otras Tecnologias de Conectividad": "Multi-screen connect",
     "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 27,
     "precio_codensa": 1699050,
     "metodos_pago": [
       "codensa"
@@ -4592,7 +4672,8 @@
     "Resolucion Otras Camaras Posteriores": "08",
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 39
   },
   {
     "Identificador del producto": 840023291470,
@@ -4649,7 +4730,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 55
   },
   {
     "Identificador del producto": 7709343619537,
@@ -4706,7 +4788,8 @@
     "Resolucion Otras Camaras Posteriores": "8",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 27
   },
   {
     "Identificador del producto": 6932554469375,
@@ -4763,7 +4846,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "1024 GB"
+    "Memoria Expandible": "1024 GB",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 840493613529,
@@ -4821,7 +4905,8 @@
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
     "Otras Tecnologias de Conectividad": "GPS, Glonass, Galileo, QZSS, AGPS, LPP, SUPL",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 8806097671053,
@@ -4878,6 +4963,7 @@
     "Red de Transmision de Datos": "5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 30,
     "precio_tarjeta_alkosto": 2899990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -4939,7 +5025,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": 8806097667063,
@@ -4993,7 +5080,8 @@
     "Resolucion Otras Camaras Posteriores": "5MPX + 2MPX",
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 15
   },
   {
     "Identificador del producto": 4894947118678,
@@ -5049,7 +5137,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 38
   },
   {
     "Identificador del producto": 840493603667,
@@ -5104,7 +5193,8 @@
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
     "Otras Tecnologias de Conectividad": "GPS, AGPS, Glonass, Galileo, Beidou, QZSS",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": 6932554490386,
@@ -5160,7 +5250,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": 195949822353,
@@ -5215,6 +5306,7 @@
     "Red de Transmision de Datos": "3G | 4G | 5G",
     "Espacios Para SIM Card": "Single SIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 14,
     "precio_davivienda": 3799010,
     "metodos_pago": [
       "davivienda"
@@ -5276,7 +5368,8 @@
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
     "Otras Tecnologias de Conectividad": "GPS, Glonass, Galileo, QZSS, AGPS, LPP, SUPL",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 6932169398046,
@@ -5333,7 +5426,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "Memoria Expandible": "1024 GB",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": 7705946478557,
@@ -5387,7 +5481,8 @@
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "128 GB"
+    "Memoria Expandible": "128 GB",
+    "descuento_porcentaje": 36
   },
   {
     "Identificador del producto": 195949821998,
@@ -5442,6 +5537,7 @@
     "Red de Transmision de Datos": "3G | 4G | 5G",
     "Espacios Para SIM Card": "Single SIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 14,
     "precio_davivienda": 3799010,
     "metodos_pago": [
       "davivienda"
@@ -5503,7 +5599,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 195950624168,
@@ -5558,7 +5655,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 14
   },
   {
     "Identificador del producto": 6936520893843,
@@ -5615,7 +5713,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Tecnologias propias HONOR",
-    "Memoria Expandible": "1080 GB"
+    "Memoria Expandible": "1080 GB",
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": 4894947117398,
@@ -5670,7 +5769,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 40
   },
   {
     "Identificador del producto": 195951030883,
@@ -5726,6 +5826,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 5,
     "precio_davivienda": 3199010,
     "metodos_pago": [
       "davivienda"
@@ -5784,7 +5885,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 14
   },
   {
     "Identificador del producto": 7705946476331,
@@ -5839,7 +5941,8 @@
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "256 GB"
+    "Memoria Expandible": "256 GB",
+    "descuento_porcentaje": 36
   },
   {
     "Identificador del producto": 6932554478445,
@@ -5895,7 +5998,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": 8806095745961,
@@ -5951,6 +6055,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 0,
     "precio_tarjeta_alkosto": 4349990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -6010,7 +6115,8 @@
     "Resolucion Otras Camaras Posteriores": "40 MPX +48PMX+1.5M",
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 27
   },
   {
     "Identificador del producto": 195949036996,
@@ -6064,7 +6170,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Resolucion Otras Camaras Posteriores": "12MPX",
     "Red de Transmision de Datos": "3G | 4G | 5G",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 21
   },
   {
     "Identificador del producto": 8806099002015,
@@ -6118,7 +6225,8 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 6
   },
   {
     "Identificador del producto": 8806097671466,
@@ -6175,6 +6283,7 @@
     "Red de Transmision de Datos": "5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 30,
     "precio_tarjeta_alkosto": 2899990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -6235,7 +6344,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Tecnologias propias HONOR",
-    "Memoria Expandible": "1080 GB"
+    "Memoria Expandible": "1080 GB",
+    "descuento_porcentaje": 39
   },
   {
     "Identificador del producto": 6936520881239,
@@ -6292,7 +6402,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Infrarojo | Tecnologias propias HONOR",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 22
   },
   {
     "Identificador del producto": 8806097885481,
@@ -6346,7 +6457,8 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 4
   },
   {
     "Identificador del producto": 195950644081,
@@ -6403,6 +6515,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 6,
     "precio_master_bines": 4149010,
     "metodos_pago": [
       "master_bines"
@@ -6462,7 +6575,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 38
   },
   {
     "Identificador del producto": 6941764474765,
@@ -6519,7 +6633,8 @@
     "Resolucion Otras Camaras Posteriores": "8MPX",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": 8806099001100,
@@ -6573,7 +6688,8 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 6
   },
   {
     "Identificador del producto": 195949035913,
@@ -6629,6 +6745,7 @@
     "Resolucion Otras Camaras Posteriores": "12MPX",
     "Red de Transmision de Datos": "3G | 4G | 5G",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 27,
     "precio_davivienda": 3149010,
     "metodos_pago": [
       "davivienda"
@@ -6690,7 +6807,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Tecnologias propias HONOR",
-    "Producto en Combo": "Sí es en Combo"
+    "Producto en Combo": "Sí es en Combo",
+    "descuento_porcentaje": 17
   },
   {
     "Identificador del producto": 840493618326,
@@ -6749,6 +6867,7 @@
     "eSIM/SIM Virtual": "Sí",
     "Otras Tecnologias de Conectividad": "GPS, Glonass, Galileo, QZSS",
     "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 37,
     "precio_tarjeta_alkosto": 1999050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -6806,7 +6925,8 @@
     "Resolucion Otras Camaras Posteriores": "5MPX + 2MPX",
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 15
   },
   {
     "Identificador del producto": 195950645286,
@@ -6861,7 +6981,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806099056339,
@@ -6916,7 +7037,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": 7709467012078,
@@ -6971,7 +7093,8 @@
     "Resolucion Otras Camaras Posteriores": "50 MPX",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": 195950644289,
@@ -7028,6 +7151,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 6,
     "precio_master_bines": 4149010,
     "metodos_pago": [
       "master_bines"
@@ -7088,7 +7212,8 @@
     "Resolucion Otras Camaras Posteriores": "12 MPX",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 195950624564,
@@ -7143,7 +7268,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 14
   },
   {
     "Identificador del producto": 6932169370240,
@@ -7200,7 +7326,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Infrarrojo",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 40
   },
   {
     "Identificador del producto": 96932169381277,
@@ -7257,7 +7384,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "Otras Tecnologias de Conectividad": "Multi-screen connect",
     "Memoria Expandible": "1000 GB",
-    "Producto Recondicionado": "Sí es recondicionado"
+    "Producto Recondicionado": "Sí es recondicionado",
+    "descuento_porcentaje": 37
   },
   {
     "Identificador del producto": 8806099001117,
@@ -7311,7 +7439,8 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7707945527434,
@@ -7371,7 +7500,8 @@
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "HONOR Share",
     "Memoria Expandible": "0 GB",
-    "Producto en Combo": "Sí es en Combo"
+    "Producto en Combo": "Sí es en Combo",
+    "descuento_porcentaje": 23
   },
   {
     "Identificador del producto": 8806097671602,
@@ -7428,6 +7558,7 @@
     "Red de Transmision de Datos": "5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 24,
     "precio_tarjeta_alkosto": 2699990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -7485,7 +7616,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Resolucion Otras Camaras Posteriores": "12MPX+12MPX",
     "Red de Transmision de Datos": "3G | 4G | 5G",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 6932554456009,
@@ -7540,7 +7672,8 @@
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "1024 GB"
+    "Memoria Expandible": "1024 GB",
+    "descuento_porcentaje": 48
   },
   {
     "Identificador del producto": 6932554468033,
@@ -7596,7 +7729,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": 6941764494589,
@@ -7650,7 +7784,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 39
   },
   {
     "Identificador del producto": 840493600130,
@@ -7707,7 +7842,8 @@
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
     "Otras Tecnologias de Conectividad": "GPS, AGPS, Glonass, Galileo, Beidou, QZSS",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 48
   },
   {
     "Identificador del producto": 8806097805892,
@@ -7764,7 +7900,8 @@
     "Resolucion Otras Camaras Posteriores": "12 MPX",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 840493616766,
@@ -7821,7 +7958,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
     "Otras Tecnologias de Conectividad": "GPS, Glonass, Galileo, QZSS",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 8806099160289,
@@ -7876,7 +8014,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "Producto en Combo": "Sí es en Combo"
+    "Producto en Combo": "Sí es en Combo",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7708803796443,
@@ -7934,7 +8073,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
-    "Producto en Combo": "Sí es en Combo"
+    "Producto en Combo": "Sí es en Combo",
+    "descuento_porcentaje": 17
   },
   {
     "Identificador del producto": 4894947096341,
@@ -7993,7 +8133,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 57
   },
   {
     "Identificador del producto": 8806099057299,
@@ -8048,7 +8189,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Resolucion Otras Camaras Posteriores": "12MP, 5MP",
     "Red de Transmision de Datos": "5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 11
   },
   {
     "Identificador del producto": 6941764494558,
@@ -8102,7 +8244,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 39
   },
   {
     "Identificador del producto": 7705946480963,
@@ -8155,7 +8298,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Memoria Expandible": "1000 GB",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 23
   },
   {
     "Identificador del producto": 4894947096358,
@@ -8214,7 +8358,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 57
   },
   {
     "Identificador del producto": 6932169399173,
@@ -8271,7 +8416,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "Memoria Expandible": "1024 GB",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 20
   },
   {
     "Identificador del producto": 4894947084058,
@@ -8330,7 +8476,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": 6932169363945,
@@ -8389,7 +8536,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Multi-screen connect",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 38
   },
   {
     "Identificador del producto": 8806099057206,
@@ -8444,7 +8592,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Resolucion Otras Camaras Posteriores": "12MP, 5MP",
     "Red de Transmision de Datos": "5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 11
   },
   {
     "Identificador del producto": 6936520877898,
@@ -8501,7 +8650,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Infrarojo | Tecnologias propias HONOR",
-    "Memoria Expandible": "1080 GB"
+    "Memoria Expandible": "1080 GB",
+    "descuento_porcentaje": 23
   },
   {
     "Identificador del producto": 6932169381277,
@@ -8561,6 +8711,7 @@
     "Espacios Para SIM Card": "Dual SIM",
     "Otras Tecnologias de Conectividad": "Multi-screen connect",
     "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 27,
     "precio_codensa": 1699050,
     "metodos_pago": [
       "codensa"
@@ -8624,7 +8775,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "OTG compatible",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 23
   },
   {
     "Identificador del producto": 8806099057947,
@@ -8679,7 +8831,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Resolucion Otras Camaras Posteriores": "12MP, 5MP",
     "Red de Transmision de Datos": "5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 11
   },
   {
     "Identificador del producto": 6932204506917,
@@ -8734,7 +8887,8 @@
     "Resolucion Otras Camaras Posteriores": "08",
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 39
   },
   {
     "Identificador del producto": 840493605074,
@@ -8791,7 +8945,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 51
   },
   {
     "Identificador del producto": 6936520855933,
@@ -8846,7 +9001,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
-    "Otras Tecnologias de Conectividad": "Multi-screen connect"
+    "Otras Tecnologias de Conectividad": "Multi-screen connect",
+    "descuento_porcentaje": 43
   },
   {
     "Identificador del producto": 7707945527212,
@@ -8906,7 +9062,8 @@
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "HONOR Share",
     "Memoria Expandible": "0 GB",
-    "Producto en Combo": "Sí es en Combo"
+    "Producto en Combo": "Sí es en Combo",
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": 6932554471217,
@@ -8962,7 +9119,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 4894947084041,
@@ -9021,7 +9179,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": 6935117898155,
@@ -9074,7 +9233,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "1024 GB"
+    "Memoria Expandible": "1024 GB",
+    "descuento_porcentaje": 45
   },
   {
     "Identificador del producto": 6932169373470,
@@ -9132,7 +9292,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 195950628548,
@@ -9187,7 +9348,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 4
   },
   {
     "Identificador del producto": 7705946479059,
@@ -9241,7 +9403,8 @@
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "64 GB"
+    "Memoria Expandible": "64 GB",
+    "descuento_porcentaje": 13
   },
   {
     "Identificador del producto": 4894947114014,
@@ -9298,7 +9461,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Ultralink",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 56
   },
   {
     "Identificador del producto": 840023293788,
@@ -9355,7 +9519,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 53
   },
   {
     "Identificador del producto": 6932169371308,
@@ -9412,7 +9577,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 45
   },
   {
     "Identificador del producto": 195950627541,
@@ -9467,7 +9633,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 4
   },
   {
     "Identificador del producto": 6941764475465,
@@ -9523,7 +9690,8 @@
     "Resolucion Otras Camaras Posteriores": "2 MPX",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 38
   },
   {
     "Identificador del producto": 8806097661849,
@@ -9576,7 +9744,8 @@
     "Resolucion Otras Camaras Posteriores": "2MPX",
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 6
   },
   {
     "Identificador del producto": 4894947116704,
@@ -9636,7 +9805,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Memoria Expandible": "0 GB",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 8806095301303,
@@ -9689,6 +9859,7 @@
     "Resolucion Otras Camaras Posteriores": "10 + 12",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 50,
     "precio_tarjeta_alkosto": 2199990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -9749,6 +9920,7 @@
     "Red de Transmision de Datos": "5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 24,
     "precio_tarjeta_alkosto": 2699990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -9809,7 +9981,8 @@
     "Resolucion Otras Camaras Posteriores": "8MPX",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": 6941764427334,
@@ -9862,7 +10035,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Resolucion Otras Camaras Posteriores": "8 MPX + 2 MPX",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 48
   },
   {
     "Identificador del producto": 6941764485624,
@@ -9919,7 +10093,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Resolucion Otras Camaras Posteriores": "OiS",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
-    "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria)."
+    "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
+    "descuento_porcentaje": 25
   },
   {
     "Identificador del producto": 840493602660,
@@ -9976,7 +10151,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "GPS, Glonass, Galileo, QZSS",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 39
   },
   {
     "Identificador del producto": 195950628142,
@@ -10031,7 +10207,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 3
   },
   {
     "Identificador del producto": 6932554480455,
@@ -10088,7 +10265,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "2048 GB"
+    "Memoria Expandible": "2048 GB",
+    "descuento_porcentaje": 47
   },
   {
     "Identificador del producto": 4894461805306,
@@ -10143,7 +10321,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 39
   },
   {
     "Identificador del producto": 6942103172779,
@@ -10201,7 +10380,8 @@
     "Resolucion Otras Camaras Posteriores": "12MPX + 8MPX",
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 840493602639,
@@ -10258,7 +10438,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "GPS, Glonass, Galileo, QZSS",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 39
   },
   {
     "Identificador del producto": 840493613543,
@@ -10316,7 +10497,8 @@
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
     "Otras Tecnologias de Conectividad": "GPS, Glonass, Galileo, QZSS, AGPS, LPP, SUPL",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 195949036811,
@@ -10370,7 +10552,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Resolucion Otras Camaras Posteriores": "12MPX",
     "Red de Transmision de Datos": "3G | 4G | 5G",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 21
   },
   {
     "Identificador del producto": 7709843066978,
@@ -10427,7 +10610,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 7
   },
   {
     "Identificador del producto": 6932554449681,
@@ -10483,7 +10667,8 @@
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "2048 GB"
+    "Memoria Expandible": "2048 GB",
+    "descuento_porcentaje": 53
   },
   {
     "Identificador del producto": 7708334730107,
@@ -10544,7 +10729,8 @@
     "Otras Tecnologias de Conectividad": "Multi-screen connect",
     "Memoria Expandible": "2000 GB",
     "Producto en Combo": "Sí es en Combo",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": 8806095868684,
@@ -10602,6 +10788,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 30,
     "precio_master_bines": 3249990,
     "metodos_pago": [
       "master_bines"
@@ -10659,7 +10846,8 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 6
   },
   {
     "Identificador del producto": 4894947116568,
@@ -10716,7 +10904,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Ultralink",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 6932169372800,
@@ -10773,7 +10962,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 56
   },
   {
     "Identificador del producto": 8806099056407,
@@ -10827,7 +11017,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 7
   },
   {
     "Identificador del producto": 4894947118685,
@@ -10883,7 +11074,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 38
   },
   {
     "Identificador del producto": 7705946476348,
@@ -10938,7 +11130,8 @@
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "256 GB"
+    "Memoria Expandible": "256 GB",
+    "descuento_porcentaje": 36
   },
   {
     "Identificador del producto": 8806097805670,
@@ -10996,7 +11189,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
-    "Resolucion Otras Camaras Frontales": "10 MPX"
+    "Resolucion Otras Camaras Frontales": "10 MPX",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 195950623161,
@@ -11051,7 +11245,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 8
   },
   {
     "Identificador del producto": 195950624762,
@@ -11106,7 +11301,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 14
   },
   {
     "Identificador del producto": 6941487285617,
@@ -11158,7 +11354,8 @@
     "Resolucion Otras Camaras Posteriores": "8MPX+2MPX",
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
-    "Otras Tecnologias de Conectividad": "Huawei Share"
+    "Otras Tecnologias de Conectividad": "Huawei Share",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 96932169373463,
@@ -11213,7 +11410,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Producto Recondicionado": "Sí es recondicionado"
+    "Producto Recondicionado": "Sí es recondicionado",
+    "descuento_porcentaje": 65
   },
   {
     "Identificador del producto": 4894947118067,
@@ -11270,7 +11468,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Ultralink",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 56
   },
   {
     "Identificador del producto": 6932554405397,
@@ -11327,7 +11526,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "2048 GB"
+    "Memoria Expandible": "2048 GB",
+    "descuento_porcentaje": 39
   },
   {
     "Identificador del producto": 195950623765,
@@ -11382,7 +11582,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 14
   },
   {
     "Identificador del producto": 195950638998,
@@ -11437,7 +11638,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 4
   },
   {
     "Identificador del producto": 7708803796801,
@@ -11495,7 +11697,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
-    "Producto en Combo": "Sí es en Combo"
+    "Producto en Combo": "Sí es en Combo",
+    "descuento_porcentaje": 17
   },
   {
     "Identificador del producto": 6942103165405,
@@ -11553,7 +11756,8 @@
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
-    "Producto en Combo": "Sí es en Combo"
+    "Producto en Combo": "Sí es en Combo",
+    "descuento_porcentaje": 20
   },
   {
     "Identificador del producto": 6932554471767,
@@ -11609,7 +11813,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 37
   },
   {
     "Identificador del producto": 4894947114038,
@@ -11666,7 +11871,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Ultralink",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 56
   },
   {
     "Identificador del producto": 840023280436,
@@ -11722,7 +11928,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "GPS, Glonass, GALILEO, QZSS",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 43
   },
   {
     "Identificador del producto": 8806097885634,
@@ -11776,7 +11983,8 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 16
   },
   {
     "Identificador del producto": 8806097885467,
@@ -11830,7 +12038,8 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 16
   },
   {
     "Identificador del producto": 6941764494787,
@@ -11885,7 +12094,8 @@
     "Resolucion Otras Camaras Posteriores": "2 MPX",
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": 8806099001186,
@@ -11939,7 +12149,8 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 6932169398008,
@@ -11996,7 +12207,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "Memoria Expandible": "1024 GB",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": 6936520869923,
@@ -12054,7 +12266,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "512 GB"
+    "Memoria Expandible": "512 GB",
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": 8806097671725,
@@ -12111,6 +12324,7 @@
     "Red de Transmision de Datos": "5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 30,
     "precio_tarjeta_alkosto": 2899990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -12171,7 +12385,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 45
   },
   {
     "Identificador del producto": 8806099056421,
@@ -12226,7 +12441,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": 7709343619599,
@@ -12283,7 +12499,8 @@
     "Resolucion Otras Camaras Posteriores": "8",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": 6932169363938,
@@ -12342,7 +12559,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Multi-screen connect",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 38
   },
   {
     "Identificador del producto": 6941764450387,
@@ -12397,7 +12615,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 20
   },
   {
     "Identificador del producto": 8806097885085,
@@ -12451,7 +12670,8 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 195951031453,
@@ -12505,7 +12725,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 6932204521330,
@@ -12559,7 +12780,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 53
   },
   {
     "Identificador del producto": 6932554456016,
@@ -12615,7 +12837,8 @@
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "1024 GB"
+    "Memoria Expandible": "1024 GB",
+    "descuento_porcentaje": 53
   },
   {
     "Identificador del producto": 840023255830,
@@ -12668,7 +12891,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
-    "Otras Tecnologias de Conectividad": "Supports GPS, AGPS, LTEPP, SUPL,Glonass, Galileo"
+    "Otras Tecnologias de Conectividad": "Supports GPS, AGPS, LTEPP, SUPL,Glonass, Galileo",
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": 6932204514950,
@@ -12728,7 +12952,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "OTG compatible",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": 6932554483111,
@@ -12785,7 +13010,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "2048 GB"
+    "Memoria Expandible": "2048 GB",
+    "descuento_porcentaje": 42
   },
   {
     "Identificador del producto": 6936520869916,
@@ -12843,7 +13069,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "512 GB"
+    "Memoria Expandible": "512 GB",
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": 7709467012061,
@@ -12898,7 +13125,8 @@
     "Resolucion Otras Camaras Posteriores": "8 MPX",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": 195950622768,
@@ -12953,7 +13181,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 8
   },
   {
     "Identificador del producto": 195950643688,
@@ -13010,6 +13239,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 6,
     "precio_master_bines": 4149010,
     "metodos_pago": [
       "master_bines"
@@ -13067,7 +13297,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "Memoria Expandible": "1000 GB",
-    "Resolucion Otras Camaras Frontales": "0"
+    "Resolucion Otras Camaras Frontales": "0",
+    "descuento_porcentaje": 37
   },
   {
     "Identificador del producto": 97707945527434,
@@ -13123,7 +13354,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Producto Recondicionado": "Sí es recondicionado"
+    "Producto Recondicionado": "Sí es recondicionado",
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": 840493602608,
@@ -13180,7 +13412,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "GPS, Glonass, Galileo, QZSS",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 49
   },
   {
     "Identificador del producto": 840493606200,
@@ -13237,7 +13470,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 51
   },
   {
     "Identificador del producto": 6936520893829,
@@ -13294,7 +13528,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Tecnologias propias HONOR",
-    "Memoria Expandible": "1080 GB"
+    "Memoria Expandible": "1080 GB",
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": 840023291319,
@@ -13351,7 +13586,8 @@
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
     "Otras Tecnologias de Conectividad": "GPS, AGPS, Glonass, Galileo, Beidou, QZSS",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": 8806095871219,
@@ -13409,6 +13645,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 24,
     "precio_tarjeta_alkosto": 5599990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -13467,7 +13704,8 @@
     "Resolucion Otras Camaras Posteriores": "5MPX + 2MPX",
     "Red de Transmision de Datos": "5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 15
   },
   {
     "Identificador del producto": 195951031071,
@@ -13521,7 +13759,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 4894947096334,
@@ -13580,7 +13819,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 57
   },
   {
     "Identificador del producto": 8806099056315,
@@ -13634,7 +13874,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 7
   },
   {
     "Identificador del producto": 4894461805337,
@@ -13689,7 +13930,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 39
   },
   {
     "Identificador del producto": 6932554471279,
@@ -13745,7 +13987,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 37
   },
   {
     "Identificador del producto": 840493618302,
@@ -13804,6 +14047,7 @@
     "eSIM/SIM Virtual": "Sí",
     "Otras Tecnologias de Conectividad": "GPS, Glonass, Galileo, QZSS",
     "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 37,
     "precio_tarjeta_alkosto": 1999050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -13863,6 +14107,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 0,
     "precio_tarjeta_alkosto": 4349990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -13920,7 +14165,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "Memoria Expandible": "1000 GB",
-    "Resolucion Otras Camaras Frontales": "0"
+    "Resolucion Otras Camaras Frontales": "0",
+    "descuento_porcentaje": 37
   },
   {
     "Identificador del producto": 4894947105319,
@@ -13978,7 +14224,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 45
   },
   {
     "Identificador del producto": 8806095870915,
@@ -14036,6 +14283,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 24,
     "precio_tarjeta_alkosto": 5599990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -14097,7 +14345,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
-    "Resolucion Otras Camaras Frontales": "10 MPX"
+    "Resolucion Otras Camaras Frontales": "10 MPX",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806097113362,
@@ -14150,7 +14399,8 @@
     "Resolucion Otras Camaras Posteriores": "8MP + 2MP",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": 8806097017929,
@@ -14208,6 +14458,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 24,
     "precio_tarjeta_alkosto": 5599990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -14271,7 +14522,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Memoria Expandible": "0 GB",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 96932554471767,
@@ -14326,7 +14578,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
-    "Producto Recondicionado": "Sí es recondicionado"
+    "Producto Recondicionado": "Sí es recondicionado",
+    "descuento_porcentaje": 47
   },
   {
     "Identificador del producto": 7708334730053,
@@ -14386,7 +14639,8 @@
     "eSIM/SIM Virtual": "Sí",
     "Otras Tecnologias de Conectividad": "Multi-screen connect",
     "Producto en Combo": "Sí es en Combo",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 8806095303413,
@@ -14439,6 +14693,7 @@
     "Resolucion Otras Camaras Posteriores": "10 + 50 + 12",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 0,
     "precio_tarjeta_alkosto": 6699990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -14497,7 +14752,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "Producto en Combo": "Sí es en Combo"
+    "Producto en Combo": "Sí es en Combo",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806097661153,
@@ -14550,7 +14806,8 @@
     "Resolucion Otras Camaras Posteriores": "2MPX",
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 6
   },
   {
     "Identificador del producto": 7708334730176,
@@ -14611,7 +14868,8 @@
     "Otras Tecnologias de Conectividad": "Multi-screen connect",
     "Memoria Expandible": "2000 GB",
     "Producto en Combo": "Sí es en Combo",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": 7709997692351,
@@ -14668,7 +14926,8 @@
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Producto en Combo": "Sí es en Combo"
+    "Producto en Combo": "Sí es en Combo",
+    "descuento_porcentaje": 15
   },
   {
     "Identificador del producto": 195950628746,
@@ -14723,7 +14982,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 4
   },
   {
     "Identificador del producto": 195950640595,
@@ -14776,7 +15036,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 6935117899022,
@@ -14832,7 +15093,8 @@
     "Resolucion Otras Camaras Posteriores": "2 MPX",
     "Red de Transmision de Datos": "5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 45
   },
   {
     "Identificador del producto": 195950644883,
@@ -14887,7 +15149,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7708334730480,
@@ -14947,7 +15210,8 @@
     "eSIM/SIM Virtual": "Sí",
     "Otras Tecnologias de Conectividad": "Multi-screen connect",
     "Producto en Combo": "Sí es en Combo",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 8806095872247,
@@ -15005,6 +15269,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 0,
     "precio_tarjeta_alkosto": 6799990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -15066,6 +15331,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 30,
     "precio_master_bines": 3249990,
     "metodos_pago": [
       "master_bines"
@@ -15127,6 +15393,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 28,
     "precio_tarjeta_alkosto": 3799990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -15184,7 +15451,8 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 4
   },
   {
     "Identificador del producto": 840493616728,
@@ -15241,7 +15509,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
     "Otras Tecnologias de Conectividad": "GPS, Glonass, Galileo, QZSS",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 8806097661498,
@@ -15294,7 +15563,8 @@
     "Resolucion Otras Camaras Posteriores": "2MPX",
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 6
   },
   {
     "Identificador del producto": 6932554484781,
@@ -15350,7 +15620,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Resolucion Otras Camaras Posteriores": "50",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 195950624366,
@@ -15405,7 +15676,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 14
   },
   {
     "Identificador del producto": 6932554405441,
@@ -15462,7 +15734,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "2048 GB"
+    "Memoria Expandible": "2048 GB",
+    "descuento_porcentaje": 39
   },
   {
     "Identificador del producto": 195950638790,
@@ -15517,7 +15790,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 4
   },
   {
     "Identificador del producto": 7709467012023,
@@ -15572,7 +15846,8 @@
     "Resolucion Otras Camaras Posteriores": "8 MPX",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 840023255847,
@@ -15625,7 +15900,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
-    "Otras Tecnologias de Conectividad": "Supports GPS, AGPS, LTEPP, SUPL,Glonass, Galileo"
+    "Otras Tecnologias de Conectividad": "Supports GPS, AGPS, LTEPP, SUPL,Glonass, Galileo",
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": 194252707432,
@@ -15674,7 +15950,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "3G | 4G | 5G",
     "eSIM/SIM Virtual": "Sí",
-    "Otras Tecnologias de Conectividad": "5G"
+    "Otras Tecnologias de Conectividad": "5G",
+    "descuento_porcentaje": 38
   },
   {
     "Identificador del producto": 6932554485191,
@@ -15730,7 +16007,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": 8806095855905,
@@ -15788,6 +16066,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 28,
     "precio_tarjeta_alkosto": 3799990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -15845,7 +16124,8 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 4
   },
   {
     "Identificador del producto": 6932204514943,
@@ -15905,7 +16185,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "OTG compatible",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": 4894461874357,
@@ -15962,7 +16243,8 @@
     "Resolucion Otras Camaras Posteriores": "50M 3X  Periscope Tele(OIS) + 8UW",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 18
   },
   {
     "Identificador del producto": 8806099056155,
@@ -16016,7 +16298,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 7
   },
   {
     "Identificador del producto": 7707945527106,
@@ -16076,7 +16359,8 @@
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "HONOR Share",
     "Memoria Expandible": "0 GB",
-    "Producto en Combo": "Sí es en Combo"
+    "Producto en Combo": "Sí es en Combo",
+    "descuento_porcentaje": 23
   },
   {
     "Identificador del producto": 4894947118715,
@@ -16132,7 +16416,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 38
   },
   {
     "Identificador del producto": 4894947114052,
@@ -16189,7 +16474,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Ultralink",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 56
   },
   {
     "Identificador del producto": 195950643480,
@@ -16246,6 +16532,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 6,
     "precio_master_bines": 4149010,
     "metodos_pago": [
       "master_bines"
@@ -16310,7 +16597,8 @@
     "Otras Tecnologias de Conectividad": "Multi-screen connect",
     "Memoria Expandible": "2000 GB",
     "Producto en Combo": "Sí es en Combo",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": 9840023280481,
@@ -16366,7 +16654,8 @@
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "GPS, Glonass, Galileo, QZSS",
     "Memoria Expandible": "1000 GB",
-    "Producto Recondicionado": "Sí es recondicionado"
+    "Producto Recondicionado": "Sí es recondicionado",
+    "descuento_porcentaje": 17
   },
   {
     "Identificador del producto": 7705946477895,
@@ -16422,7 +16711,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Single SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "256 GB"
+    "Memoria Expandible": "256 GB",
+    "descuento_porcentaje": 26
   },
   {
     "Identificador del producto": 8806095868288,
@@ -16480,6 +16770,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 30,
     "precio_master_bines": 3249990,
     "metodos_pago": [
       "master_bines"
@@ -16539,7 +16830,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
-    "Producto Recondicionado": "Sí es recondicionado"
+    "Producto Recondicionado": "Sí es recondicionado",
+    "descuento_porcentaje": 10
   },
   {
     "Identificador del producto": 6936520877485,
@@ -16596,7 +16888,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Infrarojo | Tecnologias propias HONOR",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 22
   },
   {
     "Identificador del producto": 7705946477888,
@@ -16652,7 +16945,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Single SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "256 GB"
+    "Memoria Expandible": "256 GB",
+    "descuento_porcentaje": 26
   },
   {
     "Identificador del producto": 7709101666292,
@@ -16710,7 +17004,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Tecnologias propias HONOR",
-    "Producto en Combo": "Sí es en Combo"
+    "Producto en Combo": "Sí es en Combo",
+    "descuento_porcentaje": 17
   },
   {
     "Identificador del producto": 6932554484293,
@@ -16766,7 +17061,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Resolucion Otras Camaras Posteriores": "50",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 6941764467903,
@@ -16824,7 +17120,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 18
   },
   {
     "Identificador del producto": 6932554469764,
@@ -16881,7 +17178,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "2048 GB"
+    "Memoria Expandible": "2048 GB",
+    "descuento_porcentaje": 47
   },
   {
     "Identificador del producto": 6932204523266,
@@ -16937,7 +17235,8 @@
     "Resolucion Otras Camaras Posteriores": "0,08",
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": 7705946480130,
@@ -16991,7 +17290,8 @@
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "256 GB"
+    "Memoria Expandible": "256 GB",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 195951031262,
@@ -17045,7 +17345,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806097885429,
@@ -17099,7 +17400,8 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806095746029,
@@ -17155,6 +17457,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 0,
     "precio_tarjeta_alkosto": 3799990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -17217,6 +17520,7 @@
     "eSIM/SIM Virtual": "Sí",
     "Otras Tecnologias de Conectividad": "GPS, Glonass, Galileo, QZSS",
     "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 37,
     "precio_tarjeta_alkosto": 1999050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -17277,7 +17581,8 @@
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
     "Otras Tecnologias de Conectividad": "GPS, AGPS, Glonass, Galileo, Beidou, QZSS",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7709554651722,
@@ -17337,7 +17642,8 @@
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "HONOR Share",
     "Memoria Expandible": "0 GB",
-    "Producto en Combo": "Sí es en Combo"
+    "Producto en Combo": "Sí es en Combo",
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": 4894947105296,
@@ -17395,7 +17701,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 45
   },
   {
     "Identificador del producto": 7705946479042,
@@ -17449,7 +17756,8 @@
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "64 GB"
+    "Memoria Expandible": "64 GB",
+    "descuento_porcentaje": 13
   },
   {
     "Identificador del producto": 4894947111211,
@@ -17510,6 +17818,7 @@
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "Ultralink",
     "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 56,
     "precio_codensa": 979900,
     "metodos_pago": [
       "codensa"
@@ -17568,7 +17877,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 20
   },
   {
     "Identificador del producto": 6941764467309,
@@ -17626,7 +17936,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 840023293795,
@@ -17683,7 +17994,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 53
   },
   {
     "Identificador del producto": 6932554490096,
@@ -17739,7 +18051,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": 8806097668565,
@@ -17793,7 +18106,8 @@
     "Resolucion Otras Camaras Posteriores": "5MPX + 2MPX",
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 15
   },
   {
     "Identificador del producto": 7705946480765,
@@ -17847,7 +18161,8 @@
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "256 GB"
+    "Memoria Expandible": "256 GB",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 8806099160319,
@@ -17902,7 +18217,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "Producto en Combo": "Sí es en Combo"
+    "Producto en Combo": "Sí es en Combo",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 6932554445065,
@@ -17958,7 +18274,8 @@
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "2048 GB"
+    "Memoria Expandible": "2048 GB",
+    "descuento_porcentaje": 53
   },
   {
     "Identificador del producto": 6932554455941,
@@ -18013,7 +18330,8 @@
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "1024 GB"
+    "Memoria Expandible": "1024 GB",
+    "descuento_porcentaje": 48
   },
   {
     "Identificador del producto": 6932554444853,
@@ -18069,7 +18387,8 @@
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "1024 GB"
+    "Memoria Expandible": "1024 GB",
+    "descuento_porcentaje": 53
   },
   {
     "Identificador del producto": 6932169373463,
@@ -18127,7 +18446,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 7709467012092,
@@ -18182,7 +18502,8 @@
     "Resolucion Otras Camaras Posteriores": "8 MPX",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 4894947068652,
@@ -18243,7 +18564,8 @@
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "NFC | Quick Share | Transmision de pantalla",
     "Memoria Expandible": "0 GB",
-    "Resolucion Otras Camaras Frontales": "0"
+    "Resolucion Otras Camaras Frontales": "0",
+    "descuento_porcentaje": 45
   },
   {
     "Identificador del producto": 6942103145513,
@@ -18299,7 +18621,8 @@
     "Resolucion Otras Camaras Posteriores": "12 MPX + 8 MPX",
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 40
   },
   {
     "Identificador del producto": 195949037351,
@@ -18353,7 +18676,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Resolucion Otras Camaras Posteriores": "12MPX",
     "Red de Transmision de Datos": "3G | 4G | 5G",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 21
   },
   {
     "Identificador del producto": 6932554469412,
@@ -18410,7 +18734,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "1024 GB"
+    "Memoria Expandible": "1024 GB",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 195950627343,
@@ -18465,7 +18790,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 4
   },
   {
     "Identificador del producto": 7709343619513,
@@ -18522,7 +18848,8 @@
     "Resolucion Otras Camaras Posteriores": "8",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 27
   },
   {
     "Identificador del producto": 6932554485153,
@@ -18578,7 +18905,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": 840023291487,
@@ -18635,7 +18963,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 55
   },
   {
     "Identificador del producto": 6941764495609,
@@ -18688,7 +19017,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": 195950623567,
@@ -18743,7 +19073,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 14
   },
   {
     "Identificador del producto": 8806095303048,
@@ -18796,6 +19127,7 @@
     "Resolucion Otras Camaras Posteriores": "10 + 50 + 12",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 0,
     "precio_tarjeta_alkosto": 6699990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -18854,7 +19186,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "Producto en Combo": "Sí es en Combo"
+    "Producto en Combo": "Sí es en Combo",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 6941764427327,
@@ -18907,7 +19240,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Resolucion Otras Camaras Posteriores": "8 MPX + 2 MPX",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 48
   },
   {
     "Identificador del producto": 6941764494732,
@@ -18962,7 +19296,8 @@
     "Resolucion Otras Camaras Posteriores": "2 MPX",
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": 840493606194,
@@ -19019,7 +19354,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 51
   },
   {
     "Identificador del producto": 96941764452930,
@@ -19074,7 +19410,8 @@
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
     "Memoria Expandible": "2000 GB",
-    "Producto Recondicionado": "Sí es recondicionado"
+    "Producto Recondicionado": "Sí es recondicionado",
+    "descuento_porcentaje": 48
   },
   {
     "Identificador del producto": 195951030500,
@@ -19130,6 +19467,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 5,
     "precio_davivienda": 3199010,
     "precio_tarjeta_alkosto": 3099010,
     "metodos_pago": [
@@ -19185,7 +19523,8 @@
     "Resolucion Otras Camaras Posteriores": "+5MPX + 2MPX",
     "Red de Transmision de Datos": "5G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 6941764467972,
@@ -19243,7 +19582,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "2000 GB"
+    "Memoria Expandible": "2000 GB",
+    "descuento_porcentaje": 18
   },
   {
     "Identificador del producto": 840023290275,
@@ -19300,7 +19640,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
-    "Memoria Expandible": "0 GB"
+    "Memoria Expandible": "0 GB",
+    "descuento_porcentaje": 26
   },
   {
     "Identificador del producto": 840023298561,
@@ -19359,7 +19700,8 @@
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
     "Otras Tecnologias de Conectividad": "GPS, AGPS, Glonass, Galileo, Beidou, QZSS",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 49
   },
   {
     "Identificador del producto": 97705946478557,
@@ -19413,7 +19755,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Memoria Expandible": "128 GB",
-    "Producto Recondicionado": "Sí es recondicionado"
+    "Producto Recondicionado": "Sí es recondicionado",
+    "descuento_porcentaje": 46
   },
   {
     "Identificador del producto": 6932554482374,
@@ -19470,7 +19813,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Bandeja Hibrida (espacio para sim card y memoria).",
     "eSIM/SIM Virtual": "No",
-    "Memoria Expandible": "2048 GB"
+    "Memoria Expandible": "2048 GB",
+    "descuento_porcentaje": 42
   },
   {
     "Identificador del producto": 8806095856346,
@@ -19528,6 +19872,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 28,
     "precio_tarjeta_alkosto": 3799990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -19588,7 +19933,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "GPS, Glonass, Galileo, QZSS",
-    "Memoria Expandible": "1000 GB"
+    "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 49
   },
   {
     "Identificador del producto": 840493618449,
@@ -19646,7 +19992,8 @@
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
     "Otras Tecnologias de Conectividad": "GPS, Glonass, Galileo, QZSS, AGPS, LPP, SUPL",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": 6932554484903,
@@ -19702,7 +20049,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Resolucion Otras Camaras Posteriores": "50",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 6942103169144,
@@ -19761,7 +20109,8 @@
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Producto en Combo": "Sí es en Combo"
+    "Producto en Combo": "Sí es en Combo",
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": 8806095856193,
@@ -19819,6 +20168,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 28,
     "precio_tarjeta_alkosto": 3799990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -19879,6 +20229,7 @@
     "Red de Transmision de Datos": "5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 30,
     "precio_tarjeta_alkosto": 2899990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -19936,7 +20287,8 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Flash Frontal": "No Tiene Flash Frontal",
     "Red de Transmision de Datos": "5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 6
   },
   {
     "Identificador del producto": 195950622966,
@@ -19991,7 +20343,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 8
   },
   {
     "Identificador del producto": 7707945527649,
@@ -20051,7 +20404,8 @@
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "HONOR Share",
     "Memoria Expandible": "0 GB",
-    "Producto en Combo": "Sí es en Combo"
+    "Producto en Combo": "Sí es en Combo",
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": 98806097661849,
@@ -20104,7 +20458,8 @@
     "Red de Transmision de Datos": "4G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
-    "Producto Recondicionado": "Sí es recondicionado"
+    "Producto Recondicionado": "Sí es recondicionado",
+    "descuento_porcentaje": 16
   },
   {
     "Identificador del producto": 8806097331735,
@@ -20163,6 +20518,7 @@
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 38,
     "precio_tarjeta_alkosto": 3199990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -20222,7 +20578,8 @@
     "Flash Frontal": "No Tiene Flash Frontal",
     "Resolucion Otras Camaras Posteriores": "50",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
-    "Espacios Para SIM Card": "Dual SIM"
+    "Espacios Para SIM Card": "Dual SIM",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 6932169397933,
@@ -20279,7 +20636,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "Memoria Expandible": "1024 GB",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": 195950051926,
@@ -20331,7 +20689,8 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 17
   },
   {
     "Identificador del producto": 195950623369,
@@ -20386,7 +20745,8 @@
     "Flash Frontal": "SI Tiene Flash Frontal",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 14
   },
   {
     "Identificador del producto": 6932204523105,
@@ -20446,7 +20806,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Otras Tecnologias de Conectividad": "OTG compatible",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 23
   },
   {
     "Identificador del producto": 195949821813,
@@ -20501,6 +20862,7 @@
     "Red de Transmision de Datos": "3G | 4G | 5G",
     "Espacios Para SIM Card": "Single SIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 14,
     "precio_davivienda": 3799010,
     "metodos_pago": [
       "davivienda"
@@ -20561,7 +20923,8 @@
     "Red de Transmision de Datos": "2G | 3G | 4G",
     "Espacios Para SIM Card": "Dual SIM",
     "Memoria Expandible": "1024 GB",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": 195950051971,
@@ -20613,7 +20976,8 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 14
   },
   {
     "Identificador del producto": 7709467012030,
@@ -20668,7 +21032,8 @@
     "Resolucion Otras Camaras Posteriores": "8 MPX",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": 96936520869923,
@@ -20725,7 +21090,8 @@
     "Espacios Para SIM Card": "Dual SIM",
     "eSIM/SIM Virtual": "No",
     "Memoria Expandible": "512 GB",
-    "Producto Recondicionado": "Sí es recondicionado"
+    "Producto Recondicionado": "Sí es recondicionado",
+    "descuento_porcentaje": 38
   },
   {
     "Identificador del producto": 7709343619520,
@@ -20782,7 +21148,8 @@
     "Resolucion Otras Camaras Posteriores": "8",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "Dual SIM",
-    "eSIM/SIM Virtual": "No"
+    "eSIM/SIM Virtual": "No",
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": 7708334730114,
@@ -20843,7 +21210,8 @@
     "Otras Tecnologias de Conectividad": "Multi-screen connect",
     "Memoria Expandible": "2000 GB",
     "Producto en Combo": "Sí es en Combo",
-    "Celular para Gamers": "Sí"
+    "Celular para Gamers": "Sí",
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": 195949822537,
@@ -20898,6 +21266,7 @@
     "Red de Transmision de Datos": "3G | 4G | 5G",
     "Espacios Para SIM Card": "Single SIM",
     "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 14,
     "precio_davivienda": 3799010,
     "metodos_pago": [
       "davivienda"
@@ -20953,7 +21322,8 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Red de Transmision de Datos": "2G | 3G | 4G | 5G",
     "Espacios Para SIM Card": "SIM Card - eSIM",
-    "eSIM/SIM Virtual": "Sí"
+    "eSIM/SIM Virtual": "Sí",
+    "descuento_porcentaje": 14
   },
   {
     "Identificador del producto": 840023296963,
@@ -21012,6 +21382,7 @@
     "Espacios Para SIM Card": "SIM Card - eSIM",
     "eSIM/SIM Virtual": "Sí",
     "Memoria Expandible": "1000 GB",
+    "descuento_porcentaje": 33,
     "precio_tarjeta_alkosto": 1799050,
     "metodos_pago": [
       "tarjeta_alkosto"

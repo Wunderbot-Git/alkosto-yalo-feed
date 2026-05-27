@@ -56,6 +56,7 @@
     "No. Puertos SD": "0 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 27,
     "precio_tarjeta_alkosto": 3599050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -89,7 +90,8 @@
     "Resolucion Pantalla": "5K",
     "Tamaño Pantalla_1": "27 Pulgadas",
     "Diseño de la pantalla": "Plano",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 198154605780,
@@ -143,7 +145,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "5MP IR",
     "Tipo de Computador": "All in One",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 40
   },
   {
     "Identificador del producto": 10343945418,
@@ -189,7 +192,8 @@
     "Colores de Impresion": "Impresión Blanco Y Negro | Impresión Color",
     "Tamaño del Escaner": "No Tiene Escanner",
     "Referencia del Insumo que requiere": "T40W120  Cartucho de Tinta Negro, T40W220 (Cian),T40W320 (Magenta),<br>T40W420 (Amarilla)",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 22
   },
   {
     "Identificador del producto": 6921732899400,
@@ -246,7 +250,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "166,7 x 95,9 x 7,4 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 51
   },
   {
     "Identificador del producto": 7705191046327,
@@ -302,7 +307,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "1668 x 922 x 103 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8887549912221,
@@ -358,7 +364,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 48
   },
   {
     "Identificador del producto": 199273680276,
@@ -413,7 +420,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "FHD RF",
     "Producto en Combo": "Sí es en Combo",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 35
   },
   {
     "Identificador del producto": 199272570790,
@@ -453,7 +461,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "5 Mpx",
     "Resolucion Camara Posterior": "8 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 43
   },
   {
     "Identificador del producto": 198154998615,
@@ -496,7 +505,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "5 Mpx",
     "Resolucion Camara Posterior": "8 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 35
   },
   {
     "Identificador del producto": 4711636393584,
@@ -547,6 +557,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "desktop",
+    "descuento_porcentaje": 0,
     "precio_tarjeta_alkosto": 3599000,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -605,6 +616,7 @@
     "No. Puertos SD": "0 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 24,
     "precio_tarjeta_alkosto": 4499050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -661,7 +673,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 195950697438,
@@ -714,7 +727,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 198155121708,
@@ -757,7 +771,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "13 Mpx",
     "Resolucion Camara Posterior": "13 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 25
   },
   {
     "Identificador del producto": 8806096700518,
@@ -813,7 +828,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 41
   },
   {
     "Identificador del producto": 195949966514,
@@ -857,7 +873,8 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 8
   },
   {
     "Identificador del producto": 195950850741,
@@ -907,7 +924,8 @@
     "Nivel de Tareas a Realizar": "Medio",
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 198157467019,
@@ -959,7 +977,8 @@
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "HD 720p",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 195949925351,
@@ -1011,7 +1030,8 @@
     "Resolucion Camara WEB": "12MP",
     "Tipo de Computador": "All in One",
     "Software Incluidos": "Safari, Notes, Messages, Keynote, Pages, Numbers, Maps, Mail, Music, Stocks, Weather.",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 198158648493,
@@ -1065,7 +1085,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "FHD",
     "Es convertible": "Sí es convertible (2 en 1)",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 195950687262,
@@ -1118,7 +1139,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7705191046389,
@@ -1173,7 +1195,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "72.8 x 42.6 x 7.9 Centímetros",
     "Entrada Coaxial": "No Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 4711387903711,
@@ -1227,6 +1250,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Producto en Combo": "Sí es en Combo",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 35,
     "precio_tarjeta_alkosto": 4499050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -1287,7 +1311,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 45
   },
   {
     "Identificador del producto": 195950692433,
@@ -1339,7 +1364,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 4711636453387,
@@ -1392,6 +1418,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 0,
     "precio_tarjeta_alkosto": 3899000,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -1433,6 +1460,7 @@
     "Tasa de Refresco": "240 Hz",
     "Tipo de Panel": "IPS",
     "tipo_producto": "monitor",
+    "descuento_porcentaje": 55,
     "precio_tarjeta_alkosto": 1049000,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -1476,7 +1504,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 198122718313,
@@ -1530,7 +1559,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara Web Cámara HD HP Wide Vision de 720p.",
     "Modelo Tarjeta de Video/Grafica": "NVIDIA Geforce RTX 3050",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 36
   },
   {
     "Identificador del producto": 195950489347,
@@ -1586,7 +1616,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
     "Software Incluidos": "Apple Intelligence, Siri, Mensajes, FaceTime, Recordatorios, Notas, Fotos, Contraseñas, Keynote, Pages, Numbers",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806097978305,
@@ -1642,7 +1673,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "No Tiene Salida Óptica",
     "Tipo de Control Remoto": "Básico",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 26
   },
   {
     "Identificador del producto": 8806099266943,
@@ -1698,7 +1730,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": 195950715095,
@@ -1751,7 +1784,8 @@
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 195950717143,
@@ -1805,7 +1839,8 @@
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 198156629623,
@@ -1855,7 +1890,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "HD",
     "Tipo de Computador": "All in One",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 42
   },
   {
     "Identificador del producto": 195949751783,
@@ -1899,7 +1935,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806097999195,
@@ -1955,7 +1992,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "No Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 4711636049689,
@@ -2010,6 +2048,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Modelo Tarjeta de Video/Grafica": "NVIDIA® GeForce RTX™ 5070 Laptop GPU",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 29,
     "precio_tarjeta_alkosto": 9299050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -2068,7 +2107,8 @@
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "5MPX IR",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 17
   },
   {
     "Identificador del producto": 7705191046341,
@@ -2123,7 +2163,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "128.5 x 75 x 8.6 Centímetros",
     "Entrada Coaxial": "No Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806096547946,
@@ -2161,7 +2202,8 @@
     "Velocidad de Respuesta": "5 Milisegundos",
     "Tasa de Refresco": "60 Hz",
     "Tipo de Panel": "VA",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 42
   },
   {
     "Identificador del producto": 199764911858,
@@ -2211,7 +2253,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "HP True Vision 720p",
     "Modelo Tarjeta de Video/Grafica": "Tarjeta Gráfica Intel 8",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 49
   },
   {
     "Identificador del producto": 4711377396615,
@@ -2266,7 +2309,8 @@
     "Resolucion Camara WEB": "HD",
     "Producto en Combo": "Sí es en Combo",
     "Modelo Tarjeta de Video/Grafica": "RTX 3050, GDDR6 4GB",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": 8806096103586,
@@ -2305,7 +2349,8 @@
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "180 Hz",
     "Tipo de Panel": "VA",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 10343945814,
@@ -2353,7 +2398,8 @@
     "Capacidad Bandeja Salida de Papel": "100 Hojas",
     "Resolucion Escaner": "1200x2400dpi",
     "Velocidad Copiado Blanco y Negro": "30 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 10
   },
   {
     "Identificador del producto": 193015506763,
@@ -2400,7 +2446,8 @@
     "Capacidad Bandeja Salida de Papel": "100 Hojas",
     "Resolucion Escaner": "600 X 600 ppp",
     "Velocidad Copiado Blanco y Negro": "6 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 22
   },
   {
     "Identificador del producto": 196068963507,
@@ -2451,7 +2498,8 @@
     "Resolucion Escaner": "1200 x 1200 ppp",
     "Velocidad Copiado Blanco y Negro": "10 Pag X Min",
     "Velocidad Copiado Color": "2 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 35
   },
   {
     "Identificador del producto": 195950404173,
@@ -2496,7 +2544,8 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 4711474088482,
@@ -2551,7 +2600,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "FHD ( 1920x1080 )",
     "Software Incluidos": "Acer Office Manager: Administra y protege múltiples PCs Acer de forma remota en PYMEs.<br>AcerSense / TravelMateSense: Panel que centraliza diagnósticos, actualizaciones y estado del sistema.<br>PurifiedVoice: IA que elimina ruido de fondo y mejora la claridad en videollamadas.<br>Acer ProShield Plus: Seguridad empresarial con cifrado, borrado seguro y unidades encriptadas.<br>Acer Dust Defender: Ventilador reversible que expulsa polvo cada 3 horas para mayor rendimiento y durabilidad.",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": 6936520871353,
@@ -2593,7 +2643,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "8 Mpx",
     "Resolucion Camara Posterior": "8 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": 8806097978442,
@@ -2649,7 +2700,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "No Tiene Salida Óptica",
     "Tipo de Control Remoto": "Básico",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 24
   },
   {
     "Identificador del producto": 198957119378,
@@ -2685,7 +2737,8 @@
     "Contraste": "1.000.000:1",
     "Velocidad de Respuesta": "0.03 Milisegundos",
     "Tasa de Refresco": "480 Hz",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": 6937574852329,
@@ -2742,7 +2795,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 55
   },
   {
     "Identificador del producto": 4711636282369,
@@ -2800,6 +2854,7 @@
     "No. Puertos SD": "0 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 19,
     "precio_tarjeta_alkosto": 10799050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -2859,7 +2914,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "No Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 44
   },
   {
     "Identificador del producto": 7707138002533,
@@ -2913,7 +2969,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "155 x 89,9 x 9,4 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 16
   },
   {
     "Identificador del producto": 4711636438780,
@@ -2967,6 +3024,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 58,
     "precio_tarjeta_alkosto": 4890050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -3020,7 +3078,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "QHD 1440p",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 41
   },
   {
     "Identificador del producto": 195950691962,
@@ -3073,7 +3132,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 195949756146,
@@ -3117,7 +3177,8 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 199485618661,
@@ -3170,7 +3231,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "FHD HP True Vision inclinable de 1080p",
     "Tipo de Computador": "All in One",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 39
   },
   {
     "Identificador del producto": 8806096680414,
@@ -3226,7 +3288,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 42
   },
   {
     "Identificador del producto": 8806097085003,
@@ -3282,7 +3345,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "106.93 x 61.99 x 3.96 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 58
   },
   {
     "Identificador del producto": 8806096626986,
@@ -3338,7 +3402,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 48
   },
   {
     "Identificador del producto": 8806096756164,
@@ -3394,7 +3459,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "192.7 x 110.4 x 5.99 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 54
   },
   {
     "Identificador del producto": 4711474139337,
@@ -3450,7 +3516,8 @@
     "Resolucion Camara WEB": "FHD ( 1920x1080 )",
     "Software Incluidos": "Acer Office Manager: Administra y protege múltiples PCs Acer de forma remota en PYMEs.<br>AcerSense / TravelMateSense: Panel que centraliza diagnósticos, actualizaciones y estado del sistema.<br>PurifiedVoice: IA que elimina ruido de fondo y mejora la claridad en videollamadas.<br>Acer ProShield Plus: Seguridad empresarial con cifrado, borrado seguro y unidades encriptadas.<br>Acer Dust Defender: Ventilador reversible que expulsa polvo cada 3 horas para mayor rendimiento y durabilidad.",
     "Es convertible": "Sí es convertible (2 en 1)",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": 199272949602,
@@ -3503,7 +3570,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "5MP",
     "Software Incluidos": "Lenovo AI Now",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 18
   },
   {
     "Identificador del producto": 4711474827678,
@@ -3559,7 +3627,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "FHD  ( 1920 x 1080 )",
     "Modelo Tarjeta de Video/Grafica": "8 GB Dedicada GDDR7",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 19
   },
   {
     "Identificador del producto": 7705191046372,
@@ -3614,7 +3683,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "89.1 x 52.1 x 8.5 Centímetros",
     "Entrada Coaxial": "No Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 4711474621726,
@@ -3670,7 +3740,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "FHD ( 1920x1080 )",
     "Modelo Tarjeta de Video/Grafica": "8 GB Dedicada GDDR7",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 39
   },
   {
     "Identificador del producto": 195950688672,
@@ -3723,7 +3794,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806096338872,
@@ -3778,7 +3850,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "95.7 x 55.9 x 5.83 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 7705946479622,
@@ -3819,7 +3892,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "2 Mpx",
     "Resolucion Camara Posterior": "5 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 34
   },
   {
     "Identificador del producto": 4711474868176,
@@ -3874,7 +3948,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "HD ( 1280 x 720 )",
     "Modelo Tarjeta de Video/Grafica": "6 GB Dedicada GDDR6",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 25
   },
   {
     "Identificador del producto": 195950398243,
@@ -3919,7 +3994,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 198990364247,
@@ -3973,7 +4049,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "HD HP Wide Vision de 720p",
     "Modelo Tarjeta de Video/Grafica": "GeForce RTX 4050",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": 194252516478,
@@ -4013,7 +4090,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "8 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 198701027140,
@@ -4061,7 +4139,8 @@
     "Capacidad Bandeja Salida de Papel": "1 Hojas",
     "Velocidad Copiado Blanco y Negro": "0 Pag X Min",
     "Velocidad Copiado Color": "0 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 36
   },
   {
     "Identificador del producto": 8806099123215,
@@ -4116,7 +4195,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "No Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 27
   },
   {
     "Identificador del producto": 6937574832550,
@@ -4173,7 +4253,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 8806097029052,
@@ -4228,7 +4309,8 @@
     "Alto (Sin Base)": "83.12 Centímetros",
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "144.41 x 83.12 x 7.68 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 48
   },
   {
     "Identificador del producto": 7707138065781,
@@ -4284,7 +4366,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 19
   },
   {
     "Identificador del producto": 195949730047,
@@ -4324,7 +4407,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7700005602874,
@@ -4364,7 +4448,8 @@
     "Referencia del Insumo que requiere": "FUJIFILM Película instantánea instax™ mini(se vende por separado)",
     "Capacidad Bandeja Entrada de Papel": "10 Hojas",
     "Capacidad Bandeja Salida de Papel": "10 Hojas",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": 8806097960829,
@@ -4419,7 +4504,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 8806097978336,
@@ -4475,7 +4561,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "No Tiene Salida Óptica",
     "Tipo de Control Remoto": "Básico",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 26
   },
   {
     "Identificador del producto": 195950087543,
@@ -4516,7 +4603,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7705946480031,
@@ -4572,7 +4660,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "122,6 x 70,89 x 8,15 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 56
   },
   {
     "Identificador del producto": 195950087086,
@@ -4613,7 +4702,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 13803351460,
@@ -4662,7 +4752,8 @@
     "Capacidad Bandeja Salida de Papel": "100 Hojas",
     "Velocidad Copiado Blanco y Negro": "30 Pag X Min",
     "Velocidad Copiado Color": "12 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 11
   },
   {
     "Identificador del producto": 195908303183,
@@ -4713,7 +4804,8 @@
     "Resolucion Escaner": "1200 x 1200 ppp",
     "Velocidad Copiado Blanco y Negro": "13 Pag X Min",
     "Velocidad Copiado Color": "6 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 46
   },
   {
     "Identificador del producto": 6921732899479,
@@ -4769,7 +4861,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "2177 x 1247 x 67 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 62
   },
   {
     "Identificador del producto": 4711636130448,
@@ -4823,6 +4916,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 37,
     "precio_tarjeta_alkosto": 1989050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -4883,7 +4977,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 54
   },
   {
     "Identificador del producto": 195908302315,
@@ -4933,7 +5028,8 @@
     "Resolucion Escaner": "Hasta 1200 x 1200 dpi",
     "Velocidad Copiado Blanco y Negro": "13 Pag X Min",
     "Velocidad Copiado Color": "6 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 44
   },
   {
     "Identificador del producto": 10343973381,
@@ -4984,7 +5080,8 @@
     "Resolucion Escaner": "1200 x 2400 dpi",
     "Velocidad Copiado Blanco y Negro": "10.8 Pag X Min",
     "Velocidad Copiado Color": "5.5 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 36
   },
   {
     "Identificador del producto": 8806097027584,
@@ -5039,7 +5136,8 @@
     "Alto (Sin Base)": "70.78 Centímetros",
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "122.46 x 70.78 x 7.66 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 8806096608272,
@@ -5076,7 +5174,8 @@
     "Velocidad de Respuesta": "0.03 Milisegundos",
     "Tasa de Refresco": "240 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 199273243785,
@@ -5132,7 +5231,8 @@
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "5MP IR",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 25
   },
   {
     "Identificador del producto": 8806096700600,
@@ -5188,7 +5288,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 44
   },
   {
     "Identificador del producto": 195950398687,
@@ -5233,7 +5334,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 195950825114,
@@ -5277,7 +5379,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 199642458734,
@@ -5332,6 +5435,7 @@
     "Resolucion Camara WEB": "Cámara FHD HP True Vision de 1080p",
     "Modelo Tarjeta de Video/Grafica": "Gráficos AMD Radeon",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 45,
     "precio_codensa": 2119070,
     "metodos_pago": [
       "codensa"
@@ -5390,7 +5494,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "28,3 x 78,49 x 145,25 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 48
   },
   {
     "Identificador del producto": 196802790826,
@@ -5444,7 +5549,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "HD 720p con obturador de privacidad",
     "Modelo Tarjeta de Video/Grafica": "6GB GDDR6",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": 195949730276,
@@ -5484,7 +5590,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806096334676,
@@ -5541,6 +5648,7 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "tipo_producto": "televisor",
+    "descuento_porcentaje": 42,
     "precio_master_bines": 5299900,
     "precio_tarjeta_alkosto": 5299900,
     "metodos_pago": [
@@ -5591,7 +5699,8 @@
     "Referencia del Insumo que requiere": "Tóner HP LaserJet 150A",
     "Capacidad Bandeja Entrada de Papel": "150 Hojas",
     "Capacidad Bandeja Salida de Papel": "100 Hojas",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 23
   },
   {
     "Identificador del producto": 6921732899530,
@@ -5646,7 +5755,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "256.6 x 147.1 x 5.7 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 4711636295703,
@@ -5701,6 +5811,7 @@
     "No. Puertos SD": "0 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 40,
     "precio_tarjeta_alkosto": 2249050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -5748,7 +5859,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 2
   },
   {
     "Identificador del producto": 4711474400895,
@@ -5799,7 +5911,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "QHD 1440p",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 46
   },
   {
     "Identificador del producto": 199251376337,
@@ -5853,7 +5966,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara de privacidad FHD HP True Vision inclinable de 1080p",
     "Tipo de Computador": "All in One",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 42
   },
   {
     "Identificador del producto": 195949757228,
@@ -5897,7 +6011,8 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 198828486059,
@@ -5948,7 +6063,8 @@
     "Resolucion Escaner": "Hasta 1200 x 1200 ppp",
     "Velocidad Copiado Blanco y Negro": "75 Pag X Min",
     "Velocidad Copiado Color": "55 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 22
   },
   {
     "Identificador del producto": 195950395563,
@@ -5993,7 +6109,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806097820666,
@@ -6049,7 +6166,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 199273575275,
@@ -6102,7 +6220,8 @@
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "1080P FHD",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 26
   },
   {
     "Identificador del producto": 4711636049719,
@@ -6153,6 +6272,7 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 49,
     "precio_tarjeta_alkosto": 2199050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -6210,7 +6330,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "1080 FHD",
     "Es convertible": "Sí es convertible (2 en 1)",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 39
   },
   {
     "Identificador del producto": 199896344333,
@@ -6265,7 +6386,8 @@
     "Resolucion Camara WEB": "Cámara HP FHD de 1080p",
     "Tipo de Computador": "All in One",
     "Modelo Tarjeta de Video/Grafica": "Tarjeta Gráfica Intel",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 38
   },
   {
     "Identificador del producto": 887276792132,
@@ -6301,7 +6423,8 @@
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "240 Hz",
     "Tipo de Panel": "VA",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": 4711636316378,
@@ -6360,6 +6483,7 @@
     "No. Puertos SD": "0 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 36,
     "precio_tarjeta_alkosto": 3459050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -6399,7 +6523,8 @@
     "Contraste": "1000:1",
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "180 Hz",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 42
   },
   {
     "Identificador del producto": 6921732845438,
@@ -6457,7 +6582,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "122,9 x 71,3 x 5,59 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 57
   },
   {
     "Identificador del producto": 4894461992846,
@@ -6497,7 +6623,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "13 Mpx",
     "Resolucion Camara Posterior": "8 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 40
   },
   {
     "Identificador del producto": 195949987021,
@@ -6541,7 +6668,8 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 11
   },
   {
     "Identificador del producto": 8806097078876,
@@ -6599,7 +6727,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 57
   },
   {
     "Identificador del producto": 194850677472,
@@ -6645,7 +6774,8 @@
     "Capacidad Bandeja Entrada de Papel": "150 Hojas",
     "Capacidad Bandeja Salida de Papel": "100 Hojas",
     "Velocidad Copiado Blanco y Negro": "6 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 37
   },
   {
     "Identificador del producto": 196548194360,
@@ -6681,7 +6811,8 @@
     "Velocidad de Respuesta": "5 Milisegundos",
     "Tasa de Refresco": "75 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 56
   },
   {
     "Identificador del producto": 4711474139320,
@@ -6737,7 +6868,8 @@
     "Resolucion Camara WEB": "FHD ( 1920x1080 )",
     "Software Incluidos": "Acer Office Manager: Administra y protege múltiples PCs Acer de forma remota en PYMEs.<br>AcerSense / TravelMateSense: Panel que centraliza diagnósticos, actualizaciones y estado del sistema.<br>PurifiedVoice: IA que elimina ruido de fondo y mejora la claridad en videollamadas.<br>Acer ProShield Plus: Seguridad empresarial con cifrado, borrado seguro y unidades encriptadas.<br>Acer Dust Defender: Ventilador reversible que expulsa polvo cada 3 horas para mayor rendimiento y durabilidad.",
     "Es convertible": "Sí es convertible (2 en 1)",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 35
   },
   {
     "Identificador del producto": 7708803796047,
@@ -6780,7 +6912,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "8 Mpx",
     "Resolucion Camara Posterior": "13 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 17
   },
   {
     "Identificador del producto": 7705946480314,
@@ -6837,7 +6970,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "No Tiene Salida Óptica",
     "Tipo de Control Remoto": "Básico",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 56
   },
   {
     "Identificador del producto": 8806097999171,
@@ -6893,7 +7027,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "No Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": 4711636049726,
@@ -6948,6 +7083,7 @@
     "No. Puertos SD": "0 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 27,
     "precio_tarjeta_alkosto": 3099050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -7003,7 +7139,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "218,11 x 124,41 x 6,35 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 57
   },
   {
     "Identificador del producto": 8806096542170,
@@ -7040,7 +7177,8 @@
     "Velocidad de Respuesta": "5 Milisegundos",
     "Tasa de Refresco": "100 Hz",
     "Tipo de Panel": "VA",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 4711636086912,
@@ -7077,7 +7215,8 @@
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "120 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 55
   },
   {
     "Identificador del producto": 199251731877,
@@ -7129,7 +7268,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Tipo de Computador": "Torre PC Gaming",
     "Modelo Tarjeta de Video/Grafica": "NVIDIA GeForce RTX 5060",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 199251376344,
@@ -7181,7 +7321,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara de privacidad FHD HP True Vision inclinable de 1080p",
     "Tipo de Computador": "All in One",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 37
   },
   {
     "Identificador del producto": 4711474400888,
@@ -7230,7 +7371,8 @@
     "No. Puertos USB": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "FHD 1080p",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 43
   },
   {
     "Identificador del producto": 4711474889911,
@@ -7282,7 +7424,8 @@
     "No. Salidas de Audio": "2 Puertos",
     "Tipo de Computador": "Torre PC Gaming",
     "Modelo Tarjeta de Video/Grafica": "16 GB Dedicada GDDR7",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 25
   },
   {
     "Identificador del producto": 7705946476904,
@@ -7319,7 +7462,8 @@
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "100 Hz",
     "Tipo de Panel": "VA",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 26
   },
   {
     "Identificador del producto": 8806096673164,
@@ -7375,7 +7519,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 44
   },
   {
     "Identificador del producto": 198155085390,
@@ -7426,7 +7571,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "5.0 MP",
     "Tipo de Computador": "All in One",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 46
   },
   {
     "Identificador del producto": 8806096334737,
@@ -7481,7 +7627,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "144.1 x 82.6 x 2.43 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 43
   },
   {
     "Identificador del producto": 4711474621740,
@@ -7535,7 +7682,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "FHD ( 1920x1080 )",
     "Modelo Tarjeta de Video/Grafica": "6 GB Dedicada GDDR6",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": 6937574837111,
@@ -7591,7 +7739,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 54
   },
   {
     "Identificador del producto": 198155641015,
@@ -7643,7 +7792,8 @@
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "HD",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 38
   },
   {
     "Identificador del producto": 74101204759,
@@ -7685,7 +7835,8 @@
     "Colores de Impresion": "Impresión Color",
     "Tamaño del Escaner": "No Tiene Escanner",
     "Referencia del Insumo que requiere": "Papel Fujifilm Instax Wide",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 16
   },
   {
     "Identificador del producto": 4711474648501,
@@ -7739,7 +7890,8 @@
     "No. Salidas de Audio": "2 Puertos",
     "Resolucion Camara WEB": "5MP ( 2560x1920 )",
     "Tipo de Computador": "All in One",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": 887276931739,
@@ -7778,7 +7930,8 @@
     "Velocidad de Respuesta": "0.03 Milisegundos",
     "Tasa de Refresco": "240 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 49
   },
   {
     "Identificador del producto": 8887549912177,
@@ -7834,7 +7987,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 194721097880,
@@ -7883,7 +8037,8 @@
     "Resolucion Escaner": "1200 x 1200 ppp",
     "Velocidad Copiado Blanco y Negro": "6 Pag X Min",
     "Velocidad Copiado Color": "3 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 198957071577,
@@ -7920,7 +8075,8 @@
     "Velocidad de Respuesta": "0.03 Milisegundos",
     "Tasa de Refresco": "165 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 34
   },
   {
     "Identificador del producto": 198990787503,
@@ -7971,7 +8127,8 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara FHD HP True Vision de 1080p",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 42
   },
   {
     "Identificador del producto": 195949898372,
@@ -8022,7 +8179,8 @@
     "Resolucion Camara WEB": "12MP",
     "Tipo de Computador": "All in One",
     "Software Incluidos": "Safari, Notes, Messages, Keynote, Pages, Numbers, Maps, Mail, Music, Stocks, Weather.",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7705946475488,
@@ -8058,7 +8216,8 @@
     "Velocidad de Respuesta": "20 Milisegundos",
     "Tasa de Refresco": "60 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": 195950396003,
@@ -8103,7 +8262,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7705946475495,
@@ -8141,7 +8301,8 @@
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "100 Hz",
     "Tipo de Panel": "VA",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 46
   },
   {
     "Identificador del producto": 4711474847171,
@@ -8193,7 +8354,8 @@
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "FHD ( 1920x1080 )",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 4711636049771,
@@ -8244,6 +8406,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 46,
     "precio_tarjeta_alkosto": 2379050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -8300,7 +8463,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7708803796368,
@@ -8343,7 +8507,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "5 Mpx",
     "Resolucion Camara Posterior": "8 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": 198155958892,
@@ -8398,7 +8563,8 @@
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "HD",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 43
   },
   {
     "Identificador del producto": 74101207286,
@@ -8448,7 +8614,8 @@
     "Capacidad Bandeja Salida de Papel": "1 Hojas",
     "Velocidad Copiado Blanco y Negro": "0 Pag X Min",
     "Velocidad Copiado Color": "0 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 20
   },
   {
     "Identificador del producto": 6921732899554,
@@ -8505,7 +8672,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "145,2 x 83,7 x 2,79 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 57
   },
   {
     "Identificador del producto": 193424413508,
@@ -8556,7 +8724,8 @@
     "Resolucion Escaner": "Hasta 1200 x 1200 ppp",
     "Velocidad Copiado Blanco y Negro": "10 Pag X Min",
     "Velocidad Copiado Color": "2 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": 4711636243834,
@@ -8615,6 +8784,7 @@
     "No. Puertos SD": "0 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 20,
     "precio_tarjeta_alkosto": 4499050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -8658,7 +8828,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 195950398021,
@@ -8703,7 +8874,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806096367599,
@@ -8760,7 +8932,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "93,2 x 54 x 4,11 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 46
   },
   {
     "Identificador del producto": 7708803796603,
@@ -8803,7 +8976,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "8 Mpx",
     "Resolucion Camara Posterior": "13 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": 4711474827647,
@@ -8858,7 +9032,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "HD ( 1280 x 720 )",
     "Modelo Tarjeta de Video/Grafica": "8 GB Dedicada GDDR6",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 25
   },
   {
     "Identificador del producto": 8806097818281,
@@ -8914,7 +9089,8 @@
     "Alto (Sin Base)": "71.08 Centímetros",
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "123,41 x 71,08 x 6,03 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 46
   },
   {
     "Identificador del producto": 8806096470336,
@@ -8952,7 +9128,8 @@
     "Velocidad de Respuesta": "5 Milisegundos",
     "Tasa de Refresco": "100 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 48
   },
   {
     "Identificador del producto": 8806097854593,
@@ -8997,7 +9174,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "5 Mpx",
     "Resolucion Camara Posterior": "8 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": 4711474162397,
@@ -9050,7 +9228,8 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Producto en Combo": "Sí es en Combo",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 4711636208697,
@@ -9103,6 +9282,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 44,
     "precio_tarjeta_alkosto": 2199050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -9157,7 +9337,8 @@
     "Resolucion Escaner": "1200x2400 dpi",
     "Velocidad Copiado Blanco y Negro": "11 Pag X Min",
     "Velocidad Copiado Color": "5.5 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": 198828758019,
@@ -9207,7 +9388,8 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Webcam HD 720p",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 19
   },
   {
     "Identificador del producto": 198990787145,
@@ -9258,7 +9440,8 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara FHD HP True Vision de 1080p.",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 43
   },
   {
     "Identificador del producto": 195949080746,
@@ -9306,7 +9489,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Tipo de Computador": "Computador de Escritorio",
     "Software Incluidos": "Safari, Notes, Messages, Keynote, Pages, Numbers, Maps, Mail, Music, Stocks, Weather.",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7707138015083,
@@ -9361,7 +9545,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 18
   },
   {
     "Identificador del producto": 196068963446,
@@ -9412,7 +9597,8 @@
     "Resolucion Escaner": "1200 x 1200 ppp",
     "Velocidad Copiado Blanco y Negro": "10 Pag X Min",
     "Velocidad Copiado Color": "2 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 36
   },
   {
     "Identificador del producto": 198154605742,
@@ -9463,7 +9649,8 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "5MP IR",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 40
   },
   {
     "Identificador del producto": 199272381600,
@@ -9517,7 +9704,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "HD",
     "Software Incluidos": "Lenovo AI Now - Xbox game pass Ultimate x 3 meses",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 35
   },
   {
     "Identificador del producto": 4711636168052,
@@ -9571,6 +9759,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Software Incluidos": "Office 365 y McAfee por un mes",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 24,
     "precio_tarjeta_alkosto": 6299050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -9625,7 +9814,8 @@
     "Resolucion Camara WEB": "12MP",
     "Tipo de Computador": "All in One",
     "Software Incluidos": "Safari, Notes, Messages, Keynote, Pages, Numbers, Maps, Mail, Music, Stocks, Weather.",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 195950797749,
@@ -9669,7 +9859,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 2
   },
   {
     "Identificador del producto": 7707138092237,
@@ -9721,7 +9912,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "111 x 64,2 x 6,8 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 14
   },
   {
     "Identificador del producto": 195950823967,
@@ -9765,7 +9957,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 2
   },
   {
     "Identificador del producto": 8806096726167,
@@ -9821,7 +10014,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "No Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 42
   },
   {
     "Identificador del producto": 4711636135641,
@@ -9878,6 +10072,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Tipo de Computador": "Torre PC Gaming",
     "tipo_producto": "desktop",
+    "descuento_porcentaje": 30,
     "precio_tarjeta_alkosto": 6099050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -9934,6 +10129,7 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 24,
     "precio_tarjeta_alkosto": 3599050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -9991,7 +10187,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara FHD HP True Vision de 1080p",
     "Modelo Tarjeta de Video/Grafica": "Tarjeta gráfica Intel 8",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 25
   },
   {
     "Identificador del producto": 4711474840042,
@@ -10045,7 +10242,8 @@
     "Resolucion Camara WEB": "FHD ( 1920x1080 )",
     "Tipo de Computador": "All in One",
     "Producto en Combo": "Sí es en Combo",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": 8806097086000,
@@ -10102,7 +10300,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "122.54 x 70.86 x 3.99 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 49
   },
   {
     "Identificador del producto": 195908303053,
@@ -10153,7 +10352,8 @@
     "Resolucion Escaner": "Hasta 1200 x 1200 ppp",
     "Velocidad Copiado Blanco y Negro": "13 Pag X Min",
     "Velocidad Copiado Color": "6 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 38
   },
   {
     "Identificador del producto": 195950694611,
@@ -10206,7 +10406,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7705946479806,
@@ -10262,7 +10463,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "144,56 x 83,04 x 8,27 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 46
   },
   {
     "Identificador del producto": 6936520864546,
@@ -10303,7 +10505,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "5 Mpx",
     "Resolucion Camara Posterior": "5 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 26
   },
   {
     "Identificador del producto": 887276836881,
@@ -10340,7 +10543,8 @@
     "Velocidad de Respuesta": "5 Milisegundos",
     "Tasa de Refresco": "60 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 41
   },
   {
     "Identificador del producto": 7705946475501,
@@ -10377,7 +10581,8 @@
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "180 Hz",
     "Tipo de Panel": "VA",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 21
   },
   {
     "Identificador del producto": 198990840611,
@@ -10428,7 +10633,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Tipo de Computador": "Torre PC Gaming",
     "Modelo Tarjeta de Video/Grafica": "NVIDIA Geforce RTX 3050",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 39
   },
   {
     "Identificador del producto": 6937574837531,
@@ -10484,7 +10690,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 51
   },
   {
     "Identificador del producto": 7705946474559,
@@ -10539,7 +10746,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "8,81 x 78,49 x 134,54 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 56
   },
   {
     "Identificador del producto": 198990788456,
@@ -10592,7 +10800,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara HD HP Wide Vision de 720p.",
     "Modelo Tarjeta de Video/Grafica": "NVIDIA GeForce RTX 3050 6GB VRAM",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 47
   },
   {
     "Identificador del producto": 198957224331,
@@ -10628,7 +10837,8 @@
     "Contraste": "1000:1",
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "185 Hz",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 44
   },
   {
     "Identificador del producto": 7707138022715,
@@ -10683,7 +10893,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "189.5 x 108.9 x 11.9 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 12
   },
   {
     "Identificador del producto": 198415262608,
@@ -10735,7 +10946,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara de privacidad con infrarrojos HP Wide Vision 1080p FHD.",
     "Tipo de Computador": "All in One",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 43
   },
   {
     "Identificador del producto": 196803810387,
@@ -10788,7 +11000,8 @@
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "FHD 1080p",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 42
   },
   {
     "Identificador del producto": 8806096729786,
@@ -10844,7 +11057,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "No Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 38
   },
   {
     "Identificador del producto": 8806096552995,
@@ -10883,7 +11097,8 @@
     "Velocidad de Respuesta": "5 Milisegundos",
     "Tasa de Refresco": "120 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 51
   },
   {
     "Identificador del producto": 4711387654477,
@@ -10939,6 +11154,7 @@
     "Producto en Combo": "Sí es en Combo",
     "Software Incluidos": "Mcafee 30 Dias de prueba gratuito",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 33,
     "precio_tarjeta_alkosto": 7199050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -10997,7 +11213,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "71,5 x 42,2 x 7,5 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 52
   },
   {
     "Identificador del producto": 6921732845483,
@@ -11055,7 +11272,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "167 x 96 x 5,67 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 55
   },
   {
     "Identificador del producto": 199896331067,
@@ -11109,7 +11327,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara FHD HP True Vision de 1080p",
     "Modelo Tarjeta de Video/Grafica": "Tarjeta gráfica Intel 8",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 45
   },
   {
     "Identificador del producto": 4894461842875,
@@ -11151,7 +11370,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "5 Mpx",
     "Resolucion Camara Posterior": "8 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 40
   },
   {
     "Identificador del producto": 4711636168014,
@@ -11210,6 +11430,7 @@
     "No. Puertos SD": "0 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 18,
     "precio_tarjeta_alkosto": 5299050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -11267,7 +11488,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "122,6 x 72 x 8,9 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 21
   },
   {
     "Identificador del producto": 8806096701201,
@@ -11323,7 +11545,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "No Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 42
   },
   {
     "Identificador del producto": 6937574879531,
@@ -11382,6 +11605,7 @@
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
+    "descuento_porcentaje": 60,
     "precio_tarjeta_alkosto": 1849900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -11428,7 +11652,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "13 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806096627006,
@@ -11484,7 +11709,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 49
   },
   {
     "Identificador del producto": 195951161853,
@@ -11537,7 +11763,8 @@
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 4711474132604,
@@ -11575,7 +11802,8 @@
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "120 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 44
   },
   {
     "Identificador del producto": 6921732899387,
@@ -11632,7 +11860,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "122,6 x 71,1 x 7,2 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 55
   },
   {
     "Identificador del producto": 199896413947,
@@ -11686,7 +11915,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara FHD HP True Vision de 1080p",
     "Modelo Tarjeta de Video/Grafica": "Tarjeta gráfica Intel 8",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": 197498944197,
@@ -11722,7 +11952,8 @@
     "Velocidad de Respuesta": "5 Milisegundos",
     "Tasa de Refresco": "100 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 195950399783,
@@ -11766,7 +11997,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 4711636394888,
@@ -11819,6 +12051,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 38,
     "precio_tarjeta_alkosto": 1749050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -11878,7 +12111,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 52
   },
   {
     "Identificador del producto": 195950824421,
@@ -11922,7 +12156,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806095575155,
@@ -11962,7 +12197,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "5 Mpx",
     "Resolucion Camara Posterior": "8 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 34
   },
   {
     "Identificador del producto": 195950853094,
@@ -12012,7 +12248,8 @@
     "Nivel de Tareas a Realizar": "Medio",
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806097665427,
@@ -12057,7 +12294,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "5 Mpx",
     "Resolucion Camara Posterior": "8 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 6921732809621,
@@ -12112,7 +12350,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "122,6 x 71,1 x 8,1 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 4711387992043,
@@ -12166,6 +12405,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Modelo Tarjeta de Video/Grafica": "GN22-X2",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 31,
     "precio_tarjeta_alkosto": 5539050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -12224,7 +12464,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "FHD ( 1920x1080 )",
     "Software Incluidos": "Acer Office Manager: Administra y protege múltiples PCs Acer de forma remota en PYMEs.<br>AcerSense / TravelMateSense: Panel que centraliza diagnósticos, actualizaciones y estado del sistema.<br>PurifiedVoice: IA que elimina ruido de fondo y mejora la claridad en videollamadas.<br>Acer ProShield Plus: Seguridad empresarial con cifrado, borrado seguro y unidades encriptadas.<br>Acer Dust Defender: Ventilador reversible que expulsa polvo cada 3 horas para mayor rendimiento y durabilidad.",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 37
   },
   {
     "Identificador del producto": 7707138099519,
@@ -12279,7 +12520,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "134.5 x 77.5 x 9 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 13
   },
   {
     "Identificador del producto": 7705946478236,
@@ -12334,7 +12576,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "123,3 x 72,17 x 8,66 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 8806096338988,
@@ -12389,7 +12632,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "111.1 x 64.5 x 5.98 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 48
   },
   {
     "Identificador del producto": 195950798661,
@@ -12433,7 +12677,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 2
   },
   {
     "Identificador del producto": 198155095313,
@@ -12475,7 +12720,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "8 Mpx",
     "Resolucion Camara Posterior": "13 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 34
   },
   {
     "Identificador del producto": 199485690155,
@@ -12525,7 +12771,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "2 Puertos",
     "Tipo de Computador": "Torre PC Gaming",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": 4711387901526,
@@ -12582,6 +12829,7 @@
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 27,
     "precio_tarjeta_alkosto": 6079050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -12639,7 +12887,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "FHD",
     "Es convertible": "Sí es convertible (2 en 1)",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 195949965593,
@@ -12683,7 +12932,8 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 9
   },
   {
     "Identificador del producto": 74101204681,
@@ -12725,7 +12975,8 @@
     "Colores de Impresion": "Impresión Color",
     "Tamaño del Escaner": "No Tiene Escanner",
     "Referencia del Insumo que requiere": "Papel Fujifilm Instax Wide",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 16
   },
   {
     "Identificador del producto": 198157007970,
@@ -12774,7 +13025,8 @@
     "Nivel de Tareas a Realizar": "Avanzado",
     "No. Puertos USB tipo C": "2 Puertos",
     "Resolucion Camara WEB": "FHD 32 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 25
   },
   {
     "Identificador del producto": 8806096672983,
@@ -12830,7 +13082,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 39
   },
   {
     "Identificador del producto": 199251282935,
@@ -12882,7 +13135,8 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "HP True Vision FHD 1080p",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": 199251550751,
@@ -12935,7 +13189,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara HD HP Wide Vision de 720p",
     "Modelo Tarjeta de Video/Grafica": "NVIDIA® GeForce RTX™ 3050",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": 4711387992012,
@@ -12987,6 +13242,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 43,
     "precio_tarjeta_alkosto": 1964050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -13032,7 +13288,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "8 Mpx",
     "Resolucion Camara Posterior": "8 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 60
   },
   {
     "Identificador del producto": 8806099056476,
@@ -13087,7 +13344,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 198153841103,
@@ -13139,7 +13397,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "5.0 MP",
     "Tipo de Computador": "All in One",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 42
   },
   {
     "Identificador del producto": 6937574851803,
@@ -13196,7 +13455,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 63
   },
   {
     "Identificador del producto": 4711636344517,
@@ -13250,6 +13510,7 @@
     "No. Puertos SD": "0 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 43,
     "precio_tarjeta_alkosto": 2149050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -13309,7 +13570,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "No Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 4711377300087,
@@ -13365,7 +13627,8 @@
     "Resolucion Camara WEB": "HD type (30fps@720p)",
     "Producto en Combo": "Sí es en Combo",
     "Modelo Tarjeta de Video/Grafica": "Iris Xe Graphics",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 36
   },
   {
     "Identificador del producto": 199272186007,
@@ -13419,7 +13682,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "HD",
     "Software Incluidos": "Lenovo AI Now",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 4
   },
   {
     "Identificador del producto": 4711474400871,
@@ -13470,7 +13734,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "QHD 1440p",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 21
   },
   {
     "Identificador del producto": 8806096756140,
@@ -13526,7 +13791,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "167.7 x 96.6 x 5.16 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 53
   },
   {
     "Identificador del producto": 4711636316361,
@@ -13581,6 +13847,7 @@
     "No. Puertos SD": "0 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 32,
     "precio_tarjeta_alkosto": 2178950,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -13619,7 +13886,8 @@
     "Velocidad de Respuesta": "7 Milisegundos",
     "Tasa de Refresco": "100 Hz",
     "Tipo de Panel": "VA",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 6921732899370,
@@ -13676,7 +13944,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "111,1 x 64,4 x 7 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 57
   },
   {
     "Identificador del producto": 8806099047573,
@@ -13731,7 +14000,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806097213840,
@@ -13776,7 +14046,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "13 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 43
   },
   {
     "Identificador del producto": 887276903149,
@@ -13813,7 +14084,8 @@
     "Velocidad de Respuesta": "5 Milisegundos",
     "Tasa de Refresco": "100 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 49
   },
   {
     "Identificador del producto": 8806096525821,
@@ -13851,7 +14123,8 @@
     "Velocidad de Respuesta": "5 Milisegundos",
     "Tasa de Refresco": "100 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 45
   },
   {
     "Identificador del producto": 199251256400,
@@ -13901,7 +14174,8 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara FHD HP True Vision de 1080p",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 51
   },
   {
     "Identificador del producto": 4711474125347,
@@ -13937,7 +14211,8 @@
     "Velocidad de Respuesta": "0.5 Milisegundos",
     "Tasa de Refresco": "200 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 43
   },
   {
     "Identificador del producto": 6921732845452,
@@ -13995,7 +14270,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "144,7 x 83,2 x 5,6 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 199251550669,
@@ -14048,7 +14324,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara HD HP Wide Vision de 720p",
     "Modelo Tarjeta de Video/Grafica": "NVIDIA® GeForce RTX™ 4050",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": 4711121995583,
@@ -14103,7 +14380,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "FHD ( 1920x1080 )",
     "Software Incluidos": "Acer Office Manager: Administra y protege múltiples PCs Acer de forma remota en PYMEs.<br>AcerSense / TravelMateSense: Panel que centraliza diagnósticos, actualizaciones y estado del sistema.<br>PurifiedVoice: IA que elimina ruido de fondo y mejora la claridad en videollamadas.<br>Acer ProShield Plus: Seguridad empresarial con cifrado, borrado seguro y unidades encriptadas.<br>Acer Dust Defender: Ventilador reversible que expulsa polvo cada 3 horas para mayor rendimiento y durabilidad.",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": 6921732899561,
@@ -14160,7 +14438,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "167,5 x 96,5 x 2,79 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 55
   },
   {
     "Identificador del producto": 7705191047645,
@@ -14216,7 +14495,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 199274920081,
@@ -14272,7 +14552,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "720p HD",
     "Modelo Tarjeta de Video/Grafica": "NVIDIA GeForce RTX 3050 6GB",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 4
   },
   {
     "Identificador del producto": 7707138001321,
@@ -14327,7 +14608,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "122.5 x 70.9 x 9 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 11
   },
   {
     "Identificador del producto": 887276836836,
@@ -14364,7 +14646,8 @@
     "Velocidad de Respuesta": "5 Milisegundos",
     "Tasa de Refresco": "60 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 22
   },
   {
     "Identificador del producto": 4711636471572,
@@ -14418,6 +14701,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 0,
     "precio_tarjeta_alkosto": 9599950,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -14477,7 +14761,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "No Tiene Salida Óptica",
     "Tipo de Control Remoto": "Básico",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 27
   },
   {
     "Identificador del producto": 4711636428057,
@@ -14530,6 +14815,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 41,
     "precio_tarjeta_alkosto": 2399050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -14574,7 +14860,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 17
   },
   {
     "Identificador del producto": 4711636344470,
@@ -14628,6 +14915,7 @@
     "No. Puertos SD": "0 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 20,
     "precio_tarjeta_alkosto": 6399050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -14670,7 +14958,8 @@
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "180 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 53
   },
   {
     "Identificador del producto": 8806096502860,
@@ -14725,7 +15014,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "135.6 x 78.3 x 5.75 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 49
   },
   {
     "Identificador del producto": 8806096756027,
@@ -14783,7 +15073,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Básico",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 51
   },
   {
     "Identificador del producto": 6921732818708,
@@ -14836,7 +15127,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "95,7 x 55,8 x 8 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 4711474476005,
@@ -14887,7 +15179,8 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "720p HD",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 27
   },
   {
     "Identificador del producto": 198990788531,
@@ -14943,7 +15236,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara de infrarrojos HP True Vision FHD 1080p.",
     "Modelo Tarjeta de Video/Grafica": "NVIDIA GeForce RTX 5070",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": 4711474132611,
@@ -14981,7 +15275,8 @@
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "120 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 45
   },
   {
     "Identificador del producto": 8806097027560,
@@ -15036,7 +15331,8 @@
     "Alto (Sin Base)": "64.38 Centímetros",
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "111.08 x 64.38 x 7.64 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 47
   },
   {
     "Identificador del producto": 195950851212,
@@ -15086,7 +15382,8 @@
     "Nivel de Tareas a Realizar": "Medio",
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 13803351651,
@@ -15135,7 +15432,8 @@
     "Capacidad Bandeja Salida de Papel": "100 Hojas",
     "Velocidad Copiado Blanco y Negro": "30 Pag X Min",
     "Velocidad Copiado Color": "12 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 7
   },
   {
     "Identificador del producto": 6936520865734,
@@ -15176,7 +15474,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "5 Mpx",
     "Resolucion Camara Posterior": "8 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": 6921732899547,
@@ -15233,7 +15532,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "123,1 x 71,7 x 2,79 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 53
   },
   {
     "Identificador del producto": 195950696967,
@@ -15286,7 +15586,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 199272381761,
@@ -15340,7 +15641,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "5MP",
     "Modelo Tarjeta de Video/Grafica": "RTX 5050 8GB G7",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 27
   },
   {
     "Identificador del producto": 821844146996,
@@ -15393,7 +15695,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara FHD HP True Vision de 1080p",
     "Modelo Tarjeta de Video/Grafica": "Gráficos AMD Radeon",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806097146711,
@@ -15448,7 +15751,8 @@
     "Alto (Sin Base)": "64.7 Centímetros",
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "112,03 x 64,7 x 6 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 48
   },
   {
     "Identificador del producto": 4894461990873,
@@ -15490,7 +15794,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "5 Mpx",
     "Resolucion Camara Posterior": "8 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7705946474528,
@@ -15546,7 +15851,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "8.1 x 55.7 x 95.5 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "No Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 54
   },
   {
     "Identificador del producto": 4711636291781,
@@ -15598,6 +15904,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 36,
     "precio_tarjeta_alkosto": 2149050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -15642,7 +15949,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "5 Mpx",
     "Resolucion Camara Posterior": "8 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 44
   },
   {
     "Identificador del producto": 4711636168076,
@@ -15701,6 +16009,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Modelo Tarjeta de Video/Grafica": "210H",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 21,
     "precio_tarjeta_alkosto": 5149050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -15755,6 +16064,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 19,
     "precio_tarjeta_alkosto": 5199050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -15808,7 +16118,8 @@
     "Capacidad Bandeja Salida de Papel": "1 Hojas",
     "Velocidad Copiado Blanco y Negro": "0 Pag X Min",
     "Velocidad Copiado Color": "0 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 20
   },
   {
     "Identificador del producto": 7707138072468,
@@ -15864,7 +16175,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "166.7 x 95.5 x 8.9 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 39
   },
   {
     "Identificador del producto": 8806097407690,
@@ -15909,7 +16221,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "13 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 43
   },
   {
     "Identificador del producto": 4711377300032,
@@ -15965,7 +16278,8 @@
     "Resolucion Camara WEB": "HD type (30fps@720p)",
     "Producto en Combo": "Sí es en Combo",
     "Modelo Tarjeta de Video/Grafica": "Intel UHD Graphics",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 38
   },
   {
     "Identificador del producto": 195950719024,
@@ -16018,7 +16332,8 @@
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 199272381495,
@@ -16073,7 +16388,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "5 MP",
     "Software Incluidos": "Lenovo AI Now",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 34
   },
   {
     "Identificador del producto": 8806096653982,
@@ -16128,7 +16444,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "167.7 x 96.6 x 5.16 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 45
   },
   {
     "Identificador del producto": 198157552937,
@@ -16179,7 +16496,8 @@
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "HD 720p",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": 887276878997,
@@ -16215,7 +16533,8 @@
     "Velocidad de Respuesta": "0.03 Milisegundos",
     "Tasa de Refresco": "240 Hz",
     "Tipo de Panel": "OLED",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 27
   },
   {
     "Identificador del producto": 8806096553190,
@@ -16254,7 +16573,8 @@
     "Velocidad de Respuesta": "5 Milisegundos",
     "Tasa de Refresco": "120 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 51
   },
   {
     "Identificador del producto": 4711377396622,
@@ -16309,7 +16629,8 @@
     "Resolucion Camara WEB": "HD",
     "Producto en Combo": "Sí es en Combo",
     "Modelo Tarjeta de Video/Grafica": "Intel UHD Graphics",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 44
   },
   {
     "Identificador del producto": 10343970700,
@@ -16357,7 +16678,8 @@
     "Referencia del Insumo que requiere": "Botella Tinta Negra T544120-AL<br>Botella Tinta Cian T544220-AL<br>Botella Tinta Magenta T544320-AL<br>Botella Tinta Amarilla T544420-AL",
     "Capacidad Bandeja Entrada de Papel": "50 Hojas",
     "Capacidad Bandeja Salida de Papel": "100 Hojas",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 27
   },
   {
     "Identificador del producto": 7705191047072,
@@ -16411,7 +16733,8 @@
     "Entrada Coaxial": "No Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 195950396225,
@@ -16456,7 +16779,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806099326449,
@@ -16499,7 +16823,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "13 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 25
   },
   {
     "Identificador del producto": 4711387903117,
@@ -16553,6 +16878,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "1080p FHD",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 28,
     "precio_tarjeta_alkosto": 4069050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -16609,7 +16935,8 @@
     "Resolucion Camara WEB": "1080",
     "Tipo de Computador": "All in One",
     "Software Incluidos": "Safari, Notes, Messages, Keynote, Pages, Numbers, Maps, Mail, Music, Stocks, Weather.",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 195950698374,
@@ -16662,7 +16989,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7705946477086,
@@ -16718,7 +17046,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "144.56 x 83.04 x 8.28 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 54
   },
   {
     "Identificador del producto": 195950086393,
@@ -16759,7 +17088,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 17
   },
   {
     "Identificador del producto": 199896754361,
@@ -16814,6 +17144,7 @@
     "Resolucion Camara WEB": "Cámara FHD de 1080p con cambio automático HDR",
     "Modelo Tarjeta de Video/Grafica": "Tarjeta gráfica Intel 8",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 42,
     "precio_codensa": 2019070,
     "metodos_pago": [
       "codensa"
@@ -16854,7 +17185,8 @@
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "120 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 56
   },
   {
     "Identificador del producto": 195949729355,
@@ -16894,7 +17226,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806096673003,
@@ -16950,7 +17283,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 43
   },
   {
     "Identificador del producto": 6937574837098,
@@ -17006,7 +17340,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 61
   },
   {
     "Identificador del producto": 821844007877,
@@ -17062,7 +17397,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara FHD de 1080p con cambio automático HDR",
     "Modelo Tarjeta de Video/Grafica": "NVIDIA Geforce RTX 5060",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": 195950823738,
@@ -17106,7 +17442,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 2
   },
   {
     "Identificador del producto": 7705946479714,
@@ -17162,7 +17499,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "122,6 x 71,32 x 8,12 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 57
   },
   {
     "Identificador del producto": 6921732899356,
@@ -17217,7 +17555,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "95,4 x 55,4 x 7,7 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 47
   },
   {
     "Identificador del producto": 194252515938,
@@ -17257,7 +17596,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "8 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7705191047638,
@@ -17313,7 +17653,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Básico",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 6932554477844,
@@ -17355,7 +17696,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "8 Mpx",
     "Resolucion Camara Posterior": "13 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 17
   },
   {
     "Identificador del producto": 7707138056802,
@@ -17409,7 +17751,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "111 x 64,4 x 8,8 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 12
   },
   {
     "Identificador del producto": 195950687736,
@@ -17462,7 +17805,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806099025090,
@@ -17516,7 +17860,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 40
   },
   {
     "Identificador del producto": 4894461831381,
@@ -17556,7 +17901,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "2 Mpx",
     "Resolucion Camara Posterior": "5 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 18
   },
   {
     "Identificador del producto": 7707138046421,
@@ -17611,7 +17957,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "144.6 x 83.2 x 7 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 24
   },
   {
     "Identificador del producto": 195950106428,
@@ -17654,7 +18001,8 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 195949898358,
@@ -17705,7 +18053,8 @@
     "Resolucion Camara WEB": "12MP",
     "Tipo de Computador": "All in One",
     "Software Incluidos": "Safari, Notes, Messages, Keynote, Pages, Numbers, Maps, Mail, Music, Stocks, Weather.",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7705946476928,
@@ -17762,7 +18111,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "No Tiene Salida Óptica",
     "Tipo de Control Remoto": "Básico",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 8887549912207,
@@ -17818,7 +18168,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 52
   },
   {
     "Identificador del producto": 195951255118,
@@ -17871,7 +18222,8 @@
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 198701662129,
@@ -17908,7 +18260,8 @@
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "180 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 57
   },
   {
     "Identificador del producto": 8806097146780,
@@ -17963,7 +18316,8 @@
     "Alto (Sin Base)": "108.84 Centímetros",
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "190,12 x 108,84 x 6,14 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 51
   },
   {
     "Identificador del producto": 4711636349789,
@@ -18024,6 +18378,7 @@
     "No. Puertos SD": "0 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 20,
     "precio_tarjeta_alkosto": 14149050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -18082,7 +18437,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "No Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 26
   },
   {
     "Identificador del producto": 10343965270,
@@ -18132,7 +18488,8 @@
     "Capacidad Bandeja Salida de Papel": "100 Hojas",
     "Velocidad Copiado Blanco y Negro": "12 Pag X Min",
     "Velocidad Copiado Color": "6 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 36
   },
   {
     "Identificador del producto": 7705191047614,
@@ -18188,7 +18545,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Básico",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7708803796849,
@@ -18231,7 +18589,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "8 Mpx",
     "Resolucion Camara Posterior": "13 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 11
   },
   {
     "Identificador del producto": 4711474145772,
@@ -18281,7 +18640,8 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "HD 720p",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 39
   },
   {
     "Identificador del producto": 4711636349741,
@@ -18335,6 +18695,7 @@
     "No. Puertos SD": "0 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 15,
     "precio_tarjeta_alkosto": 2999050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -18388,6 +18749,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 41,
     "precio_tarjeta_alkosto": 1799050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -18433,7 +18795,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "5 Mpx",
     "Resolucion Camara Posterior": "8 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 46
   },
   {
     "Identificador del producto": 887276939162,
@@ -18471,7 +18834,8 @@
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "165 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 199251478611,
@@ -18523,7 +18887,8 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara FHD HP True Vision de 1080p",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 40
   },
   {
     "Identificador del producto": 198154551063,
@@ -18573,7 +18938,8 @@
     "Nivel de Tareas a Realizar": "Avanzado",
     "No. Puertos USB tipo C": "3 Puertos",
     "Resolucion Camara WEB": "Full HD IR",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 19
   },
   {
     "Identificador del producto": 7705946476935,
@@ -18630,7 +18996,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "95.72 x 55.59 x 7.32 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 37
   },
   {
     "Identificador del producto": 8806096334713,
@@ -18686,7 +19053,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "171,1 x 98,2 x 4,71 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 44
   },
   {
     "Identificador del producto": 4711121979088,
@@ -18723,7 +19091,8 @@
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "120 Hz",
     "Tipo de Panel": "VA",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 56
   },
   {
     "Identificador del producto": 195950696028,
@@ -18776,7 +19145,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 887276768939,
@@ -18811,7 +19181,8 @@
     "Contraste": "1.000.000:1",
     "Velocidad de Respuesta": "0.03 Milisegundos",
     "Tasa de Refresco": "240 Hz",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 42
   },
   {
     "Identificador del producto": 7705946480024,
@@ -18868,7 +19239,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "111,12 x 64,07 x 8,14 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 62
   },
   {
     "Identificador del producto": 4711474145765,
@@ -18918,7 +19290,8 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "HD 720p",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 35
   },
   {
     "Identificador del producto": 199251256455,
@@ -18969,7 +19342,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara FHD HP True Vision de 1080p",
     "Modelo Tarjeta de Video/Grafica": "Radeon 860M",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": 195950824193,
@@ -19013,7 +19387,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 2
   },
   {
     "Identificador del producto": 7707138059568,
@@ -19072,7 +19447,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Básico",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 18
   },
   {
     "Identificador del producto": 195950080834,
@@ -19123,7 +19499,8 @@
     "Resolucion Camara WEB": "12MP",
     "Tipo de Computador": "All in One",
     "Software Incluidos": "Safari, Notes, Messages, Keynote, Pages, Numbers, Maps, Mail, Music, Stocks, Weather.",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7705191046334,
@@ -19179,7 +19556,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "1447 x 842 x 86 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 5
   },
   {
     "Identificador del producto": 4711474152237,
@@ -19230,7 +19608,8 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 51
   },
   {
     "Identificador del producto": 7705946479929,
@@ -19287,7 +19666,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "129,45 x 75,47 x 8,16 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 58
   },
   {
     "Identificador del producto": 8806097960874,
@@ -19342,7 +19722,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": 195950854039,
@@ -19392,7 +19773,8 @@
     "Nivel de Tareas a Realizar": "Medio",
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 197498938837,
@@ -19428,7 +19810,8 @@
     "Velocidad de Respuesta": "5 Milisegundos",
     "Tasa de Refresco": "100 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 49
   },
   {
     "Identificador del producto": 7705191046358,
@@ -19484,7 +19867,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "1116 x 642 x 7 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 3
   },
   {
     "Identificador del producto": 8887549912238,
@@ -19540,7 +19924,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 49
   },
   {
     "Identificador del producto": 6932554444525,
@@ -19582,7 +19967,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "5 Mpx",
     "Resolucion Camara Posterior": "8 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": 887276931982,
@@ -19621,7 +20007,8 @@
     "Velocidad de Respuesta": "0.03 Milisegundos",
     "Tasa de Refresco": "240 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 51
   },
   {
     "Identificador del producto": 7705946476881,
@@ -19676,7 +20063,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "8,02 x 42,36 x 71,6 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "No Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 37
   },
   {
     "Identificador del producto": 198990788494,
@@ -19729,7 +20117,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "HD HP Wide Vision de 720p",
     "Modelo Tarjeta de Video/Grafica": "NVIDIA Geforce RTX 3050",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 36
   },
   {
     "Identificador del producto": 6937574832598,
@@ -19786,7 +20175,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 195950395785,
@@ -19831,7 +20221,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7705946476980,
@@ -19887,7 +20278,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "122.6 x 70.6 x 7.4 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 56
   },
   {
     "Identificador del producto": 8806096114681,
@@ -19926,7 +20318,8 @@
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "180 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 53
   },
   {
     "Identificador del producto": 4711474878953,
@@ -19977,7 +20370,8 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "FHD ( 1920x1080 )",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 44
   },
   {
     "Identificador del producto": 7707138016103,
@@ -20035,7 +20429,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Básico",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 6
   },
   {
     "Identificador del producto": 8887549895906,
@@ -20089,7 +20484,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "122.6 x 70.94 x 8.18 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 64
   },
   {
     "Identificador del producto": 198155678141,
@@ -20131,7 +20527,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "8 Mpx",
     "Resolucion Camara Posterior": "8 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 41
   },
   {
     "Identificador del producto": 198155778049,
@@ -20184,7 +20581,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "5 MP",
     "Es convertible": "Sí es convertible (2 en 1)",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 38
   },
   {
     "Identificador del producto": 4711474621719,
@@ -20240,7 +20638,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "FHD ( 1920x1080 )",
     "Modelo Tarjeta de Video/Grafica": "16 GB Dedicada GDDR7",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": 195950087772,
@@ -20281,7 +20680,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806096332955,
@@ -20338,7 +20738,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "145,6 x 84 x 2,97 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 39
   },
   {
     "Identificador del producto": 195950075779,
@@ -20390,7 +20791,8 @@
     "Resolucion Camara WEB": "12MP",
     "Tipo de Computador": "All in One",
     "Software Incluidos": "Safari, Notes, Messages, Keynote, Pages, Numbers, Maps, Mail, Music, Stocks, Weather.",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 195950403695,
@@ -20435,7 +20837,8 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 6937574806865,
@@ -20472,7 +20875,8 @@
     "Velocidad de Respuesta": "5 Milisegundos",
     "Tasa de Refresco": "100 Hz",
     "Tipo de Panel": "VA",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 195950712742,
@@ -20526,7 +20930,8 @@
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 6937574806650,
@@ -20563,7 +20968,8 @@
     "Velocidad de Respuesta": "0.001 Milisegundos",
     "Tasa de Refresco": "300 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 4894461826912,
@@ -20606,7 +21012,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "8 Mpx",
     "Resolucion Camara Posterior": "8 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 34
   },
   {
     "Identificador del producto": 8806096700631,
@@ -20662,7 +21069,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 44
   },
   {
     "Identificador del producto": 195908302926,
@@ -20713,7 +21121,8 @@
     "Resolucion Escaner": "Hasta 1200 x 1200 ppp",
     "Velocidad Copiado Blanco y Negro": "13 Pag X Min",
     "Velocidad Copiado Color": "6 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 38
   },
   {
     "Identificador del producto": 8806096331163,
@@ -20769,7 +21178,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "144,9 x 83,2 x 4,59 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 41
   },
   {
     "Identificador del producto": 887276990354,
@@ -20806,7 +21216,8 @@
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "60 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 34
   },
   {
     "Identificador del producto": 7707138062209,
@@ -20860,7 +21271,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "1345 x 775 x 86 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 11
   },
   {
     "Identificador del producto": 196068963576,
@@ -20909,7 +21321,8 @@
     "Referencia del Insumo que requiere": "Botellas de tinta HP GT53 Negro / GT52 Cyan / Magenta / Amarilla",
     "Capacidad Bandeja Entrada de Papel": "100 Hojas",
     "Capacidad Bandeja Salida de Papel": "30 Hojas",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 35
   },
   {
     "Identificador del producto": 8806097808077,
@@ -20952,7 +21365,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "8 Mpx",
     "Resolucion Camara Posterior": "2 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": 8806096676806,
@@ -21008,7 +21422,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 40
   },
   {
     "Identificador del producto": 8806096375532,
@@ -21064,7 +21479,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "171,2 x 98,2 x 2,48 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 40
   },
   {
     "Identificador del producto": 195950825343,
@@ -21108,7 +21524,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7705946476942,
@@ -21164,7 +21581,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "111.1 x 64.46 x 7.4 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 58
   },
   {
     "Identificador del producto": 195950694147,
@@ -21217,7 +21635,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 4711636390484,
@@ -21268,6 +21687,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "desktop",
+    "descuento_porcentaje": 27,
     "precio_tarjeta_alkosto": 3799050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -21322,7 +21742,8 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "5MP",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 15
   },
   {
     "Identificador del producto": 195949898464,
@@ -21374,7 +21795,8 @@
     "Resolucion Camara WEB": "12MP",
     "Tipo de Computador": "All in One",
     "Software Incluidos": "Safari, Notes, Messages, Keynote, Pages, Numbers, Maps, Mail, Music, Stocks, Weather.",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 195950853568,
@@ -21424,7 +21846,8 @@
     "Nivel de Tareas a Realizar": "Medio",
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 4711387908259,
@@ -21477,6 +21900,7 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 27,
     "precio_tarjeta_alkosto": 4499050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -21524,7 +21948,8 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806096173077,
@@ -21562,7 +21987,8 @@
     "Velocidad de Respuesta": "5 Milisegundos",
     "Tasa de Refresco": "60 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": 198156775047,
@@ -21617,7 +22043,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "FHD 1080p",
     "Modelo Tarjeta de Video/Grafica": "NVIDIA GeForce RTX™ 5050 8GB",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 21
   },
   {
     "Identificador del producto": 8806099058029,
@@ -21672,7 +22099,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 199272381563,
@@ -21725,7 +22153,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "5MP",
     "Software Incluidos": "Lenovo AI Now",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 24
   },
   {
     "Identificador del producto": 8806097953401,
@@ -21780,7 +22209,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "No Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": 195950404654,
@@ -21825,7 +22255,8 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 199764929228,
@@ -21880,7 +22311,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "FHD 1080p y arreglo de dos micrófonos integrados",
     "Modelo Tarjeta de Video/Grafica": "Intel Arc 140T GPU",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 27
   },
   {
     "Identificador del producto": 4711474935700,
@@ -21933,7 +22365,8 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "FHD ( 1920 x 1080 )",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 39
   },
   {
     "Identificador del producto": 7705946476911,
@@ -21990,7 +22423,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "No Tiene Salida Óptica",
     "Tipo de Control Remoto": "Básico",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 198153841134,
@@ -22041,7 +22475,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "5MP",
     "Tipo de Computador": "All in One",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": 8806099320256,
@@ -22097,7 +22532,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": 198957224317,
@@ -22133,7 +22569,8 @@
     "Contraste": "3000:1",
     "Velocidad de Respuesta": "5 Milisegundos",
     "Tasa de Refresco": "120 Hz",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 43
   },
   {
     "Identificador del producto": 4711636390507,
@@ -22184,6 +22621,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "desktop",
+    "descuento_porcentaje": 20,
     "precio_tarjeta_alkosto": 7799050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -22223,7 +22661,8 @@
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "144 Hz",
     "Tipo de Panel": "VA",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": 4711474621702,
@@ -22280,7 +22719,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "FHD ( 1920 x 1080 )",
     "Modelo Tarjeta de Video/Grafica": "24 GB Dedicada GDDR7",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 26
   },
   {
     "Identificador del producto": 195950395341,
@@ -22325,7 +22765,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 199251376313,
@@ -22379,7 +22820,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara de privacidad FHD HP True Vision inclinable de 1080p",
     "Tipo de Computador": "All in One",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 43
   },
   {
     "Identificador del producto": 4711636393591,
@@ -22430,6 +22872,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "desktop",
+    "descuento_porcentaje": 17,
     "precio_tarjeta_alkosto": 4799050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -22487,7 +22930,8 @@
     "Resolucion Camara WEB": "FHD IR",
     "Producto en Combo": "Sí es en Combo",
     "Software Incluidos": "Intel Connectivity Performance Suite + Lenovo AI Now",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 11
   },
   {
     "Identificador del producto": 4711474621757,
@@ -22542,7 +22986,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "FHD ( 1920x1080 )",
     "Modelo Tarjeta de Video/Grafica": "6GB Dedicada GDDR6 VRAM",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 35
   },
   {
     "Identificador del producto": 4711474400925,
@@ -22591,7 +23036,8 @@
     "No. Puertos USB": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "FHD 1080p",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 49
   },
   {
     "Identificador del producto": 194252516744,
@@ -22631,7 +23077,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "8 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806097960942,
@@ -22686,7 +23133,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": 195950690552,
@@ -22739,7 +23187,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 198990459127,
@@ -22795,7 +23244,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara de infrarrojos HP True Vision FHD 1080p.",
     "Modelo Tarjeta de Video/Grafica": "NVIDIA GeForce RTX 5080",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 18
   },
   {
     "Identificador del producto": 4711474737496,
@@ -22846,7 +23296,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "2MP ( 1920X1080 )",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 36
   },
   {
     "Identificador del producto": 8806097027331,
@@ -22901,7 +23352,8 @@
     "Alto (Sin Base)": "55.88 Centímetros",
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "95.78 x 55.88 x 7.63 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 195950086850,
@@ -22942,7 +23394,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 17
   },
   {
     "Identificador del producto": 195950489811,
@@ -22998,7 +23451,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
     "Software Incluidos": "Apple Intelligence, Siri, Mensajes, FaceTime, Recordatorios, Notas, Fotos, Contraseñas, Keynote, Pages, Numbers",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 198155958762,
@@ -23053,6 +23507,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "HD",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 38,
     "precio_codensa": 2319070,
     "precio_master_bines": 2399070,
     "metodos_pago": [
@@ -23109,7 +23564,8 @@
     "Resolucion Escaner": "1200 x 2400 dpi",
     "Velocidad Copiado Blanco y Negro": "7.7 Pag X Min",
     "Velocidad Copiado Color": "3.8 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 26
   },
   {
     "Identificador del producto": 840414634886,
@@ -23141,7 +23597,8 @@
     "Fondo_1": "8 Centímetros",
     "Tipo de Software": "Amazon",
     "Área Activa de la Tabla": "Pantalla",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 4711636109307,
@@ -23177,7 +23634,8 @@
     "Velocidad de Respuesta": "0.3 Milisegundos",
     "Tasa de Refresco": "240 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 195950698848,
@@ -23230,7 +23688,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806096331200,
@@ -23285,7 +23744,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "223 x 127.7 x 4.99 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 43
   },
   {
     "Identificador del producto": 4711636349765,
@@ -23339,6 +23799,7 @@
     "No. Puertos SD": "0 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 41,
     "precio_tarjeta_alkosto": 2399050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -23398,7 +23859,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Básico",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7707138006982,
@@ -23452,7 +23914,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "95,6 x 55,6 x 8,7 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 17
   },
   {
     "Identificador del producto": 4894461995199,
@@ -23493,7 +23956,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "5 Mpx",
     "Resolucion Camara Posterior": "8 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 51
   },
   {
     "Identificador del producto": 4711474854384,
@@ -23530,7 +23994,8 @@
     "Velocidad de Respuesta": "0.5 Milisegundos",
     "Tasa de Refresco": "240 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 42
   },
   {
     "Identificador del producto": 7707138057861,
@@ -23582,7 +24047,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "95,5 x 55,7 x 7,5 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 4
   },
   {
     "Identificador del producto": 199896331081,
@@ -23636,7 +24102,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara FHD HP True Vision de 1080p",
     "Modelo Tarjeta de Video/Grafica": "Tarjeta gráfica Intel 8",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 38
   },
   {
     "Identificador del producto": 8806099056469,
@@ -23691,7 +24158,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7707138034404,
@@ -23747,7 +24215,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "144.5 x 83.1 x 9.1 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 41
   },
   {
     "Identificador del producto": 195949977114,
@@ -23788,7 +24257,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 11
   },
   {
     "Identificador del producto": 4711636151917,
@@ -23841,6 +24311,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Software Incluidos": "Office 365 y McAfee por un mes",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 47,
     "precio_tarjeta_alkosto": 1479050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -23898,7 +24369,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "HP True Vision FHD 1080p",
     "Modelo Tarjeta de Video/Grafica": "NVIDIA GeForce RTX 5070",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 17
   },
   {
     "Identificador del producto": 195950824650,
@@ -23942,7 +24414,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 6937574852343,
@@ -23999,7 +24472,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 53
   },
   {
     "Identificador del producto": 7707138090561,
@@ -24055,7 +24529,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Básico",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 20
   },
   {
     "Identificador del producto": 199896331050,
@@ -24109,7 +24584,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara FHD HP True Vision de 1080p",
     "Modelo Tarjeta de Video/Grafica": "Tarjeta gráfica Intel 8",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 46
   },
   {
     "Identificador del producto": 8806096525135,
@@ -24163,7 +24639,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "223 x 127.7 x 4.99 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 60
   },
   {
     "Identificador del producto": 13803351521,
@@ -24212,7 +24689,8 @@
     "Capacidad Bandeja Salida de Papel": "100 Hojas",
     "Velocidad Copiado Blanco y Negro": "30 Pag X Min",
     "Velocidad Copiado Color": "12 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 14
   },
   {
     "Identificador del producto": 199251250569,
@@ -24265,7 +24743,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "HD HP Wide Vision de 720p",
     "Modelo Tarjeta de Video/Grafica": "NVIDIA GeForce RTX 5050",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": 195949978036,
@@ -24306,7 +24785,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 11
   },
   {
     "Identificador del producto": 198990787596,
@@ -24357,7 +24837,8 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara HP True Vision 720p HD",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 37
   },
   {
     "Identificador del producto": 6921732899486,
@@ -24415,7 +24896,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "218 x 124,7 x 6,1 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 64
   },
   {
     "Identificador del producto": 4711474491299,
@@ -24471,7 +24953,8 @@
     "Resolucion Camara WEB": "1080 FHD",
     "Software Incluidos": "No incluye Microsoft Office 365",
     "Modelo Tarjeta de Video/Grafica": "6GB Dedicada- GDDR6 VRAM",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 36
   },
   {
     "Identificador del producto": 195949963759,
@@ -24511,7 +24994,8 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 11
   },
   {
     "Identificador del producto": 199251282904,
@@ -24563,7 +25047,8 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "2 Puertos",
     "Resolucion Camara WEB": "Cámara FHD HP True Vision de 1080p",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 47
   },
   {
     "Identificador del producto": 194252515662,
@@ -24603,7 +25088,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "8 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 198156391339,
@@ -24644,7 +25130,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "2 Mpx",
     "Resolucion Camara Posterior": "8 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 198990788425,
@@ -24697,7 +25184,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara HD HP Wide Vision de 720p.",
     "Modelo Tarjeta de Video/Grafica": "NVIDIA GeForce RTX 4050 6GB VRAM",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 4711636438810,
@@ -24754,6 +25242,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Modelo Tarjeta de Video/Grafica": "NVIDIA GeForce RTX 4050",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 0,
     "precio_tarjeta_alkosto": 6499000,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -24810,7 +25299,8 @@
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "HD 720p",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 43
   },
   {
     "Identificador del producto": 195950690088,
@@ -24863,7 +25353,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 4711636390491,
@@ -24914,6 +25405,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "desktop",
+    "descuento_porcentaje": 42,
     "precio_tarjeta_alkosto": 1649050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -24971,7 +25463,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "96,7 x 56,4 x 5,71 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 44
   },
   {
     "Identificador del producto": 4711121699375,
@@ -25007,7 +25500,8 @@
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "180 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 43
   },
   {
     "Identificador del producto": 7705946478663,
@@ -25063,7 +25557,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "71,57 x 42,13 x 8,45 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 45
   },
   {
     "Identificador del producto": 7705946479707,
@@ -25119,7 +25614,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "111,12 x 64,56 x 8,1 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 59
   },
   {
     "Identificador del producto": 4711474876744,
@@ -25171,7 +25667,8 @@
     "No. Salidas de Audio": "2 Puertos",
     "Tipo de Computador": "Torre PC Gaming",
     "Modelo Tarjeta de Video/Grafica": "12 GB Dedicada GDDR7",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 40
   },
   {
     "Identificador del producto": 8887549912184,
@@ -25227,7 +25724,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 45
   },
   {
     "Identificador del producto": 6921732898441,
@@ -25284,7 +25782,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "95,6 x 55,9 x 7,2 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 54
   },
   {
     "Identificador del producto": 7700005602942,
@@ -25324,7 +25823,8 @@
     "Referencia del Insumo que requiere": "FUJIFILM Película instantánea instax™ mini(se vende por separado)",
     "Capacidad Bandeja Entrada de Papel": "10 Hojas",
     "Capacidad Bandeja Salida de Papel": "10 Hojas",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": 8806097909026,
@@ -25379,7 +25879,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "90,63 x 51,93 x 7,48 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "No Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 47
   },
   {
     "Identificador del producto": 195950699319,
@@ -25431,7 +25932,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 4711636438803,
@@ -25488,6 +25990,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Modelo Tarjeta de Video/Grafica": "NVIDIA GeForce RTX 4050",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 25,
     "precio_tarjeta_alkosto": 4499050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -25550,6 +26053,7 @@
     "No. Puertos SD": "0 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 23,
     "precio_tarjeta_alkosto": 4799050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -25605,7 +26109,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7705946476898,
@@ -25642,7 +26147,8 @@
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "120 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 46
   },
   {
     "Identificador del producto": 196786269813,
@@ -25693,7 +26199,8 @@
     "Capacidad Bandeja Salida de Papel": "30 Hojas",
     "Velocidad Copiado Blanco y Negro": "6 Pag X Min",
     "Velocidad Copiado Color": "5 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 36
   },
   {
     "Identificador del producto": 4711636390460,
@@ -25744,6 +26251,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "desktop",
+    "descuento_porcentaje": 43,
     "precio_tarjeta_alkosto": 2099050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -25793,7 +26301,8 @@
     "Referencia del Insumo que requiere": "Cartucho de Tinta HP 712",
     "Capacidad Bandeja Entrada de Papel": "1 Hojas",
     "Capacidad Bandeja Salida de Papel": "1 Hojas",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 34
   },
   {
     "Identificador del producto": 199274439064,
@@ -25846,7 +26355,8 @@
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "720P HD",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 39
   },
   {
     "Identificador del producto": 8806096756126,
@@ -25903,7 +26413,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "145.5 x 84.1 x 6.79 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 194253138686,
@@ -25954,7 +26465,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara FaceTime HD de 720p",
     "Software Incluidos": "Keynote/ Numbers/ Pages/ Face Time / Mail / iMessage",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7705946480857,
@@ -26011,7 +26523,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 198156391483,
@@ -26052,7 +26565,8 @@
     "Conexion a Datos": "WiFi | Red Celular 4G",
     "Resolucion Camara Frontal": "2 Mpx",
     "Resolucion Camara Posterior": "8 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 57
   },
   {
     "Identificador del producto": 195950689143,
@@ -26105,7 +26619,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7705946479738,
@@ -26161,7 +26676,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "156,62 x 87,26 x 8,27 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 54
   },
   {
     "Identificador del producto": 195949988783,
@@ -26205,7 +26721,8 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 14
   },
   {
     "Identificador del producto": 195950401653,
@@ -26250,7 +26767,8 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 4711636232272,
@@ -26307,6 +26825,7 @@
     "Tipo de Computador": "Torre PC Gaming",
     "Modelo Tarjeta de Video/Grafica": "AMD® Radeon™ RX 9060 XT",
     "tipo_producto": "desktop",
+    "descuento_porcentaje": 23,
     "precio_tarjeta_alkosto": 9799050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -26365,7 +26884,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 40
   },
   {
     "Identificador del producto": 195950852622,
@@ -26415,7 +26935,8 @@
     "Nivel de Tareas a Realizar": "Medio",
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 196804839974,
@@ -26467,7 +26988,8 @@
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Full HD",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 41
   },
   {
     "Identificador del producto": 195950691023,
@@ -26519,7 +27041,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 821844165904,
@@ -26572,7 +27095,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Camara FHD 1080p with HDR Auto Switch",
     "Modelo Tarjeta de Video/Grafica": "Gráficos AMD Radeon",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 49
   },
   {
     "Identificador del producto": 887276935430,
@@ -26609,7 +27133,8 @@
     "Velocidad de Respuesta": "5 Milisegundos",
     "Tasa de Refresco": "120 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 195950852158,
@@ -26659,7 +27184,8 @@
     "Nivel de Tareas a Realizar": "Medio",
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 887276935638,
@@ -26695,7 +27221,8 @@
     "Velocidad de Respuesta": "5 Milisegundos",
     "Tasa de Refresco": "120 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 57
   },
   {
     "Identificador del producto": 197029614254,
@@ -26731,7 +27258,8 @@
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "165 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 60
   },
   {
     "Identificador del producto": 4711474621948,
@@ -26784,7 +27312,8 @@
     "No. Salidas de Audio": "2 Puertos",
     "Tipo de Computador": "Torre PC Gaming",
     "Modelo Tarjeta de Video/Grafica": "12GB GDDR7",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 46
   },
   {
     "Identificador del producto": 8806096757956,
@@ -26840,7 +27369,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "No Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 40
   },
   {
     "Identificador del producto": 198828758040,
@@ -26891,7 +27421,8 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Webcam HD 720p",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 19
   },
   {
     "Identificador del producto": 8806096333051,
@@ -26946,7 +27477,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "1929 x 1108 x 519 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 54
   },
   {
     "Identificador del producto": 199251282942,
@@ -26998,7 +27530,8 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara de infrarrojos HP True Vision FHD 1080p",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": 8806096608692,
@@ -27053,7 +27586,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "123.6 x 71.8 x 6.79 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 52
   },
   {
     "Identificador del producto": 195950401172,
@@ -27098,7 +27632,8 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 195949987243,
@@ -27140,7 +27675,8 @@
     "Conexion a Datos": "Red Celular 5G | WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8887549912160,
@@ -27196,7 +27732,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 47
   },
   {
     "Identificador del producto": 198990788449,
@@ -27249,7 +27786,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara HD HP Wide Vision de 720p.",
     "Modelo Tarjeta de Video/Grafica": "NVIDIA® GeForce RTX™ 4050 (GDDR6 de 6 GB dedicada)",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 40
   },
   {
     "Identificador del producto": 6921732845513,
@@ -27308,7 +27846,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "189,2 x 108,8 x 5,79 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 53
   },
   {
     "Identificador del producto": 7705191047867,
@@ -27364,7 +27903,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 4711636438797,
@@ -27421,6 +27961,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Modelo Tarjeta de Video/Grafica": "NVIDIA GeForce RTX 3050",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 30,
     "precio_tarjeta_alkosto": 3699050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -27479,7 +28020,8 @@
     "Resolucion Camara WEB": "Cámara HD HP Wide Vision de 720p.",
     "Producto en Combo": "Sí es en Combo",
     "Modelo Tarjeta de Video/Grafica": "NVIDIA® GeForce RTX™ 4060",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 45
   },
   {
     "Identificador del producto": 195950400694,
@@ -27524,7 +28066,8 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8806096609460,
@@ -27580,7 +28123,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": 6937574806643,
@@ -27617,7 +28161,8 @@
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "180 Hz",
     "Tipo de Panel": "VA",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 41
   },
   {
     "Identificador del producto": 8806096579626,
@@ -27654,7 +28199,8 @@
     "Velocidad de Respuesta": "0.03 Milisegundos",
     "Tasa de Refresco": "240 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": 199896923705,
@@ -27707,7 +28253,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara FHD HP True Vision de 1080p",
     "Modelo Tarjeta de Video/Grafica": "Gráficos AMD Radeon",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 38
   },
   {
     "Identificador del producto": 198155958878,
@@ -27760,7 +28307,8 @@
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "HD",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 41
   },
   {
     "Identificador del producto": 198390000998,
@@ -27812,7 +28360,8 @@
     "Resolucion Escaner": "1200 x 2400 dpi",
     "Velocidad Copiado Blanco y Negro": "11 Pag X Min",
     "Velocidad Copiado Color": "5.7 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 26
   },
   {
     "Identificador del producto": 8806097146674,
@@ -27868,7 +28417,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "9675 x 5614 x 597 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "No Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 53
   },
   {
     "Identificador del producto": 4711636428019,
@@ -27922,6 +28472,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 26,
     "precio_tarjeta_alkosto": 5099050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -27980,7 +28531,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "96.2 x 54.1 x 8.5 Centímetros",
     "Entrada Coaxial": "No Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 3
   },
   {
     "Identificador del producto": 199251256875,
@@ -28032,7 +28584,8 @@
     "Resolucion Camara WEB": "FHD HP True Vision de 1080p",
     "Es convertible": "Sí es convertible (2 en 1)",
     "Modelo Tarjeta de Video/Grafica": "Gráficos Intel Iris Xe8",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": 197498936314,
@@ -28070,7 +28623,8 @@
     "Velocidad de Respuesta": "5 Milisegundos",
     "Tasa de Refresco": "100 Hz",
     "Tipo de Panel": "IPS",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": 821844007860,
@@ -28126,7 +28680,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara FHD de 1080p con cambio automático HDR",
     "Modelo Tarjeta de Video/Grafica": "NVIDIA Geforce RTX 5050",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 35
   },
   {
     "Identificador del producto": 6937574810107,
@@ -28181,7 +28736,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "111,1 x 64,4 x 7 Centímetros",
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 52
   },
   {
     "Identificador del producto": 8806097732297,
@@ -28227,7 +28783,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "13 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 26
   },
   {
     "Identificador del producto": 7707138008214,
@@ -28284,7 +28841,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 9
   },
   {
     "Identificador del producto": 195950718553,
@@ -28338,7 +28896,8 @@
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7705946480864,
@@ -28395,7 +28954,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 45
   },
   {
     "Identificador del producto": 10343958067,
@@ -28446,7 +29006,8 @@
     "Resolucion Escaner": "600 x 1200 dpi",
     "Velocidad Copiado Blanco y Negro": "7 Pag X Min",
     "Velocidad Copiado Color": "1.7 Pag X Min",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": 4711121995538,
@@ -28502,7 +29063,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "1280x720",
     "Software Incluidos": "Acer Office Manager: Administra y protege múltiples PCs Acer de forma remota en PYMEs.<br>PurifiedVoice: IA que elimina ruido de fondo y mejora la claridad en videollamadas.<br>Acer ProShield Plus: Seguridad empresarial con cifrado, borrado seguro y unidades encriptadas.<br>Acer Dust Defender: Ventilador reversible que expulsa polvo cada 6 horas para mayor rendimiento y durabilidad.",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": 195950490756,
@@ -28558,7 +29120,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
     "Software Incluidos": "Apple Intelligence, Siri, Mensajes, FaceTime, Recordatorios, Notas, Fotos, Contraseñas, Keynote, Pages, Numbers",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 4711474622907,
@@ -28611,7 +29174,8 @@
     "No. Salidas de Audio": "2 Puertos",
     "Resolucion Camara WEB": "2MP ( 1920X1080 )",
     "Tipo de Computador": "All in One",
-    "tipo_producto": "desktop"
+    "tipo_producto": "desktop",
+    "descuento_porcentaje": 45
   },
   {
     "Identificador del producto": 199485690087,
@@ -28663,7 +29227,8 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "Cámara FHD HP True Vision de 1080p",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 26
   },
   {
     "Identificador del producto": 195949730504,
@@ -28703,7 +29268,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "12 Mpx",
     "Resolucion Camara Posterior": "12 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7705191047249,
@@ -28759,7 +29325,8 @@
     "Medidas del TV. Sin la base (Ancho x Alto x Fondo)": "71,8 x 42 x 6,8 Centímetros",
     "Entrada Coaxial": "No Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 199764929204,
@@ -28814,7 +29381,8 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "FHD 1080p y arreglo de dos micrófonos integrados",
     "Modelo Tarjeta de Video/Grafica": "Intel Graphics",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 26
   },
   {
     "Identificador del producto": 7705946478267,
@@ -28850,7 +29418,8 @@
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "180 Hz",
     "Tipo de Panel": "VA",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 46
   },
   {
     "Identificador del producto": 197029618238,
@@ -28885,7 +29454,8 @@
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "165 Hz",
     "Tipo de Panel": "VA",
-    "tipo_producto": "monitor"
+    "tipo_producto": "monitor",
+    "descuento_porcentaje": 54
   },
   {
     "Identificador del producto": 4711387947241,
@@ -28942,6 +29512,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Producto en Combo": "Sí es en Combo",
     "tipo_producto": "laptop",
+    "descuento_porcentaje": 32,
     "precio_tarjeta_alkosto": 23799050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -28998,7 +29569,8 @@
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 7705946480741,
@@ -29038,7 +29610,8 @@
     "Conexion a Datos": "WiFi",
     "Resolucion Camara Frontal": "5 Mpx",
     "Resolucion Camara Posterior": "13 Mpx",
-    "tipo_producto": "tablet"
+    "tipo_producto": "tablet",
+    "descuento_porcentaje": 45
   },
   {
     "Identificador del producto": 10343963351,
@@ -29088,7 +29661,8 @@
     "Referencia del Insumo que requiere": "T49M120 Botella de Tinta Negro, T49M220 (Cian),T49M320 (Magenta), T49M420 (Amarilla)",
     "Capacidad Bandeja Entrada de Papel": "150 Hojas",
     "Capacidad Bandeja Salida de Papel": "20 Hojas",
-    "tipo_producto": "impresora"
+    "tipo_producto": "impresora",
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": 195950714623,
@@ -29142,7 +29716,8 @@
     "No. Puertos SD": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "12 MP",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 0
   },
   {
     "Identificador del producto": 8887549912214,
@@ -29198,7 +29773,8 @@
     "Entrada Coaxial": "Si Tiene Entrada Coaxial",
     "Salida Optica": "Si Tiene Salida Óptica",
     "Tipo de Control Remoto": "Inteligente",
-    "tipo_producto": "televisor"
+    "tipo_producto": "televisor",
+    "descuento_porcentaje": 53
   },
   {
     "Identificador del producto": 199274865467,
@@ -29254,6 +29830,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Resolucion Camara WEB": "720p HD",
     "Modelo Tarjeta de Video/Grafica": "NVIDIA GeForce RTX 5060 8GB",
-    "tipo_producto": "laptop"
+    "tipo_producto": "laptop",
+    "descuento_porcentaje": 7
   }
 ]
