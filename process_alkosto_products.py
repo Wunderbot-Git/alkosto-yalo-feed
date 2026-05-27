@@ -182,6 +182,13 @@ def convert_to_json(df, output_file):
                     record['tipo_producto'] = tipo
                     break
 
+        # Derive discount percentage: ((lista - venta) / lista) * 100, rounded.
+        # Kept as an integer for clean facet/filter values in Algolia.
+        lista = record.get('Precio de lista')
+        venta = record.get('Precio de venta')
+        if isinstance(lista, (int, float)) and isinstance(venta, (int, float)) and lista > 0:
+            record['descuento_porcentaje'] = round((lista - venta) / lista * 100)
+
         pmp = record.get('Precio por método de pago')
         if not isinstance(pmp, str) or not pmp:
             continue
