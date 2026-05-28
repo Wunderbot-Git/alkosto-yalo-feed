@@ -81,11 +81,15 @@ def filter_by_categories(input_file, prefixes, excluded, output_file):
     print(f"Filtering products by categories...")
 
     # Read CSV with pandas, handling encoding properly
+    # Force product ID to string so SKUs that start with '0' keep their leading
+    # zeros. Without this, pandas types the column as int64 and silently drops
+    # the leading 0 (breaks the EAN itself and the derived CDN image URLs).
+    sku_dtype = {'Identificador del producto': str}
     try:
-        df = pd.read_csv(input_file, low_memory=False, encoding='utf-8')
+        df = pd.read_csv(input_file, low_memory=False, encoding='utf-8', dtype=sku_dtype)
     except UnicodeDecodeError:
         try:
-            df = pd.read_csv(input_file, low_memory=False, encoding='latin-1')
+            df = pd.read_csv(input_file, low_memory=False, encoding='latin-1', dtype=sku_dtype)
         except Exception as e:
             print(f"✗ Error reading CSV: {e}")
             sys.exit(1)
