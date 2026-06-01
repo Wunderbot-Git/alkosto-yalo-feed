@@ -57,3 +57,37 @@ jobs:
             git commit -m "feed: refresh $(date -u +'%Y-%m-%d %H:%MZ')"
             git push
           fi
+
+      - name: Count records in computers + tablets subset
+        id: subset_count
+        run: |
+          COUNT=$(python -c "import json; print(len(json.load(open('filtered_computadores_tablets.json'))))")
+          echo "count=$COUNT" >> "$GITHUB_OUTPUT"
+
+      - name: Email computers + tablets subset
+        if: success() && env.MAIL_TO != ''
+        env:
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          from: "Alkosto Yalo Feed <${{ secrets.MAIL_USERNAME }}>"
+          to: ${{ secrets.MAIL_TO }}
+          subject: "Alkosto feed — Computadores y Tablets (${{ steps.subset_count.outputs.count }} productos)"
+          body: |
+            Catálogo actualizado de Computadores y Tablets de Alkosto.
+
+            Tipos incluidos : laptop, desktop, tablet
+            Total productos : ${{ steps.subset_count.outputs.count }}
+            Fecha (UTC)     : ${{ github.event.repository.updated_at }}
+
+            URL pública (raw):
+            https://raw.githubusercontent.com/${{ github.repository }}/main/filtered_computadores_tablets.json
+
+            Workflow run:
+            https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}
+          attachments: filtered_computadores_tablets.json
