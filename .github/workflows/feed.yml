@@ -23,13 +23,20 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Process computers / tablets feed
+      - name: Process products feed (laptops/desktops/tablets/monitors/printers/TVs)
         env:
           ALKOSTO_USERNAME: ${{ secrets.ALKOSTO_USERNAME }}
           ALKOSTO_PASSWORD: ${{ secrets.ALKOSTO_PASSWORD }}
         run: |
           python process_alkosto_products.py
           python replace_image_urls.py filtered_products.json
+
+      - name: Generate computers + tablets subset
+        run: |
+          python filter_subset.py \
+            --input filtered_products.json \
+            --output filtered_computadores_tablets.json \
+            --tipos laptop desktop tablet
 
       - name: Process celulares feed
         env:
@@ -43,7 +50,7 @@ jobs:
         run: |
           git config user.name "alkosto-feed-bot"
           git config user.email "alkosto-feed-bot@users.noreply.github.com"
-          git add filtered_products.json filtered_celulares.json
+          git add filtered_products.json filtered_computadores_tablets.json filtered_celulares.json
           if git diff --cached --quiet; then
             echo "No changes in feed output."
           else
