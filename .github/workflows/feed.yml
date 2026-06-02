@@ -2,9 +2,10 @@ name: Refresh Alkosto product feed
 
 on:
   schedule:
-    # Bogotá is UTC-5. 8:00 / 13:00 local => 13:00 / 18:00 UTC.
-    - cron: "0 13 * * *"
-    - cron: "0 18 * * *"
+    # Bogotá is UTC-5. 8:10 / 13:10 local => 13:10 / 18:10 UTC.
+    # Offset from :00 to dodge GitHub Actions' top-of-hour queue spike.
+    - cron: "10 13 * * *"
+    - cron: "10 18 * * *"
   workflow_dispatch:
 
 permissions:
