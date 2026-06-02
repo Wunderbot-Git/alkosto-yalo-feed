@@ -84,7 +84,7 @@ jobs:
 
             Tipos incluidos : laptop, desktop, tablet
             Total productos : ${{ steps.subset_count.outputs.count }}
-            Fecha (UTC)     : ${{ github.event.repository.updated_at }}
+            Fecha (UTC)     : ${{ github.run_started_at }}
 
             URL pública (raw):
             https://raw.githubusercontent.com/${{ github.repository }}/main/filtered_computadores_tablets.json
