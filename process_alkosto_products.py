@@ -29,23 +29,26 @@ OUTPUT_JSON = "filtered_products.json"
 CATEGORY_PREFIXES = [
     "Computadores y Tablet>",
     "TV>Smart TV>",
+    "Celulares>Smartphones>",
 ]
 EXCLUDED_SUBCATEGORIES = [
-    "Computadores y Tablet>Impresión>Resmas Papel",
-    "Computadores y Tablet>Impresión>Tintas, Tóner y Cartuchos",
     "Computadores y Tablet>Proyectores y Videobeam",
 ]
 
 # Derived 'tipo_producto' field — maps a category-tree prefix to a short type
 # label. Used by Algolia Rules so query routing doesn't depend on enumerating
 # brand-level paths. Order matters: first matching prefix wins, so list the
-# longest/most-specific first.
+# longest/most-specific first (e.g. 'Impresión>Resmas Papel' must come before
+# the generic 'Impresión>' fallback).
 TIPO_PRODUCTO_PREFIXES = [
     ("TV>Smart TV>", "televisor"),
+    ("Celulares>Smartphones>", "celular"),
     ("Computadores y Tablet>Computadores Portátiles>", "laptop"),
     ("Computadores y Tablet>Computadores Escritorio y All in One", "desktop"),
     ("Computadores y Tablet>Tabletas y iPads", "tablet"),
     ("Computadores y Tablet>Monitores", "monitor"),
+    ("Computadores y Tablet>Impresión>Resmas Papel", "papel"),
+    ("Computadores y Tablet>Impresión>Tintas, Tóner y Cartuchos", "tinta"),
     ("Computadores y Tablet>Impresión>", "impresora"),
 ]
 
