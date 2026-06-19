@@ -196,6 +196,28 @@ def convert_to_json(df, output_file):
         if isinstance(lista, (int, float)) and isinstance(venta, (int, float)) and lista > 0:
             record['descuento_porcentaje'] = round((lista - venta) / lista * 100)
 
+        # Numeric screen size (inches). Source uses two columns with mixed units:
+        # Tamaño Pantalla_2 holds inches for monitors/TVs; Tamaño Pantalla_1
+        # holds inches for laptops/tablets/cellphones/desktops, or centimetres
+        # for TVs as a secondary representation. Prefer any 'Pulgadas' value,
+        # otherwise convert from 'Centímetros' to inches.
+        for raw_val in (record.get('Tamaño Pantalla_2'), record.get('Tamaño Pantalla_1')):
+            if not isinstance(raw_val, str) or 'pulgada' not in raw_val.lower():
+                continue
+            m = re.search(r'(\d+(?:[.,]\d+)?)', raw_val)
+            if m:
+                record['screen_size_inches'] = float(m.group(1).replace(',', '.'))
+                break
+        else:
+            for raw_val in (record.get('Tamaño Pantalla_1'), record.get('Tamaño Pantalla_2')):
+                if not isinstance(raw_val, str) or 'cent' not in raw_val.lower():
+                    continue
+                m = re.search(r'(\d+(?:[.,]\d+)?)', raw_val)
+                if m:
+                    cm = float(m.group(1).replace(',', '.'))
+                    record['screen_size_inches'] = round(cm / 2.54, 1)
+                    break
+
         pmp = record.get('Precio por método de pago')
         if not isinstance(pmp, str) or not pmp:
             continue
