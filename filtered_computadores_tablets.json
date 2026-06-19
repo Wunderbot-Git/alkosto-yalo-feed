@@ -52,7 +52,8 @@
     "Resolucion Camara WEB": "5MP IR",
     "Caracteristicas del Teclado": "Alfanumérico | Diseño Ergonómico | Inalámbrico",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 45
+    "descuento_porcentaje": 45,
+    "screen_size_inches": 23.8
   },
   {
     "Identificador del producto": "195949966514",
@@ -99,6 +100,7 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 17,
+    "screen_size_inches": 13.0,
     "precio_tarjeta_alkosto": 6619010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -153,7 +155,8 @@
     "Marca Tarjeta de Video/Grafica": "No Tiene Tarjeta Video/Grafica Independiente",
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 13.0
   },
   {
     "Identificador del producto": "198157467019",
@@ -206,7 +209,8 @@
     "Caracteristicas del Teclado": "Alfanumérico | Diseño Ergonómico",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 30
+    "descuento_porcentaje": 30,
+    "screen_size_inches": 15.3
   },
   {
     "Identificador del producto": "4711387903711",
@@ -259,7 +263,8 @@
     "Producto en Combo": "Sí es en Combo",
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 35
+    "descuento_porcentaje": 35,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "195950692433",
@@ -312,7 +317,8 @@
     "Resolucion Camara WEB": "12 MP",
     "Caracteristicas del Teclado": "Retroiluminado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 13.6
   },
   {
     "Identificador del producto": "4711636453387",
@@ -364,7 +370,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Caracteristicas del Teclado": "Convencional | Diseño Ergonómico",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 41
+    "descuento_porcentaje": 41,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "195949729584",
@@ -407,6 +414,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 8.3,
     "precio_tarjeta_alkosto": 2849010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -465,7 +473,8 @@
     "Modelo Tarjeta de Video/Grafica": "NVIDIA Geforce RTX 3050",
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 36
+    "descuento_porcentaje": 36,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "195950489347",
@@ -522,7 +531,8 @@
     "No. Puertos SD": "1 Puertos",
     "Software Incluidos": "Apple Intelligence, Siri, Mensajes, FaceTime, Recordatorios, Notas, Fotos, Contraseñas, Keynote, Pages, Numbers",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "199764911858",
@@ -573,7 +583,8 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Modelo Tarjeta de Video/Grafica": "Tarjeta Gráfica Intel 8",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 49
+    "descuento_porcentaje": 49,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "4711377396615",
@@ -629,7 +640,8 @@
     "Modelo Tarjeta de Video/Grafica": "RTX 3050, GDDR6 4GB",
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 33
+    "descuento_porcentaje": 33,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "199273245352",
@@ -683,7 +695,8 @@
     "Caracteristicas del Teclado": "Alfanumérico | Diseño Ergonómico | Retroiluminado",
     "Tarjeta Grafica": "GeForce® RTX 5060",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 33
+    "descuento_porcentaje": 33,
+    "screen_size_inches": 15.1
   },
   {
     "Identificador del producto": "4711474088482",
@@ -739,7 +752,8 @@
     "No. Puertos SD": "1 Puertos",
     "Software Incluidos": "Acer Office Manager: Administra y protege múltiples PCs Acer de forma remota en PYMEs.<br>AcerSense / TravelMateSense: Panel que centraliza diagnósticos, actualizaciones y estado del sistema.<br>PurifiedVoice: IA que elimina ruido de fondo y mejora la claridad en videollamadas.<br>Acer ProShield Plus: Seguridad empresarial con cifrado, borrado seguro y unidades encriptadas.<br>Acer Dust Defender: Ventilador reversible que expulsa polvo cada 3 horas para mayor rendimiento y durabilidad.",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 33
+    "descuento_porcentaje": 33,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "4711636041027",
@@ -789,7 +803,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Caracteristicas del Teclado": "Convencional | Diseño Ergonómico",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "8806097732853",
@@ -837,6 +852,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 38,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 3919990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -893,7 +909,8 @@
     "Caracteristicas del Teclado": "Convencional",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 44
+    "descuento_porcentaje": 44,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "97705946479622",
@@ -936,7 +953,8 @@
     "Resolucion Camara Posterior": "5 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 38
+    "descuento_porcentaje": 38,
+    "screen_size_inches": 10.1
   },
   {
     "Identificador del producto": "4711636438780",
@@ -989,7 +1007,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Caracteristicas del Teclado": "Diseño Ergonómico",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 27
+    "descuento_porcentaje": 27,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "94711474139344",
@@ -1043,7 +1062,8 @@
     "No. Puertos SD": "1 Puertos",
     "Tarjeta Grafica": "GeForce® RTX 4080",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 46
+    "descuento_porcentaje": 46,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "4711636295703",
@@ -1097,7 +1117,8 @@
     "No. Puertos VGA": "0 Puertos",
     "No. Puertos Mini HDMI": "0 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 40
+    "descuento_porcentaje": 40,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "4711474400895",
@@ -1149,7 +1170,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Resolucion Camara WEB": "QHD 1440p",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 46
+    "descuento_porcentaje": 46,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "4711636393584",
@@ -1199,7 +1221,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Caracteristicas del Teclado": "Inalámbrico",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 34
+    "descuento_porcentaje": 34,
+    "screen_size_inches": 23.8
   },
   {
     "Identificador del producto": "195950852158",
@@ -1250,7 +1273,8 @@
     "Marca Tarjeta de Video/Grafica": "No Tiene Tarjeta Video/Grafica Independiente",
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 13.0
   },
   {
     "Identificador del producto": "4711636374644",
@@ -1304,7 +1328,8 @@
     "No. Puertos VGA": "0 Puertos",
     "No. Puertos Mini HDMI": "0 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 29
+    "descuento_porcentaje": 29,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "195950697438",
@@ -1358,7 +1383,8 @@
     "Resolucion Camara WEB": "12 MP",
     "Caracteristicas del Teclado": "Retroiluminado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 15.3
   },
   {
     "Identificador del producto": "199273680276",
@@ -1416,6 +1442,7 @@
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
     "descuento_porcentaje": 35,
+    "screen_size_inches": 16.0,
     "precio_codensa": 2449070,
     "metodos_pago": [
       "codensa"
@@ -1460,7 +1487,8 @@
     "Resolucion Camara Posterior": "8 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 46
+    "descuento_porcentaje": 46,
+    "screen_size_inches": 11.0
   },
   {
     "Identificador del producto": "199273090396",
@@ -1516,7 +1544,8 @@
     "Caracteristicas del Teclado": "Diseño Ergonómico | Retroiluminado",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 21
+    "descuento_porcentaje": 21,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "94711474459503",
@@ -1570,7 +1599,8 @@
     "Producto Recondicionado": "Sí es recondicionado",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 54
+    "descuento_porcentaje": 54,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "6936520871353",
@@ -1615,6 +1645,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 32,
+    "screen_size_inches": 12.1,
     "precio_tarjeta_alkosto": 1619050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -1671,7 +1702,8 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Informacion sobre la Actualizacion a Windows 11": "Ya es Windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 47
+    "descuento_porcentaje": 47,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "4711474139320",
@@ -1728,7 +1760,8 @@
     "Software Incluidos": "Acer Office Manager: Administra y protege múltiples PCs Acer de forma remota en PYMEs.<br>AcerSense / TravelMateSense: Panel que centraliza diagnósticos, actualizaciones y estado del sistema.<br>PurifiedVoice: IA que elimina ruido de fondo y mejora la claridad en videollamadas.<br>Acer ProShield Plus: Seguridad empresarial con cifrado, borrado seguro y unidades encriptadas.<br>Acer Dust Defender: Ventilador reversible que expulsa polvo cada 3 horas para mayor rendimiento y durabilidad.",
     "Es convertible": "Sí es convertible (2 en 1)",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 35
+    "descuento_porcentaje": 35,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "7708803796047",
@@ -1774,6 +1807,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 17,
+    "screen_size_inches": 11.5,
     "precio_tarjeta_alkosto": 1919900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -1832,6 +1866,7 @@
     "Caracteristicas del Teclado": "Alfanumérico | Inalámbrico",
     "tipo_producto": "desktop",
     "descuento_porcentaje": 42,
+    "screen_size_inches": 27.0,
     "precio_codensa": 2449070,
     "metodos_pago": [
       "codensa"
@@ -1888,7 +1923,8 @@
     "No. Puertos VGA": "0 Puertos",
     "No. Puertos Mini HDMI": "0 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 43
+    "descuento_porcentaje": 43,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "4711474621726",
@@ -1945,7 +1981,8 @@
     "Modelo Tarjeta de Video/Grafica": "8 GB Dedicada GDDR7",
     "Tarjeta Grafica": "GeForce® RTX 5070",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 39
+    "descuento_porcentaje": 39,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "195950688672",
@@ -1999,7 +2036,8 @@
     "Resolucion Camara WEB": "12 MP",
     "Caracteristicas del Teclado": "Retroiluminado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 13.6
   },
   {
     "Identificador del producto": "7705946479622",
@@ -2041,7 +2079,8 @@
     "Resolucion Camara Posterior": "5 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 28
+    "descuento_porcentaje": 28,
+    "screen_size_inches": 10.1
   },
   {
     "Identificador del producto": "4711474868176",
@@ -2097,7 +2136,8 @@
     "Modelo Tarjeta de Video/Grafica": "6 GB Dedicada GDDR6",
     "Tarjeta Grafica": "GeForce® RTX 4050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 25
+    "descuento_porcentaje": 25,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "195949925351",
@@ -2150,7 +2190,8 @@
     "Caracteristicas del Teclado": "Inalámbrico",
     "Software Incluidos": "Safari, Notes, Messages, Keynote, Pages, Numbers, Maps, Mail, Music, Stocks, Weather.",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 24.0
   },
   {
     "Identificador del producto": "198158648493",
@@ -2205,7 +2246,8 @@
     "No. Puertos SD": "1 Puertos",
     "Es convertible": "Sí es convertible (2 en 1)",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 29
+    "descuento_porcentaje": 29,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "195950687262",
@@ -2259,7 +2301,8 @@
     "Resolucion Camara WEB": "12 MP",
     "Caracteristicas del Teclado": "Retroiluminado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 13.6
   },
   {
     "Identificador del producto": "199273243785",
@@ -2316,7 +2359,8 @@
     "No. Puertos SD": "1 Puertos",
     "Tarjeta Grafica": "GeForce® RTX 5070",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 21
+    "descuento_porcentaje": 21,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "195950398687",
@@ -2364,6 +2408,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 13.0,
     "precio_tarjeta_alkosto": 8269010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -2422,7 +2467,8 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Informacion sobre la Actualizacion a Windows 11": "Ya viene con windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 30
+    "descuento_porcentaje": 30,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "195950825114",
@@ -2467,6 +2513,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 10,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 3619010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -2524,7 +2571,8 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Modelo Tarjeta de Video/Grafica": "Gráficos AMD Radeon",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 52
+    "descuento_porcentaje": 52,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "4711474986160",
@@ -2579,7 +2627,8 @@
     "Caracteristicas del Teclado": "Alfanumérico | Convencional",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 35
+    "descuento_porcentaje": 35,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "196802790826",
@@ -2634,7 +2683,8 @@
     "Modelo Tarjeta de Video/Grafica": "6GB GDDR6",
     "Tarjeta Grafica": "GeForce® RTX 3060",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 30
+    "descuento_porcentaje": 30,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "195949730276",
@@ -2677,6 +2727,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 8.3,
     "precio_tarjeta_alkosto": 3389010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -2733,7 +2784,8 @@
     "Software Incluidos": "Office 365 y McAfee por un mes",
     "Informacion sobre la Actualizacion a Windows 11": "Ya es Windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 56
+    "descuento_porcentaje": 56,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "195949730047",
@@ -2776,6 +2828,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 8.3,
     "precio_tarjeta_alkosto": 3389010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -2821,6 +2874,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 2489010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -2866,6 +2920,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 2489010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -2927,7 +2982,8 @@
     "Modelo Tarjeta de Video/Grafica": "RTX 5080, GDDR7 16GB",
     "Tarjeta Grafica": "GeForce® RTX 5080",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 29
+    "descuento_porcentaje": 29,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "198154998615",
@@ -2971,7 +3027,8 @@
     "Resolucion Camara Posterior": "8 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 35
+    "descuento_porcentaje": 35,
+    "screen_size_inches": 10.1
   },
   {
     "Identificador del producto": "195950717143",
@@ -3026,7 +3083,8 @@
     "Caracteristicas del Teclado": "Retroiluminado",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 14.2
   },
   {
     "Identificador del producto": "195949751783",
@@ -3073,6 +3131,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 8.3,
     "precio_tarjeta_alkosto": 4469010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -3123,6 +3182,7 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 8.3,
     "precio_tarjeta_alkosto": 5279010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -3174,6 +3234,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 5809010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -3231,7 +3292,8 @@
     "Caracteristicas del Teclado": "Diseño Ergonómico | Retroiluminado",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 30
+    "descuento_porcentaje": 30,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "4711636049719",
@@ -3281,7 +3343,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Caracteristicas del Teclado": "Convencional | Diseño Ergonómico",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 53
+    "descuento_porcentaje": 53,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "4711474459541",
@@ -3336,7 +3399,8 @@
     "Caracteristicas del Teclado": "Convencional",
     "Es convertible": "Sí es convertible (2 en 1)",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 44
+    "descuento_porcentaje": 44,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "199896344333",
@@ -3394,6 +3458,7 @@
     "Modelo Tarjeta de Video/Grafica": "Tarjeta Gráfica Intel",
     "tipo_producto": "desktop",
     "descuento_porcentaje": 45,
+    "screen_size_inches": 23.8,
     "precio_codensa": 2049070,
     "metodos_pago": [
       "codensa"
@@ -3457,6 +3522,7 @@
     "Es Premium": "Sí",
     "tipo_producto": "laptop",
     "descuento_porcentaje": 39,
+    "screen_size_inches": 16.0,
     "precio_addi_ecommerce": 3399050,
     "precio_tarjeta_alkosto": 3349050,
     "metodos_pago": [
@@ -3505,6 +3571,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 40,
+    "screen_size_inches": 14.0,
     "precio_tarjeta_alkosto": 1719900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -3555,6 +3622,7 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 17,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 3919010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -3602,7 +3670,8 @@
     "Resolucion Camara Posterior": "2 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 33
+    "descuento_porcentaje": 33,
+    "screen_size_inches": 8.73
   },
   {
     "Identificador del producto": "195950825343",
@@ -3647,6 +3716,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 5119010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -3753,7 +3823,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Resolucion Camara WEB": "FHD 1080p",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 43
+    "descuento_porcentaje": 43,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "4711474889911",
@@ -3860,7 +3931,8 @@
     "Caracteristicas del Teclado": "Diseño Ergonómico",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 41
+    "descuento_porcentaje": 41,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "194253138686",
@@ -3912,7 +3984,8 @@
     "Caracteristicas del Teclado": "Retroiluminado | Touch Bar",
     "Software Incluidos": "Keynote/ Numbers/ Pages/ Face Time / Mail / iMessage",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 13.3
   },
   {
     "Identificador del producto": "199273234035",
@@ -3968,7 +4041,8 @@
     "Caracteristicas del Teclado": "Diseño Ergonómico | Retroiluminado",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 25
+    "descuento_porcentaje": 25,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "94711377300087",
@@ -4025,7 +4099,8 @@
     "No. Puertos SD": "1 Puertos",
     "Modelo Tarjeta de Video/Grafica": "Iris Xe Graphics",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 46
+    "descuento_porcentaje": 46,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "4711636049726",
@@ -4079,7 +4154,8 @@
     "No. Puertos VGA": "0 Puertos",
     "No. Puertos Mini HDMI": "0 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 27
+    "descuento_porcentaje": 27,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "195949898372",
@@ -4131,7 +4207,8 @@
     "Caracteristicas del Teclado": "Inalámbrico",
     "Software Incluidos": "Safari, Notes, Messages, Keynote, Pages, Numbers, Maps, Mail, Music, Stocks, Weather.",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 24.0
   },
   {
     "Identificador del producto": "195950396003",
@@ -4179,6 +4256,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 6879010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -4235,7 +4313,8 @@
     "Caracteristicas del Teclado": "Alfanumérico | Convencional",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 30
+    "descuento_porcentaje": 30,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "195950851687",
@@ -4286,7 +4365,8 @@
     "Marca Tarjeta de Video/Grafica": "No Tiene Tarjeta Video/Grafica Independiente",
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 13.0
   },
   {
     "Identificador del producto": "94711474847201",
@@ -4341,7 +4421,8 @@
     "Producto Recondicionado": "Sí es recondicionado",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 47
+    "descuento_porcentaje": 47,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "199251256875",
@@ -4394,7 +4475,8 @@
     "Modelo Tarjeta de Video/Grafica": "Gráficos Intel Iris Xe8",
     "Es convertible": "Sí es convertible (2 en 1)",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 33
+    "descuento_porcentaje": 33,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "821844007860",
@@ -4451,7 +4533,8 @@
     "Modelo Tarjeta de Video/Grafica": "NVIDIA Geforce RTX 5050",
     "Tarjeta Grafica": "GeForce® RTX 5050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 35
+    "descuento_porcentaje": 35,
+    "screen_size_inches": 15.3
   },
   {
     "Identificador del producto": "4711377440189",
@@ -4507,7 +4590,8 @@
     "Modelo Tarjeta de Video/Grafica": "RTX 5060, GDDR7 8GB",
     "Tarjeta Grafica": "GeForce® RTX 5060",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 30
+    "descuento_porcentaje": 30,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "198154605742",
@@ -4559,7 +4643,8 @@
     "Resolucion Camara WEB": "5MP IR",
     "Caracteristicas del Teclado": "Alfanumérico | Diseño Ergonómico | Inalámbrico",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 40
+    "descuento_porcentaje": 40,
+    "screen_size_inches": 23.8
   },
   {
     "Identificador del producto": "198990788494",
@@ -4613,7 +4698,8 @@
     "Modelo Tarjeta de Video/Grafica": "NVIDIA Geforce RTX 3050",
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 52
+    "descuento_porcentaje": 52,
+    "screen_size_inches": 15.0
   },
   {
     "Identificador del producto": "195950395785",
@@ -4661,6 +4747,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 6879010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -4721,7 +4808,8 @@
     "Modelo Tarjeta de Video/Grafica": "RTX 5050 8GB GDDR7, 440 AI TOPS",
     "Tarjeta Grafica": "GeForce® RTX 5050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 24
+    "descuento_porcentaje": 24,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "4711636049771",
@@ -4771,7 +4859,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Caracteristicas del Teclado": "Diseño Ergonómico | Numérico Separado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 46
+    "descuento_porcentaje": 46,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "195950694611",
@@ -4825,7 +4914,8 @@
     "Resolucion Camara WEB": "12 MP",
     "Caracteristicas del Teclado": "Retroiluminado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 15.3
   },
   {
     "Identificador del producto": "198990840611",
@@ -4922,6 +5012,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 10,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 3619010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -4976,7 +5067,8 @@
     "Marca Tarjeta de Video/Grafica": "No Tiene Tarjeta Video/Grafica Independiente",
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 13.0
   },
   {
     "Identificador del producto": "8806097665427",
@@ -5024,6 +5116,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 57,
+    "screen_size_inches": 10.9,
     "precio_tarjeta_alkosto": 919930,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -5082,6 +5175,7 @@
     "Tarjeta Grafica": "GeForce® RTX 5050",
     "tipo_producto": "laptop",
     "descuento_porcentaje": 30,
+    "screen_size_inches": 16.0,
     "precio_addi_ecommerce": 5699050,
     "precio_tarjeta_alkosto": 5649050,
     "metodos_pago": [
@@ -5143,7 +5237,8 @@
     "No. Puertos SD": "1 Puertos",
     "Software Incluidos": "Acer Office Manager: Administra y protege múltiples PCs Acer de forma remota en PYMEs.<br>AcerSense / TravelMateSense: Panel que centraliza diagnósticos, actualizaciones y estado del sistema.<br>PurifiedVoice: IA que elimina ruido de fondo y mejora la claridad en videollamadas.<br>Acer ProShield Plus: Seguridad empresarial con cifrado, borrado seguro y unidades encriptadas.<br>Acer Dust Defender: Ventilador reversible que expulsa polvo cada 3 horas para mayor rendimiento y durabilidad.",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 37
+    "descuento_porcentaje": 37,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "4711636390484",
@@ -5193,7 +5288,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Caracteristicas del Teclado": "Inalámbrico",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 27
+    "descuento_porcentaje": 27,
+    "screen_size_inches": 27.0
   },
   {
     "Identificador del producto": "198155653490",
@@ -5245,7 +5341,8 @@
     "Resolucion Camara WEB": "5MP",
     "Caracteristicas del Teclado": "Inalámbrico",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 15
+    "descuento_porcentaje": 15,
+    "screen_size_inches": 27.0
   },
   {
     "Identificador del producto": "195949898464",
@@ -5298,7 +5395,8 @@
     "Caracteristicas del Teclado": "Inalámbrico",
     "Software Incluidos": "Safari, Notes, Messages, Keynote, Pages, Numbers, Maps, Mail, Music, Stocks, Weather.",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 24.0
   },
   {
     "Identificador del producto": "4711636074926",
@@ -5353,6 +5451,7 @@
     "Informacion sobre la Actualizacion a Windows 11": "Ya es Windows 11",
     "tipo_producto": "laptop",
     "descuento_porcentaje": 25,
+    "screen_size_inches": 16.0,
     "precio_addi_ecommerce": 7399050,
     "precio_tarjeta_alkosto": 7349050,
     "metodos_pago": [
@@ -5410,7 +5509,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Caracteristicas del Teclado": "Convencional | Diseño Ergonómico",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 27
+    "descuento_porcentaje": 27,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "4711474847195",
@@ -5465,7 +5565,8 @@
     "Caracteristicas del Teclado": "Alfanumérico | Convencional",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 40
+    "descuento_porcentaje": 40,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "199272186007",
@@ -5520,7 +5621,8 @@
     "Caracteristicas del Teclado": "Diseño Ergonómico",
     "Software Incluidos": "Lenovo AI Now",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 4
+    "descuento_porcentaje": 4,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "4711474400871",
@@ -5572,7 +5674,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Resolucion Camara WEB": "QHD 1440p",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 21
+    "descuento_porcentaje": 21,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "199251376313",
@@ -5627,7 +5730,8 @@
     "Caracteristicas del Teclado": "Inalámbrico",
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 45
+    "descuento_porcentaje": 45,
+    "screen_size_inches": 24.0
   },
   {
     "Identificador del producto": "4711636393591",
@@ -5677,7 +5781,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Caracteristicas del Teclado": "Inalámbrico",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 17
+    "descuento_porcentaje": 17,
+    "screen_size_inches": 27.0
   },
   {
     "Identificador del producto": "199272276517",
@@ -5732,7 +5837,8 @@
     "Producto en Combo": "Sí es en Combo",
     "Software Incluidos": "Intel Connectivity Performance Suite + Lenovo AI Now",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 11
+    "descuento_porcentaje": 11,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "4711474621757",
@@ -5788,7 +5894,8 @@
     "Modelo Tarjeta de Video/Grafica": "6GB Dedicada GDDR6 VRAM",
     "Tarjeta Grafica": "GeForce® RTX 4050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 35
+    "descuento_porcentaje": 35,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "195950823509",
@@ -5835,6 +5942,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 13,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 3019010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -5895,7 +6003,8 @@
     "Modelo Tarjeta de Video/Grafica": "RTX 5070, GDDR7 8GB",
     "Tarjeta Grafica": "GeForce® RTX 5070",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 10
+    "descuento_porcentaje": 10,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "4711636135641",
@@ -6010,7 +6119,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Caracteristicas del Teclado": "Convencional | Diseño Ergonómico",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 24
+    "descuento_porcentaje": 24,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "195950826265",
@@ -6056,6 +6166,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 6219010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -6113,7 +6224,8 @@
     "Resolucion Camara WEB": "12 MP",
     "Caracteristicas del Teclado": "Retroiluminado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 15.3
   },
   {
     "Identificador del producto": "7708803796368",
@@ -6159,6 +6271,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 33,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 819900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -6218,7 +6331,8 @@
     "Caracteristicas del Teclado": "Alfanumérico",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 43
+    "descuento_porcentaje": 43,
+    "screen_size_inches": 15.3
   },
   {
     "Identificador del producto": "4711636243834",
@@ -6278,6 +6392,7 @@
     "Es Premium": "Sí",
     "tipo_producto": "laptop",
     "descuento_porcentaje": 24,
+    "screen_size_inches": 16.0,
     "precio_addi_ecommerce": 4399050,
     "precio_tarjeta_alkosto": 4349050,
     "metodos_pago": [
@@ -6326,6 +6441,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 8.3,
     "precio_tarjeta_alkosto": 2849010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -6383,7 +6499,8 @@
     "Resolucion Camara WEB": "12 MP",
     "Caracteristicas del Teclado": "Retroiluminado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 15.3
   },
   {
     "Identificador del producto": "195950798661",
@@ -6428,6 +6545,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 13.0,
     "precio_tarjeta_alkosto": 5179010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -6487,6 +6605,7 @@
     "Informacion sobre la Actualizacion a Windows 11": "Ya es Windows 12",
     "tipo_producto": "desktop",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 23.8,
     "precio_tarjeta_alkosto": 2999000,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -6538,6 +6657,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 13.0,
     "precio_tarjeta_alkosto": 7199010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -6596,7 +6716,8 @@
     "Modelo Tarjeta de Video/Grafica": "GeForce RTX 4050",
     "Tarjeta Grafica": "GeForce® RTX 4050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 29
+    "descuento_porcentaje": 29,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "194252516478",
@@ -6639,6 +6760,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 10.2,
     "precio_tarjeta_alkosto": 2889010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -6695,7 +6817,8 @@
     "Caracteristicas del Teclado": "Inalámbrico",
     "Software Incluidos": "Safari, Notes, Messages, Keynote, Pages, Numbers, Maps, Mail, Music, Stocks, Weather.",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 24.0
   },
   {
     "Identificador del producto": "198155085390",
@@ -6747,7 +6870,8 @@
     "Resolucion Camara WEB": "5.0 MP",
     "Caracteristicas del Teclado": "Alfanumérico | Convencional | Inalámbrico",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 44
+    "descuento_porcentaje": 44,
+    "screen_size_inches": 27.0
   },
   {
     "Identificador del producto": "4711474621740",
@@ -6802,7 +6926,8 @@
     "Modelo Tarjeta de Video/Grafica": "6 GB Dedicada GDDR6",
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 29
+    "descuento_porcentaje": 29,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "198155641015",
@@ -6855,7 +6980,8 @@
     "No. Puertos SD": "1 Puertos",
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 36
+    "descuento_porcentaje": 36,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "199896332552",
@@ -6910,7 +7036,8 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Modelo Tarjeta de Video/Grafica": "Tarjeta gráfica Intel 8",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 25
+    "descuento_porcentaje": 25,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "4711474840042",
@@ -6965,7 +7092,8 @@
     "Caracteristicas del Teclado": "Convencional | Inalámbrico",
     "Producto en Combo": "Sí es en Combo",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 42
+    "descuento_porcentaje": 42,
+    "screen_size_inches": 23.8
   },
   {
     "Identificador del producto": "195950691962",
@@ -7019,7 +7147,8 @@
     "Resolucion Camara WEB": "12 MP",
     "Caracteristicas del Teclado": "Retroiluminado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 13.6
   },
   {
     "Identificador del producto": "195949756146",
@@ -7066,6 +7195,7 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 8.3,
     "precio_tarjeta_alkosto": 4199010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -7123,7 +7253,8 @@
     "Resolucion Camara WEB": "FHD HP True Vision inclinable de 1080p",
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 39
+    "descuento_porcentaje": 39,
+    "screen_size_inches": 27.0
   },
   {
     "Identificador del producto": "4711474139337",
@@ -7180,7 +7311,8 @@
     "Software Incluidos": "Acer Office Manager: Administra y protege múltiples PCs Acer de forma remota en PYMEs.<br>AcerSense / TravelMateSense: Panel que centraliza diagnósticos, actualizaciones y estado del sistema.<br>PurifiedVoice: IA que elimina ruido de fondo y mejora la claridad en videollamadas.<br>Acer ProShield Plus: Seguridad empresarial con cifrado, borrado seguro y unidades encriptadas.<br>Acer Dust Defender: Ventilador reversible que expulsa polvo cada 3 horas para mayor rendimiento y durabilidad.",
     "Es convertible": "Sí es convertible (2 en 1)",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 37
+    "descuento_porcentaje": 37,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "199272949602",
@@ -7234,7 +7366,8 @@
     "Tarjeta Grafica": "GeForce® RTX 5080",
     "Software Incluidos": "Lenovo AI Now",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 3
+    "descuento_porcentaje": 3,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "4711474827678",
@@ -7291,7 +7424,8 @@
     "Modelo Tarjeta de Video/Grafica": "8 GB Dedicada GDDR7",
     "Tarjeta Grafica": "GeForce® RTX 5060",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 19
+    "descuento_porcentaje": 19,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "94711636168076",
@@ -7350,7 +7484,8 @@
     "Informacion sobre la Actualizacion a Windows 11": "Ya es Windows 11",
     "Es Premium": "Sí",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 36
+    "descuento_porcentaje": 36,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "4711474476005",
@@ -7402,7 +7537,8 @@
     "Resolucion Camara WEB": "720p HD",
     "Caracteristicas del Teclado": "Alfanumérico | Convencional | Retroiluminado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 27
+    "descuento_porcentaje": 27,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "196803810387",
@@ -7456,7 +7592,8 @@
     "Caracteristicas del Teclado": "Alfanumérico",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 39
+    "descuento_porcentaje": 39,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "4711387654477",
@@ -7511,7 +7648,8 @@
     "Actualizable a Windows 11": "NO es Actualizable a Windows 11",
     "Software Incluidos": "Mcafee 30 Dias de prueba gratuito",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 33
+    "descuento_porcentaje": 33,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "199896331067",
@@ -7566,7 +7704,8 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Modelo Tarjeta de Video/Grafica": "Tarjeta gráfica Intel 8",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 50
+    "descuento_porcentaje": 50,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "4894461842875",
@@ -7609,7 +7748,8 @@
     "Resolucion Camara Posterior": "8 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 40
+    "descuento_porcentaje": 40,
+    "screen_size_inches": 11.0
   },
   {
     "Identificador del producto": "195950699319",
@@ -7662,7 +7802,8 @@
     "Resolucion Camara WEB": "12 MP",
     "Caracteristicas del Teclado": "Retroiluminado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 15.3
   },
   {
     "Identificador del producto": "4711636438803",
@@ -7720,6 +7861,7 @@
     "Informacion sobre la Actualizacion a Windows 11": "Ya es windows 11",
     "tipo_producto": "laptop",
     "descuento_porcentaje": 30,
+    "screen_size_inches": 16.0,
     "precio_addi_ecommerce": 4299050,
     "precio_tarjeta_alkosto": 4249050,
     "metodos_pago": [
@@ -7773,6 +7915,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 13.0,
     "precio_tarjeta_alkosto": 7199010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -7822,6 +7965,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 32,
+    "screen_size_inches": 11.5,
     "precio_tarjeta_alkosto": 1014900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -7881,7 +8025,8 @@
     "Modelo Tarjeta de Video/Grafica": "8 GB Dedicada GDDR6",
     "Tarjeta Grafica": "GeForce® RTX 5050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 25
+    "descuento_porcentaje": 25,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "8806097213840",
@@ -7929,6 +8074,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 43,
+    "screen_size_inches": 10.9,
     "precio_tarjeta_alkosto": 1819990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -7989,7 +8135,8 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Informacion sobre la Actualizacion a Windows 11": "Ya es Windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 32
+    "descuento_porcentaje": 32,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "199272381600",
@@ -8044,7 +8191,8 @@
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "Software Incluidos": "Lenovo AI Now - Xbox game pass Ultimate x 3 meses",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 33
+    "descuento_porcentaje": 33,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "195950797749",
@@ -8089,6 +8237,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 13.0,
     "precio_tarjeta_alkosto": 4629010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -8145,7 +8294,8 @@
     "Caracteristicas del Teclado": "Retroiluminado",
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 28
+    "descuento_porcentaje": 28,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "199251550751",
@@ -8199,7 +8349,8 @@
     "Modelo Tarjeta de Video/Grafica": "NVIDIA® GeForce RTX™ 3050",
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 35
+    "descuento_porcentaje": 35,
+    "screen_size_inches": 15.0
   },
   {
     "Identificador del producto": "4711387992012",
@@ -8250,7 +8401,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Caracteristicas del Teclado": "Alfanumérico | Convencional | Inalámbrico",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 49
+    "descuento_porcentaje": 49,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "195950690552",
@@ -8304,7 +8456,8 @@
     "Resolucion Camara WEB": "12 MP",
     "Caracteristicas del Teclado": "Retroiluminado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 13.6
   },
   {
     "Identificador del producto": "4711377440165",
@@ -8361,7 +8514,8 @@
     "Producto en Combo": "Sí es en Combo",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 29
+    "descuento_porcentaje": 29,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "4711636428057",
@@ -8413,7 +8567,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Caracteristicas del Teclado": "Diseño Ergonómico",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 41
+    "descuento_porcentaje": 41,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "195950086164",
@@ -8457,6 +8612,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 17,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 1619010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -8513,7 +8669,8 @@
     "No. Puertos VGA": "0 Puertos",
     "No. Puertos Mini HDMI": "0 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 20
+    "descuento_porcentaje": 20,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "4711636438797",
@@ -8571,6 +8728,7 @@
     "Informacion sobre la Actualizacion a Windows 11": "Ya es windows 11",
     "tipo_producto": "laptop",
     "descuento_porcentaje": 30,
+    "screen_size_inches": 15.6,
     "precio_addi_ecommerce": 3799050,
     "precio_tarjeta_alkosto": 3749050,
     "metodos_pago": [
@@ -8632,7 +8790,8 @@
     "Modelo Tarjeta de Video/Grafica": "NVIDIA® GeForce RTX™ 4060",
     "Tarjeta Grafica": "GeForce® RTX 4060",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 45
+    "descuento_porcentaje": 45,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "195950400694",
@@ -8680,6 +8839,7 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 6879010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -8729,6 +8889,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 35,
+    "screen_size_inches": 13.1,
     "precio_tarjeta_alkosto": 2719990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -8786,7 +8947,8 @@
     "Modelo Tarjeta de Video/Grafica": "NVIDIA® GeForce RTX™ 4050",
     "Tarjeta Grafica": "GeForce® RTX 4050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 32
+    "descuento_porcentaje": 32,
+    "screen_size_inches": 15.0
   },
   {
     "Identificador del producto": "4711121995583",
@@ -8842,7 +9004,8 @@
     "No. Puertos SD": "1 Puertos",
     "Software Incluidos": "Acer Office Manager: Administra y protege múltiples PCs Acer de forma remota en PYMEs.<br>AcerSense / TravelMateSense: Panel que centraliza diagnósticos, actualizaciones y estado del sistema.<br>PurifiedVoice: IA que elimina ruido de fondo y mejora la claridad en videollamadas.<br>Acer ProShield Plus: Seguridad empresarial con cifrado, borrado seguro y unidades encriptadas.<br>Acer Dust Defender: Ventilador reversible que expulsa polvo cada 3 horas para mayor rendimiento y durabilidad.",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 31
+    "descuento_porcentaje": 31,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "199274920081",
@@ -8899,7 +9062,8 @@
     "Modelo Tarjeta de Video/Grafica": "NVIDIA GeForce RTX 3050 6GB",
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 36
+    "descuento_porcentaje": 36,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "195950823738",
@@ -8946,6 +9110,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 13,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 3019010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -9000,7 +9165,8 @@
     "Marca Tarjeta de Video/Grafica": "No Tiene Tarjeta Video/Grafica Independiente",
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 13.0
   },
   {
     "Identificador del producto": "196804839974",
@@ -9053,7 +9219,8 @@
     "Caracteristicas del Teclado": "Alfanumérico",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 38
+    "descuento_porcentaje": 38,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "195950691023",
@@ -9106,7 +9273,8 @@
     "Resolucion Camara WEB": "12 MP",
     "Caracteristicas del Teclado": "Retroiluminado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 13.6
   },
   {
     "Identificador del producto": "8806095642376",
@@ -9152,6 +9320,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 20,
+    "screen_size_inches": 12.4,
     "precio_tarjeta_alkosto": 4419990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -9209,7 +9378,8 @@
     "Caracteristicas del Teclado": "Retroiluminado",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 14.2
   },
   {
     "Identificador del producto": "199485690155",
@@ -9316,7 +9486,8 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Informacion sobre la Actualizacion a Windows 11": "Ya es Windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 22
+    "descuento_porcentaje": 22,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "195949965593",
@@ -9363,6 +9534,7 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 20,
+    "screen_size_inches": 13.0,
     "precio_tarjeta_alkosto": 5519010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -9416,7 +9588,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Resolucion Camara WEB": "FHD 32 MP",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 25
+    "descuento_porcentaje": 25,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "821844165904",
@@ -9470,7 +9643,8 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Modelo Tarjeta de Video/Grafica": "Gráficos AMD Radeon",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 53
+    "descuento_porcentaje": 53,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "4711636471572",
@@ -9525,6 +9699,7 @@
     "Caracteristicas del Teclado": "Convencional",
     "tipo_producto": "laptop",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 16.0,
     "precio_tarjeta_alkosto": 9649950,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -9582,7 +9757,8 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Modelo Tarjeta de Video/Grafica": "Gráficos AMD Radeon",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 57
+    "descuento_porcentaje": 57,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "4711636291781",
@@ -9633,7 +9809,8 @@
     "Caracteristicas del Teclado": "Inalámbrico",
     "No. Puertos VGA": "0 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 36
+    "descuento_porcentaje": 36,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "198157015135",
@@ -9677,6 +9854,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 44,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 869070,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -9740,6 +9918,7 @@
     "Es Premium": "Sí",
     "tipo_producto": "laptop",
     "descuento_porcentaje": 26,
+    "screen_size_inches": 16.0,
     "precio_addi_ecommerce": 4899050,
     "precio_tarjeta_alkosto": 4849050,
     "metodos_pago": [
@@ -9795,7 +9974,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Caracteristicas del Teclado": "Convencional | Diseño Ergonómico",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 29
+    "descuento_porcentaje": 29,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "195950399783",
@@ -9842,6 +10022,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 13.0,
     "precio_tarjeta_alkosto": 12549010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -9897,7 +10078,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Caracteristicas del Teclado": "Convencional | Diseño Ergonómico",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 43
+    "descuento_porcentaje": 43,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "195951255118",
@@ -9951,7 +10133,8 @@
     "Caracteristicas del Teclado": "Retroiluminado",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 14.2
   },
   {
     "Identificador del producto": "8806099326449",
@@ -9997,6 +10180,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 40,
+    "screen_size_inches": 10.9,
     "precio_tarjeta_alkosto": 1919990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -10055,6 +10239,7 @@
     "Tarjeta Grafica": "GeForce® RTX 4050",
     "tipo_producto": "laptop",
     "descuento_porcentaje": 27,
+    "screen_size_inches": 16.0,
     "precio_addi_ecommerce": 4199050,
     "precio_tarjeta_alkosto": 4149050,
     "metodos_pago": [
@@ -10114,7 +10299,8 @@
     "Caracteristicas del Teclado": "Inalámbrico",
     "Software Incluidos": "Safari, Notes, Messages, Keynote, Pages, Numbers, Maps, Mail, Music, Stocks, Weather.",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 24.0
   },
   {
     "Identificador del producto": "195950698374",
@@ -10168,7 +10354,8 @@
     "Resolucion Camara WEB": "12 MP",
     "Caracteristicas del Teclado": "Retroiluminado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 15.3
   },
   {
     "Identificador del producto": "195950086393",
@@ -10212,6 +10399,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 17,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 1619010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -10269,7 +10457,8 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Modelo Tarjeta de Video/Grafica": "Tarjeta gráfica Intel 8",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 51
+    "descuento_porcentaje": 51,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "8806097732297",
@@ -10318,6 +10507,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 34,
+    "screen_size_inches": 14.6,
     "precio_tarjeta_alkosto": 5919990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -10383,6 +10573,7 @@
     "Es Premium": "Sí",
     "tipo_producto": "laptop",
     "descuento_porcentaje": 20,
+    "screen_size_inches": 16.0,
     "precio_addi_ecommerce": 14249050,
     "precio_tarjeta_alkosto": 14199050,
     "metodos_pago": [
@@ -10432,7 +10623,8 @@
     "Resolucion Camara Posterior": "13 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 12.1
   },
   {
     "Identificador del producto": "4711636151917",
@@ -10484,7 +10676,8 @@
     "Software Incluidos": "Office 365 y McAfee por un mes",
     "Informacion sobre la Actualizacion a Windows 11": "Ya es Windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 46
+    "descuento_porcentaje": 46,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "199251547669",
@@ -10539,7 +10732,8 @@
     "Modelo Tarjeta de Video/Grafica": "NVIDIA GeForce RTX 5070",
     "Tarjeta Grafica": "GeForce® RTX 5070",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 17
+    "descuento_porcentaje": 17,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "8806097854593",
@@ -10587,6 +10781,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 28,
+    "screen_size_inches": 10.9,
     "precio_tarjeta_alkosto": 1579930,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -10644,7 +10839,8 @@
     "Producto Recondicionado": "Sí es recondicionado",
     "Tarjeta Grafica": "GeForce® RTX 4050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 37
+    "descuento_porcentaje": 37,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "6932554477844",
@@ -10689,6 +10885,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 17,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 2919030,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -10746,7 +10943,8 @@
     "Resolucion Camara WEB": "12 MP",
     "Caracteristicas del Teclado": "Retroiluminado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 13.6
   },
   {
     "Identificador del producto": "195949729355",
@@ -10789,6 +10987,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 8.3,
     "precio_tarjeta_alkosto": 2849010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -10849,7 +11048,8 @@
     "No. Puertos SD": "1 Puertos",
     "Software Incluidos": "Apple Intelligence, Siri, Mensajes, FaceTime, Recordatorios, Notas, Fotos, Contraseñas, Keynote, Pages, Numbers",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "199274865474",
@@ -10906,7 +11106,8 @@
     "Tarjeta Grafica": "GeForce® RTX 5060",
     "Software Incluidos": "Lenovo AI Now",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 29
+    "descuento_porcentaje": 29,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "4711387947241",
@@ -10964,6 +11165,7 @@
     "Tarjeta Grafica": "GeForce® RTX 5090",
     "tipo_producto": "laptop",
     "descuento_porcentaje": 32,
+    "screen_size_inches": 18.0,
     "precio_addi_ecommerce": 23899050,
     "precio_tarjeta_alkosto": 23849050,
     "metodos_pago": [
@@ -11023,7 +11225,8 @@
     "Caracteristicas del Teclado": "Retroiluminado",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 14.2
   },
   {
     "Identificador del producto": "7705946480741",
@@ -11066,6 +11269,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 44,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 709900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -11114,6 +11318,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 13,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 3019010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -11172,7 +11377,8 @@
     "Caracteristicas del Teclado": "Retroiluminado",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 16.2
   },
   {
     "Identificador del producto": "199274865467",
@@ -11229,7 +11435,8 @@
     "Modelo Tarjeta de Video/Grafica": "NVIDIA GeForce RTX 5060 8GB",
     "Tarjeta Grafica": "GeForce® RTX 5060",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 24
+    "descuento_porcentaje": 24,
+    "screen_size_inches": 15.3
   },
   {
     "Identificador del producto": "195950824650",
@@ -11274,6 +11481,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 10,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 3619010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -11332,7 +11540,8 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Modelo Tarjeta de Video/Grafica": "Tarjeta gráfica Intel 8",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 46
+    "descuento_porcentaje": 46,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "7708803796849",
@@ -11378,6 +11587,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 11,
+    "screen_size_inches": 11.5,
     "precio_tarjeta_alkosto": 1619900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -11432,7 +11642,8 @@
     "Resolucion Camara WEB": "HD 720p",
     "Caracteristicas del Teclado": "Retroiluminado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 39
+    "descuento_porcentaje": 39,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "199251256455",
@@ -11484,7 +11695,8 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Modelo Tarjeta de Video/Grafica": "Radeon 860M",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 32
+    "descuento_porcentaje": 32,
+    "screen_size_inches": 15.0
   },
   {
     "Identificador del producto": "195950080834",
@@ -11536,7 +11748,8 @@
     "Caracteristicas del Teclado": "Inalámbrico",
     "Software Incluidos": "Safari, Notes, Messages, Keynote, Pages, Numbers, Maps, Mail, Music, Stocks, Weather.",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 24.0
   },
   {
     "Identificador del producto": "195950824193",
@@ -11581,6 +11794,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 13,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 3019010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -11636,7 +11850,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 51
+    "descuento_porcentaje": 51,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "198155678141",
@@ -11681,6 +11896,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 41,
+    "screen_size_inches": 11.5,
     "precio_tarjeta_alkosto": 919070,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -11741,7 +11957,8 @@
     "Modelo Tarjeta de Video/Grafica": "NVIDIA GeForce RTX 5070",
     "Tarjeta Grafica": "GeForce® RTX 5070",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 29
+    "descuento_porcentaje": 29,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "195950851212",
@@ -11792,7 +12009,8 @@
     "Marca Tarjeta de Video/Grafica": "No Tiene Tarjeta Video/Grafica Independiente",
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 13.0
   },
   {
     "Identificador del producto": "6936520865734",
@@ -11836,6 +12054,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 33,
+    "screen_size_inches": 11.5,
     "precio_tarjeta_alkosto": 919050,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -11896,7 +12115,8 @@
     "Tarjeta Grafica": "GeForce® RTX 4050",
     "Software Incluidos": "Lenovo AI Now",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 24
+    "descuento_porcentaje": 24,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "195950696967",
@@ -11950,7 +12170,8 @@
     "Resolucion Camara WEB": "12 MP",
     "Caracteristicas del Teclado": "Retroiluminado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 15.3
   },
   {
     "Identificador del producto": "199272381761",
@@ -12005,7 +12226,8 @@
     "Modelo Tarjeta de Video/Grafica": "RTX 5050 8GB G7",
     "Tarjeta Grafica": "GeForce® RTX 5050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 27
+    "descuento_porcentaje": 27,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "4711474491299",
@@ -12062,7 +12284,8 @@
     "Tarjeta Grafica": "GeForce® RTX 4050",
     "Software Incluidos": "No incluye Microsoft Office 365",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 36
+    "descuento_porcentaje": 36,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "195949963759",
@@ -12105,6 +12328,7 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 19,
+    "screen_size_inches": 13.0,
     "precio_tarjeta_alkosto": 4319010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -12161,7 +12385,8 @@
     "Caracteristicas del Teclado": "Convencional",
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 47
+    "descuento_porcentaje": 47,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "194252515662",
@@ -12204,6 +12429,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 10.2,
     "precio_tarjeta_alkosto": 1989010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -12313,7 +12539,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Resolucion Camara WEB": "Webcam HD 720p",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 19
+    "descuento_porcentaje": 19,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "199251282942",
@@ -12366,7 +12593,8 @@
     "Caracteristicas del Teclado": "Retroiluminado",
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 29
+    "descuento_porcentaje": 29,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "4711636513395",
@@ -12422,7 +12650,8 @@
     "Modelo Tarjeta de Video/Grafica": "NVIDIA GeForce RTX 5090",
     "Tarjeta Grafica": "GeForce® RTX 5090",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 23
+    "descuento_porcentaje": 23,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "198155778049",
@@ -12476,7 +12705,8 @@
     "No. Puertos SD": "1 Puertos",
     "Es convertible": "Sí es convertible (2 en 1)",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 25
+    "descuento_porcentaje": 25,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "4711474621719",
@@ -12533,7 +12763,8 @@
     "Modelo Tarjeta de Video/Grafica": "16 GB Dedicada GDDR7",
     "Tarjeta Grafica": "GeForce® RTX 5080",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 31
+    "descuento_porcentaje": 31,
+    "screen_size_inches": 18.0
   },
   {
     "Identificador del producto": "195950087772",
@@ -12575,6 +12806,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 2489010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -12631,7 +12863,8 @@
     "Caracteristicas del Teclado": "Inalámbrico",
     "Software Incluidos": "Safari, Notes, Messages, Keynote, Pages, Numbers, Maps, Mail, Music, Stocks, Weather.",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 24.0
   },
   {
     "Identificador del producto": "195950403695",
@@ -12679,6 +12912,7 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 13.0,
     "precio_tarjeta_alkosto": 8269010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -12730,6 +12964,7 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 13.0,
     "precio_tarjeta_alkosto": 11479010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -12789,7 +13024,8 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Modelo Tarjeta de Video/Grafica": "Intel Arc 140T GPU",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 27
+    "descuento_porcentaje": 27,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "4711474935700",
@@ -12845,6 +13081,7 @@
     "Caracteristicas del Teclado": "Alfanumérico | Convencional",
     "tipo_producto": "laptop",
     "descuento_porcentaje": 39,
+    "screen_size_inches": 15.6,
     "precio_codensa": 2468030,
     "metodos_pago": [
       "codensa"
@@ -12900,7 +13137,8 @@
     "Resolucion Camara WEB": "5MP",
     "Caracteristicas del Teclado": "Inalámbrico",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 31
+    "descuento_porcentaje": 31,
+    "screen_size_inches": 27.0
   },
   {
     "Identificador del producto": "198990788418",
@@ -12955,7 +13193,8 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 27
+    "descuento_porcentaje": 27,
+    "screen_size_inches": 15.0
   },
   {
     "Identificador del producto": "6932554444525",
@@ -13000,6 +13239,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 1069900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -13060,7 +13300,8 @@
     "No. Puertos SD": "1 Puertos",
     "Modelo Tarjeta de Video/Grafica": "Intel UHD Graphics",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 38
+    "descuento_porcentaje": 38,
+    "screen_size_inches": 13.3
   },
   {
     "Identificador del producto": "195950719024",
@@ -13114,7 +13355,8 @@
     "Caracteristicas del Teclado": "Retroiluminado",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 14.2
   },
   {
     "Identificador del producto": "199272381495",
@@ -13170,7 +13412,8 @@
     "Tarjeta Grafica": "GeForce® RTX 5050",
     "Software Incluidos": "Lenovo AI Now",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 34
+    "descuento_porcentaje": 34,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "198157552937",
@@ -13222,7 +13465,8 @@
     "Caracteristicas del Teclado": "Alfanumérico | Diseño Ergonómico",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 30
+    "descuento_porcentaje": 30,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "4711377396622",
@@ -13278,7 +13522,8 @@
     "No. Puertos SD": "1 Puertos",
     "Modelo Tarjeta de Video/Grafica": "Intel UHD Graphics",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 38
+    "descuento_porcentaje": 38,
+    "screen_size_inches": 13.3
   },
   {
     "Identificador del producto": "4711474986139",
@@ -13331,7 +13576,8 @@
     "Resolucion Camara WEB": "FHD ( 1920x1080 )",
     "Caracteristicas del Teclado": "Alfanumérico | Convencional",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 43
+    "descuento_porcentaje": 43,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "4711636349765",
@@ -13384,7 +13630,8 @@
     "No. Puertos VGA": "0 Puertos",
     "No. Puertos Mini HDMI": "0 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 47
+    "descuento_porcentaje": 47,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "94711474714633",
@@ -13438,7 +13685,8 @@
     "Producto Recondicionado": "Sí es recondicionado",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 48
+    "descuento_porcentaje": 48,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "199251250569",
@@ -13492,7 +13740,8 @@
     "Modelo Tarjeta de Video/Grafica": "NVIDIA GeForce RTX 5050",
     "Tarjeta Grafica": "GeForce® RTX 5050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 33
+    "descuento_porcentaje": 33,
+    "screen_size_inches": 15.0
   },
   {
     "Identificador del producto": "195949978036",
@@ -13534,6 +13783,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 15,
+    "screen_size_inches": 13.0,
     "precio_tarjeta_alkosto": 6119010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -13587,7 +13837,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Caracteristicas del Teclado": "Inalámbrico",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 20
+    "descuento_porcentaje": 20,
+    "screen_size_inches": 27.0
   },
   {
     "Identificador del producto": "4711474621702",
@@ -13645,7 +13896,8 @@
     "Modelo Tarjeta de Video/Grafica": "24 GB Dedicada GDDR7",
     "Tarjeta Grafica": "GeForce® RTX 5090",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 26
+    "descuento_porcentaje": 26,
+    "screen_size_inches": 18.0
   },
   {
     "Identificador del producto": "195950395341",
@@ -13693,6 +13945,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 5809010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -13746,7 +13999,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Resolucion Camara WEB": "FHD 1080p",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 49
+    "descuento_porcentaje": 49,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "194252516744",
@@ -13789,6 +14043,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 10.2,
     "precio_tarjeta_alkosto": 2889010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -13847,7 +14102,8 @@
     "Caracteristicas del Teclado": "Retroiluminado",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 16.2
   },
   {
     "Identificador del producto": "4894461826912",
@@ -13893,6 +14149,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 34,
+    "screen_size_inches": 11.45,
     "precio_tarjeta_alkosto": 1369900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -13943,6 +14200,7 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 8.3,
     "precio_tarjeta_alkosto": 3649010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -13994,6 +14252,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 9019010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -14054,7 +14313,8 @@
     "Modelo Tarjeta de Video/Grafica": "NVIDIA Geforce RTX 5060",
     "Tarjeta Grafica": "GeForce® RTX 5060",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 31
+    "descuento_porcentaje": 31,
+    "screen_size_inches": 15.3
   },
   {
     "Identificador del producto": "194252515938",
@@ -14097,6 +14357,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 10.2,
     "precio_tarjeta_alkosto": 1989010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -14152,7 +14413,8 @@
     "Caracteristicas del Teclado": "Convencional",
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 37
+    "descuento_porcentaje": 37,
+    "screen_size_inches": 15.0
   },
   {
     "Identificador del producto": "198156391339",
@@ -14194,7 +14456,8 @@
     "Resolucion Camara Posterior": "8 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 50
+    "descuento_porcentaje": 50,
+    "screen_size_inches": 8.7
   },
   {
     "Identificador del producto": "198990788425",
@@ -14248,7 +14511,8 @@
     "Modelo Tarjeta de Video/Grafica": "NVIDIA GeForce RTX 4050 6GB VRAM",
     "Tarjeta Grafica": "GeForce® RTX 4050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 50
+    "descuento_porcentaje": 50,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "4711636438810",
@@ -14306,6 +14570,7 @@
     "Informacion sobre la Actualizacion a Windows 11": "Ya es windows 11",
     "tipo_producto": "laptop",
     "descuento_porcentaje": 25,
+    "screen_size_inches": 16.0,
     "precio_addi_ecommerce": 4899050,
     "precio_tarjeta_alkosto": 4849050,
     "metodos_pago": [
@@ -14365,7 +14630,8 @@
     "Caracteristicas del Teclado": "Alfanumérico | Diseño Ergonómico",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 43
+    "descuento_porcentaje": 43,
+    "screen_size_inches": 15.3
   },
   {
     "Identificador del producto": "195950690088",
@@ -14419,7 +14685,8 @@
     "Resolucion Camara WEB": "12 MP",
     "Caracteristicas del Teclado": "Retroiluminado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 13.6
   },
   {
     "Identificador del producto": "4711636390491",
@@ -14469,7 +14736,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Caracteristicas del Teclado": "Inalámbrico",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 42
+    "descuento_porcentaje": 42,
+    "screen_size_inches": 23.8
   },
   {
     "Identificador del producto": "195950401172",
@@ -14517,6 +14785,7 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 7949010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -14565,6 +14834,7 @@
     "Conexion a Datos": "Red Celular 5G | WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 4679010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -14622,7 +14892,8 @@
     "Modelo Tarjeta de Video/Grafica": "NVIDIA® GeForce RTX™ 4050 (GDDR6 de 6 GB dedicada)",
     "Tarjeta Grafica": "GeForce® RTX 4050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 40
+    "descuento_porcentaje": 40,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "8806097215325",
@@ -14668,6 +14939,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 35,
+    "screen_size_inches": 13.1,
     "precio_tarjeta_alkosto": 2719990,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -14725,7 +14997,8 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Modelo Tarjeta de Video/Grafica": "Gráficos AMD Radeon",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 38
+    "descuento_porcentaje": 38,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "198155958878",
@@ -14779,7 +15052,8 @@
     "Caracteristicas del Teclado": "Alfanumérico",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 41
+    "descuento_porcentaje": 41,
+    "screen_size_inches": 15.3
   },
   {
     "Identificador del producto": "199272381563",
@@ -14833,7 +15107,8 @@
     "Tarjeta Grafica": "GeForce® RTX 5070",
     "Software Incluidos": "Lenovo AI Now",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 23
+    "descuento_porcentaje": 23,
+    "screen_size_inches": 15.1
   },
   {
     "Identificador del producto": "195950087314",
@@ -14875,6 +15150,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 2489010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -14932,7 +15208,8 @@
     "Producto Recondicionado": "Sí es recondicionado",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 48
+    "descuento_porcentaje": 48,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "4894461995199",
@@ -14976,6 +15253,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 47,
+    "screen_size_inches": 10.95,
     "precio_tarjeta_alkosto": 819900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -15034,7 +15312,8 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Modelo Tarjeta de Video/Grafica": "Tarjeta gráfica Intel 8",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 38
+    "descuento_porcentaje": 38,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "4711121995538",
@@ -15091,7 +15370,8 @@
     "No. Puertos SD": "1 Puertos",
     "Software Incluidos": "Acer Office Manager: Administra y protege múltiples PCs Acer de forma remota en PYMEs.<br>PurifiedVoice: IA que elimina ruido de fondo y mejora la claridad en videollamadas.<br>Acer ProShield Plus: Seguridad empresarial con cifrado, borrado seguro y unidades encriptadas.<br>Acer Dust Defender: Ventilador reversible que expulsa polvo cada 6 horas para mayor rendimiento y durabilidad.",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 31
+    "descuento_porcentaje": 31,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "195950490756",
@@ -15148,7 +15428,8 @@
     "No. Puertos SD": "1 Puertos",
     "Software Incluidos": "Apple Intelligence, Siri, Mensajes, FaceTime, Recordatorios, Notas, Fotos, Contraseñas, Keynote, Pages, Numbers",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "199485690087",
@@ -15201,7 +15482,8 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Tarjeta Grafica": "GeForce® RTX 5060",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 26
+    "descuento_porcentaje": 26,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "4711474876744",
@@ -15314,6 +15596,7 @@
     "Es Premium": "Sí",
     "tipo_producto": "laptop",
     "descuento_porcentaje": 26,
+    "screen_size_inches": 16.0,
     "precio_addi_ecommerce": 4799050,
     "precio_tarjeta_alkosto": 4749050,
     "metodos_pago": [
@@ -15372,7 +15655,8 @@
     "Resolucion Camara WEB": "12 MP",
     "Caracteristicas del Teclado": "Retroiluminado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 15.3
   },
   {
     "Identificador del producto": "198156391483",
@@ -15414,7 +15698,8 @@
     "Resolucion Camara Posterior": "8 Megapixeles",
     "Conexion a Datos": "WiFi | Red Celular 4G",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 57
+    "descuento_porcentaje": 57,
+    "screen_size_inches": 8.7
   },
   {
     "Identificador del producto": "195950689143",
@@ -15468,7 +15753,8 @@
     "Resolucion Camara WEB": "12 MP",
     "Caracteristicas del Teclado": "Retroiluminado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 13.6
   },
   {
     "Identificador del producto": "195949988783",
@@ -15515,6 +15801,7 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 21,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 5419010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -15566,6 +15853,7 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 10089010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -15623,7 +15911,8 @@
     "Resolucion Camara WEB": "HD",
     "Caracteristicas del Teclado": "Alfanumérico | Alámbrico",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 49
+    "descuento_porcentaje": 49,
+    "screen_size_inches": 23.8
   },
   {
     "Identificador del producto": "199764929204",
@@ -15679,7 +15968,8 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Modelo Tarjeta de Video/Grafica": "Intel Graphics",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 26
+    "descuento_porcentaje": 26,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "198990459127",
@@ -15736,7 +16026,8 @@
     "Modelo Tarjeta de Video/Grafica": "NVIDIA GeForce RTX 5080",
     "Tarjeta Grafica": "GeForce® RTX 5080",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 18
+    "descuento_porcentaje": 18,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "4711474737496",
@@ -15788,7 +16079,8 @@
     "Resolucion Camara WEB": "2MP ( 1920X1080 )",
     "Caracteristicas del Teclado": "Convencional",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 36
+    "descuento_porcentaje": 36,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "195950086850",
@@ -15832,6 +16124,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 17,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 1619010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -15892,7 +16185,8 @@
     "No. Puertos SD": "1 Puertos",
     "Software Incluidos": "Apple Intelligence, Siri, Mensajes, FaceTime, Recordatorios, Notas, Fotos, Contraseñas, Keynote, Pages, Numbers",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "198155958762",
@@ -15948,6 +16242,7 @@
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
     "descuento_porcentaje": 38,
+    "screen_size_inches": 15.3,
     "precio_codensa": 2349070,
     "metodos_pago": [
       "codensa"
@@ -16039,7 +16334,8 @@
     "Caracteristicas del Teclado": "Retroiluminado",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 14.2
   },
   {
     "Identificador del producto": "6941812781456",
@@ -16084,6 +16380,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 56,
+    "screen_size_inches": 12.1,
     "precio_tarjeta_alkosto": 808030,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -16140,7 +16437,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Caracteristicas del Teclado": "Diseño Ergonómico",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 24
+    "descuento_porcentaje": 24,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "195950854039",
@@ -16191,7 +16489,8 @@
     "Marca Tarjeta de Video/Grafica": "No Tiene Tarjeta Video/Grafica Independiente",
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 13.0
   },
   {
     "Identificador del producto": "195949730504",
@@ -16234,6 +16533,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 8.3,
     "precio_tarjeta_alkosto": 3389010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -16289,7 +16589,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Caracteristicas del Teclado": "Diseño Ergonómico | Numérico Separado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 44
+    "descuento_porcentaje": 44,
+    "screen_size_inches": 16.0
   },
   {
     "Identificador del producto": "198828758019",
@@ -16340,7 +16641,8 @@
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "Resolucion Camara WEB": "Webcam HD 720p",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 19
+    "descuento_porcentaje": 19,
+    "screen_size_inches": 14.0
   },
   {
     "Identificador del producto": "4894461831381",
@@ -16381,7 +16683,8 @@
     "Resolucion Camara Posterior": "5 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 22
+    "descuento_porcentaje": 22,
+    "screen_size_inches": 10.1
   },
   {
     "Identificador del producto": "195950106428",
@@ -16427,6 +16730,7 @@
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 4359010,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -16482,7 +16786,8 @@
     "Caracteristicas del Teclado": "Inalámbrico",
     "Software Incluidos": "Safari, Notes, Messages, Keynote, Pages, Numbers, Maps, Mail, Music, Stocks, Weather.",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 24.0
   },
   {
     "Identificador del producto": "4711636349741",
@@ -16535,7 +16840,8 @@
     "No. Puertos VGA": "0 Puertos",
     "No. Puertos Mini HDMI": "0 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 33
+    "descuento_porcentaje": 33,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "4711636453394",
@@ -16584,7 +16890,8 @@
     "Marca Tarjeta de Video/Grafica": "No Tiene Tarjeta Video/Grafica Independiente",
     "Unidad CD/DVD Integrada": "No tiene Unidad de CD/DVD Integrada",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 44
+    "descuento_porcentaje": 44,
+    "screen_size_inches": 15.6
   },
   {
     "Identificador del producto": "4711636394871",
@@ -16638,6 +16945,7 @@
     "Caracteristicas del Teclado": "Convencional | Diseño Ergonómico",
     "tipo_producto": "laptop",
     "descuento_porcentaje": 35,
+    "screen_size_inches": 15.6,
     "precio_addi_ecommerce": 1599050,
     "precio_tarjeta_alkosto": 1549050,
     "metodos_pago": [
@@ -16688,6 +16996,7 @@
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
     "descuento_porcentaje": 44,
+    "screen_size_inches": 11.0,
     "precio_tarjeta_alkosto": 809930,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -16742,7 +17051,8 @@
     "Resolucion Camara WEB": "Full HD IR",
     "Caracteristicas del Teclado": "Diseño Ergonómico | Retroiluminado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 24
+    "descuento_porcentaje": 24,
+    "screen_size_inches": 14.5
   },
   {
     "Identificador del producto": "195950696028",
@@ -16796,6 +17106,7 @@
     "Resolucion Camara WEB": "12 MP",
     "Caracteristicas del Teclado": "Retroiluminado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 0
+    "descuento_porcentaje": 0,
+    "screen_size_inches": 15.3
   }
 ]
