@@ -30,6 +30,7 @@ CATEGORY_PREFIXES = [
     "Computadores y Tablet>",
     "TV>Smart TV>",
     "Celulares>Smartphones>",
+    "Electrodomésticos>Refrigeración>",
 ]
 EXCLUDED_SUBCATEGORIES = [
     "Computadores y Tablet>Proyectores y Videobeam",
@@ -50,6 +51,12 @@ TIPO_PRODUCTO_PREFIXES = [
     ("Computadores y Tablet>Impresión>Resmas Papel", "papel"),
     ("Computadores y Tablet>Impresión>Tintas, Tóner y Cartuchos", "tinta"),
     ("Computadores y Tablet>Impresión>", "impresora"),
+    ("Electrodomésticos>Refrigeración>Nevecones", "nevecon"),
+    ("Electrodomésticos>Refrigeración>Neveras", "nevera"),
+    ("Electrodomésticos>Refrigeración>Congeladores", "congelador"),
+    ("Electrodomésticos>Refrigeración>Vineras, Minibares y Mini Neveras", "vinera_minibar"),
+    ("Electrodomésticos>Refrigeración>Dispensadores Agua", "dispensador_agua"),
+    ("Electrodomésticos>Refrigeración>Máquinas Fabricadoras Hielo", "fabricador_hielo"),
 ]
 
 
