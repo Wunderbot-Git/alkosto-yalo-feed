@@ -31,10 +31,9 @@ CATEGORY_PREFIXES = [
     "TV>Smart TV>",
     "Celulares>Smartphones>",
     "Electrodomésticos>Refrigeración>",
+    "Electrodomésticos>Lavado>",
 ]
-EXCLUDED_SUBCATEGORIES = [
-    "Computadores y Tablet>Proyectores y Videobeam",
-]
+EXCLUDED_SUBCATEGORIES = []
 
 # Derived 'tipo_producto' field — maps a category-tree prefix to a short type
 # label. Used by Algolia Rules so query routing doesn't depend on enumerating
@@ -57,6 +56,10 @@ TIPO_PRODUCTO_PREFIXES = [
     ("Electrodomésticos>Refrigeración>Vineras, Minibares y Mini Neveras", "vinera_minibar"),
     ("Electrodomésticos>Refrigeración>Dispensadores Agua", "dispensador_agua"),
     ("Electrodomésticos>Refrigeración>Máquinas Fabricadoras Hielo", "fabricador_hielo"),
+    ("Electrodomésticos>Lavado>Lavadora-Secadora y Torres", "lavadora_secadora"),
+    ("Electrodomésticos>Lavado>Lavadoras", "lavadora"),
+    ("Electrodomésticos>Lavado>Secadoras", "secadora"),
+    ("Computadores y Tablet>Proyectores y Videobeam", "proyector"),
 ]
 
 
