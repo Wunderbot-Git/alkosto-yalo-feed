@@ -43,7 +43,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 24
+    "descuento_porcentaje": 23
   },
   {
     "Identificador del producto": "7704353446630",
@@ -90,7 +90,7 @@
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 36,
+    "descuento_porcentaje": 35,
     "precio_tarjeta_alkosto": 1599900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -155,7 +155,7 @@
     "Capacidad de la Bateria": "6150 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 54,
+    "descuento_porcentaje": 53,
     "screen_size_inches": 6.78
   },
   {
@@ -204,7 +204,7 @@
     "Tipo de Alimentacion de La Secadora": "Gas",
     "Material de la Tina": "Acero Inoxidable y Polietileno",
     "tipo_producto": "lavadora_secadora",
-    "descuento_porcentaje": 32
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": "195951064697",
@@ -412,7 +412,7 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 38,
+    "descuento_porcentaje": 37,
     "screen_size_inches": 23.8
   },
   {
@@ -482,7 +482,7 @@
     "Producto Marca o Referencia compatible": "L4160, L4260, L6170, L6270",
     "Tipo de Consumible": "Botellas",
     "tipo_producto": "tinta",
-    "descuento_porcentaje": 13
+    "descuento_porcentaje": 12
   },
   {
     "Identificador del producto": "6921732899400",
@@ -634,7 +634,7 @@
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "Tipo de Alimentacion de La Secadora": "Energía Eléctrica",
     "tipo_producto": "lavadora_secadora",
-    "descuento_porcentaje": 23
+    "descuento_porcentaje": 22
   },
   {
     "Identificador del producto": "010343885318",
@@ -698,7 +698,7 @@
     "Resolucion Imagen": "Full HD",
     "Tenologia de Visualizacion": "LED",
     "tipo_producto": "proyector",
-    "descuento_porcentaje": 29
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": "8887549916335",
@@ -794,7 +794,7 @@
     "Tasa de Refresco": "100 Hz",
     "Tipo de Panel": "VA",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 43,
+    "descuento_porcentaje": 42,
     "screen_size_inches": 24.0
   },
   {
@@ -838,7 +838,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "vinera_minibar",
-    "descuento_porcentaje": 42
+    "descuento_porcentaje": 41
   },
   {
     "Identificador del producto": "7909569492284",
@@ -884,7 +884,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 51
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": "7704353446098",
@@ -1032,7 +1032,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 32
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": "8806097885184",
@@ -1177,7 +1177,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 38
+    "descuento_porcentaje": 37
   },
   {
     "Identificador del producto": "883049636306",
@@ -1258,7 +1258,7 @@
     "Resolucion Camara Posterior": "8 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 41,
+    "descuento_porcentaje": 40,
     "screen_size_inches": 10.1
   },
   {
@@ -1418,7 +1418,7 @@
     "Tamaño del Escaner": "A4",
     "Referencia del Insumo que requiere": "Botella Tinta Negra T544120-AL<br>Botella Tinta Cian T544220-AL<br>Botella Tinta Magenta T544320-AL<br>Botella Tinta Amarilla T544420-AL",
     "tipo_producto": "impresora",
-    "descuento_porcentaje": 26
+    "descuento_porcentaje": 25
   },
   {
     "Identificador del producto": "8806099056223",
@@ -1474,7 +1474,7 @@
     "Capacidad de la Bateria": "5000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 23,
+    "descuento_porcentaje": 22,
     "screen_size_inches": 6.7
   },
   {
@@ -1650,7 +1650,7 @@
     "Capacidad de la Bateria": "4800 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 17,
+    "descuento_porcentaje": 16,
     "screen_size_inches": 6.9
   },
   {
@@ -1810,7 +1810,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 29,
+    "descuento_porcentaje": 28,
     "screen_size_inches": 75.0
   },
   {
@@ -2021,7 +2021,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 52,
+    "descuento_porcentaje": 51,
     "screen_size_inches": 65.0
   },
   {
@@ -2083,7 +2083,7 @@
     "Capacidad de la Bateria": "6150 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 54,
+    "descuento_porcentaje": 53,
     "screen_size_inches": 6.78
   },
   {
@@ -2213,7 +2213,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 34
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": "757638370820",
@@ -2252,7 +2252,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "Conexión Con Cable",
     "tipo_producto": "congelador",
-    "descuento_porcentaje": 41
+    "descuento_porcentaje": 40
   },
   {
     "Identificador del producto": "195951030692",
@@ -2399,7 +2399,7 @@
     "Capacidad de la Bateria": "6500 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 46,
+    "descuento_porcentaje": 45,
     "screen_size_inches": 6.74,
     "precio_cre20min_mensual": 709050,
     "precio_tarjeta_alkosto": 709050,
@@ -2463,7 +2463,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 46,
+    "descuento_porcentaje": 45,
     "screen_size_inches": 55.0
   },
   {
@@ -2678,7 +2678,7 @@
     "Tipo de Alimentacion de La Secadora": "Energía Eléctrica",
     "Material de la Tina": "100% Acero Inoxidable",
     "tipo_producto": "lavadora_secadora",
-    "descuento_porcentaje": 19
+    "descuento_porcentaje": 18
   },
   {
     "Identificador del producto": "195949966514",
@@ -2723,7 +2723,7 @@
     "Resolucion Camara Posterior": "12 Megapixeles",
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 26,
+    "descuento_porcentaje": 25,
     "screen_size_inches": 13.0
   },
   {
@@ -3006,7 +3006,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 35
+    "descuento_porcentaje": 34
   },
   {
     "Identificador del producto": "8806097885740",
@@ -3062,7 +3062,7 @@
     "Capacidad de la Bateria": "4300 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 2,
+    "descuento_porcentaje": 1,
     "screen_size_inches": 6.3
   },
   {
@@ -3146,7 +3146,7 @@
     "Cantidad de hojas": "10 Hojas",
     "Gramaje del Papel": "1 Gramos",
     "tipo_producto": "papel",
-    "descuento_porcentaje": 11
+    "descuento_porcentaje": 10
   },
   {
     "Identificador del producto": "840493626789",
@@ -3205,7 +3205,7 @@
     "Capacidad de la Bateria": "4800 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 17,
+    "descuento_porcentaje": 16,
     "screen_size_inches": 6.9
   },
   {
@@ -3354,7 +3354,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 50
+    "descuento_porcentaje": 49
   },
   {
     "Identificador del producto": "8806091653338",
@@ -3468,7 +3468,7 @@
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "Tipo de Alimentacion de La Secadora": "Gas",
     "tipo_producto": "secadora",
-    "descuento_porcentaje": 47
+    "descuento_porcentaje": 46
   },
   {
     "Identificador del producto": "757638401951",
@@ -3514,7 +3514,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 33
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": "7705191047096",
@@ -3703,7 +3703,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 26
+    "descuento_porcentaje": 25
   },
   {
     "Identificador del producto": "074101210293",
@@ -3746,7 +3746,7 @@
     "Colores de Impresion": "Impresión Blanco Y Negro | Impresión Color",
     "Referencia del Insumo que requiere": "FUJIFILM Película instantánea instax™ mini(se vende por separado)",
     "tipo_producto": "impresora",
-    "descuento_porcentaje": 19
+    "descuento_porcentaje": 18
   },
   {
     "Identificador del producto": "199273243785",
@@ -3861,7 +3861,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 44,
+    "descuento_porcentaje": 43,
     "screen_size_inches": 77.0
   },
   {
@@ -3965,7 +3965,7 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Informacion sobre la Actualizacion a Windows 11": "Ya viene con windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 30,
+    "descuento_porcentaje": 29,
     "screen_size_inches": 14.0,
     "precio_bancopopular": 16599050,
     "metodos_pago": [
@@ -4013,7 +4013,7 @@
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 10,
+    "descuento_porcentaje": 9,
     "screen_size_inches": 11.0
   },
   {
@@ -4195,7 +4195,7 @@
     "Sistema Para Dispensar el Agua": "Manual",
     "Temperatura Minima": "10 Grados Centigrados",
     "tipo_producto": "dispensador_agua",
-    "descuento_porcentaje": 26
+    "descuento_porcentaje": 25
   },
   {
     "Identificador del producto": "7705191041803",
@@ -4291,7 +4291,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 35,
+    "descuento_porcentaje": 34,
     "screen_size_inches": 15.6
   },
   {
@@ -4568,7 +4568,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "WiFi",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 8
+    "descuento_porcentaje": 7
   },
   {
     "Identificador del producto": "840023293498",
@@ -4627,7 +4627,7 @@
     "Capacidad de la Bateria": "5200 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 47,
+    "descuento_porcentaje": 46,
     "screen_size_inches": 6.7
   },
   {
@@ -4672,7 +4672,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "WiFi",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 15
+    "descuento_porcentaje": 14
   },
   {
     "Identificador del producto": "840023296970",
@@ -4776,7 +4776,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 34
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": "7707945527946",
@@ -5039,7 +5039,7 @@
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "Material de la Tina": "Acero Inoxidable y Polietileno",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 43
+    "descuento_porcentaje": 42
   },
   {
     "Identificador del producto": "4711387903711",
@@ -5157,7 +5157,7 @@
     "Capacidad de la Bateria": "6000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 29,
+    "descuento_porcentaje": 28,
     "screen_size_inches": 6.7
   },
   {
@@ -5261,7 +5261,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 29
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": "8806099155346",
@@ -5303,7 +5303,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "WiFi",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 45
+    "descuento_porcentaje": 44
   },
   {
     "Identificador del producto": "195950692433",
@@ -5410,7 +5410,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 44,
+    "descuento_porcentaje": 43,
     "screen_size_inches": 15.6,
     "precio_bancopopular": 2199050,
     "metodos_pago": [
@@ -5451,7 +5451,7 @@
     "Tasa de Refresco": "240 Hz",
     "Tipo de Panel": "IPS",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 52,
+    "descuento_porcentaje": 51,
     "screen_size_inches": 27.0
   },
   {
@@ -5791,7 +5791,7 @@
     "Tipo de Control Remoto": "Básico",
     "No. Puertos VGA": "0 Puertos",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 30,
+    "descuento_porcentaje": 29,
     "screen_size_inches": 58.0
   },
   {
@@ -5877,7 +5877,7 @@
     "Programas de Lavado": "11 Ciclos",
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 22,
+    "descuento_porcentaje": 21,
     "precio_tarjeta_alkosto": 2199900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -5982,7 +5982,7 @@
     "Capacidad de la Bateria": "6500 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 32,
+    "descuento_porcentaje": 31,
     "screen_size_inches": 6.68
   },
   {
@@ -6265,7 +6265,7 @@
     "Programas de Lavado": "12 Ciclos",
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 32,
+    "descuento_porcentaje": 31,
     "precio_tarjeta_alkosto": 2399900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -6313,7 +6313,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "congelador",
-    "descuento_porcentaje": 42
+    "descuento_porcentaje": 41
   },
   {
     "Identificador del producto": "7704353461558",
@@ -6648,7 +6648,7 @@
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "Informacion sobre la Actualizacion a Windows 11": "Ya es windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 36,
+    "descuento_porcentaje": 35,
     "screen_size_inches": 16.0,
     "precio_bancopopular": 4149050,
     "metodos_pago": [
@@ -6698,7 +6698,7 @@
     "Tipo de Alimentacion de La Secadora": "Energía Eléctrica",
     "Material de la Tina": "Acero Inoxidable y Polietileno",
     "tipo_producto": "lavadora_secadora",
-    "descuento_porcentaje": 12
+    "descuento_porcentaje": 11
   },
   {
     "Identificador del producto": "8806095362991",
@@ -6742,7 +6742,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "WiFi",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 9
+    "descuento_porcentaje": 8
   },
   {
     "Identificador del producto": "6932554469566",
@@ -6956,7 +6956,7 @@
     "Software Incluidos": "Mcafee 30 Dias de prueba gratuito",
     "Producto Recondicionado": "Sí es recondicionado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 10,
+    "descuento_porcentaje": 9,
     "screen_size_inches": 16.0
   },
   {
@@ -7013,7 +7013,7 @@
     "Capacidad de la Bateria": "4300 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 23,
+    "descuento_porcentaje": 22,
     "screen_size_inches": 6.3
   },
   {
@@ -7182,7 +7182,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 38,
+    "descuento_porcentaje": 37,
     "screen_size_inches": 15.6
   },
   {
@@ -7686,7 +7686,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 25
+    "descuento_porcentaje": 24
   },
   {
     "Identificador del producto": "7705946480383",
@@ -7776,7 +7776,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 33
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": "010343965973",
@@ -7802,7 +7802,7 @@
     "Rendimiento": "4500 Hojas",
     "Tipo de Consumible": "Botellas",
     "tipo_producto": "tinta",
-    "descuento_porcentaje": 18
+    "descuento_porcentaje": 17
   },
   {
     "Identificador del producto": "6937574831317",
@@ -7919,7 +7919,7 @@
     "Tiene Tecnologia Para Compartir Pantalla": "Si Tiene Opcion de Compartir Pantalla",
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 55,
+    "descuento_porcentaje": 54,
     "screen_size_inches": 50.0
   },
   {
@@ -8002,7 +8002,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 24,
+    "descuento_porcentaje": 23,
     "precio_tarjeta_alkosto": 1759900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -8111,7 +8111,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "congelador",
-    "descuento_porcentaje": 14
+    "descuento_porcentaje": 13
   },
   {
     "Identificador del producto": "198957237850",
@@ -8205,7 +8205,7 @@
     "Capacidad de la Bateria": "4900 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 24,
+    "descuento_porcentaje": 23,
     "screen_size_inches": 6.7
   },
   {
@@ -8310,7 +8310,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 29
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": "757638387644",
@@ -8411,7 +8411,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 54,
+    "descuento_porcentaje": 53,
     "screen_size_inches": 75.0
   },
   {
@@ -8569,7 +8569,7 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 17,
+    "descuento_porcentaje": 16,
     "screen_size_inches": 6.1
   },
   {
@@ -8661,7 +8661,7 @@
     "Sistema Para Dispensar el Agua": "Manual",
     "Temperatura Minima": "5 Grados Centigrados",
     "tipo_producto": "dispensador_agua",
-    "descuento_porcentaje": 23
+    "descuento_porcentaje": 22
   },
   {
     "Identificador del producto": "6932554481179",
@@ -8775,7 +8775,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 50,
+    "descuento_porcentaje": 49,
     "screen_size_inches": 55.0
   },
   {
@@ -8943,7 +8943,7 @@
     "Tasa de Refresco": "144 Hz",
     "Tipo de Panel": "IPS",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 50,
+    "descuento_porcentaje": 49,
     "screen_size_inches": 24.0
   },
   {
@@ -9046,7 +9046,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 56,
+    "descuento_porcentaje": 55,
     "screen_size_inches": 50.0
   },
   {
@@ -9106,7 +9106,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 57,
+    "descuento_porcentaje": 56,
     "screen_size_inches": 83.0
   },
   {
@@ -9364,7 +9364,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 51
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": "8806099056254",
@@ -9480,7 +9480,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Software Incluidos": "Safari, Notes, Messages, Keynote, Pages, Numbers, Maps, Mail, Music, Stocks, Weather.",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 12,
+    "descuento_porcentaje": 11,
     "screen_size_inches": 24.0
   },
   {
@@ -9638,7 +9638,7 @@
     "No. Puertos SD": "1 Puertos",
     "Es convertible": "Sí es convertible (2 en 1)",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 29,
+    "descuento_porcentaje": 28,
     "screen_size_inches": 14.0
   },
   {
@@ -9683,7 +9683,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 42
+    "descuento_porcentaje": 41
   },
   {
     "Identificador del producto": "7705191041315",
@@ -9936,7 +9936,7 @@
     "Sistema Para Dispensar el Agua": "Manual",
     "Temperatura Minima": "10 Grados Centigrados",
     "tipo_producto": "dispensador_agua",
-    "descuento_porcentaje": 24
+    "descuento_porcentaje": 23
   },
   {
     "Identificador del producto": "7708803796429",
@@ -9998,7 +9998,7 @@
     "Producto en Combo": "Sí es en Combo",
     "Resolucion Otras Camaras Frontales": "8 MPX",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 26,
+    "descuento_porcentaje": 25,
     "screen_size_inches": 6.78
   },
   {
@@ -10055,7 +10055,7 @@
     "Capacidad de la Bateria": "5000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 29,
+    "descuento_porcentaje": 28,
     "screen_size_inches": 6.78
   },
   {
@@ -10209,7 +10209,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 27
+    "descuento_porcentaje": 26
   },
   {
     "Identificador del producto": "7861106376467",
@@ -10250,7 +10250,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "Conexión Con Cable",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 51
+    "descuento_porcentaje": 50
   },
   {
     "Identificador del producto": "883049459769",
@@ -10338,7 +10338,7 @@
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "Material de la Tina": "Acero Inoxidable y Polietileno",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 17
+    "descuento_porcentaje": 16
   },
   {
     "Identificador del producto": "8806097461760",
@@ -10655,7 +10655,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 42,
+    "descuento_porcentaje": 41,
     "screen_size_inches": 65.0
   },
   {
@@ -10817,7 +10817,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 49,
+    "descuento_porcentaje": 48,
     "screen_size_inches": 65.0
   },
   {
@@ -10898,7 +10898,7 @@
     "Cantidad de hojas": "60 Hojas",
     "Gramaje del Papel": "235 Gramos",
     "tipo_producto": "papel",
-    "descuento_porcentaje": 17
+    "descuento_porcentaje": 16
   },
   {
     "Identificador del producto": "199272949602",
@@ -10952,7 +10952,7 @@
     "Tarjeta Grafica": "GeForce® RTX 5080",
     "Software Incluidos": "Lenovo AI Now",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 3,
+    "descuento_porcentaje": 2,
     "screen_size_inches": 16.0
   },
   {
@@ -11009,7 +11009,7 @@
     "Capacidad de la Bateria": "3877 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 25,
+    "descuento_porcentaje": 24,
     "screen_size_inches": 6.1
   },
   {
@@ -11068,7 +11068,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "No. Puertos VGA": "0 Puertos",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 56,
+    "descuento_porcentaje": 55,
     "screen_size_inches": 75.0
   },
   {
@@ -11128,7 +11128,7 @@
     "Capacidad de la Bateria": "5200 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 41,
+    "descuento_porcentaje": 40,
     "screen_size_inches": 6.8
   },
   {
@@ -11183,7 +11183,7 @@
     "Tarjeta Grafica": "GeForce® RTX 4080",
     "Producto Recondicionado": "Sí es recondicionado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 15,
+    "descuento_porcentaje": 14,
     "screen_size_inches": 16.0
   },
   {
@@ -11225,7 +11225,7 @@
     "Tecnologia de Lavado": "Agitador",
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 39,
+    "descuento_porcentaje": 38,
     "precio_tarjeta_alkosto": 4199900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -11284,7 +11284,7 @@
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "Informacion sobre la Actualizacion a Windows 11": "Ya viene con windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 33,
+    "descuento_porcentaje": 32,
     "screen_size_inches": 16.0,
     "precio_bancopopular": 5299050,
     "metodos_pago": [
@@ -11581,7 +11581,7 @@
     "Capacidad de la Bateria": "6000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 22,
+    "descuento_porcentaje": 21,
     "screen_size_inches": 6.9
   },
   {
@@ -11634,7 +11634,7 @@
     "Capacidad de la Bateria": "5000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 46,
+    "descuento_porcentaje": 45,
     "screen_size_inches": 6.7
   },
   {
@@ -11945,7 +11945,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "vinera_minibar",
-    "descuento_porcentaje": 36
+    "descuento_porcentaje": 35
   },
   {
     "Identificador del producto": "6937574860294",
@@ -12049,7 +12049,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "Conexión Con Cable",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 19
+    "descuento_porcentaje": 18
   },
   {
     "Identificador del producto": "4711474400895",
@@ -12101,7 +12101,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 49,
+    "descuento_porcentaje": 48,
     "screen_size_inches": 14.0
   },
   {
@@ -12160,7 +12160,7 @@
     "Capacidad de la Bateria": "7000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 47,
+    "descuento_porcentaje": 46,
     "screen_size_inches": 6.9
   },
   {
@@ -12222,7 +12222,7 @@
     "Capacidad de la Bateria": "6150 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 54,
+    "descuento_porcentaje": 53,
     "screen_size_inches": 6.78
   },
   {
@@ -12495,7 +12495,7 @@
     "Modelo Tarjeta de Video/Grafica": "RTX 3050, GDDR6 4GB",
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 33,
+    "descuento_porcentaje": 32,
     "screen_size_inches": 15.6
   },
   {
@@ -12553,7 +12553,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 49,
+    "descuento_porcentaje": 48,
     "screen_size_inches": 75.0
   },
   {
@@ -12612,7 +12612,7 @@
     "Tiene Tecnologia Para Compartir Pantalla": "Si Tiene Opcion de Compartir Pantalla",
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 42,
+    "descuento_porcentaje": 41,
     "screen_size_inches": 55.0
   },
   {
@@ -12672,7 +12672,7 @@
     "Capacidad de la Bateria": "5200 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 48,
+    "descuento_porcentaje": 47,
     "screen_size_inches": 6.78
   },
   {
@@ -13039,7 +13039,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Tarjeta Grafica": "GeForce® RTX 5060",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 24,
+    "descuento_porcentaje": 23,
     "screen_size_inches": 15.1
   },
   {
@@ -13096,7 +13096,7 @@
     "No. Puertos SD": "1 Puertos",
     "Software Incluidos": "Acer Office Manager: Administra y protege múltiples PCs Acer de forma remota en PYMEs.<br>AcerSense / TravelMateSense: Panel que centraliza diagnósticos, actualizaciones y estado del sistema.<br>PurifiedVoice: IA que elimina ruido de fondo y mejora la claridad en videollamadas.<br>Acer ProShield Plus: Seguridad empresarial con cifrado, borrado seguro y unidades encriptadas.<br>Acer Dust Defender: Ventilador reversible que expulsa polvo cada 3 horas para mayor rendimiento y durabilidad.",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 33,
+    "descuento_porcentaje": 32,
     "screen_size_inches": 14.0
   },
   {
@@ -13197,7 +13197,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 23,
+    "descuento_porcentaje": 22,
     "screen_size_inches": 65.0
   },
   {
@@ -13295,7 +13295,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 34,
+    "descuento_porcentaje": 33,
     "screen_size_inches": 50.0
   },
   {
@@ -13557,7 +13557,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 28
+    "descuento_porcentaje": 27
   },
   {
     "Identificador del producto": "8806097671558",
@@ -13614,7 +13614,7 @@
     "Capacidad de la Bateria": "4900 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 24,
+    "descuento_porcentaje": 23,
     "screen_size_inches": 6.7
   },
   {
@@ -13675,7 +13675,7 @@
     "Capacidad de la Bateria": "5000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 49,
+    "descuento_porcentaje": 48,
     "screen_size_inches": 6.67
   },
   {
@@ -13836,7 +13836,7 @@
     "No. Puertos SD": "1 Puertos",
     "Tarjeta Grafica": "GeForce® RTX 5080",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 29,
+    "descuento_porcentaje": 28,
     "screen_size_inches": 16.0
   },
   {
@@ -13887,7 +13887,7 @@
     "Tamaño del Escaner": "A4 | Carta",
     "Referencia del Insumo que requiere": "GI-11",
     "tipo_producto": "impresora",
-    "descuento_porcentaje": 15
+    "descuento_porcentaje": 14
   },
   {
     "Identificador del producto": "6902176159923",
@@ -14150,7 +14150,7 @@
     "Capacidad de la Bateria": "5200 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 47,
+    "descuento_porcentaje": 46,
     "screen_size_inches": 6.7
   },
   {
@@ -14190,7 +14190,7 @@
     "Tasa de Refresco": "240 Hz",
     "Tipo de Panel": "IPS",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 56,
+    "descuento_porcentaje": 55,
     "screen_size_inches": 32.0
   },
   {
@@ -14568,7 +14568,7 @@
     "Resolucion Camara Posterior": "8 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 36,
+    "descuento_porcentaje": 35,
     "screen_size_inches": 11.0
   },
   {
@@ -14614,7 +14614,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 28
+    "descuento_porcentaje": 27
   },
   {
     "Identificador del producto": "6941764494589",
@@ -14704,7 +14704,7 @@
     "Cantidad de hojas": "10 Hojas",
     "Gramaje del Papel": "1 Gramos",
     "tipo_producto": "papel",
-    "descuento_porcentaje": 11
+    "descuento_porcentaje": 10
   },
   {
     "Identificador del producto": "7705946480376",
@@ -14748,7 +14748,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "vinera_minibar",
-    "descuento_porcentaje": 31
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": "8806096701201",
@@ -14805,7 +14805,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 42,
+    "descuento_porcentaje": 41,
     "screen_size_inches": 65.0
   },
   {
@@ -14865,7 +14865,7 @@
     "Capacidad de la Bateria": "5200 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 47,
+    "descuento_porcentaje": 46,
     "screen_size_inches": 6.7
   },
   {
@@ -14972,7 +14972,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 33
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": "7708334730053",
@@ -15035,7 +15035,7 @@
     "Producto en Combo": "Sí es en Combo",
     "Celular para Gamers": "Sí",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 30,
+    "descuento_porcentaje": 29,
     "screen_size_inches": 6.59,
     "precio_cre20min_mensual": 3299900,
     "precio_tarjeta_alkosto": 3299900,
@@ -15123,7 +15123,7 @@
     "Cantidad de hojas": "20 Hojas",
     "Gramaje del Papel": "200 Gramos",
     "tipo_producto": "papel",
-    "descuento_porcentaje": 17
+    "descuento_porcentaje": 16
   },
   {
     "Identificador del producto": "7709467012092",
@@ -15181,7 +15181,7 @@
     "Capacidad de la Bateria": "7000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 30,
+    "descuento_porcentaje": 29,
     "screen_size_inches": 6.83,
     "precio_cre20min_mensual": 3129050,
     "precio_tarjeta_alkosto": 3129050,
@@ -15229,7 +15229,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 32
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": "199274439064",
@@ -15283,7 +15283,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 33,
+    "descuento_porcentaje": 32,
     "screen_size_inches": 14.0
   },
   {
@@ -15517,7 +15517,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 38,
+    "descuento_porcentaje": 37,
     "screen_size_inches": 15.6
   },
   {
@@ -15574,7 +15574,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 25,
+    "descuento_porcentaje": 24,
     "screen_size_inches": 14.0
   },
   {
@@ -15620,7 +15620,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "Bluetooth | WiFi",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 17
+    "descuento_porcentaje": 16
   },
   {
     "Identificador del producto": "8806095366692",
@@ -15665,7 +15665,7 @@
     "Tipo de Alimentacion de La Secadora": "Gas",
     "Material de la Tina": "100% Acero Inoxidable",
     "tipo_producto": "lavadora_secadora",
-    "descuento_porcentaje": 21
+    "descuento_porcentaje": 20
   },
   {
     "Identificador del producto": "7705946480857",
@@ -15831,7 +15831,7 @@
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "Material de la Tina": "Acero Inoxidable y Polietileno",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 30
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": "8806084072153",
@@ -16307,7 +16307,7 @@
     "Es Smartphone": "Si es Smartphone",
     "Producto en Combo": "Sí es en Combo",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 17,
+    "descuento_porcentaje": 16,
     "screen_size_inches": 6.75
   },
   {
@@ -16697,7 +16697,7 @@
     "Capacidad de la Bateria": "6500 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 27,
+    "descuento_porcentaje": 26,
     "screen_size_inches": 6.77
   },
   {
@@ -16921,7 +16921,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 43,
+    "descuento_porcentaje": 42,
     "screen_size_inches": 65.0
   },
   {
@@ -17029,7 +17029,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "vinera_minibar",
-    "descuento_porcentaje": 26
+    "descuento_porcentaje": 25
   },
   {
     "Identificador del producto": "4711377440189",
@@ -17186,7 +17186,7 @@
     "Capacidad de la Bateria": "3877 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 25,
+    "descuento_porcentaje": 24,
     "screen_size_inches": 6.1
   },
   {
@@ -17434,7 +17434,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 40,
+    "descuento_porcentaje": 39,
     "precio_tarjeta_alkosto": 3399900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -17552,7 +17552,7 @@
     "Es Smartphone": "Si es Smartphone",
     "Producto en Combo": "Sí es en Combo",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 18,
+    "descuento_porcentaje": 17,
     "screen_size_inches": 6.77
   },
   {
@@ -17589,7 +17589,7 @@
     "Tasa de Refresco": "75 Hz",
     "Tipo de Panel": "IPS",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 56,
+    "descuento_porcentaje": 55,
     "screen_size_inches": 27.0
   },
   {
@@ -17687,7 +17687,7 @@
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "Tipo de Alimentacion de La Secadora": "Gas",
     "tipo_producto": "lavadora_secadora",
-    "descuento_porcentaje": 28
+    "descuento_porcentaje": 27
   },
   {
     "Identificador del producto": "7861106359729",
@@ -18029,7 +18029,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 41,
+    "descuento_porcentaje": 40,
     "screen_size_inches": 15.6
   },
   {
@@ -18249,7 +18249,7 @@
     "No. Puertos USB": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 43,
+    "descuento_porcentaje": 42,
     "screen_size_inches": 14.0
   },
   {
@@ -18403,7 +18403,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "congelador",
-    "descuento_porcentaje": 42
+    "descuento_porcentaje": 41
   },
   {
     "Identificador del producto": "6932204523112",
@@ -18561,7 +18561,7 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Tarjeta Grafica": "GeForce® RTX 5060",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 34
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": "7705191047119",
@@ -19073,7 +19073,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 19,
+    "descuento_porcentaje": 18,
     "precio_tarjeta_alkosto": 1799900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -19121,7 +19121,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 14
+    "descuento_porcentaje": 13
   },
   {
     "Identificador del producto": "7708228051066",
@@ -19162,7 +19162,7 @@
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "Material de la Tina": "Acero Inoxidable y Polietileno",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 39
+    "descuento_porcentaje": 38
   },
   {
     "Identificador del producto": "7705946479547",
@@ -19263,7 +19263,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 47,
+    "descuento_porcentaje": 46,
     "screen_size_inches": 55.0
   },
   {
@@ -19320,7 +19320,7 @@
     "Capacidad de la Bateria": "5000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 23,
+    "descuento_porcentaje": 22,
     "screen_size_inches": 6.7
   },
   {
@@ -19360,7 +19360,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "vinera_minibar",
-    "descuento_porcentaje": 33
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": "7705946477819",
@@ -19393,7 +19393,7 @@
     "Sistema Para Dispensar el Agua": "Manual",
     "Temperatura Minima": "10 Grados Centigrados",
     "tipo_producto": "dispensador_agua",
-    "descuento_porcentaje": 19
+    "descuento_porcentaje": 18
   },
   {
     "Identificador del producto": "195950395785",
@@ -19497,7 +19497,7 @@
     "Capacidad de la Bateria": "5200 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 43,
+    "descuento_porcentaje": 42,
     "screen_size_inches": 6.67
   },
   {
@@ -19593,7 +19593,7 @@
     "Programas de Lavado": "5 Ciclos",
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 32
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": "6937574879524",
@@ -19652,7 +19652,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 47,
+    "descuento_porcentaje": 46,
     "screen_size_inches": 55.0
   },
   {
@@ -19905,7 +19905,7 @@
     "Es Smartphone": "Si es Smartphone",
     "Celular para Gamers": "Sí",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 43,
+    "descuento_porcentaje": 42,
     "screen_size_inches": 6.8
   },
   {
@@ -20002,7 +20002,7 @@
     "Tasa de Refresco": "180 Hz",
     "Tipo de Panel": "IPS",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 58,
+    "descuento_porcentaje": 57,
     "screen_size_inches": 27.0
   },
   {
@@ -20119,7 +20119,7 @@
     "Capacidad de la Bateria": "6600 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 36,
+    "descuento_porcentaje": 35,
     "screen_size_inches": 6.75
   },
   {
@@ -20255,7 +20255,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 30
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": "198155958892",
@@ -20421,7 +20421,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "No. Puertos VGA": "0 Puertos",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 57,
+    "descuento_porcentaje": 56,
     "screen_size_inches": 65.0
   },
   {
@@ -20533,7 +20533,7 @@
     "Informacion sobre la Actualizacion a Windows 11": "Ya es Windows 11",
     "Es Premium": "Sí",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 31,
+    "descuento_porcentaje": 30,
     "screen_size_inches": 16.0,
     "precio_bancopopular": 3999050,
     "metodos_pago": [
@@ -20707,7 +20707,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "congelador",
-    "descuento_porcentaje": 41
+    "descuento_porcentaje": 40
   },
   {
     "Identificador del producto": "198157007970",
@@ -20814,7 +20814,7 @@
     "Capacidad de la Bateria": "6600 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 36,
+    "descuento_porcentaje": 35,
     "screen_size_inches": 6.75
   },
   {
@@ -20914,7 +20914,7 @@
     "Modelo Tarjeta de Video/Grafica": "Gráficos AMD Radeon",
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 59,
+    "descuento_porcentaje": 58,
     "screen_size_inches": 14.0,
     "precio_codensa": 1399070,
     "metodos_pago": [
@@ -20975,7 +20975,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 43,
+    "descuento_porcentaje": 42,
     "screen_size_inches": 98.0
   },
   {
@@ -21390,7 +21390,7 @@
     "Cantidad de hojas": "10 Hojas",
     "Gramaje del Papel": "1 Gramos",
     "tipo_producto": "papel",
-    "descuento_porcentaje": 11
+    "descuento_porcentaje": 10
   },
   {
     "Identificador del producto": "195908303183",
@@ -21499,7 +21499,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "No. Puertos VGA": "0 Puertos",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 56,
+    "descuento_porcentaje": 55,
     "screen_size_inches": 98.0
   },
   {
@@ -21814,7 +21814,7 @@
     "Tecnologia de Lavado": "Tornado",
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 37,
+    "descuento_porcentaje": 36,
     "precio_tarjeta_alkosto": 1069900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -21870,7 +21870,7 @@
     "Tamaño del Escaner": "A4",
     "Referencia del Insumo que requiere": "Botella de tinta Negra T544120-AL - T544220-AL - T544320-AL -T544420-AL",
     "tipo_producto": "impresora",
-    "descuento_porcentaje": 36
+    "descuento_porcentaje": 35
   },
   {
     "Identificador del producto": "94711121941092",
@@ -21927,7 +21927,7 @@
     "Tarjeta Grafica": "GeForce® RTX 4060",
     "Producto Recondicionado": "Sí es recondicionado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 10,
+    "descuento_porcentaje": 9,
     "screen_size_inches": 16.0
   },
   {
@@ -22107,7 +22107,7 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 17,
+    "descuento_porcentaje": 16,
     "screen_size_inches": 6.1
   },
   {
@@ -22316,7 +22316,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "Conexión Con Cable",
     "tipo_producto": "congelador",
-    "descuento_porcentaje": 38
+    "descuento_porcentaje": 37
   },
   {
     "Identificador del producto": "195950623369",
@@ -22527,7 +22527,7 @@
     "Resolucion Camara Posterior": "8 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 56,
+    "descuento_porcentaje": 55,
     "screen_size_inches": 12.1
   },
   {
@@ -22716,7 +22716,7 @@
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "Tipos de Puertos Entradas y Salidas": "No Tiene",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 16
+    "descuento_porcentaje": 15
   },
   {
     "Identificador del producto": "4711377396660",
@@ -22773,7 +22773,7 @@
     "Modelo Tarjeta de Video/Grafica": "RTX 5070, GDDR7 8GB",
     "Tarjeta Grafica": "GeForce® RTX 5070",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 12,
+    "descuento_porcentaje": 11,
     "screen_size_inches": 15.6
   },
   {
@@ -22994,7 +22994,7 @@
     "Capacidad de la Bateria": "6500 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 27,
+    "descuento_porcentaje": 26,
     "screen_size_inches": 6.77
   },
   {
@@ -23509,7 +23509,7 @@
     "Resolucion Camara Posterior": "13 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 13,
+    "descuento_porcentaje": 12,
     "screen_size_inches": 11.5
   },
   {
@@ -23554,7 +23554,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 26
+    "descuento_porcentaje": 25
   },
   {
     "Identificador del producto": "7705946480314",
@@ -23612,7 +23612,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Básico",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 54,
+    "descuento_porcentaje": 53,
     "screen_size_inches": 40.0
   },
   {
@@ -23859,7 +23859,7 @@
     "Es Smartphone": "Si es Smartphone",
     "Celular para Gamers": "Sí",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 43,
+    "descuento_porcentaje": 42,
     "screen_size_inches": 6.8
   },
   {
@@ -24000,7 +24000,7 @@
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 10,
+    "descuento_porcentaje": 9,
     "screen_size_inches": 11.0
   },
   {
@@ -24061,7 +24061,7 @@
     "Es Smartphone": "Si es Smartphone",
     "Producto en Combo": "Sí es en Combo",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 17,
+    "descuento_porcentaje": 16,
     "screen_size_inches": 6.75
   },
   {
@@ -24092,7 +24092,7 @@
     "Potencia": "110W",
     "Selector del Tamaño del Hielo": "Si Tiene Selector del Tamaño del Hielo",
     "tipo_producto": "fabricador_hielo",
-    "descuento_porcentaje": 28
+    "descuento_porcentaje": 27
   },
   {
     "Identificador del producto": "8806097665427",
@@ -24138,7 +24138,7 @@
     "Resolucion Camara Posterior": "8 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 57,
+    "descuento_porcentaje": 56,
     "screen_size_inches": 10.9
   },
   {
@@ -24232,7 +24232,7 @@
     "Modelo Tarjeta de Video/Grafica": "GN22-X2",
     "Tarjeta Grafica": "GeForce® RTX 5050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 29,
+    "descuento_porcentaje": 28,
     "screen_size_inches": 16.0,
     "precio_bancopopular": 5799050,
     "metodos_pago": [
@@ -24298,7 +24298,7 @@
     "Capacidad de la Bateria": "5200 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 57,
+    "descuento_porcentaje": 56,
     "screen_size_inches": 6.78
   },
   {
@@ -24633,7 +24633,7 @@
     "Cantidad de hojas": "10 Hojas",
     "Gramaje del Papel": "1 Gramos",
     "tipo_producto": "papel",
-    "descuento_porcentaje": 11
+    "descuento_porcentaje": 10
   },
   {
     "Identificador del producto": "4894947096358",
@@ -24694,7 +24694,7 @@
     "Capacidad de la Bateria": "5200 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 57,
+    "descuento_porcentaje": 56,
     "screen_size_inches": 6.78
   },
   {
@@ -24794,7 +24794,7 @@
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "Tipo de Alimentacion de La Secadora": "Energía Eléctrica",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 35
+    "descuento_porcentaje": 34
   },
   {
     "Identificador del producto": "7708228051578",
@@ -24838,7 +24838,7 @@
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "Material de la Tina": "100% Acero Inoxidable",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 35
+    "descuento_porcentaje": 34
   },
   {
     "Identificador del producto": "8806097106999",
@@ -24883,7 +24883,7 @@
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "Material de la Tina": "100% Acero Inoxidable",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 21
+    "descuento_porcentaje": 20
   },
   {
     "Identificador del producto": "4711636219884",
@@ -24984,7 +24984,7 @@
     "Tamaño del Escaner": "No Tiene Escanner",
     "Referencia del Insumo que requiere": "Cartucho de Tinta HP 62",
     "tipo_producto": "impresora",
-    "descuento_porcentaje": 37
+    "descuento_porcentaje": 36
   },
   {
     "Identificador del producto": "195950398243",
@@ -25090,7 +25090,7 @@
     "Capacidad de la Bateria": "6000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 37,
+    "descuento_porcentaje": 36,
     "screen_size_inches": 6.77
   },
   {
@@ -25146,7 +25146,7 @@
     "No. Puertos SD": "1 Puertos",
     "Tarjeta Grafica": "GeForce® RTX 4050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 36,
+    "descuento_porcentaje": 35,
     "screen_size_inches": 15.6
   },
   {
@@ -25501,7 +25501,7 @@
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "Material de la Tina": "Acero Inoxidable y Polietileno",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 15
+    "descuento_porcentaje": 14
   },
   {
     "Identificador del producto": "195950644685",
@@ -25978,7 +25978,7 @@
     "Capacidad de la Bateria": "6500 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 36,
+    "descuento_porcentaje": 35,
     "screen_size_inches": 6.77,
     "precio_tarjeta_alkosto": 729050,
     "metodos_pago": [
@@ -26196,7 +26196,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 29
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": "7704712066226",
@@ -26239,7 +26239,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 27
+    "descuento_porcentaje": 26
   },
   {
     "Identificador del producto": "7705946474849",
@@ -26282,7 +26282,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "vinera_minibar",
-    "descuento_porcentaje": 39
+    "descuento_porcentaje": 38
   },
   {
     "Identificador del producto": "757638435758",
@@ -26328,7 +26328,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 40
+    "descuento_porcentaje": 39
   },
   {
     "Identificador del producto": "199273575275",
@@ -26442,7 +26442,7 @@
     "Capacidad de la Bateria": "6500 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 47,
+    "descuento_porcentaje": 46,
     "screen_size_inches": 6.77
   },
   {
@@ -26560,7 +26560,7 @@
     "Capacidad de la Bateria": "5200 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 48,
+    "descuento_porcentaje": 47,
     "screen_size_inches": 6.78
   },
   {
@@ -26775,7 +26775,7 @@
     "Capacidad de la Bateria": "5200 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 41,
+    "descuento_porcentaje": 40,
     "screen_size_inches": 6.8
   },
   {
@@ -26959,7 +26959,7 @@
     "Modelo Tarjeta de Video/Grafica": "Tarjeta Gráfica Intel",
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 54,
+    "descuento_porcentaje": 53,
     "screen_size_inches": 23.8
   },
   {
@@ -27425,7 +27425,7 @@
     "Capacidad de la Bateria": "5000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 6,
+    "descuento_porcentaje": 5,
     "screen_size_inches": 6.7
   },
   {
@@ -27489,7 +27489,7 @@
     "Producto en Combo": "Sí es en Combo",
     "Celular para Gamers": "Sí",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 28,
+    "descuento_porcentaje": 27,
     "screen_size_inches": 6.57
   },
   {
@@ -27573,7 +27573,7 @@
     "Programas de Lavado": "12 Ciclos",
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 26,
+    "descuento_porcentaje": 25,
     "precio_tarjeta_alkosto": 2089900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -27758,7 +27758,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 56,
+    "descuento_porcentaje": 55,
     "screen_size_inches": 75.0
   },
   {
@@ -28044,7 +28044,7 @@
     "Tarjeta Grafica": "GeForce® RTX 5050",
     "Informacion sobre la Actualizacion a Windows 11": "Ya viene con windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 36,
+    "descuento_porcentaje": 35,
     "screen_size_inches": 16.0,
     "precio_bancopopular": 5799050,
     "metodos_pago": [
@@ -28093,7 +28093,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 9
+    "descuento_porcentaje": 8
   },
   {
     "Identificador del producto": "4711387908259",
@@ -28146,7 +28146,7 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 27,
+    "descuento_porcentaje": 26,
     "screen_size_inches": 14.0,
     "precio_bancopopular": 4599050,
     "metodos_pago": [
@@ -28269,7 +28269,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 35,
+    "descuento_porcentaje": 34,
     "screen_size_inches": 65.0,
     "precio_codensa": 3299900,
     "metodos_pago": [
@@ -28489,7 +28489,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Software Incluidos": "Lenovo AI Now",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 15,
+    "descuento_porcentaje": 14,
     "screen_size_inches": 16.0
   },
   {
@@ -28532,7 +28532,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 44
+    "descuento_porcentaje": 43
   },
   {
     "Identificador del producto": "4711474400871",
@@ -28654,7 +28654,7 @@
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 32
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": "8806091221704",
@@ -28740,7 +28740,7 @@
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "Material de la Tina": "Acero Inoxidable y Polietileno",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 36
+    "descuento_porcentaje": 35
   },
   {
     "Identificador del producto": "7501545637353",
@@ -28787,7 +28787,7 @@
     "Tipo de Alimentacion de La Secadora": "Energía Eléctrica",
     "Material de la Tina": "Polietileno",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 50
+    "descuento_porcentaje": 49
   },
   {
     "Identificador del producto": "96932169371292",
@@ -29005,7 +29005,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 27,
+    "descuento_porcentaje": 26,
     "precio_tarjeta_alkosto": 2239900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -29501,7 +29501,7 @@
     "Capacidad de la Bateria": "4800 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 17,
+    "descuento_porcentaje": 16,
     "screen_size_inches": 6.9
   },
   {
@@ -29604,7 +29604,7 @@
     "Capacidad de la Bateria": "6000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 22,
+    "descuento_porcentaje": 21,
     "screen_size_inches": 6.9
   },
   {
@@ -29689,7 +29689,7 @@
     "Tecnologia de Lavado": "Agitador",
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 38,
+    "descuento_porcentaje": 37,
     "precio_tarjeta_alkosto": 4199900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -29794,7 +29794,7 @@
     "Resolucion Camara Posterior": "13 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 32,
+    "descuento_porcentaje": 31,
     "screen_size_inches": 11.5
   },
   {
@@ -29851,7 +29851,7 @@
     "Capacidad de la Bateria": "4900 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 1,
+    "descuento_porcentaje": 0,
     "screen_size_inches": 6.7
   },
   {
@@ -29954,7 +29954,7 @@
     "Modelo Tarjeta de Video/Grafica": "8 GB Dedicada GDDR6",
     "Tarjeta Grafica": "GeForce® RTX 5050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 37,
+    "descuento_porcentaje": 36,
     "screen_size_inches": 15.6
   },
   {
@@ -30108,7 +30108,7 @@
     "Tiene Tecnologia Para Compartir Pantalla": "Si Tiene Opcion de Compartir Pantalla",
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 43,
+    "descuento_porcentaje": 42,
     "screen_size_inches": 55.0
   },
   {
@@ -30346,7 +30346,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 48,
+    "descuento_porcentaje": 47,
     "screen_size_inches": 24.0
   },
   {
@@ -30430,7 +30430,7 @@
     "Capacidad de la Bateria": "7000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 30,
+    "descuento_porcentaje": 29,
     "screen_size_inches": 6.83,
     "precio_cre20min_mensual": 3129050,
     "precio_tarjeta_alkosto": 3129050,
@@ -30488,7 +30488,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 17,
+    "descuento_porcentaje": 16,
     "screen_size_inches": 27.0,
     "precio_bancopopular": 4899050,
     "metodos_pago": [
@@ -30753,7 +30753,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 44,
+    "descuento_porcentaje": 43,
     "screen_size_inches": 75.0
   },
   {
@@ -30908,7 +30908,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 38,
+    "descuento_porcentaje": 37,
     "screen_size_inches": 14.0
   },
   {
@@ -31101,7 +31101,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 32
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": "8806095642376",
@@ -31250,7 +31250,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "Conexión Con Cable",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 43,
+    "descuento_porcentaje": 42,
     "precio_codensa": 1521900,
     "metodos_pago": [
       "codensa"
@@ -31958,7 +31958,7 @@
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 53
+    "descuento_porcentaje": 52
   },
   {
     "Identificador del producto": "8806099169022",
@@ -32656,7 +32656,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "WiFi",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 12
+    "descuento_porcentaje": 11
   },
   {
     "Identificador del producto": "7704353475005",
@@ -32857,7 +32857,7 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "2 Puertos",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 42,
+    "descuento_porcentaje": 41,
     "screen_size_inches": 23.8
   },
   {
@@ -33011,7 +33011,7 @@
     "Velocidad de Respuesta": "1 Milisegundos",
     "Tasa de Refresco": "200 Hz",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 44,
+    "descuento_porcentaje": 43,
     "screen_size_inches": 27.0
   },
   {
@@ -33114,7 +33114,7 @@
     "Tiene Tecnologia Para Compartir Pantalla": "Si Tiene Opcion de Compartir Pantalla",
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 12,
+    "descuento_porcentaje": 11,
     "screen_size_inches": 85.0
   },
   {
@@ -33231,7 +33231,7 @@
     "Capacidad de la Bateria": "4900 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 1,
+    "descuento_porcentaje": 0,
     "screen_size_inches": 6.7
   },
   {
@@ -33408,7 +33408,7 @@
     "Capacidad de la Bateria": "4900 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 24,
+    "descuento_porcentaje": 23,
     "screen_size_inches": 6.7
   },
   {
@@ -33500,7 +33500,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 30
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": "6902176165672",
@@ -33599,7 +33599,7 @@
     "Tasa de Refresco": "100 Hz",
     "Tipo de Panel": "VA",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 50,
+    "descuento_porcentaje": 49,
     "screen_size_inches": 31.5
   },
   {
@@ -33973,7 +33973,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 31
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": "6932554480455",
@@ -34032,7 +34032,7 @@
     "Capacidad de la Bateria": "6500 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 47,
+    "descuento_porcentaje": 46,
     "screen_size_inches": 6.77
   },
   {
@@ -34243,7 +34243,7 @@
     "Capacidad de la Bateria": "5200 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 43,
+    "descuento_porcentaje": 42,
     "screen_size_inches": 6.67
   },
   {
@@ -34628,7 +34628,7 @@
     "Tipo de Alimentacion de La Secadora": "Energía Eléctrica",
     "Material de la Tina": "100% Acero Inoxidable",
     "tipo_producto": "lavadora_secadora",
-    "descuento_porcentaje": 17
+    "descuento_porcentaje": 16
   },
   {
     "Identificador del producto": "8806096940594",
@@ -35051,7 +35051,7 @@
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "Software Incluidos": "Lenovo AI Now - Xbox game pass Ultimate x 3 meses",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 48,
+    "descuento_porcentaje": 47,
     "screen_size_inches": 15.6
   },
   {
@@ -35436,7 +35436,7 @@
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "Tipos de Puertos Entradas y Salidas": "No Tiene",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 26
+    "descuento_porcentaje": 25
   },
   {
     "Identificador del producto": "010343947887",
@@ -35820,7 +35820,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "congelador",
-    "descuento_porcentaje": 39
+    "descuento_porcentaje": 38
   },
   {
     "Identificador del producto": "8806099160302",
@@ -36394,7 +36394,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 41,
+    "descuento_porcentaje": 40,
     "screen_size_inches": 15.6
   },
   {
@@ -36490,7 +36490,7 @@
     "Capacidad de la Bateria": "5000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 46,
+    "descuento_porcentaje": 45,
     "screen_size_inches": 6.7
   },
   {
@@ -36645,7 +36645,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 11
+    "descuento_porcentaje": 10
   },
   {
     "Identificador del producto": "8806096552995",
@@ -36684,7 +36684,7 @@
     "Tasa de Refresco": "120 Hz",
     "Tipo de Panel": "IPS",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 51,
+    "descuento_porcentaje": 50,
     "screen_size_inches": 27.0
   },
   {
@@ -36974,7 +36974,7 @@
     "Actualizable a Windows 11": "NO es Actualizable a Windows 11",
     "Software Incluidos": "Mcafee 30 Dias de prueba gratuito",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 33,
+    "descuento_porcentaje": 32,
     "screen_size_inches": 14.0,
     "precio_bancopopular": 7299050,
     "metodos_pago": [
@@ -37095,7 +37095,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "No. Puertos VGA": "0 Puertos",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 52,
+    "descuento_porcentaje": 51,
     "screen_size_inches": 75.0
   },
   {
@@ -37171,7 +37171,7 @@
     "Resolucion Imagen": "Full HD",
     "Tenologia de Visualizacion": "LCD",
     "tipo_producto": "proyector",
-    "descuento_porcentaje": 32
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": "8806096706657",
@@ -37543,7 +37543,7 @@
     "Tasa de Refresco": "330 Hz",
     "Tipo de Panel": "IPS",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 36,
+    "descuento_porcentaje": 35,
     "screen_size_inches": 32.0
   },
   {
@@ -37774,7 +37774,7 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 37,
+    "descuento_porcentaje": 36,
     "screen_size_inches": 15.0
   },
   {
@@ -37819,7 +37819,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 30
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": "6932554471217",
@@ -37934,7 +37934,7 @@
     "Es Smartphone": "Si es Smartphone",
     "Producto Recondicionado": "Sí es recondicionado",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 10,
+    "descuento_porcentaje": 9,
     "screen_size_inches": 6.7
   },
   {
@@ -38157,7 +38157,7 @@
     "Colores de Impresion": "Impresión Blanco Y Negro | Impresión Color",
     "Referencia del Insumo que requiere": "FUJIFILM Película instantánea instax™ mini(se vende por separado)",
     "tipo_producto": "impresora",
-    "descuento_porcentaje": 19
+    "descuento_porcentaje": 18
   },
   {
     "Identificador del producto": "8806099047573",
@@ -38213,7 +38213,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 24,
+    "descuento_porcentaje": 23,
     "screen_size_inches": 77.0
   },
   {
@@ -38355,7 +38355,7 @@
     "Es Smartphone": "Si es Smartphone",
     "Producto Recondicionado": "Sí es recondicionado",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 37,
+    "descuento_porcentaje": 36,
     "screen_size_inches": 6.75
   },
   {
@@ -38415,7 +38415,7 @@
     "Capacidad de la Bateria": "6150 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 56,
+    "descuento_porcentaje": 55,
     "screen_size_inches": 6.78
   },
   {
@@ -38452,7 +38452,7 @@
     "Tasa de Refresco": "200 Hz",
     "Tipo de Panel": "IPS",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 43,
+    "descuento_porcentaje": 42,
     "screen_size_inches": 27.0
   },
   {
@@ -38567,7 +38567,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "No. Puertos VGA": "0 Puertos",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 49,
+    "descuento_porcentaje": 48,
     "screen_size_inches": 65.0
   },
   {
@@ -39002,7 +39002,7 @@
     "Tipo de Alimentacion de La Secadora": "Energía Eléctrica",
     "Material de la Tina": "100% Acero Inoxidable",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 11
+    "descuento_porcentaje": 10
   },
   {
     "Identificador del producto": "6932554485023",
@@ -39361,7 +39361,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Básico",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 49,
+    "descuento_porcentaje": 48,
     "screen_size_inches": 43.0
   },
   {
@@ -39419,7 +39419,7 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 36,
+    "descuento_porcentaje": 35,
     "screen_size_inches": 13.3
   },
   {
@@ -39465,7 +39465,7 @@
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "Material de la Tina": "100% Acero Inoxidable",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 7
+    "descuento_porcentaje": 6
   },
   {
     "Identificador del producto": "889296597162",
@@ -39811,7 +39811,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 27
+    "descuento_porcentaje": 26
   },
   {
     "Identificador del producto": "6936520869923",
@@ -39871,7 +39871,7 @@
     "Capacidad de la Bateria": "5300 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 28,
+    "descuento_porcentaje": 27,
     "screen_size_inches": 6.61
   },
   {
@@ -40069,7 +40069,7 @@
     "Capacidad de la Bateria": "5000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 43,
+    "descuento_porcentaje": 42,
     "screen_size_inches": 6.74
   },
   {
@@ -40149,7 +40149,7 @@
     "Producto Marca o Referencia compatible": "Multifuncional Canon G6010, Impresora Canon G5010,",
     "Tipo de Consumible": "Botellas",
     "tipo_producto": "tinta",
-    "descuento_porcentaje": 19
+    "descuento_porcentaje": 18
   },
   {
     "Identificador del producto": "195950639391",
@@ -40451,7 +40451,7 @@
     "Es Smartphone": "Si es Smartphone",
     "Celular para Gamers": "Sí",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 31,
+    "descuento_porcentaje": 30,
     "screen_size_inches": 6.7
   },
   {
@@ -40493,7 +40493,7 @@
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "Material de la Tina": "100% Acero Inoxidable",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 41
+    "descuento_porcentaje": 40
   },
   {
     "Identificador del producto": "4711636438797",
@@ -40722,7 +40722,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 53,
+    "descuento_porcentaje": 52,
     "screen_size_inches": 50.0
   },
   {
@@ -40768,7 +40768,7 @@
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "Material de la Tina": "100% Acero Inoxidable",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 16
+    "descuento_porcentaje": 15
   },
   {
     "Identificador del producto": "195950399783",
@@ -40867,7 +40867,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 43,
+    "descuento_porcentaje": 42,
     "screen_size_inches": 15.6,
     "precio_bancopopular": 1699050,
     "metodos_pago": [
@@ -40913,7 +40913,7 @@
     "Resolucion Imagen": "Full HD",
     "Tenologia de Visualizacion": "LCD",
     "tipo_producto": "proyector",
-    "descuento_porcentaje": 38
+    "descuento_porcentaje": 37
   },
   {
     "Identificador del producto": "8887549912191",
@@ -40970,7 +40970,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 52,
+    "descuento_porcentaje": 51,
     "screen_size_inches": 43.0
   },
   {
@@ -41060,7 +41060,7 @@
     "Capacidad de la Bateria": "5200 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 48,
+    "descuento_porcentaje": 47,
     "screen_size_inches": 6.78
   },
   {
@@ -41790,7 +41790,7 @@
     "No. Puertos SD": "1 Puertos",
     "Software Incluidos": "Acer Office Manager: Administra y protege múltiples PCs Acer de forma remota en PYMEs.<br>AcerSense / TravelMateSense: Panel que centraliza diagnósticos, actualizaciones y estado del sistema.<br>PurifiedVoice: IA que elimina ruido de fondo y mejora la claridad en videollamadas.<br>Acer ProShield Plus: Seguridad empresarial con cifrado, borrado seguro y unidades encriptadas.<br>Acer Dust Defender: Ventilador reversible que expulsa polvo cada 3 horas para mayor rendimiento y durabilidad.",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 31,
+    "descuento_porcentaje": 30,
     "screen_size_inches": 16.0
   },
   {
@@ -41995,7 +41995,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 4,
+    "descuento_porcentaje": 3,
     "screen_size_inches": 50.0
   },
   {
@@ -42119,7 +42119,7 @@
     "No. Puertos SD": "1 Puertos",
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 35,
+    "descuento_porcentaje": 34,
     "screen_size_inches": 15.6
   },
   {
@@ -42176,7 +42176,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 44,
+    "descuento_porcentaje": 43,
     "screen_size_inches": 65.0
   },
   {
@@ -42389,7 +42389,7 @@
     "Tiene Tecnologia Para Compartir Pantalla": "Si Tiene Opcion de Compartir Pantalla",
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 11,
+    "descuento_porcentaje": 10,
     "screen_size_inches": 55.0
   },
   {
@@ -42669,7 +42669,7 @@
     "Capacidad de la Bateria": "6000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 2,
+    "descuento_porcentaje": 1,
     "screen_size_inches": 8.09
   },
   {
@@ -42715,7 +42715,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 30
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": "7705191044804",
@@ -42801,7 +42801,7 @@
     "Resolucion Camara Posterior": "13 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 17,
+    "descuento_porcentaje": 16,
     "screen_size_inches": 11.0
   },
   {
@@ -42901,7 +42901,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 41
+    "descuento_porcentaje": 40
   },
   {
     "Identificador del producto": "6932554471767",
@@ -43022,7 +43022,7 @@
     "Tiene Tecnologia Para Compartir Pantalla": "Si Tiene Opcion de Compartir Pantalla",
     "Asistente de Voz": "No Soporta Asistente de Voz",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 12,
+    "descuento_porcentaje": 11,
     "screen_size_inches": 50.0
   },
   {
@@ -43081,7 +43081,7 @@
     "Es Smartphone": "Si es Smartphone",
     "Producto Recondicionado": "Sí es recondicionado",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 10,
+    "descuento_porcentaje": 9,
     "screen_size_inches": 6.78
   },
   {
@@ -43183,7 +43183,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 35
+    "descuento_porcentaje": 34
   },
   {
     "Identificador del producto": "6932554478124",
@@ -43301,7 +43301,7 @@
     "Capacidad de la Bateria": "6150 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 56,
+    "descuento_porcentaje": 55,
     "screen_size_inches": 6.78
   },
   {
@@ -43415,7 +43415,7 @@
     "No. Puertos VGA": "0 Puertos",
     "No. Puertos Mini HDMI": "0 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 27,
+    "descuento_porcentaje": 26,
     "screen_size_inches": 14.0,
     "precio_bancopopular": 3199050,
     "metodos_pago": [
@@ -43579,7 +43579,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 26
+    "descuento_porcentaje": 25
   },
   {
     "Identificador del producto": "886112670139",
@@ -43644,7 +43644,7 @@
     "Programas de Secado": "12 Ciclos",
     "Tipo de Alimentacion de La Secadora": "Gas",
     "tipo_producto": "secadora",
-    "descuento_porcentaje": 7
+    "descuento_porcentaje": 6
   },
   {
     "Identificador del producto": "198957071577",
@@ -43681,7 +43681,7 @@
     "Tasa de Refresco": "165 Hz",
     "Tipo de Panel": "IPS",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 54,
+    "descuento_porcentaje": 53,
     "screen_size_inches": 32.0
   },
   {
@@ -43837,7 +43837,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 56
+    "descuento_porcentaje": 55
   },
   {
     "Identificador del producto": "195951030883",
@@ -43935,7 +43935,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 22
+    "descuento_porcentaje": 21
   },
   {
     "Identificador del producto": "195950623963",
@@ -44042,7 +44042,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "congelador",
-    "descuento_porcentaje": 38
+    "descuento_porcentaje": 37
   },
   {
     "Identificador del producto": "7705191047126",
@@ -44085,7 +44085,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 2
+    "descuento_porcentaje": 1
   },
   {
     "Identificador del producto": "7705946475488",
@@ -44490,7 +44490,7 @@
     "Capacidad de la Bateria": "6500 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 36,
+    "descuento_porcentaje": 35,
     "screen_size_inches": 6.77,
     "precio_tarjeta_alkosto": 729050,
     "metodos_pago": [
@@ -44685,7 +44685,7 @@
     "Capacidad de la Bateria": "4300 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 2,
+    "descuento_porcentaje": 1,
     "screen_size_inches": 6.3
   },
   {
@@ -44723,7 +44723,7 @@
     "Resolucion Imagen": "4K",
     "Tenologia de Visualizacion": "DLP",
     "tipo_producto": "proyector",
-    "descuento_porcentaje": 20
+    "descuento_porcentaje": 19
   },
   {
     "Identificador del producto": "195950644081",
@@ -45015,7 +45015,7 @@
     "Resolucion Camara Posterior": "8 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 28,
+    "descuento_porcentaje": 27,
     "screen_size_inches": 10.9
   },
   {
@@ -45075,7 +45075,7 @@
     "Capacidad de la Bateria": "6500 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 31,
+    "descuento_porcentaje": 30,
     "screen_size_inches": 6.8
   },
   {
@@ -45123,7 +45123,7 @@
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "Material de la Tina": "Acero Inoxidable y Polietileno",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 44
+    "descuento_porcentaje": 43
   },
   {
     "Identificador del producto": "8806097407867",
@@ -45262,7 +45262,7 @@
     "Tasa de Refresco": "165 Hz",
     "Tipo de Panel": "VA",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 54,
+    "descuento_porcentaje": 53,
     "screen_size_inches": 31.5
   },
   {
@@ -45308,7 +45308,7 @@
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "Material de la Tina": "Polietileno",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 56
+    "descuento_porcentaje": 55
   },
   {
     "Identificador del producto": "195950719499",
@@ -45416,7 +45416,7 @@
     "Tamaño del Escaner": "A4",
     "Referencia del Insumo que requiere": "Botella Tinta Negra T544120-AL<br>Botella Tinta Cian T544220-AL<br>Botella Tinta Magenta T544320-AL<br>Botella Tinta Amarilla T544420-AL",
     "tipo_producto": "impresora",
-    "descuento_porcentaje": 21
+    "descuento_porcentaje": 20
   },
   {
     "Identificador del producto": "7705946480741",
@@ -45457,7 +45457,7 @@
     "Resolucion Camara Posterior": "13 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 39,
+    "descuento_porcentaje": 38,
     "screen_size_inches": 11.0
   },
   {
@@ -45650,7 +45650,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 31
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": "195949822537",
@@ -45763,7 +45763,7 @@
     "Capacidad de la Bateria": "5000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 13,
+    "descuento_porcentaje": 12,
     "screen_size_inches": 7.0
   },
   {
@@ -45819,7 +45819,7 @@
     "Software Incluidos": "McAfee prueba gratuita de 30 días.",
     "Producto Recondicionado": "Sí es recondicionado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 20,
+    "descuento_porcentaje": 19,
     "screen_size_inches": 15.6
   },
   {
@@ -45877,7 +45877,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 53,
+    "descuento_porcentaje": 52,
     "screen_size_inches": 55.0
   },
   {
@@ -45930,7 +45930,7 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 24,
+    "descuento_porcentaje": 23,
     "screen_size_inches": 6.1
   },
   {
@@ -45988,7 +45988,7 @@
     "Modelo Tarjeta de Video/Grafica": "NVIDIA GeForce RTX 5060 8GB",
     "Tarjeta Grafica": "GeForce® RTX 5060",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 27,
+    "descuento_porcentaje": 26,
     "screen_size_inches": 15.3
   },
   {
@@ -46235,7 +46235,7 @@
     "Capacidad de la Bateria": "5000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 6,
+    "descuento_porcentaje": 5,
     "screen_size_inches": 6.7
   },
   {
@@ -46401,7 +46401,7 @@
     "Capacidad de la Bateria": "4900 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 1,
+    "descuento_porcentaje": 0,
     "screen_size_inches": 6.7
   },
   {
@@ -46474,7 +46474,7 @@
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "Material de la Tina": "100% Acero Inoxidable",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 35
+    "descuento_porcentaje": 34
   },
   {
     "Identificador del producto": "8806097948346",
@@ -46845,7 +46845,7 @@
     "Capacidad de la Bateria": "5200 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 48,
+    "descuento_porcentaje": 47,
     "screen_size_inches": 6.78
   },
   {
@@ -47183,7 +47183,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 25,
+    "descuento_porcentaje": 24,
     "screen_size_inches": 16.0,
     "precio_bancopopular": 4899050,
     "metodos_pago": [
@@ -47296,7 +47296,7 @@
     "Tiene Tecnologia Para Compartir Pantalla": "Si Tiene Opcion de Compartir Pantalla",
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 41,
+    "descuento_porcentaje": 40,
     "screen_size_inches": 75.0
   },
   {
@@ -47513,7 +47513,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Básico",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 42,
+    "descuento_porcentaje": 41,
     "screen_size_inches": 43.0
   },
   {
@@ -47750,7 +47750,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 44
+    "descuento_porcentaje": 43
   },
   {
     "Identificador del producto": "7705946477086",
@@ -47946,7 +47946,7 @@
     "Tasa de Refresco": "75 Hz",
     "Tipo de Panel": "IPS",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 59,
+    "descuento_porcentaje": 58,
     "screen_size_inches": 23.8
   },
   {
@@ -47980,7 +47980,7 @@
     "Sistema Para Dispensar el Agua": "Digital",
     "Temperatura Minima": "10 Grados Centigrados",
     "tipo_producto": "dispensador_agua",
-    "descuento_porcentaje": 24
+    "descuento_porcentaje": 23
   },
   {
     "Identificador del producto": "195950624762",
@@ -48193,7 +48193,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 29,
+    "descuento_porcentaje": 28,
     "screen_size_inches": 85.0
   },
   {
@@ -48491,7 +48491,7 @@
     "Tasa de Refresco": "60 Hz",
     "Tipo de Panel": "IPS",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 43,
+    "descuento_porcentaje": 42,
     "screen_size_inches": 32.0
   },
   {
@@ -48580,7 +48580,7 @@
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "Tipo de Alimentacion de La Secadora": "Energía Eléctrica",
     "tipo_producto": "lavadora_secadora",
-    "descuento_porcentaje": 28,
+    "descuento_porcentaje": 27,
     "precio_tarjeta_alkosto": 5819900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -48621,7 +48621,7 @@
     "Tasa de Refresco": "180 Hz",
     "Tipo de Panel": "VA",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 21,
+    "descuento_porcentaje": 20,
     "screen_size_inches": 32.0
   },
   {
@@ -48674,7 +48674,7 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 39
+    "descuento_porcentaje": 38
   },
   {
     "Identificador del producto": "6937574837531",
@@ -48782,7 +48782,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "WiFi",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 23
+    "descuento_porcentaje": 22
   },
   {
     "Identificador del producto": "8806099320379",
@@ -48840,7 +48840,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 45,
+    "descuento_porcentaje": 44,
     "screen_size_inches": 85.0
   },
   {
@@ -48886,7 +48886,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 35
+    "descuento_porcentaje": 34
   },
   {
     "Identificador del producto": "7704712064734",
@@ -48929,7 +48929,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 34
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": "199251256455",
@@ -49189,7 +49189,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 28
+    "descuento_porcentaje": 27
   },
   {
     "Identificador del producto": "840023291319",
@@ -49248,7 +49248,7 @@
     "Capacidad de la Bateria": "6000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 29,
+    "descuento_porcentaje": 28,
     "screen_size_inches": 6.7
   },
   {
@@ -49309,7 +49309,7 @@
     "Asistente de Voz": "No Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Básico",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 18,
+    "descuento_porcentaje": 17,
     "screen_size_inches": 58.0
   },
   {
@@ -49362,7 +49362,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Software Incluidos": "Safari, Notes, Messages, Keynote, Pages, Numbers, Maps, Mail, Music, Stocks, Weather.",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 12,
+    "descuento_porcentaje": 11,
     "screen_size_inches": 24.0
   },
   {
@@ -49583,7 +49583,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 51,
+    "descuento_porcentaje": 50,
     "screen_size_inches": 14.0
   },
   {
@@ -49640,7 +49640,7 @@
     "Capacidad de la Bateria": "5000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 29,
+    "descuento_porcentaje": 28,
     "screen_size_inches": 6.78
   },
   {
@@ -49738,7 +49738,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 38,
+    "descuento_porcentaje": 37,
     "screen_size_inches": 15.6
   },
   {
@@ -49798,7 +49798,7 @@
     "Asistente de Voz": "No Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Básico",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 13,
+    "descuento_porcentaje": 12,
     "screen_size_inches": 40.0
   },
   {
@@ -50005,7 +50005,7 @@
     "Es Smartphone": "Si es Smartphone",
     "Producto en Combo": "Sí es en Combo",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 31,
+    "descuento_porcentaje": 30,
     "screen_size_inches": 6.6
   },
   {
@@ -50062,7 +50062,7 @@
     "Tiene Tecnologia Para Compartir Pantalla": "Si Tiene Opcion de Compartir Pantalla",
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 54,
+    "descuento_porcentaje": 53,
     "screen_size_inches": 60.0
   },
   {
@@ -50542,7 +50542,7 @@
     "Capacidad de la Bateria": "6150 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 56,
+    "descuento_porcentaje": 55,
     "screen_size_inches": 6.78
   },
   {
@@ -51026,7 +51026,7 @@
     "No. Puertos SD": "1 Puertos",
     "Tarjeta Grafica": "GeForce® RTX 5080",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 33,
+    "descuento_porcentaje": 32,
     "screen_size_inches": 18.0
   },
   {
@@ -51180,7 +51180,7 @@
     "Colores de Impresion": "Impresión Blanco Y Negro | Impresión Color",
     "Referencia del Insumo que requiere": "FUJIFILM Película instantánea instax™ mini(se vende por separado)",
     "tipo_producto": "impresora",
-    "descuento_porcentaje": 19
+    "descuento_porcentaje": 18
   },
   {
     "Identificador del producto": "195950403695",
@@ -51273,7 +51273,7 @@
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 48
+    "descuento_porcentaje": 47
   },
   {
     "Identificador del producto": "883049644677",
@@ -51311,7 +51311,7 @@
     "Programas de Secado": "37 Ciclos",
     "Tipo de Alimentacion de La Secadora": "Energía Eléctrica",
     "tipo_producto": "secadora",
-    "descuento_porcentaje": 11,
+    "descuento_porcentaje": 10,
     "precio_tarjeta_alkosto": 3799900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -51427,7 +51427,7 @@
     "Informacion sobre la Actualizacion a Windows 11": "Ya es Windows 11",
     "Software Incluidos": "Office 365 y McAfee por un mes",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 43,
+    "descuento_porcentaje": 42,
     "screen_size_inches": 15.6,
     "precio_bancopopular": 1699050,
     "metodos_pago": [
@@ -51571,7 +51571,7 @@
     "Resolucion Imagen": "Full HD",
     "Tenologia de Visualizacion": "LCD",
     "tipo_producto": "proyector",
-    "descuento_porcentaje": 33
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": "6936520877485",
@@ -51837,7 +51837,7 @@
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 10,
+    "descuento_porcentaje": 9,
     "screen_size_inches": 11.0
   },
   {
@@ -52050,7 +52050,7 @@
     "Asistente de Voz": "No Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Básico",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 27,
+    "descuento_porcentaje": 26,
     "screen_size_inches": 32.0
   },
   {
@@ -52237,7 +52237,7 @@
     "Capacidad de la Bateria": "5828 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 18,
+    "descuento_porcentaje": 17,
     "screen_size_inches": 6.72
   },
   {
@@ -52297,7 +52297,7 @@
     "Capacidad de la Bateria": "6500 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 47,
+    "descuento_porcentaje": 46,
     "screen_size_inches": 6.77
   },
   {
@@ -52348,7 +52348,7 @@
     "Tamaño del Escaner": "A4 | Carta",
     "Referencia del Insumo que requiere": "GI-11",
     "tipo_producto": "impresora",
-    "descuento_porcentaje": 18
+    "descuento_porcentaje": 17
   },
   {
     "Identificador del producto": "840493618340",
@@ -52407,7 +52407,7 @@
     "Es Smartphone": "Si es Smartphone",
     "Celular para Gamers": "Sí",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 43,
+    "descuento_porcentaje": 42,
     "screen_size_inches": 6.8
   },
   {
@@ -52616,7 +52616,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "No. Puertos VGA": "0 Puertos",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 58,
+    "descuento_porcentaje": 57,
     "screen_size_inches": 58.0,
     "precio_tarjeta_alkosto": 1503900,
     "metodos_pago": [
@@ -52676,7 +52676,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 36,
+    "descuento_porcentaje": 35,
     "screen_size_inches": 75.0
   },
   {
@@ -52731,7 +52731,7 @@
     "Modelo Tarjeta de Video/Grafica": "Tarjeta gráfica Intel 8",
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 48,
+    "descuento_porcentaje": 47,
     "screen_size_inches": 14.0
   },
   {
@@ -52772,7 +52772,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 3
+    "descuento_porcentaje": 2
   },
   {
     "Identificador del producto": "195951031071",
@@ -52853,7 +52853,7 @@
     "Producto Marca o Referencia compatible": "Multifuncional Canon G6010, Impresora Canon G5010,",
     "Tipo de Consumible": "Botellas",
     "tipo_producto": "tinta",
-    "descuento_porcentaje": 19
+    "descuento_porcentaje": 18
   },
   {
     "Identificador del producto": "4894947096334",
@@ -52914,7 +52914,7 @@
     "Capacidad de la Bateria": "5200 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 57,
+    "descuento_porcentaje": 56,
     "screen_size_inches": 6.78
   },
   {
@@ -52951,7 +52951,7 @@
     "Tasa de Refresco": "100 Hz",
     "Tipo de Panel": "IPS",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 54,
+    "descuento_porcentaje": 53,
     "screen_size_inches": 27.0
   },
   {
@@ -53152,7 +53152,7 @@
     "Resolucion Imagen": "HD",
     "Tenologia de Visualizacion": "LED",
     "tipo_producto": "proyector",
-    "descuento_porcentaje": 59
+    "descuento_porcentaje": 58
   },
   {
     "Identificador del producto": "6932554444525",
@@ -53195,7 +53195,7 @@
     "Resolucion Camara Posterior": "8 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 35,
+    "descuento_porcentaje": 34,
     "screen_size_inches": 11.0
   },
   {
@@ -53281,7 +53281,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 37
+    "descuento_porcentaje": 36
   },
   {
     "Identificador del producto": "010343941977",
@@ -53362,7 +53362,7 @@
     "Capacidad de la Bateria": "4300 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 23,
+    "descuento_porcentaje": 22,
     "screen_size_inches": 6.3
   },
   {
@@ -53418,7 +53418,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 44,
+    "descuento_porcentaje": 43,
     "screen_size_inches": 55.0
   },
   {
@@ -53464,7 +53464,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "WiFi",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 25
+    "descuento_porcentaje": 24
   },
   {
     "Identificador del producto": "7704353431544",
@@ -53559,7 +53559,7 @@
     "Tamaño del Escaner": "Carta",
     "Referencia del Insumo que requiere": "T524120-AL botella de tinta negra, <br>T524220-AL (cian)<br>T524320-AL (magenta)<br>T524420-AL (amarilla)",
     "tipo_producto": "impresora",
-    "descuento_porcentaje": 33
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": "8806099442743",
@@ -53614,7 +53614,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 45,
+    "descuento_porcentaje": 44,
     "screen_size_inches": 65.0
   },
   {
@@ -53988,7 +53988,7 @@
     "Resolucion Camara Posterior": "13 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 11,
+    "descuento_porcentaje": 10,
     "screen_size_inches": 11.5
   },
   {
@@ -54043,7 +54043,7 @@
     "Es Smartphone": "Si es Smartphone",
     "Producto Recondicionado": "Sí es recondicionado",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 15,
+    "descuento_porcentaje": 14,
     "screen_size_inches": 6.7
   },
   {
@@ -54148,7 +54148,7 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 37,
+    "descuento_porcentaje": 36,
     "screen_size_inches": 15.6
   },
   {
@@ -54364,7 +54364,7 @@
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "Material de la Tina": "Acero Inoxidable y Polietileno",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 12
+    "descuento_porcentaje": 11
   },
   {
     "Identificador del producto": "4894947116704",
@@ -54484,7 +54484,7 @@
     "Tipo de Control Remoto": "Básico",
     "No. Puertos VGA": "0 Puertos",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 29,
+    "descuento_porcentaje": 28,
     "screen_size_inches": 55.0
   },
   {
@@ -54530,7 +54530,7 @@
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 25
+    "descuento_porcentaje": 24
   },
   {
     "Identificador del producto": "4711377440165",
@@ -54883,7 +54883,7 @@
     "Capacidad de la Bateria": "4900 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 24,
+    "descuento_porcentaje": 23,
     "screen_size_inches": 6.7
   },
   {
@@ -54943,7 +54943,7 @@
     "Capacidad de la Bateria": "6500 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 31,
+    "descuento_porcentaje": 30,
     "screen_size_inches": 6.8
   },
   {
@@ -55047,7 +55047,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "WiFi",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 9
+    "descuento_porcentaje": 8
   },
   {
     "Identificador del producto": "8806096114674",
@@ -55207,7 +55207,7 @@
     "Capacidad de la Bateria": "5000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 43,
+    "descuento_porcentaje": 42,
     "screen_size_inches": 6.74
   },
   {
@@ -55686,7 +55686,7 @@
     "Tasa de Refresco": "300 Hz",
     "Tipo de Panel": "IPS",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 47,
+    "descuento_porcentaje": 46,
     "screen_size_inches": 27.0
   },
   {
@@ -55920,7 +55920,7 @@
     "Producto Marca o Referencia compatible": "L110, L120,L121,L200, L210, L220,L300, L350, L365, L375, L380, L395, L455, L475, L495, L565, L575, L1300",
     "Tipo de Consumible": "Botellas",
     "tipo_producto": "tinta",
-    "descuento_porcentaje": 15
+    "descuento_porcentaje": 14
   },
   {
     "Identificador del producto": "8806096038994",
@@ -56002,7 +56002,7 @@
     "Tasa de Refresco": "60 Hz",
     "Tipo de Panel": "IPS",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 44,
+    "descuento_porcentaje": 43,
     "screen_size_inches": 32.0
   },
   {
@@ -56156,7 +56156,7 @@
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 44
+    "descuento_porcentaje": 43
   },
   {
     "Identificador del producto": "198390009700",
@@ -56399,7 +56399,7 @@
     "Asistente de Voz": "No Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Básico",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 3,
+    "descuento_porcentaje": 2,
     "screen_size_inches": 40.0
   },
   {
@@ -56542,7 +56542,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 29
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": "199251250569",
@@ -56596,7 +56596,7 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Tarjeta Grafica": "GeForce® RTX 5050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 47,
+    "descuento_porcentaje": 46,
     "screen_size_inches": 15.0
   },
   {
@@ -56647,7 +56647,7 @@
     "Tamaño del Escaner": "No Tiene Escanner",
     "Referencia del Insumo que requiere": "Botella Tinta Negra T544120-AL<br>Botella Tinta Cian T544220-AL<br>Botella Tinta Magenta T544320-AL<br>Botella Tinta Amarilla T544420-AL",
     "tipo_producto": "impresora",
-    "descuento_porcentaje": 28
+    "descuento_porcentaje": 27
   },
   {
     "Identificador del producto": "6932204523266",
@@ -56705,7 +56705,7 @@
     "Capacidad de la Bateria": "6500 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 32,
+    "descuento_porcentaje": 31,
     "screen_size_inches": 6.68
   },
   {
@@ -56911,7 +56911,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 12
+    "descuento_porcentaje": 11
   },
   {
     "Identificador del producto": "8806097885429",
@@ -57029,7 +57029,7 @@
     "Capacidad de la Bateria": "6150 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 54,
+    "descuento_porcentaje": 53,
     "screen_size_inches": 6.78
   },
   {
@@ -57073,7 +57073,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "vinera_minibar",
-    "descuento_porcentaje": 44
+    "descuento_porcentaje": 43
   },
   {
     "Identificador del producto": "8806095746029",
@@ -57187,7 +57187,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Básico",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 39,
+    "descuento_porcentaje": 38,
     "screen_size_inches": 50.0
   },
   {
@@ -57457,7 +57457,7 @@
     "Es Smartphone": "Si es Smartphone",
     "Producto Recondicionado": "Sí es recondicionado",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 35,
+    "descuento_porcentaje": 34,
     "screen_size_inches": 6.1
   },
   {
@@ -57519,7 +57519,7 @@
     "Es Smartphone": "Si es Smartphone",
     "Producto en Combo": "Sí es en Combo",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 18,
+    "descuento_porcentaje": 17,
     "screen_size_inches": 6.77
   },
   {
@@ -57622,7 +57622,7 @@
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "Tipos de Puertos Entradas y Salidas": "No Tiene",
     "tipo_producto": "congelador",
-    "descuento_porcentaje": 48
+    "descuento_porcentaje": 47
   },
   {
     "Identificador del producto": "7708334730480",
@@ -57685,7 +57685,7 @@
     "Producto en Combo": "Sí es en Combo",
     "Celular para Gamers": "Sí",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 30,
+    "descuento_porcentaje": 29,
     "screen_size_inches": 6.59,
     "precio_cre20min_mensual": 3299900,
     "precio_tarjeta_alkosto": 3299900,
@@ -58009,7 +58009,7 @@
     "Resolucion Camara Posterior": "12 Megapixeles",
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 26,
+    "descuento_porcentaje": 25,
     "screen_size_inches": 13.0
   },
   {
@@ -58128,7 +58128,7 @@
     "Es Smartphone": "Si es Smartphone",
     "Producto Recondicionado": "Sí es recondicionado",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 10,
+    "descuento_porcentaje": 9,
     "screen_size_inches": 6.67
   },
   {
@@ -58173,7 +58173,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "WiFi",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 32
+    "descuento_porcentaje": 31
   },
   {
     "Identificador del producto": "7705946479042",
@@ -58343,7 +58343,7 @@
     "Capacidad de la Bateria": "4800 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 17,
+    "descuento_porcentaje": 16,
     "screen_size_inches": 6.9
   },
   {
@@ -58401,7 +58401,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 55,
+    "descuento_porcentaje": 54,
     "screen_size_inches": 50.0
   },
   {
@@ -58463,7 +58463,7 @@
     "Capacidad de la Bateria": "6150 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 54,
+    "descuento_porcentaje": 53,
     "screen_size_inches": 6.78
   },
   {
@@ -58642,7 +58642,7 @@
     "Es Smartphone": "Si es Smartphone",
     "Producto Recondicionado": "Sí es recondicionado",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 17,
+    "descuento_porcentaje": 16,
     "screen_size_inches": 6.67
   },
   {
@@ -58699,7 +58699,7 @@
     "Modelo Tarjeta de Video/Grafica": "Intel Arc 140T GPU",
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 27,
+    "descuento_porcentaje": 26,
     "screen_size_inches": 14.0
   },
   {
@@ -58874,7 +58874,7 @@
     "Capacidad de la Bateria": "4300 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 2,
+    "descuento_porcentaje": 1,
     "screen_size_inches": 6.3
   },
   {
@@ -59071,7 +59071,7 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 30,
+    "descuento_porcentaje": 29,
     "screen_size_inches": 27.0
   },
   {
@@ -59367,7 +59367,7 @@
     "Capacidad de la Bateria": "5000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 6,
+    "descuento_porcentaje": 5,
     "screen_size_inches": 6.7
   },
   {
@@ -59750,7 +59750,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 33
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": "4711636438810",
@@ -59946,7 +59946,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 41,
+    "descuento_porcentaje": 40,
     "screen_size_inches": 23.8,
     "precio_bancopopular": 1799050,
     "metodos_pago": [
@@ -59987,7 +59987,7 @@
     "Tasa de Refresco": "180 Hz",
     "Tipo de Panel": "IPS",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 43,
+    "descuento_porcentaje": 42,
     "screen_size_inches": 27.0
   },
   {
@@ -60162,7 +60162,7 @@
     "Tiene Tecnologia Para Compartir Pantalla": "Si Tiene Opcion de Compartir Pantalla",
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 56,
+    "descuento_porcentaje": 55,
     "screen_size_inches": 50.0
   },
   {
@@ -60261,7 +60261,7 @@
     "Modelo Tarjeta de Video/Grafica": "12 GB Dedicada GDDR7",
     "Tarjeta Grafica": "GeForce® RTX 5070",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 48
+    "descuento_porcentaje": 47
   },
   {
     "Identificador del producto": "6932554490096",
@@ -60420,7 +60420,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 22
+    "descuento_porcentaje": 21
   },
   {
     "Identificador del producto": "8806099160319",
@@ -60568,7 +60568,7 @@
     "Informacion sobre la Actualizacion a Windows 11": "Ya es Windows 11",
     "Es Premium": "Sí",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 32,
+    "descuento_porcentaje": 31,
     "screen_size_inches": 16.0,
     "precio_bancopopular": 4399050,
     "metodos_pago": [
@@ -60675,7 +60675,7 @@
     "Capacidad de la Bateria": "7000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 47,
+    "descuento_porcentaje": 46,
     "screen_size_inches": 6.9
   },
   {
@@ -61097,7 +61097,7 @@
     "Sistema Para Dispensar el Agua": "Manual",
     "Temperatura Minima": "10 Grados Centigrados",
     "tipo_producto": "dispensador_agua",
-    "descuento_porcentaje": 26
+    "descuento_porcentaje": 25
   },
   {
     "Identificador del producto": "8806084536501",
@@ -61241,7 +61241,7 @@
     "Tarjeta Grafica": "GeForce® RTX 5070",
     "Software Incluidos": "Lenovo AI Now",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 24,
+    "descuento_porcentaje": 23,
     "screen_size_inches": 15.1
   },
   {
@@ -61298,7 +61298,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 31,
+    "descuento_porcentaje": 30,
     "screen_size_inches": 70.0
   },
   {
@@ -61339,7 +61339,7 @@
     "Programas de Lavado": "7 Ciclos",
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 42
+    "descuento_porcentaje": 41
   },
   {
     "Identificador del producto": "8806095869018",
@@ -61645,7 +61645,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "WiFi",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 14
+    "descuento_porcentaje": 13
   },
   {
     "Identificador del producto": "7501545625329",
@@ -61790,7 +61790,7 @@
     "Tiene Tecnologia Para Compartir Pantalla": "Si Tiene Opcion de Compartir Pantalla",
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 11,
+    "descuento_porcentaje": 10,
     "screen_size_inches": 43.0
   },
   {
@@ -61882,7 +61882,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "WiFi",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 24
+    "descuento_porcentaje": 23
   },
   {
     "Identificador del producto": "98806097331759",
@@ -62049,7 +62049,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 12
+    "descuento_porcentaje": 11
   },
   {
     "Identificador del producto": "8806084531322",
@@ -62195,7 +62195,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 31
+    "descuento_porcentaje": 30
   },
   {
     "Identificador del producto": "8806099320256",
@@ -62585,7 +62585,7 @@
     "Producto Marca o Referencia compatible": "Pixma G2160 / Pixma G3160",
     "Tipo de Consumible": "Botellas",
     "tipo_producto": "tinta",
-    "descuento_porcentaje": 12
+    "descuento_porcentaje": 11
   },
   {
     "Identificador del producto": "4711636390507",
@@ -62897,7 +62897,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 3
+    "descuento_porcentaje": 2
   },
   {
     "Identificador del producto": "7705191047171",
@@ -63064,7 +63064,7 @@
     "No. Puertos SD": "1 Puertos",
     "Tarjeta Grafica": "GeForce® RTX 5090",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 27,
+    "descuento_porcentaje": 26,
     "screen_size_inches": 18.0
   },
   {
@@ -63136,7 +63136,7 @@
     "Producto Marca o Referencia compatible": "L1110, L3110, L3210, L3150, L3250, L3160, L3260, L5190, L5290",
     "Tipo de Consumible": "Botellas",
     "tipo_producto": "tinta",
-    "descuento_porcentaje": 15
+    "descuento_porcentaje": 14
   },
   {
     "Identificador del producto": "7704353487268",
@@ -63182,7 +63182,7 @@
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "Material de la Tina": "Polietileno",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 13
+    "descuento_porcentaje": 12
   },
   {
     "Identificador del producto": "197498125800",
@@ -63496,7 +63496,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 27
+    "descuento_porcentaje": 26
   },
   {
     "Identificador del producto": "8806096849071",
@@ -63593,7 +63593,7 @@
     "Es Smartphone": "Si es Smartphone",
     "Producto Recondicionado": "Sí es recondicionado",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 41,
+    "descuento_porcentaje": 40,
     "screen_size_inches": 6.8
   },
   {
@@ -63737,7 +63737,7 @@
     "Resolucion Imagen": "4K",
     "Tenologia de Visualizacion": "LED",
     "tipo_producto": "proyector",
-    "descuento_porcentaje": 20
+    "descuento_porcentaje": 19
   },
   {
     "Identificador del producto": "8806092121096",
@@ -63781,7 +63781,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 9
+    "descuento_porcentaje": 8
   },
   {
     "Identificador del producto": "010343938755",
@@ -64185,7 +64185,7 @@
     "Tamaño del Escaner": "A4 | Carta | Oficio",
     "Referencia del Insumo que requiere": "GI-11",
     "tipo_producto": "impresora",
-    "descuento_porcentaje": 12
+    "descuento_porcentaje": 11
   },
   {
     "Identificador del producto": "8806091433053",
@@ -64284,7 +64284,7 @@
     "Tarjeta Grafica": "GeForce® RTX 4050",
     "Software Incluidos": "Lenovo AI Now",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 27,
+    "descuento_porcentaje": 26,
     "screen_size_inches": 15.6,
     "precio_codensa": 4399070,
     "metodos_pago": [
@@ -64405,7 +64405,7 @@
     "Es Smartphone": "Si es Smartphone",
     "Celular para Gamers": "Sí",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 7,
+    "descuento_porcentaje": 6,
     "screen_size_inches": 6.78
   },
   {
@@ -64464,7 +64464,7 @@
     "Capacidad de la Bateria": "7000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 47,
+    "descuento_porcentaje": 46,
     "screen_size_inches": 6.9
   },
   {
@@ -64528,7 +64528,7 @@
     "Producto en Combo": "Sí es en Combo",
     "Celular para Gamers": "Sí",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 28,
+    "descuento_porcentaje": 27,
     "screen_size_inches": 6.57
   },
   {
@@ -64688,7 +64688,7 @@
     "Modelo Tarjeta de Video/Grafica": "RTX 5050 8GB G7",
     "Tarjeta Grafica": "GeForce® RTX 5050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 29,
+    "descuento_porcentaje": 28,
     "screen_size_inches": 15.6
   },
   {
@@ -64787,7 +64787,7 @@
     "Capacidad de la Bateria": "5000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 23,
+    "descuento_porcentaje": 22,
     "screen_size_inches": 6.7
   },
   {
@@ -65041,7 +65041,7 @@
     "Capacidad de la Bateria": "6000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 36,
+    "descuento_porcentaje": 35,
     "screen_size_inches": 6.88,
     "precio_codensa": 499900,
     "metodos_pago": [
@@ -65090,7 +65090,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "congelador",
-    "descuento_porcentaje": 45
+    "descuento_porcentaje": 44
   },
   {
     "Identificador del producto": "4711377300032",
@@ -65147,7 +65147,7 @@
     "Modelo Tarjeta de Video/Grafica": "Intel UHD Graphics",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 38,
+    "descuento_porcentaje": 37,
     "screen_size_inches": 13.3
   },
   {
@@ -65301,7 +65301,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "Conexión Con Cable",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 53
+    "descuento_porcentaje": 52
   },
   {
     "Identificador del producto": "198157552937",
@@ -65353,7 +65353,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 28,
+    "descuento_porcentaje": 27,
     "screen_size_inches": 15.6
   },
   {
@@ -65399,7 +65399,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 37
+    "descuento_porcentaje": 36
   },
   {
     "Identificador del producto": "8806096940617",
@@ -65572,7 +65572,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 29,
+    "descuento_porcentaje": 28,
     "screen_size_inches": 48.0
   },
   {
@@ -65628,7 +65628,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 43,
+    "descuento_porcentaje": 42,
     "screen_size_inches": 75.0
   },
   {
@@ -65738,7 +65738,7 @@
     "No. Puertos SD": "1 Puertos",
     "Software Incluidos": "Acer Office Manager: Administra y protege múltiples PCs Acer de forma remota en PYMEs.<br>PurifiedVoice: IA que elimina ruido de fondo y mejora la claridad en videollamadas.<br>Acer ProShield Plus: Seguridad empresarial con cifrado, borrado seguro y unidades encriptadas.<br>Acer Dust Defender: Ventilador reversible que expulsa polvo cada 6 horas para mayor rendimiento y durabilidad.",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 31,
+    "descuento_porcentaje": 30,
     "screen_size_inches": 14.0
   },
   {
@@ -65874,7 +65874,7 @@
     "Tipo de Alimentacion de La Secadora": "Gas",
     "Material de la Tina": "100% Acero Inoxidable",
     "tipo_producto": "secadora",
-    "descuento_porcentaje": 22
+    "descuento_porcentaje": 21
   },
   {
     "Identificador del producto": "7909569503805",
@@ -66384,7 +66384,7 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Tarjeta Grafica": "GeForce® RTX 5060",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 30,
+    "descuento_porcentaje": 29,
     "screen_size_inches": 16.0
   },
   {
@@ -66430,7 +66430,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 25
+    "descuento_porcentaje": 24
   },
   {
     "Identificador del producto": "7704353474749",
@@ -66475,7 +66475,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 28
+    "descuento_porcentaje": 27
   },
   {
     "Identificador del producto": "8806096058442",
@@ -66690,7 +66690,7 @@
     "Tarjeta Grafica": "GeForce® RTX 4060",
     "Producto Recondicionado": "Sí es recondicionado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 10,
+    "descuento_porcentaje": 9,
     "screen_size_inches": 17.3
   },
   {
@@ -66731,7 +66731,7 @@
     "Programas de Lavado": "12 Ciclos",
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 33,
+    "descuento_porcentaje": 32,
     "precio_tarjeta_alkosto": 2259900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -66780,7 +66780,7 @@
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "Material de la Tina": "100% Acero Inoxidable",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 8
+    "descuento_porcentaje": 7
   },
   {
     "Identificador del producto": "8806096753453",
@@ -66929,7 +66929,7 @@
     "Tasa de Refresco": "100 Hz",
     "Tipo de Panel": "IPS",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 31,
+    "descuento_porcentaje": 30,
     "screen_size_inches": 34.0
   },
   {
@@ -66975,7 +66975,7 @@
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 29
+    "descuento_porcentaje": 28
   },
   {
     "Identificador del producto": "840493613604",
@@ -67120,7 +67120,7 @@
     "Cantidad de hojas": "20 Hojas",
     "Gramaje del Papel": "235 Gramos",
     "tipo_producto": "papel",
-    "descuento_porcentaje": 17
+    "descuento_porcentaje": 16
   },
   {
     "Identificador del producto": "7705946478731",
@@ -67305,7 +67305,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 29,
+    "descuento_porcentaje": 28,
     "screen_size_inches": 16.0
   },
   {
@@ -67387,7 +67387,7 @@
     "Modelo Tarjeta de Video/Grafica": "Intel UHD Graphics",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 38,
+    "descuento_porcentaje": 37,
     "screen_size_inches": 13.3
   },
   {
@@ -67698,7 +67698,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 53,
+    "descuento_porcentaje": 52,
     "screen_size_inches": 75.0
   },
   {
@@ -67756,7 +67756,7 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Tarjeta Grafica": "GeForce® RTX 5060",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 31,
+    "descuento_porcentaje": 30,
     "screen_size_inches": 15.3
   },
   {
@@ -67898,7 +67898,7 @@
     "Capacidad de la Bateria": "6150 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 56,
+    "descuento_porcentaje": 55,
     "screen_size_inches": 6.78
   },
   {
@@ -68315,7 +68315,7 @@
     "Es Smartphone": "Si es Smartphone",
     "Producto en Combo": "Sí es en Combo",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 17,
+    "descuento_porcentaje": 16,
     "screen_size_inches": 6.75
   },
   {
@@ -68367,7 +68367,7 @@
     "Tamaño del Escaner": "A4 | Carta",
     "Referencia del Insumo que requiere": "Botella de tinta original HP GT53, negro |botellas de tinta original HP GT52, cian/magenta/amarilla",
     "tipo_producto": "impresora",
-    "descuento_porcentaje": 34
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": "8806096940655",
@@ -68527,7 +68527,7 @@
     "Tipo de Alimentacion de La Secadora": "Gas",
     "Material de la Tina": "100% Acero Inoxidable",
     "tipo_producto": "lavadora_secadora",
-    "descuento_porcentaje": 43,
+    "descuento_porcentaje": 42,
     "precio_tarjeta_alkosto": 7799900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -68665,7 +68665,7 @@
     "Resolucion Camara Posterior": "8 Megapixeles",
     "Conexion a Datos": "WiFi | Red Celular 4G",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 57,
+    "descuento_porcentaje": 56,
     "screen_size_inches": 8.7
   },
   {
@@ -69112,7 +69112,7 @@
     "Tiene Tecnologia Para Compartir Pantalla": "Si Tiene Opcion de Compartir Pantalla",
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 55,
+    "descuento_porcentaje": 54,
     "screen_size_inches": 55.0
   },
   {
@@ -69173,7 +69173,7 @@
     "Tarjeta Grafica": "GeForce® RTX 5080",
     "Producto Recondicionado": "Sí es recondicionado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 30,
+    "descuento_porcentaje": 29,
     "screen_size_inches": 16.0
   },
   {
@@ -69231,7 +69231,7 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Tarjeta Grafica": "GeForce® RTX 5090",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 24,
+    "descuento_porcentaje": 23,
     "screen_size_inches": 16.0,
     "precio_bancopopular": 35499048,
     "metodos_pago": [
@@ -69457,7 +69457,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 47,
+    "descuento_porcentaje": 46,
     "screen_size_inches": 32.0
   },
   {
@@ -69557,7 +69557,7 @@
     "Capacidad de la Bateria": "6000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 37,
+    "descuento_porcentaje": 36,
     "screen_size_inches": 6.77
   },
   {
@@ -69604,7 +69604,7 @@
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "Tipo de Alimentacion de La Secadora": "Energía Eléctrica",
     "tipo_producto": "lavadora_secadora",
-    "descuento_porcentaje": 53
+    "descuento_porcentaje": 52
   },
   {
     "Identificador del producto": "8806095856346",
@@ -69764,7 +69764,7 @@
     "Tipos de Puertos Entradas y Salidas": "No Tiene",
     "Otras Tecnologias de Conectividad": "No Aplica",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 35,
+    "descuento_porcentaje": 34,
     "precio_tarjeta_alkosto": 5599900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -69805,7 +69805,7 @@
     "Tasa de Refresco": "180 Hz",
     "Tipo de Panel": "VA",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 41,
+    "descuento_porcentaje": 40,
     "screen_size_inches": 27.0
   },
   {
@@ -69981,7 +69981,7 @@
     "Tasa de Refresco": "120 Hz",
     "Tipo de Panel": "IPS",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 57,
+    "descuento_porcentaje": 56,
     "screen_size_inches": 27.0
   },
   {
@@ -70295,7 +70295,7 @@
     "Tasa de Refresco": "180 Hz",
     "Tipo de Panel": "IPS",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 58,
+    "descuento_porcentaje": 57,
     "screen_size_inches": 27.0
   },
   {
@@ -70457,7 +70457,7 @@
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 33
+    "descuento_porcentaje": 32
   },
   {
     "Identificador del producto": "195950491227",
@@ -70667,7 +70667,7 @@
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 25
+    "descuento_porcentaje": 24
   },
   {
     "Identificador del producto": "8806095363875",
@@ -70769,7 +70769,7 @@
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "Informacion sobre la Actualizacion a Windows 11": "Ya es windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 39,
+    "descuento_porcentaje": 38,
     "screen_size_inches": 16.0,
     "precio_bancopopular": 4299050,
     "metodos_pago": [
@@ -70873,7 +70873,7 @@
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "Material de la Tina": "100% Acero Inoxidable",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 55
+    "descuento_porcentaje": 54
   },
   {
     "Identificador del producto": "4711474990785",
@@ -70929,7 +70929,7 @@
     "Modelo Tarjeta de Video/Grafica": "8 GB Dedicada GDDR7",
     "Tarjeta Grafica": "GeForce® RTX 5050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 21,
+    "descuento_porcentaje": 20,
     "screen_size_inches": 15.6
   },
   {
@@ -70972,7 +70972,7 @@
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "Material de la Tina": "Polietileno",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 59
+    "descuento_porcentaje": 58
   },
   {
     "Identificador del producto": "7705191041773",
@@ -71058,7 +71058,7 @@
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "Material de la Tina": "100% Acero Inoxidable",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 8
+    "descuento_porcentaje": 7
   },
   {
     "Identificador del producto": "199273239672",
@@ -71293,7 +71293,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 38,
+    "descuento_porcentaje": 37,
     "screen_size_inches": 15.3
   },
   {
@@ -71461,7 +71461,7 @@
     "Flash Posterior": "SI Tiene Flash Posterior",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 24,
+    "descuento_porcentaje": 23,
     "screen_size_inches": 6.1
   },
   {
@@ -71583,7 +71583,7 @@
     "Modelo Tarjeta de Video/Grafica": "Intel Graphics",
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 26,
+    "descuento_porcentaje": 25,
     "screen_size_inches": 14.0
   },
   {
@@ -71704,7 +71704,7 @@
     "Resolucion Imagen": "4K",
     "Tenologia de Visualizacion": "LCD",
     "tipo_producto": "proyector",
-    "descuento_porcentaje": 12
+    "descuento_porcentaje": 11
   },
   {
     "Identificador del producto": "6932204514943",
@@ -72005,7 +72005,7 @@
     "Capacidad de la Bateria": "5000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 23,
+    "descuento_porcentaje": 22,
     "screen_size_inches": 6.7
   },
   {
@@ -72063,7 +72063,7 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Tarjeta Grafica": "GeForce® RTX 5080",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 20,
+    "descuento_porcentaje": 19,
     "screen_size_inches": 16.0
   },
   {
@@ -72171,7 +72171,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 27
+    "descuento_porcentaje": 26
   },
   {
     "Identificador del producto": "4894947121661",
@@ -72383,7 +72383,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 47,
+    "descuento_porcentaje": 46,
     "screen_size_inches": 50.0
   },
   {
@@ -72531,7 +72531,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 54,
+    "descuento_porcentaje": 53,
     "screen_size_inches": 15.3
   },
   {
@@ -72587,7 +72587,7 @@
     "Capacidad de la Bateria": "6000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 22,
+    "descuento_porcentaje": 21,
     "screen_size_inches": 6.9
   },
   {
@@ -73029,7 +73029,7 @@
     "Programas de Secado": "37 Ciclos",
     "Tipo de Alimentacion de La Secadora": "Gas",
     "tipo_producto": "secadora",
-    "descuento_porcentaje": 11,
+    "descuento_porcentaje": 10,
     "precio_tarjeta_alkosto": 3899900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -73090,7 +73090,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "Tipo de Control Remoto": "Inteligente",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 51,
+    "descuento_porcentaje": 50,
     "screen_size_inches": 65.0
   },
   {
@@ -73147,7 +73147,7 @@
     "Capacidad de la Bateria": "4900 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 1,
+    "descuento_porcentaje": 0,
     "screen_size_inches": 6.7
   },
   {
@@ -73352,7 +73352,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "congelador",
-    "descuento_porcentaje": 26
+    "descuento_porcentaje": 25
   },
   {
     "Identificador del producto": "8806099001124",
@@ -73408,7 +73408,7 @@
     "Capacidad de la Bateria": "4900 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 1,
+    "descuento_porcentaje": 0,
     "screen_size_inches": 6.7
   },
   {
@@ -73436,7 +73436,7 @@
     "Cantidad de hojas": "10 Hojas",
     "Gramaje del Papel": "1 Gramos",
     "tipo_producto": "papel",
-    "descuento_porcentaje": 11
+    "descuento_porcentaje": 10
   },
   {
     "Identificador del producto": "7704353450736",
@@ -73534,7 +73534,7 @@
     "Tamaño del Escaner": "Carta | Oficio",
     "Referencia del Insumo que requiere": "Botella de tinta Negra T504120-AL<br>Botella de tinta Cian T504220-AL<br>Botella de tinta Magenta T504320-AL<br>Botella de tinta Amarilla T504420-AL",
     "tipo_producto": "impresora",
-    "descuento_porcentaje": 26
+    "descuento_porcentaje": 25
   },
   {
     "Identificador del producto": "195950622966",
@@ -73695,7 +73695,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 34
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": "4711636428019",
@@ -73888,7 +73888,7 @@
     "Tecnologia de Lavado": "Impeller",
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 36
+    "descuento_porcentaje": 35
   },
   {
     "Identificador del producto": "757638435765",
@@ -73934,7 +73934,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevecon",
-    "descuento_porcentaje": 41
+    "descuento_porcentaje": 40
   },
   {
     "Identificador del producto": "7705946478137",
@@ -74182,7 +74182,7 @@
     "Tecnologia de Lavado": "Tecnología de lavado profundo limpieza profunda y cuidado de la ropa",
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 30
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": "7909569418642",
@@ -74393,7 +74393,7 @@
     "Capacidad de la Bateria": "4300 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 23,
+    "descuento_porcentaje": 22,
     "screen_size_inches": 6.3
   },
   {
@@ -74438,7 +74438,7 @@
     "Tipo de Alimentacion de La lavadora": "Gas",
     "Tipo de Alimentacion de La Secadora": "Gas",
     "tipo_producto": "secadora",
-    "descuento_porcentaje": 14
+    "descuento_porcentaje": 13
   },
   {
     "Identificador del producto": "4894461831381",
@@ -74675,7 +74675,7 @@
     "Sistema Para Dispensar el Agua": "Manual",
     "Temperatura Minima": "15 Grados Centigrados",
     "tipo_producto": "dispensador_agua",
-    "descuento_porcentaje": 12
+    "descuento_porcentaje": 11
   },
   {
     "Identificador del producto": "8806099361082",
@@ -74781,7 +74781,7 @@
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Opciones de Conectividad": "No Tiene/ No Aplica",
     "tipo_producto": "nevera",
-    "descuento_porcentaje": 30
+    "descuento_porcentaje": 29
   },
   {
     "Identificador del producto": "6932204521330",
@@ -74838,7 +74838,7 @@
     "Capacidad de la Bateria": "6500 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 46,
+    "descuento_porcentaje": 45,
     "screen_size_inches": 6.74,
     "precio_cre20min_mensual": 709050,
     "precio_tarjeta_alkosto": 709050,
@@ -75438,7 +75438,7 @@
     "Tipo de Alimentacion de La Secadora": "No Aplica",
     "Material de la Tina": "100% Acero Inoxidable",
     "tipo_producto": "lavadora",
-    "descuento_porcentaje": 36,
+    "descuento_porcentaje": 35,
     "precio_tarjeta_alkosto": 1799900,
     "metodos_pago": [
       "tarjeta_alkosto"
@@ -75501,7 +75501,7 @@
     "Capacidad de la Bateria": "6000 Miliamperio-hora",
     "Es Smartphone": "Si es Smartphone",
     "tipo_producto": "celular",
-    "descuento_porcentaje": 37,
+    "descuento_porcentaje": 36,
     "screen_size_inches": 6.77
   },
   {
@@ -75540,7 +75540,7 @@
     "Tasa de Refresco": "165 Hz",
     "Tipo de Panel": "IPS",
     "tipo_producto": "monitor",
-    "descuento_porcentaje": 73,
+    "descuento_porcentaje": 72,
     "screen_size_inches": 27.0
   },
   {
@@ -75569,7 +75569,7 @@
     "Producto Marca o Referencia compatible": "L110, L120,L121,L200, L210, L220,L300, L350, L365, L375, L380, L395, L455, L475, L495, L565, L575, L1300",
     "Tipo de Consumible": "Botellas",
     "tipo_producto": "tinta",
-    "descuento_porcentaje": 18
+    "descuento_porcentaje": 17
   },
   {
     "Identificador del producto": "98806097113362",
@@ -75668,7 +75668,7 @@
     "Tipo de Alimentacion de La lavadora": "Energía Eléctrica",
     "Tipo de Alimentacion de La Secadora": "Energía Eléctrica",
     "tipo_producto": "lavadora_secadora",
-    "descuento_porcentaje": 23
+    "descuento_porcentaje": 22
   },
   {
     "Identificador del producto": "198154551063",
@@ -75778,7 +75778,7 @@
     "Asistente de Voz": "Si Soporta Asistente de Voz",
     "No. Puertos VGA": "0 Puertos",
     "tipo_producto": "televisor",
-    "descuento_porcentaje": 29,
+    "descuento_porcentaje": 28,
     "screen_size_inches": 43.0
   },
   {

@@ -52,7 +52,7 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 38,
+    "descuento_porcentaje": 37,
     "screen_size_inches": 23.8
   },
   {
@@ -97,7 +97,7 @@
     "Resolucion Camara Posterior": "8 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 41,
+    "descuento_porcentaje": 40,
     "screen_size_inches": 10.1
   },
   {
@@ -421,7 +421,7 @@
     "Resolucion Camara Posterior": "12 Megapixeles",
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 26,
+    "descuento_porcentaje": 25,
     "screen_size_inches": 13.0
   },
   {
@@ -806,7 +806,7 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Informacion sobre la Actualizacion a Windows 11": "Ya viene con windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 30,
+    "descuento_porcentaje": 29,
     "screen_size_inches": 14.0,
     "precio_bancopopular": 16599050,
     "metodos_pago": [
@@ -854,7 +854,7 @@
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 10,
+    "descuento_porcentaje": 9,
     "screen_size_inches": 11.0
   },
   {
@@ -970,7 +970,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 35,
+    "descuento_porcentaje": 34,
     "screen_size_inches": 15.6
   },
   {
@@ -1235,7 +1235,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 44,
+    "descuento_porcentaje": 43,
     "screen_size_inches": 15.6,
     "precio_bancopopular": 2199050,
     "metodos_pago": [
@@ -1567,7 +1567,7 @@
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "Informacion sobre la Actualizacion a Windows 11": "Ya es windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 36,
+    "descuento_porcentaje": 35,
     "screen_size_inches": 16.0,
     "precio_bancopopular": 4149050,
     "metodos_pago": [
@@ -1682,7 +1682,7 @@
     "Software Incluidos": "Mcafee 30 Dias de prueba gratuito",
     "Producto Recondicionado": "Sí es recondicionado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 10,
+    "descuento_porcentaje": 9,
     "screen_size_inches": 16.0
   },
   {
@@ -1736,7 +1736,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 38,
+    "descuento_porcentaje": 37,
     "screen_size_inches": 15.6
   },
   {
@@ -1985,7 +1985,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Software Incluidos": "Safari, Notes, Messages, Keynote, Pages, Numbers, Maps, Mail, Music, Stocks, Weather.",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 12,
+    "descuento_porcentaje": 11,
     "screen_size_inches": 24.0
   },
   {
@@ -2041,7 +2041,7 @@
     "No. Puertos SD": "1 Puertos",
     "Es convertible": "Sí es convertible (2 en 1)",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 29,
+    "descuento_porcentaje": 28,
     "screen_size_inches": 14.0
   },
   {
@@ -2309,7 +2309,7 @@
     "Tarjeta Grafica": "GeForce® RTX 5080",
     "Software Incluidos": "Lenovo AI Now",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 3,
+    "descuento_porcentaje": 2,
     "screen_size_inches": 16.0
   },
   {
@@ -2364,7 +2364,7 @@
     "Tarjeta Grafica": "GeForce® RTX 4080",
     "Producto Recondicionado": "Sí es recondicionado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 15,
+    "descuento_porcentaje": 14,
     "screen_size_inches": 16.0
   },
   {
@@ -2420,7 +2420,7 @@
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "Informacion sobre la Actualizacion a Windows 11": "Ya viene con windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 33,
+    "descuento_porcentaje": 32,
     "screen_size_inches": 16.0,
     "precio_bancopopular": 5299050,
     "metodos_pago": [
@@ -2537,7 +2537,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 49,
+    "descuento_porcentaje": 48,
     "screen_size_inches": 14.0
   },
   {
@@ -2646,7 +2646,7 @@
     "Modelo Tarjeta de Video/Grafica": "RTX 3050, GDDR6 4GB",
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 33,
+    "descuento_porcentaje": 32,
     "screen_size_inches": 15.6
   },
   {
@@ -2701,7 +2701,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Tarjeta Grafica": "GeForce® RTX 5060",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 24,
+    "descuento_porcentaje": 23,
     "screen_size_inches": 15.1
   },
   {
@@ -2758,7 +2758,7 @@
     "No. Puertos SD": "1 Puertos",
     "Software Incluidos": "Acer Office Manager: Administra y protege múltiples PCs Acer de forma remota en PYMEs.<br>AcerSense / TravelMateSense: Panel que centraliza diagnósticos, actualizaciones y estado del sistema.<br>PurifiedVoice: IA que elimina ruido de fondo y mejora la claridad en videollamadas.<br>Acer ProShield Plus: Seguridad empresarial con cifrado, borrado seguro y unidades encriptadas.<br>Acer Dust Defender: Ventilador reversible que expulsa polvo cada 3 horas para mayor rendimiento y durabilidad.",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 33,
+    "descuento_porcentaje": 32,
     "screen_size_inches": 14.0
   },
   {
@@ -2941,7 +2941,7 @@
     "No. Puertos SD": "1 Puertos",
     "Tarjeta Grafica": "GeForce® RTX 5080",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 29,
+    "descuento_porcentaje": 28,
     "screen_size_inches": 16.0
   },
   {
@@ -3046,7 +3046,7 @@
     "Resolucion Camara Posterior": "8 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 36,
+    "descuento_porcentaje": 35,
     "screen_size_inches": 11.0
   },
   {
@@ -3101,7 +3101,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 33,
+    "descuento_porcentaje": 32,
     "screen_size_inches": 14.0
   },
   {
@@ -3210,7 +3210,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 38,
+    "descuento_porcentaje": 37,
     "screen_size_inches": 15.6
   },
   {
@@ -3267,7 +3267,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 25,
+    "descuento_porcentaje": 24,
     "screen_size_inches": 14.0
   },
   {
@@ -3647,7 +3647,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 41,
+    "descuento_porcentaje": 40,
     "screen_size_inches": 15.6
   },
   {
@@ -3808,7 +3808,7 @@
     "No. Puertos USB": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 43,
+    "descuento_porcentaje": 42,
     "screen_size_inches": 14.0
   },
   {
@@ -3957,7 +3957,7 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Tarjeta Grafica": "GeForce® RTX 5060",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 34
+    "descuento_porcentaje": 33
   },
   {
     "Identificador del producto": "199276793508",
@@ -4432,7 +4432,7 @@
     "Informacion sobre la Actualizacion a Windows 11": "Ya es Windows 11",
     "Es Premium": "Sí",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 31,
+    "descuento_porcentaje": 30,
     "screen_size_inches": 16.0,
     "precio_bancopopular": 3999050,
     "metodos_pago": [
@@ -4642,7 +4642,7 @@
     "Modelo Tarjeta de Video/Grafica": "Gráficos AMD Radeon",
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 59,
+    "descuento_porcentaje": 58,
     "screen_size_inches": 14.0,
     "precio_codensa": 1399070,
     "metodos_pago": [
@@ -4806,7 +4806,7 @@
     "Tarjeta Grafica": "GeForce® RTX 4060",
     "Producto Recondicionado": "Sí es recondicionado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 10,
+    "descuento_porcentaje": 9,
     "screen_size_inches": 16.0
   },
   {
@@ -4850,7 +4850,7 @@
     "Resolucion Camara Posterior": "8 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 56,
+    "descuento_porcentaje": 55,
     "screen_size_inches": 12.1
   },
   {
@@ -4908,7 +4908,7 @@
     "Modelo Tarjeta de Video/Grafica": "RTX 5070, GDDR7 8GB",
     "Tarjeta Grafica": "GeForce® RTX 5070",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 12,
+    "descuento_porcentaje": 11,
     "screen_size_inches": 15.6
   },
   {
@@ -5069,7 +5069,7 @@
     "Resolucion Camara Posterior": "13 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 13,
+    "descuento_porcentaje": 12,
     "screen_size_inches": 11.5
   },
   {
@@ -5113,7 +5113,7 @@
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 10,
+    "descuento_porcentaje": 9,
     "screen_size_inches": 11.0
   },
   {
@@ -5160,7 +5160,7 @@
     "Resolucion Camara Posterior": "8 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 57,
+    "descuento_porcentaje": 56,
     "screen_size_inches": 10.9
   },
   {
@@ -5215,7 +5215,7 @@
     "Modelo Tarjeta de Video/Grafica": "GN22-X2",
     "Tarjeta Grafica": "GeForce® RTX 5050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 29,
+    "descuento_porcentaje": 28,
     "screen_size_inches": 16.0,
     "precio_bancopopular": 5799050,
     "metodos_pago": [
@@ -5484,7 +5484,7 @@
     "No. Puertos SD": "1 Puertos",
     "Tarjeta Grafica": "GeForce® RTX 4050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 36,
+    "descuento_porcentaje": 35,
     "screen_size_inches": 15.6
   },
   {
@@ -5787,7 +5787,7 @@
     "Modelo Tarjeta de Video/Grafica": "Tarjeta Gráfica Intel",
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 54,
+    "descuento_porcentaje": 53,
     "screen_size_inches": 23.8
   },
   {
@@ -6178,7 +6178,7 @@
     "Tarjeta Grafica": "GeForce® RTX 5050",
     "Informacion sobre la Actualizacion a Windows 11": "Ya viene con windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 36,
+    "descuento_porcentaje": 35,
     "screen_size_inches": 16.0,
     "precio_bancopopular": 5799050,
     "metodos_pago": [
@@ -6236,7 +6236,7 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 27,
+    "descuento_porcentaje": 26,
     "screen_size_inches": 14.0,
     "precio_bancopopular": 4599050,
     "metodos_pago": [
@@ -6352,7 +6352,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Software Incluidos": "Lenovo AI Now",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 15,
+    "descuento_porcentaje": 14,
     "screen_size_inches": 16.0
   },
   {
@@ -6497,7 +6497,7 @@
     "Resolucion Camara Posterior": "13 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 32,
+    "descuento_porcentaje": 31,
     "screen_size_inches": 11.5
   },
   {
@@ -6554,7 +6554,7 @@
     "Modelo Tarjeta de Video/Grafica": "8 GB Dedicada GDDR6",
     "Tarjeta Grafica": "GeForce® RTX 5050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 37,
+    "descuento_porcentaje": 36,
     "screen_size_inches": 15.6
   },
   {
@@ -6666,7 +6666,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 48,
+    "descuento_porcentaje": 47,
     "screen_size_inches": 24.0
   },
   {
@@ -6718,7 +6718,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 17,
+    "descuento_porcentaje": 16,
     "screen_size_inches": 27.0,
     "precio_bancopopular": 4899050,
     "metodos_pago": [
@@ -6776,7 +6776,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 38,
+    "descuento_porcentaje": 37,
     "screen_size_inches": 14.0
   },
   {
@@ -7144,7 +7144,7 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "2 Puertos",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 42,
+    "descuento_porcentaje": 41,
     "screen_size_inches": 23.8
   },
   {
@@ -7312,7 +7312,7 @@
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "Software Incluidos": "Lenovo AI Now - Xbox game pass Ultimate x 3 meses",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 48,
+    "descuento_porcentaje": 47,
     "screen_size_inches": 15.6
   },
   {
@@ -7614,7 +7614,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 41,
+    "descuento_porcentaje": 40,
     "screen_size_inches": 15.6
   },
   {
@@ -7671,7 +7671,7 @@
     "Actualizable a Windows 11": "NO es Actualizable a Windows 11",
     "Software Incluidos": "Mcafee 30 Dias de prueba gratuito",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 33,
+    "descuento_porcentaje": 32,
     "screen_size_inches": 14.0,
     "precio_bancopopular": 7299050,
     "metodos_pago": [
@@ -7839,7 +7839,7 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 37,
+    "descuento_porcentaje": 36,
     "screen_size_inches": 15.0
   },
   {
@@ -7992,7 +7992,7 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 36,
+    "descuento_porcentaje": 35,
     "screen_size_inches": 13.3
   },
   {
@@ -8311,7 +8311,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 43,
+    "descuento_porcentaje": 42,
     "screen_size_inches": 15.6,
     "precio_bancopopular": 1699050,
     "metodos_pago": [
@@ -8539,7 +8539,7 @@
     "No. Puertos SD": "1 Puertos",
     "Software Incluidos": "Acer Office Manager: Administra y protege múltiples PCs Acer de forma remota en PYMEs.<br>AcerSense / TravelMateSense: Panel que centraliza diagnósticos, actualizaciones y estado del sistema.<br>PurifiedVoice: IA que elimina ruido de fondo y mejora la claridad en videollamadas.<br>Acer ProShield Plus: Seguridad empresarial con cifrado, borrado seguro y unidades encriptadas.<br>Acer Dust Defender: Ventilador reversible que expulsa polvo cada 3 horas para mayor rendimiento y durabilidad.",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 31,
+    "descuento_porcentaje": 30,
     "screen_size_inches": 16.0
   },
   {
@@ -8597,7 +8597,7 @@
     "No. Puertos SD": "1 Puertos",
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 35,
+    "descuento_porcentaje": 34,
     "screen_size_inches": 15.6
   },
   {
@@ -8701,7 +8701,7 @@
     "Resolucion Camara Posterior": "13 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 17,
+    "descuento_porcentaje": 16,
     "screen_size_inches": 11.0
   },
   {
@@ -8867,7 +8867,7 @@
     "No. Puertos VGA": "0 Puertos",
     "No. Puertos Mini HDMI": "0 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 27,
+    "descuento_porcentaje": 26,
     "screen_size_inches": 14.0,
     "precio_bancopopular": 3199050,
     "metodos_pago": [
@@ -9124,7 +9124,7 @@
     "Resolucion Camara Posterior": "8 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 28,
+    "descuento_porcentaje": 27,
     "screen_size_inches": 10.9
   },
   {
@@ -9266,7 +9266,7 @@
     "Resolucion Camara Posterior": "13 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 39,
+    "descuento_porcentaje": 38,
     "screen_size_inches": 11.0
   },
   {
@@ -9366,7 +9366,7 @@
     "Software Incluidos": "McAfee prueba gratuita de 30 días.",
     "Producto Recondicionado": "Sí es recondicionado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 20,
+    "descuento_porcentaje": 19,
     "screen_size_inches": 15.6
   },
   {
@@ -9424,7 +9424,7 @@
     "Modelo Tarjeta de Video/Grafica": "NVIDIA GeForce RTX 5060 8GB",
     "Tarjeta Grafica": "GeForce® RTX 5060",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 27,
+    "descuento_porcentaje": 26,
     "screen_size_inches": 15.3
   },
   {
@@ -9749,7 +9749,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 25,
+    "descuento_porcentaje": 24,
     "screen_size_inches": 16.0,
     "precio_bancopopular": 4899050,
     "metodos_pago": [
@@ -10019,7 +10019,7 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 39
+    "descuento_porcentaje": 38
   },
   {
     "Identificador del producto": "199251256455",
@@ -10124,7 +10124,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Software Incluidos": "Safari, Notes, Messages, Keynote, Pages, Numbers, Maps, Mail, Music, Stocks, Weather.",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 12,
+    "descuento_porcentaje": 11,
     "screen_size_inches": 24.0
   },
   {
@@ -10221,7 +10221,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 51,
+    "descuento_porcentaje": 50,
     "screen_size_inches": 14.0
   },
   {
@@ -10276,7 +10276,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 38,
+    "descuento_porcentaje": 37,
     "screen_size_inches": 15.6
   },
   {
@@ -10650,7 +10650,7 @@
     "No. Puertos SD": "1 Puertos",
     "Tarjeta Grafica": "GeForce® RTX 5080",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 33,
+    "descuento_porcentaje": 32,
     "screen_size_inches": 18.0
   },
   {
@@ -10792,7 +10792,7 @@
     "Informacion sobre la Actualizacion a Windows 11": "Ya es Windows 11",
     "Software Incluidos": "Office 365 y McAfee por un mes",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 43,
+    "descuento_porcentaje": 42,
     "screen_size_inches": 15.6,
     "precio_bancopopular": 1699050,
     "metodos_pago": [
@@ -10896,7 +10896,7 @@
     "Número de Núcleos (más núcleos más multitareas)": "8 Nucleos",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 10,
+    "descuento_porcentaje": 9,
     "screen_size_inches": 11.0
   },
   {
@@ -10951,7 +10951,7 @@
     "Modelo Tarjeta de Video/Grafica": "Tarjeta gráfica Intel 8",
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 48,
+    "descuento_porcentaje": 47,
     "screen_size_inches": 14.0
   },
   {
@@ -11055,7 +11055,7 @@
     "Resolucion Camara Posterior": "8 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 35,
+    "descuento_porcentaje": 34,
     "screen_size_inches": 11.0
   },
   {
@@ -11100,7 +11100,7 @@
     "Resolucion Camara Posterior": "13 Megapixeles",
     "Conexion a Datos": "WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 11,
+    "descuento_porcentaje": 10,
     "screen_size_inches": 11.5
   },
   {
@@ -11205,7 +11205,7 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 37,
+    "descuento_porcentaje": 36,
     "screen_size_inches": 15.6
   },
   {
@@ -11751,7 +11751,7 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Tarjeta Grafica": "GeForce® RTX 5050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 47,
+    "descuento_porcentaje": 46,
     "screen_size_inches": 15.0
   },
   {
@@ -11839,7 +11839,7 @@
     "Resolucion Camara Posterior": "12 Megapixeles",
     "Conexion a Datos": "Red Celular 3G | Red Celular 4G | WiFi",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 26,
+    "descuento_porcentaje": 25,
     "screen_size_inches": 13.0
   },
   {
@@ -11992,7 +11992,7 @@
     "Modelo Tarjeta de Video/Grafica": "Intel Arc 140T GPU",
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 27,
+    "descuento_porcentaje": 26,
     "screen_size_inches": 14.0
   },
   {
@@ -12105,7 +12105,7 @@
     "No. Puertos USB tipo C": "1 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 30,
+    "descuento_porcentaje": 29,
     "screen_size_inches": 27.0
   },
   {
@@ -12378,7 +12378,7 @@
     "No. Puertos USB tipo C": "2 Puertos",
     "No. Salidas de Audio": "1 Puertos",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 41,
+    "descuento_porcentaje": 40,
     "screen_size_inches": 23.8,
     "precio_bancopopular": 1799050,
     "metodos_pago": [
@@ -12436,7 +12436,7 @@
     "Modelo Tarjeta de Video/Grafica": "12 GB Dedicada GDDR7",
     "Tarjeta Grafica": "GeForce® RTX 5070",
     "tipo_producto": "desktop",
-    "descuento_porcentaje": 48
+    "descuento_porcentaje": 47
   },
   {
     "Identificador del producto": "4711636168007",
@@ -12495,7 +12495,7 @@
     "Informacion sobre la Actualizacion a Windows 11": "Ya es Windows 11",
     "Es Premium": "Sí",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 32,
+    "descuento_porcentaje": 31,
     "screen_size_inches": 16.0,
     "precio_bancopopular": 4399050,
     "metodos_pago": [
@@ -12600,7 +12600,7 @@
     "Tarjeta Grafica": "GeForce® RTX 5070",
     "Software Incluidos": "Lenovo AI Now",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 24,
+    "descuento_porcentaje": 23,
     "screen_size_inches": 15.1
   },
   {
@@ -12799,7 +12799,7 @@
     "No. Puertos SD": "1 Puertos",
     "Tarjeta Grafica": "GeForce® RTX 5090",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 27,
+    "descuento_porcentaje": 26,
     "screen_size_inches": 18.0
   },
   {
@@ -13005,7 +13005,7 @@
     "Tarjeta Grafica": "GeForce® RTX 4050",
     "Software Incluidos": "Lenovo AI Now",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 27,
+    "descuento_porcentaje": 26,
     "screen_size_inches": 15.6,
     "precio_codensa": 4399070,
     "metodos_pago": [
@@ -13065,7 +13065,7 @@
     "Modelo Tarjeta de Video/Grafica": "RTX 5050 8GB G7",
     "Tarjeta Grafica": "GeForce® RTX 5050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 29,
+    "descuento_porcentaje": 28,
     "screen_size_inches": 15.6
   },
   {
@@ -13170,7 +13170,7 @@
     "Modelo Tarjeta de Video/Grafica": "Intel UHD Graphics",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 38,
+    "descuento_porcentaje": 37,
     "screen_size_inches": 13.3
   },
   {
@@ -13335,7 +13335,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 28,
+    "descuento_porcentaje": 27,
     "screen_size_inches": 15.6
   },
   {
@@ -13393,7 +13393,7 @@
     "No. Puertos SD": "1 Puertos",
     "Software Incluidos": "Acer Office Manager: Administra y protege múltiples PCs Acer de forma remota en PYMEs.<br>PurifiedVoice: IA que elimina ruido de fondo y mejora la claridad en videollamadas.<br>Acer ProShield Plus: Seguridad empresarial con cifrado, borrado seguro y unidades encriptadas.<br>Acer Dust Defender: Ventilador reversible que expulsa polvo cada 6 horas para mayor rendimiento y durabilidad.",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 31,
+    "descuento_porcentaje": 30,
     "screen_size_inches": 14.0
   },
   {
@@ -13505,7 +13505,7 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Tarjeta Grafica": "GeForce® RTX 5060",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 30,
+    "descuento_porcentaje": 29,
     "screen_size_inches": 16.0
   },
   {
@@ -13561,7 +13561,7 @@
     "Tarjeta Grafica": "GeForce® RTX 4060",
     "Producto Recondicionado": "Sí es recondicionado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 10,
+    "descuento_porcentaje": 9,
     "screen_size_inches": 17.3
   },
   {
@@ -13722,7 +13722,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 29,
+    "descuento_porcentaje": 28,
     "screen_size_inches": 16.0
   },
   {
@@ -13779,7 +13779,7 @@
     "Modelo Tarjeta de Video/Grafica": "Intel UHD Graphics",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 38,
+    "descuento_porcentaje": 37,
     "screen_size_inches": 13.3
   },
   {
@@ -13884,7 +13884,7 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Tarjeta Grafica": "GeForce® RTX 5060",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 31,
+    "descuento_porcentaje": 30,
     "screen_size_inches": 15.3
   },
   {
@@ -13981,7 +13981,7 @@
     "Resolucion Camara Posterior": "8 Megapixeles",
     "Conexion a Datos": "WiFi | Red Celular 4G",
     "tipo_producto": "tablet",
-    "descuento_porcentaje": 57,
+    "descuento_porcentaje": 56,
     "screen_size_inches": 8.7
   },
   {
@@ -14190,7 +14190,7 @@
     "Tarjeta Grafica": "GeForce® RTX 5080",
     "Producto Recondicionado": "Sí es recondicionado",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 30,
+    "descuento_porcentaje": 29,
     "screen_size_inches": 16.0
   },
   {
@@ -14248,7 +14248,7 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Tarjeta Grafica": "GeForce® RTX 5090",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 24,
+    "descuento_porcentaje": 23,
     "screen_size_inches": 16.0,
     "precio_bancopopular": 35499048,
     "metodos_pago": [
@@ -14657,7 +14657,7 @@
     "Tarjeta Grafica": "GeForce® RTX 3050",
     "Informacion sobre la Actualizacion a Windows 11": "Ya es windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 39,
+    "descuento_porcentaje": 38,
     "screen_size_inches": 16.0,
     "precio_bancopopular": 4299050,
     "metodos_pago": [
@@ -14776,7 +14776,7 @@
     "Modelo Tarjeta de Video/Grafica": "8 GB Dedicada GDDR7",
     "Tarjeta Grafica": "GeForce® RTX 5050",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 21,
+    "descuento_porcentaje": 20,
     "screen_size_inches": 15.6
   },
   {
@@ -14888,7 +14888,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 38,
+    "descuento_porcentaje": 37,
     "screen_size_inches": 15.3
   },
   {
@@ -14945,7 +14945,7 @@
     "Modelo Tarjeta de Video/Grafica": "Intel Graphics",
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 26,
+    "descuento_porcentaje": 25,
     "screen_size_inches": 14.0
   },
   {
@@ -15003,7 +15003,7 @@
     "Actualizable a Windows 11": "SI es Actualizable a Windows 11",
     "Tarjeta Grafica": "GeForce® RTX 5080",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 20,
+    "descuento_porcentaje": 19,
     "screen_size_inches": 16.0
   },
   {
@@ -15101,7 +15101,7 @@
     "No. Salidas de Audio": "1 Puertos",
     "No. Puertos SD": "1 Puertos",
     "tipo_producto": "laptop",
-    "descuento_porcentaje": 54,
+    "descuento_porcentaje": 53,
     "screen_size_inches": 15.3
   },
   {
