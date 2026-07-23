@@ -162,11 +162,12 @@ def convert_to_json(df, output_file):
     raw = df_safe.to_dict(orient='records')
 
     for record in raw:
-        # Derive discount percentage: ((lista - venta) / lista) * 100, rounded.
+        # Derive discount percentage: ((lista - venta) / lista) * 100, truncated
+        # towards zero to match alkosto.com's display (17.9% → 17, 56.5% → 56).
         lista = record.get('Precio de lista')
         venta = record.get('Precio de venta')
         if isinstance(lista, (int, float)) and isinstance(venta, (int, float)) and lista > 0:
-            record['descuento_porcentaje'] = round((lista - venta) / lista * 100)
+            record['descuento_porcentaje'] = int((lista - venta) / lista * 100)
 
         pmp = record.get('Precio por método de pago')
         if not isinstance(pmp, str) or not pmp:

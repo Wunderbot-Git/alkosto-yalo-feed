@@ -199,12 +199,14 @@ def convert_to_json(df, output_file):
                     record['tipo_producto'] = tipo
                     break
 
-        # Derive discount percentage: ((lista - venta) / lista) * 100, rounded.
-        # Kept as an integer for clean facet/filter values in Algolia.
+        # Derive discount percentage: ((lista - venta) / lista) * 100, truncated
+        # towards zero — same rounding direction alkosto.com uses (17.9% → 17,
+        # 56.5% → 56). Using round() would flip half-values the wrong way and
+        # show different discounts in the bot vs the website.
         lista = record.get('Precio de lista')
         venta = record.get('Precio de venta')
         if isinstance(lista, (int, float)) and isinstance(venta, (int, float)) and lista > 0:
-            record['descuento_porcentaje'] = round((lista - venta) / lista * 100)
+            record['descuento_porcentaje'] = int((lista - venta) / lista * 100)
 
         # Numeric screen size (inches). Source uses two columns with mixed units:
         # Tamaño Pantalla_2 holds inches for monitors/TVs; Tamaño Pantalla_1
