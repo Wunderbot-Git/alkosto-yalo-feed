@@ -2,10 +2,11 @@ name: Refresh Alkosto product feed
 
 on:
   schedule:
-    # Bogotá is UTC-5. 8:10 / 13:10 local => 13:10 / 18:10 UTC.
-    # Offset from :00 to dodge GitHub Actions' top-of-hour queue spike.
-    - cron: "10 13 * * *"
-    - cron: "10 18 * * *"
+    # Bogotá is UTC-5. 6:45 AM / 12:45 PM local => 11:45 / 17:45 UTC.
+    # Kicks off ~75 min before the Algolia connector polls (at 8:00 AM / 2:00 PM
+    # Bogotá), leaving enough buffer for GitHub's typical 30-50 min cron delay.
+    - cron: "45 11 * * *"
+    - cron: "45 17 * * *"
   workflow_dispatch:
 
 permissions:
