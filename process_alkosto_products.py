@@ -89,6 +89,7 @@ TIPO_PRODUCTO_PREFIXES = [
     ("Electrodomésticos>Cocina>Línea de Empotre>Hornos de Empotrar", "horno_empotrar"),
     ("Electrodomésticos>Cocina>Línea de Empotre>Lavavajillas", "lavavajillas"),
     # Pequeños electrodomésticos > Cuidado del Hogar
+    ("Electrodomésticos>Pequeños Electrodomésticos>Cuidado del Hogar>Aspiradoras", "aspiradora"),
     ("Electrodomésticos>Pequeños Electrodomésticos>Cuidado del Hogar>Aspiradoras Inalámbricas", "aspiradora"),
     ("Electrodomésticos>Pequeños Electrodomésticos>Cuidado del Hogar>Aspiradoras Robóticas", "aspiradora"),
     ("Electrodomésticos>Pequeños Electrodomésticos>Cuidado del Hogar>Aspiradoras de Canasta", "aspiradora"),
@@ -131,6 +132,7 @@ TIPO_PRODUCTO_PREFIXES = [
     ("Videojuegos>Accesorios Videojuegos>Accesorios Nintendo", "accesorio_videojuego"),
     ("Videojuegos>Accesorios Videojuegos>Accesorios PlayStation", "accesorio_videojuego"),
     ("Videojuegos>Accesorios Videojuegos>Accesorios Xbox", "accesorio_videojuego"),
+    ("Videojuegos>Accesorios Videojuegos>Accesorios para Otras Plataformas", "accesorio_videojuego"),
     ("Videojuegos>Coleccionables>Figuras Coleccionables", "figura_coleccionable"),
     # Smartwatch
     ("Smartwatch>Relojes Inteligentes", "smartwatch"),
