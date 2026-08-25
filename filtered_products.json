@@ -1130,6 +1130,7 @@
     "Potencia de Succion_2": "0 Milibares",
     "Presion de Agua": "0 PSI-libras por pulgada cuadrada",
     "Recomendación de Superficie": "Todo tipo de piso",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 44
   },
   {
@@ -16748,6 +16749,7 @@
     "Presion de Agua": "0 PSI-libras por pulgada cuadrada",
     "Recomendación de Superficie": "Cerámica | Laminado | Mármol | Todo tipo de piso",
     "Sistema de Navegación": "Asistente de voz",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 5
   },
   {
@@ -20954,6 +20956,7 @@
     "Potencia de Succion_2": "245 Milibares",
     "Presion de Agua": "0 PSI-libras por pulgada cuadrada",
     "Recomendación de Superficie": "Todo tipo de piso",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 9
   },
   {
@@ -23166,6 +23169,7 @@
     "Material del Tubo": "Plastico",
     "Potencia de Succion_1": "25 Vatios",
     "Potencia de Succion_2": "0 Milibares",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 21
   },
   {
@@ -26202,6 +26206,7 @@
     "Resistencia al Agua": "No Resistente al Agua",
     "Longitud del Cable": "130 Centímetros",
     "Impedancia": "32.5 Omnhios",
+    "tipo_producto": "accesorio_videojuego",
     "descuento_porcentaje": 33
   },
   {
@@ -28057,6 +28062,7 @@
     "No. Botones": "6 Botones",
     "Plug and Play": "Si Es Plug and Play",
     "Tipo de Mouse": "Gaming",
+    "tipo_producto": "accesorio_videojuego",
     "descuento_porcentaje": 0
   },
   {
@@ -36871,6 +36877,7 @@
     "Potencia de Succion_1": "30 Vatios",
     "Potencia de Succion_2": "10 Milibares",
     "Recomendación de Superficie": "Cerámica | Laminado | Madera | Mármol | Tapete | Todo tipo de piso",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 22
   },
   {
@@ -38157,6 +38164,7 @@
     "Presion de Agua": "0 PSI-libras por pulgada cuadrada",
     "Recomendación de Superficie": "Todo tipo de piso",
     "Sistema de Navegación": "Cámaras para Mapeo | Sensor de proximidad y anticaidas",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 25
   },
   {
@@ -38724,6 +38732,7 @@
     "Potencia de Succion_2": "0 Milibares",
     "Presion de Agua": "0 PSI-libras por pulgada cuadrada",
     "Recomendación de Superficie": "Todo tipo de piso",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 37
   },
   {
@@ -38874,6 +38883,7 @@
     "Tipo de Filtro": "HEPA",
     "Tamaño del Contenedor": "1.3 Litros",
     "Característica de Limpieza": "Aspiradora",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 40
   },
   {
@@ -40410,6 +40420,7 @@
     "Presion de Agua": "0 PSI-libras por pulgada cuadrada",
     "Recomendación de Superficie": "Todo tipo de piso",
     "Sistema de Navegación": "Sensor de proximidad y anticaidas",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 27
   },
   {
@@ -40698,6 +40709,7 @@
     "Resistencia al Agua": "No Resistente al Agua",
     "Longitud del Cable": "120 Centímetros",
     "Impedancia": "32 Omnhios",
+    "tipo_producto": "accesorio_videojuego",
     "descuento_porcentaje": 57
   },
   {
@@ -42388,6 +42400,7 @@
     "Material del Tubo": "N/a",
     "Potencia de Succion_1": "25 Vatios",
     "Potencia de Succion_2": "10 Milibares",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 27
   },
   {
@@ -43354,6 +43367,7 @@
     "Plataforma": "Computador PC | One | One X | PS4 | PS4 Pro | Series S | Series X | Switch",
     "No. Pilas o Baterias que Requiere": "0 Baterías",
     "Rango inalambrico": "0 Metro(s)",
+    "tipo_producto": "accesorio_videojuego",
     "descuento_porcentaje": 15
   },
   {
@@ -45390,6 +45404,7 @@
     "Tipo de Filtro": "Lavables",
     "Característica de Limpieza": "Aspiradora",
     "Potencia de Succion_1": "140 Milibares",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 61
   },
   {
@@ -47703,6 +47718,7 @@
     "Potencia de Succion_2": "0 Milibares",
     "Presion de Agua": "0 PSI-libras por pulgada cuadrada",
     "Recomendación de Superficie": "Todo tipo de piso",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 21
   },
   {
@@ -49605,6 +49621,7 @@
     "Tonalidad de Color": "Negro",
     "Qué incluye el producto": "Timon, pedales, cargador y manuales de usuario",
     "Uso": "Gaming",
+    "tipo_producto": "accesorio_videojuego",
     "descuento_porcentaje": 0
   },
   {
@@ -62454,6 +62471,7 @@
     "Potencia de Succion_1": "300 Vatios",
     "Potencia de Succion_2": "108.6 Milibares",
     "Recomendación de Superficie": "Tapete | Todo tipo de piso",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 0
   },
   {
@@ -63267,6 +63285,7 @@
     "Potencia de Succion_1": "25.2 Vatios",
     "Potencia de Succion_2": "250 Milibares",
     "Recomendación de Superficie": "Todo tipo de piso",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 0
   },
   {
@@ -64335,6 +64354,7 @@
     "Potencia de Succion_1": "80 Vatios",
     "Potencia de Succion_2": "0 Milibares",
     "Recomendación de Superficie": "Todo tipo de piso",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 43
   },
   {
@@ -64713,6 +64733,7 @@
     "Material del Tubo": "Polietileno",
     "Potencia de Succion_1": "1200 Vatios",
     "Potencia de Succion_2": "150 Milibares",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 5
   },
   {
@@ -65372,6 +65393,7 @@
     "Tamaño max. del dispositivo": "16 Pulgadas",
     "Peso del Morral, Maletin o Funda": "1080 Gramos",
     "Producto Marca o Referencia a los que le sirve el Morral, Funda o Maletin": "Portatiles - tabletas",
+    "tipo_producto": "accesorio_videojuego",
     "descuento_porcentaje": 19
   },
   {
@@ -65673,6 +65695,7 @@
     "Presion de Agua": "0 PSI-libras por pulgada cuadrada",
     "Recomendación de Superficie": "Todo tipo de piso",
     "Sistema de Navegación": "Asistente de voz | Cámaras para Mapeo | Sensor de proximidad y anticaidas",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 25
   },
   {
@@ -66075,6 +66098,7 @@
     "Material del Tubo": "Pasta",
     "Potencia de Succion_1": "1800 Vatios",
     "Potencia de Succion_2": "1800 Milibares",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 29
   },
   {
@@ -67624,6 +67648,7 @@
     "Tamaño max. del dispositivo": "17 Pulgadas",
     "Peso del Morral, Maletin o Funda": "1290 Gramos",
     "Producto Marca o Referencia a los que le sirve el Morral, Funda o Maletin": "Portatiles - tabletas",
+    "tipo_producto": "accesorio_videojuego",
     "descuento_porcentaje": 16
   },
   {
@@ -69707,6 +69732,7 @@
     "Potencia de Succion_2": "0 Milibares",
     "Presion de Agua": "0 PSI-libras por pulgada cuadrada",
     "Recomendación de Superficie": "Todo tipo de piso",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 31
   },
   {
@@ -79834,6 +79860,7 @@
     "Potencia de Succion_1": "5 Vatios",
     "Recomendación de Superficie": "Tapete | Todo tipo de piso",
     "Sistema de Navegación": "Sensor de proximidad y anticaidas",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 48
   },
   {
@@ -84462,6 +84489,7 @@
     "Material del Tubo": "Plastico",
     "Potencia de Succion_1": "232 Vatios",
     "Potencia de Succion_2": "232 Milibares",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 42
   },
   {
@@ -85505,6 +85533,7 @@
     "Material del Tubo": "Metálico",
     "Potencia de Succion_1": "1000 Vatios",
     "Potencia de Succion_2": "140 Milibares",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 11
   },
   {
@@ -86477,6 +86506,7 @@
     "Presion de Agua": "2200 PSI-libras por pulgada cuadrada",
     "Recomendación de Superficie": "Tapete | Todo tipo de piso",
     "Sistema de Navegación": "Cámaras para Mapeo | Sensor de proximidad y anticaidas",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 50
   },
   {
@@ -87782,6 +87812,7 @@
     "Material del Tubo": "Metalico",
     "Potencia de Succion_1": "1800 Vatios",
     "Potencia de Succion_2": "0 Milibares",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 26
   },
   {
@@ -89601,6 +89632,7 @@
     "Resistencia al Agua": "No Resistente al Agua",
     "Impedancia": "32 Omnhios",
     "Nivel de uso": "Empresa | Gaming | Hogar",
+    "tipo_producto": "accesorio_videojuego",
     "descuento_porcentaje": 0
   },
   {
@@ -92487,6 +92519,7 @@
     "Potencia de Succion_2": "5 Milibares",
     "Recomendación de Superficie": "Todo tipo de piso",
     "Sistema de Navegación": "Sensor de proximidad y anticaidas",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 13
   },
   {
@@ -95555,6 +95588,7 @@
     "Presion de Agua": "0 PSI-libras por pulgada cuadrada",
     "Recomendación de Superficie": "Todo tipo de piso",
     "Sistema de Navegación": "Asistente de voz | Sensor de proximidad y anticaidas",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 37
   },
   {
@@ -100156,6 +100190,7 @@
     "Precio de venta": 329900,
     "Marca": "LOGITECH G",
     "Color": "NEGRO",
+    "tipo_producto": "accesorio_videojuego",
     "descuento_porcentaje": 0
   },
   {
@@ -100452,6 +100487,7 @@
     "Tipos de Puertos Entradas y Salidas": "No Tiene",
     "Funcionamiento": "Inalámbrico",
     "Material del Tubo": "No Tiene",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 45
   },
   {
@@ -101125,6 +101161,7 @@
     "Potencia de Succion_2": "20 Milibares",
     "Recomendación de Superficie": "Todo tipo de piso",
     "Sistema de Navegación": "Sensor de proximidad y anticaidas",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 0
   },
   {
@@ -102476,6 +102513,7 @@
     "Precio de venta": 349900,
     "Marca": "LOGITECH G",
     "Color": "BLANCO",
+    "tipo_producto": "accesorio_videojuego",
     "descuento_porcentaje": 0
   },
   {
@@ -105716,6 +105754,7 @@
     "Tipo de Filtro": "HEPA",
     "Tamaño del Contenedor": "0.95 Litros",
     "Potencia de Succion_1": "20 Vatios",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 53
   },
   {
@@ -106883,6 +106922,7 @@
     "Sistema Operativo Compatible": "Android | iOS | Mac | Play Station | Windows",
     "Resistencia al Agua": "No Resistente al Agua",
     "Impedancia": "48 Omnhios",
+    "tipo_producto": "accesorio_videojuego",
     "descuento_porcentaje": 0
   },
   {
@@ -106924,6 +106964,7 @@
     "Potencia de Succion_1": "400 Vatios",
     "Potencia de Succion_2": "100 Milibares",
     "Sistema de Navegación": "Sensor de proximidad y anticaidas",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 37
   },
   {
@@ -111024,6 +111065,7 @@
     "Material del Tubo": "Aluminio",
     "Potencia de Succion_1": "2000 Vatios",
     "Potencia de Succion_2": "142 Milibares",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 10
   },
   {
@@ -112171,6 +112213,7 @@
     "Resistencia al Agua": "No Resistente al Agua",
     "Longitud del Cable": "180 Centímetros",
     "Impedancia": "32 Omnhios",
+    "tipo_producto": "accesorio_videojuego",
     "descuento_porcentaje": 0
   },
   {
@@ -114330,6 +114373,7 @@
     "Potencia de Succion_1": "150 Vatios",
     "Potencia de Succion_2": "0 Milibares",
     "Presion de Agua": "0 PSI-libras por pulgada cuadrada",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 35
   },
   {
@@ -119199,6 +119243,7 @@
     "Potencia de Succion_1": "1000 Vatios",
     "Potencia de Succion_2": "140 Milibares",
     "Recomendación de Superficie": "Todo tipo de piso",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 15
   },
   {
@@ -120910,6 +120955,7 @@
     "Tonalidad de Color": "Negro",
     "Qué incluye el producto": "Timon, pedales, cargador y manuales de usuario",
     "Uso": "Gaming",
+    "tipo_producto": "accesorio_videojuego",
     "descuento_porcentaje": 0
   },
   {
@@ -126676,6 +126722,7 @@
     "Material del Tubo": "Metálico",
     "Potencia de Succion_1": "900 Vatios",
     "Potencia de Succion_2": "150 Milibares",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 21
   },
   {
@@ -128921,6 +128968,7 @@
     "Resistencia al Agua": "No Resistente al Agua",
     "Longitud del Cable": "0 Centímetros",
     "Impedancia": "45 Omnhios",
+    "tipo_producto": "accesorio_videojuego",
     "descuento_porcentaje": 25
   },
   {
@@ -130860,6 +130908,7 @@
     "Resistencia al Agua": "No Resistente al Agua",
     "Longitud del Cable": "200 Centímetros",
     "Impedancia": "32 Omnhios",
+    "tipo_producto": "accesorio_videojuego",
     "descuento_porcentaje": 29
   },
   {
@@ -131496,6 +131545,7 @@
     "Diseño del Producto": "Estuche con Tapa",
     "Producto Marca o Referencia a los que le sirve la Carcasa/Estuche": "Consolas ROG XBOX ally",
     "Carcasa o Estuche Para": "Consolas Portátiles",
+    "tipo_producto": "accesorio_videojuego",
     "descuento_porcentaje": 0
   },
   {
@@ -131894,6 +131944,7 @@
     "Potencia de Succion_1": "1000 Vatios",
     "Potencia de Succion_2": "170 Milibares",
     "Recomendación de Superficie": "Todo tipo de piso",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 14
   },
   {
@@ -133840,6 +133891,7 @@
     "Tipo de Filtro": "HEPA",
     "Potencia de Succion_1": "48 Milibares",
     "Recomendación de Superficie": "Todo tipo de piso",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 42
   },
   {
@@ -134528,6 +134580,7 @@
     "Característica de Limpieza": "Aspiradora",
     "Potencia de Succion_1": "24 Vatios",
     "Recomendación de Superficie": "Todo tipo de piso",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 60
   },
   {
@@ -135724,6 +135777,7 @@
     "Qué incluye el producto": "Incluye gestor de cables y kit de instalación con manual y video de apoyo",
     "Uso": "Gaming | Videojuegos",
     "Tipo de Accesorio": "Otros",
+    "tipo_producto": "accesorio_videojuego",
     "descuento_porcentaje": 50
   },
   {
@@ -139328,6 +139382,7 @@
     "Material del Tubo": "Tubo acordeón -  Polietileno",
     "Potencia de Succion_1": "100 Vatios",
     "Potencia de Succion_2": "40 Milibares",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 0
   },
   {
@@ -142068,6 +142123,7 @@
     "Tamaño del Contenedor": "0.35 Litros",
     "Potencia de Succion_1": "150 Vatios",
     "Potencia de Succion_2": "0 Milibares",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 0
   },
   {
@@ -145204,6 +145260,7 @@
     "Material del Tubo": "Metalico",
     "Potencia de Succion_1": "1000 Vatios",
     "Potencia de Succion_2": "190 Milibares",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 26
   },
   {
@@ -146870,6 +146927,7 @@
     "Tamaño max. del dispositivo": "17 Pulgadas",
     "Peso del Morral, Maletin o Funda": "1290 Gramos",
     "Producto Marca o Referencia a los que le sirve el Morral, Funda o Maletin": "Portatiles - tabletas",
+    "tipo_producto": "accesorio_videojuego",
     "descuento_porcentaje": 16
   },
   {
@@ -150988,6 +151046,7 @@
     "Presion de Agua": "0 PSI-libras por pulgada cuadrada",
     "Recomendación de Superficie": "Cerámica | Laminado | Madera | Mármol",
     "Sistema de Navegación": "Asistente de voz",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 0
   },
   {
@@ -153089,6 +153148,7 @@
     "Material del Tubo": "Polietileno",
     "Potencia de Succion_1": "800 Vatios",
     "Potencia de Succion_2": "180 Milibares",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 12
   },
   {
@@ -156335,6 +156395,7 @@
     "Uso": "Gaming | Videojuegos",
     "Pilas Baterias que Requiere": "Batería Recargable Litio",
     "Rango inalambrico": "0 Metro(s)",
+    "tipo_producto": "accesorio_videojuego",
     "descuento_porcentaje": 15
   },
   {
@@ -156856,6 +156917,7 @@
     "Tamaño del Contenedor": "0.39 Litros",
     "Característica de Limpieza": "Aspiradora",
     "Potencia de Succion_1": "450 Vatios",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 25
   },
   {
@@ -159371,6 +159433,7 @@
     "Tamaño del Contenedor": "0.54 Litros",
     "Potencia de Succion_1": "115 Vatios",
     "Potencia de Succion_2": "0 Milibares",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 0
   },
   {
@@ -164726,6 +164789,7 @@
     "Potencia de Succion_1": "1 Vatios",
     "Potencia de Succion_2": "1 Milibares",
     "Presion de Agua": "1 PSI-libras por pulgada cuadrada",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 53
   },
   {
@@ -166729,6 +166793,7 @@
     "Potencia de Succion_2": "0 Milibares",
     "Presion de Agua": "0 PSI-libras por pulgada cuadrada",
     "Recomendación de Superficie": "Todo tipo de piso",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 25
   },
   {
@@ -167291,6 +167356,7 @@
     "Tamaño del Contenedor": "0.44 Litros",
     "Potencia de Succion_1": "250 Vatios",
     "Potencia de Succion_2": "140 Milibares",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 7
   },
   {
@@ -167905,6 +167971,7 @@
     "Presion de Agua": "0 PSI-libras por pulgada cuadrada",
     "Recomendación de Superficie": "Todo tipo de piso",
     "Sistema de Navegación": "Sensor de proximidad y anticaidas",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 36
   },
   {
@@ -170808,6 +170875,7 @@
     "Potencia de Succion_1": "400 Vatios",
     "Potencia de Succion_2": "50 Milibares",
     "Sistema de Navegación": "Sensor de proximidad y anticaidas",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 42
   },
   {
@@ -176159,6 +176227,7 @@
     "Material del Tubo": "No Aplica",
     "Potencia de Succion_1": "1 Vatios",
     "Potencia de Succion_2": "0 Milibares",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 42
   },
   {
@@ -177225,6 +177294,7 @@
     "Potencia de Succion_1": "1600 Vatios",
     "Potencia de Succion_2": "140 Milibares",
     "Recomendación de Superficie": "Todo tipo de piso",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 10
   },
   {
@@ -183215,6 +183285,7 @@
     "Presion de Agua": "0 PSI-libras por pulgada cuadrada",
     "Recomendación de Superficie": "Todo tipo de piso",
     "Sistema de Navegación": "Asistente de voz | Cámaras para Mapeo | Sensor de proximidad y anticaidas",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 34
   },
   {
@@ -183499,6 +183570,7 @@
     "Potencia de Succion_1": "200 Vatios",
     "Potencia de Succion_2": "170 Milibares",
     "Presion de Agua": "0 PSI-libras por pulgada cuadrada",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 16
   },
   {
@@ -187477,6 +187549,7 @@
     "Potencia de Succion_2": "0 Milibares",
     "Presion de Agua": "0 PSI-libras por pulgada cuadrada",
     "Recomendación de Superficie": "Todo tipo de piso",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 27
   },
   {
@@ -207231,6 +207304,7 @@
     "Longitud del Cable": "4 Metro(s)",
     "Material del Tubo": "Metal",
     "Potencia de Succion_1": "221 Vatios",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 53
   },
   {
@@ -207335,6 +207409,7 @@
     "Longitud del Cable": "5 Metro(s)",
     "Material del Tubo": "acero",
     "Potencia de Succion_1": "1200 Vatios",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 42
   },
   {
@@ -208394,6 +208469,7 @@
     "Presion de Agua": "0 PSI-libras por pulgada cuadrada",
     "Recomendación de Superficie": "Todo tipo de piso",
     "Sistema de Navegación": "Sensor de proximidad y anticaidas",
+    "tipo_producto": "aspiradora",
     "descuento_porcentaje": 28
   },
   {
