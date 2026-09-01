@@ -1,0 +1,68 @@
+{
+  "_comment": "One entry per Algolia Agent Studio index. build_agent_indices.py writes <name>.json for each. 'tipos' selects records from filtered_products.json by tipo_producto; 'builder': 'schema' uses transform_to_schema.py instead. 'attributes' = attributesToRetrieve for that index (what the agent sees), on top of base_attributes.",
+  "base_attributes": [
+    "objectID", "Identificador del producto", "Título", "Marca", "tipo_producto", "Categoría",
+    "Precio de lista", "Precio de venta", "descuento_porcentaje",
+    "metodos_pago", "precio_codensa", "precio_tarjeta_alkosto", "precio_master_bines",
+    "Enlace del producto", "Enlace link1", "Disponibilidad", "Garantía",
+    "Características", "Caracteristica claves_1", "Caracteristica claves_2", "Caracteristica claves_3",
+    "Caracteristica claves_4", "Caracteristica claves_5"
+  ],
+  "indices": [
+    {
+      "name": "agent_studio_celulares",
+      "tipos": ["celular"],
+      "attributes": [
+        "Memoria RAM", "Memoria Interna", "screen_size_inches", "Tamaño Pantalla_1", "Resolucion Pantalla",
+        "Tipo de Pantalla", "Sistema Operativo", "Version Sistema Operativo", "Marca del Procesador",
+        "Número de Núcleos (más núcleos más multitareas)", "Resolucion Camara Posterior 1",
+        "Resolucion Camara Frontal 1", "Capacidad de la Bateria", "Red de Transmision de Datos",
+        "Resistencia al Agua", "Espacios Para SIM Card", "eSIM/SIM Virtual", "Es Plegable",
+        "Tiene Inteligencia Artificial", "Tipo de Lector de Huella", "Color"
+      ]
+    },
+    {
+      "name": "agent_studio_computadores",
+      "builder": "schema",
+      "attributes": [
+        "name", "url", "image_url", "brand", "category",
+        "price_sale", "price_list", "price_sale_label", "discount_pct",
+        "ram_gb", "ram_label", "storage_gb", "storage_label", "screen_inches", "screen_label",
+        "weight_kg", "weight_label", "battery_hours", "battery_label", "cpu_cores",
+        "os", "cpu_brand", "cpu_model", "gpu_brand", "gpu_model", "has_dedicated_gpu",
+        "has_ai", "is_convertible", "is_touchscreen", "has_fingerprint", "backlit_keyboard", "has_webcam",
+        "in_stock", "stock", "short_specs", "key_features"
+      ]
+    },
+    {
+      "name": "agent_studio_tv",
+      "tipos": ["televisor", "barra_sonido", "proyector"],
+      "attributes": [
+        "screen_size_inches", "Tamaño Pantalla_2", "Resolucion Pantalla", "Tipo de Pantalla",
+        "Diseño de la pantalla", "Sistema Operativo", "Smart TV", "Tasa de Refresco del TV",
+        "No. Puertos HDMI", "No. Puertos USB", "Potencia de Audio", "Asistente de Voz",
+        "Recomendado para Gaming", "Aplicaciones Preinstaladas",
+        "Medidas del TV. Sin la base (Ancho x Alto x Fondo)", "Opciones de Conectividad"
+      ]
+    },
+    {
+      "name": "agent_studio_electrodomesticos",
+      "tipos": [
+        "nevera", "nevecon", "congelador", "vinera_minibar", "dispensador_agua", "fabricador_hielo",
+        "lavadora", "lavadora_secadora", "secadora",
+        "estufa", "estufa_empotrar", "horno_empotrar", "campana", "lavavajillas",
+        "aire_acondicionado", "calentador", "ducha_electrica", "ventilador"
+      ],
+      "attributes": [
+        "Eficiencia Energetica", "Voltaje", "Medidas Externas (Ancho x Alto x Fondo)", "Tipo de Producto_1", "Color",
+        "Informacion Sobre Instalacion",
+        "Almacenamiento", "Tecnologia de Frio", "Fabricador Hielo", "Dispensador Agua", "Tipo de Puertas del Nevecon", "Diseño",
+        "Capacidad Carga Lavado_1", "Capacidad Carga Lavado_2", "Programas de Lavado", "Tipo de Motor de la Lavadora Secadora",
+        "No. Puestos de la Estufa", "Tiene Horno o Gabinete", "Material de la Cubierta", "Funcionalidades del Horno", "Tapa de Vidrio",
+        "Capacidad de Enfriamiento", "Refrigerante", "Tipo de Motor",
+        "Capacidad_1", "Encendido", "Ducto de Gas",
+        "Ciclos", "Sistema de Lavado", "Consumo de Agua"
+      ]
+    }
+  ]
+}

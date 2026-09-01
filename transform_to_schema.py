@@ -119,17 +119,15 @@ def parse_gpu_brand(marca):
 
 
 def parse_category(record):
-    cat = record.get('Categoría', '') or ''
-    titulo = (record.get('Título') or '').lower()
-    if 'Tabletas' in cat:
-        return 'tablet'
-    if 'Portátiles' in cat:
-        return 'laptop'
-    if 'Escritorio' in cat or 'All in One' in cat:
+    """Map the feed's tipo_producto to the schema's category enum. Desktops
+    are split into desktop / all_in_one by title keyword."""
+    tipo = record.get('tipo_producto')
+    if tipo == 'desktop':
+        titulo = (record.get('Título') or '').lower()
         if 'all in one' in titulo or 'all-in-one' in titulo or ' aio ' in f' {titulo} ':
             return 'all_in_one'
         return 'desktop'
-    return None
+    return tipo if tipo in INCLUDED_CATEGORIES else None
 
 
 def format_cop(n):
@@ -177,7 +175,10 @@ def detect_is_convertible(record):
 
 # --- Main transform ---
 
-INCLUDED_CATEGORIES = {'laptop', 'desktop', 'all_in_one', 'tablet'}
+INCLUDED_CATEGORIES = {
+    'laptop', 'desktop', 'all_in_one', 'tablet',
+    'monitor', 'proyector', 'impresora', 'tinta', 'papel',
+}
 
 
 def transform(record):
@@ -212,7 +213,14 @@ def transform(record):
     put('ram_gb', ram_gb); put('ram_label', ram_label)
     storage_gb, storage_label = parse_storage(record.get('Capacidad de Disco'))
     put('storage_gb', storage_gb); put('storage_label', storage_label)
-    screen_inches, screen_label = parse_screen(record.get('Tamaño Pantalla_1'))
+    # Prefer the feed's unit-normalised screen_size_inches (monitors/TVs keep
+    # centimetres in Tamaño Pantalla_1); fall back to parsing the raw field.
+    ssi = record.get('screen_size_inches')
+    if isinstance(ssi, (int, float)) and ssi > 0:
+        screen_inches = float(ssi)
+        screen_label = f'{int(ssi) if ssi == int(ssi) else round(ssi, 1)}"'
+    else:
+        screen_inches, screen_label = parse_screen(record.get('Tamaño Pantalla_1'))
     put('screen_inches', screen_inches); put('screen_label', screen_label)
     weight_kg, weight_label = parse_weight(record.get('Peso'))
     put('weight_kg', weight_kg); put('weight_label', weight_label)

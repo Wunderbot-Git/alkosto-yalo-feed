@@ -46,6 +46,9 @@ jobs:
             --input filtered_products.json \
             --output filtered_agente_computadores.json
 
+      - name: Build Agent Studio indices (one JSON per agent)
+        run: python build_agent_indices.py --input filtered_products.json --config agent_indices.json
+
       - name: Process celulares feed
         env:
           ALKOSTO_USERNAME: ${{ secrets.ALKOSTO_USERNAME }}
@@ -58,7 +61,7 @@ jobs:
         run: |
           git config user.name "alkosto-feed-bot"
           git config user.email "alkosto-feed-bot@users.noreply.github.com"
-          git add filtered_products.json filtered_computadores_tablets.json filtered_agente_computadores.json filtered_celulares.json
+          git add filtered_products.json filtered_computadores_tablets.json filtered_agente_computadores.json filtered_celulares.json agent_studio_*.json
           if git diff --cached --quiet; then
             echo "No changes in feed output."
           else
