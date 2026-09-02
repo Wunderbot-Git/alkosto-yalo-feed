@@ -5,7 +5,7 @@ enriched Algolia indices for the Yalo WhatsApp bot and for Algolia Agent Studio
 agents. Runs twice a day on GitHub Actions with no manual steps.
 
 Team-facing documentation in Spanish (architecture, daily cycle, runbook,
-onboarding, timeline): [`docs/pipeline.es.md`](docs/pipeline.es.md) — also
+onboarding, timeline): [`docs/pipeline.es.md`](docs/pipeline.es.md) (standalone HTML: [`docs/pipeline.es.html`](docs/pipeline.es.html)) — also
 published as a formatted page at
 [claude.ai](https://claude.ai/code/artifact/ee158764-72ef-4810-810d-1d3369374056).
 This README is the developer reference and the source of truth for behaviour.
