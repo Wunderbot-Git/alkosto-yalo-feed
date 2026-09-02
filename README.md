@@ -4,9 +4,40 @@ Automated pipeline that turns Alkosto's full product datafeed into curated,
 enriched Algolia indices for the Yalo WhatsApp bot and for Algolia Agent Studio
 agents. Runs twice a day on GitHub Actions with no manual steps.
 
-Team-facing documentation in Spanish (architecture, daily cycle, runbook):
-[Pipeline Alkosto–Algolia](https://claude.ai/code/artifact/ee158764-72ef-4810-810d-1d3369374056).
+Team-facing documentation in Spanish (architecture, daily cycle, runbook,
+onboarding, timeline): [`docs/pipeline.es.md`](docs/pipeline.es.md) — also
+published as a formatted page at
+[claude.ai](https://claude.ai/code/artifact/ee158764-72ef-4810-810d-1d3369374056).
 This README is the developer reference and the source of truth for behaviour.
+
+## Getting started
+
+1. **Access:** collaborator on this repository (granted by Philipp Hasskamp);
+   member of Algolia application `QX5IPS1B1Q` able to create API keys and
+   connectors; optionally the `gh` CLI, authenticated.
+2. **Local setup:**
+
+   ```bash
+   git clone https://github.com/Wunderbot-Git/alkosto-yalo-feed && cd alkosto-yalo-feed
+   python3.12 -m venv .venv && source .venv/bin/activate
+   pip install -r requirements.txt
+   cp .env.example .env   # create your own restricted Algolia keys; never commit .env
+   ```
+
+3. **Run the pipeline locally** (to test a category change before pushing):
+
+   ```bash
+   ALKOSTO_USERNAME=… ALKOSTO_PASSWORD=… python process_alkosto_products.py   # downloads productFeed.csv
+   python process_alkosto_products.py --skip-download                          # reuses the downloaded CSV
+   python replace_image_urls.py filtered_products.json
+   python build_agent_indices.py --input filtered_products.json --config agent_indices.json
+   ```
+
+   The CSV and `filtered_*.csv` are git-ignored; only the JSON outputs are
+   committed, and the workflow does that.
+4. **Two rules before your first change:** every relevance change in Algolia
+   ends in a commit (see *Algolia configuration as code*); every category change
+   is verified in the published JSON before touching Algolia (see *Extending*).
 
 ## Architecture
 
@@ -205,6 +236,19 @@ on `tipo_producto`.
 The repo is public. Never commit keys, never paste them into chat. No key here
 can touch `alkostoIndexAlgoliaPRD` (the website index), which is outside this
 system.
+
+## Timeline
+
+Approximate; git history has the detail.
+
+| When | What |
+|---|---|
+| Nov 2025 | Local script on a Mac with cron; computers and tablets only; CSV → JSON. |
+| Apr 2026 | Category-prefix filter. First Algolia index; plan record limit discovered (`notPublished`). Migration to GitHub Actions + connector. Yalo's relevance requests: Spanish, facets, synonyms, rules. `tipo_producto` introduced. TVs added. Payment-method prices parsed. |
+| May 2026 | `descuento_porcentaje`. Computers + tablets subset. Phones, ink and paper added. |
+| Jun 2026 | Leading zeros in EANs preserved (broken images). Lean schema for computers → `Philipp_Alkosto_AI`. Refrigeration, laundry and projectors added. |
+| Aug 2026 | `screen_size_inches`. Discount truncated to match the website. Connector/workflow drift fixed → crons 6:45/12:45 and 8:00/14:00. Eleven category trees added; index grows from 1.5k to ~5k. |
+| Sep 2026 | Four Agent Studio indices derived from the main feed; Algolia config as code (`algolia/`, `scripts/`); standalone phones pipeline retired; `Philipp_Alkosto_AI` kept as a sandbox. |
 
 ## Retired
 
