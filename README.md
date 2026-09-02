@@ -71,7 +71,7 @@ Public URLs: `https://raw.githubusercontent.com/Wunderbot-Git/alkosto-yalo-feed/
 | `agent_studio_tv.json` | 250 | `agent_studio_tv` |
 | `agent_studio_electrodomesticos.json` | 940 | `agent_studio_electrodomesticos` |
 | `filtered_computadores_tablets.json` | 350 | none currently |
-| `filtered_agente_computadores.json` | 330 | legacy index `Philipp_Alkosto_AI` |
+| `filtered_agente_computadores.json` | 460 | `Philipp_Alkosto_AI` — a separate prototype/sandbox index (see *Indices*) |
 | `filtered_celulares.json` | 440 | none (legacy) |
 
 ## Indices
@@ -86,6 +86,13 @@ Public URLs: `https://raw.githubusercontent.com/Wunderbot-Git/alkosto-yalo-feed/
 
 Overlap between agent indices is intentional (soundbars live in TV and, later,
 Audio). The main index name is historical; Yalo's integration depends on it.
+
+`Philipp_Alkosto_AI` (the name carries a trailing space) is a **prototype
+sandbox**, not part of production. It is fed by `filtered_agente_computadores.json`
+(same lean schema and scope as `agent_studio_computadores`) so it always has
+current data, but its relevance configuration is deliberately independent:
+it is not exported to `algolia/`, not touched by the admin scripts, and changes
+made there never propagate to the Yalo or Agent Studio indices. Keep it that way.
 
 ### Record formats
 
@@ -205,6 +212,6 @@ system.
 
 Safe to remove once confirmed unused:
 
-- `Philipp_Alkosto_AI` index (note the trailing space) and its connector — replaced by `agent_studio_computadores`.
-- `process_alkosto_celulares.py`, `filtered_celulares.json` and the workflow step that runs them — the smartphone index is built from the main feed and already includes brands the legacy script misses (Nubia).
-- `filtered_agente_computadores.json` — only feeds the legacy index above.
+- `process_alkosto_celulares.py`, `filtered_celulares.json` and the workflow step that runs them — no Algolia connector reads the file; the smartphone index is built from the main feed and already includes brands the legacy script misses (Nubia). The only unknown is an external consumer of the raw URL, which would surface as a 404 and can switch to `agent_studio_celulares.json` (a superset).
+
+Not on this list: `Philipp_Alkosto_AI` and `filtered_agente_computadores.json` — they serve the prototype sandbox described under *Indices*.
