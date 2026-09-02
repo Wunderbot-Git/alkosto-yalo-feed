@@ -44,7 +44,6 @@ fields and a category added once shows up everywhere it belongs.
 | `scripts/export_algolia_config.py` | Pulls the live configuration of all indices into `algolia/`. Run after changing anything in the dashboard. |
 | `scripts/apply_algolia_config.py` | Pushes `algolia/<index>/` to the live index; `--load file.json` bootstraps a new index. |
 | `scripts/algolia_common.py` | Key selection per index + minimal REST client. |
-| `process_alkosto_celulares.py` | **Legacy.** Old standalone smartphone pipeline; still runs, nothing consumes it. See *Retirement list*. |
 | `.env.example` | Variables for the local admin scripts. Copy to `.env` (git-ignored). |
 
 ## Daily schedule
@@ -72,7 +71,6 @@ Public URLs: `https://raw.githubusercontent.com/Wunderbot-Git/alkosto-yalo-feed/
 | `agent_studio_electrodomesticos.json` | 940 | `agent_studio_electrodomesticos` |
 | `filtered_computadores_tablets.json` | 350 | none currently |
 | `filtered_agente_computadores.json` | 460 | `Philipp_Alkosto_AI` — a separate prototype/sandbox index (see *Indices*) |
-| `filtered_celulares.json` | 440 | none (legacy) |
 
 ## Indices
 
@@ -208,10 +206,8 @@ The repo is public. Never commit keys, never paste them into chat. No key here
 can touch `alkostoIndexAlgoliaPRD` (the website index), which is outside this
 system.
 
-## Retirement list
+## Retired
 
-Safe to remove once confirmed unused:
+- **2026-09-02** — `process_alkosto_celulares.py` and `filtered_celulares.json` (standalone smartphone pipeline, April 2026). No Algolia connector read the file; smartphones come from the main feed via `agent_studio_celulares.json`, a superset with derived fields and newer brands. Anyone still fetching the old raw URL gets a 404 and should switch to that file.
 
-- `process_alkosto_celulares.py`, `filtered_celulares.json` and the workflow step that runs them — no Algolia connector reads the file; the smartphone index is built from the main feed and already includes brands the legacy script misses (Nubia). The only unknown is an external consumer of the raw URL, which would surface as a 404 and can switch to `agent_studio_celulares.json` (a superset).
-
-Not on this list: `Philipp_Alkosto_AI` and `filtered_agente_computadores.json` — they serve the prototype sandbox described under *Indices*.
+Not retirement candidates: `Philipp_Alkosto_AI` and `filtered_agente_computadores.json` serve the prototype sandbox described under *Indices*.
