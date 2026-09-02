@@ -1,0 +1,458 @@
+[
+  {
+    "type": "synonym",
+    "synonyms": [
+      "afeitadora",
+      "depiladora",
+      "shaver",
+      "trimmer"
+    ],
+    "objectID": "afeitadora"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "aire acondicionado",
+      "aire",
+      "ac",
+      "ac split",
+      "split"
+    ],
+    "objectID": "aire_acondicionado"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "aspiradora",
+      "aspiradoras",
+      "vacuum",
+      "vacuum cleaner"
+    ],
+    "objectID": "aspiradora"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "audifono",
+      "audífono",
+      "audifonos",
+      "audífonos",
+      "auricular",
+      "auriculares",
+      "headphones",
+      "earbuds"
+    ],
+    "objectID": "audifono"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "barra de sonido",
+      "barra sonido",
+      "soundbar",
+      "sound bar",
+      "home theater"
+    ],
+    "objectID": "barra_sonido"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "bombillo",
+      "bombillo inteligente",
+      "smart bulb",
+      "foco",
+      "foco inteligente"
+    ],
+    "objectID": "bombillo_smart"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "cargador",
+      "cable cargador",
+      "cable",
+      "adaptador",
+      "charger"
+    ],
+    "objectID": "cable_cargador"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "cafetera",
+      "cafeteras",
+      "coffee maker",
+      "coffee machine"
+    ],
+    "objectID": "cafetera"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "calentador",
+      "calentadores",
+      "calefón",
+      "calefon"
+    ],
+    "objectID": "calentador"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "camara",
+      "cámara",
+      "camara fotografica",
+      "camera",
+      "fotografica"
+    ],
+    "objectID": "camara_fotos"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "camara seguridad",
+      "cámara seguridad",
+      "cctv",
+      "camara vigilancia",
+      "security camera"
+    ],
+    "objectID": "camara_seguridad"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "congelador",
+      "freezer",
+      "congeladora"
+    ],
+    "objectID": "congelador"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "consola",
+      "consolas",
+      "playstation",
+      "nintendo",
+      "xbox",
+      "ps5",
+      "ps4",
+      "switch"
+    ],
+    "objectID": "consola"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "desktop",
+      "escritorio",
+      "all-in-one",
+      "aio",
+      "computador de escritorio"
+    ],
+    "objectID": "desktop"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "dispensador",
+      "dispensador de agua",
+      "dispensador agua"
+    ],
+    "objectID": "dispensador_agua"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "dron",
+      "drone",
+      "drones"
+    ],
+    "objectID": "dron"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "estufa",
+      "estufas",
+      "cocina",
+      "stove"
+    ],
+    "objectID": "estufa"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "fabricador de hielo",
+      "fabricadora de hielo",
+      "ice maker",
+      "máquina de hielo",
+      "maquina de hielo"
+    ],
+    "objectID": "fabricador_hielo"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "freidora de aire",
+      "freidora aire",
+      "airfryer",
+      "air fryer"
+    ],
+    "objectID": "freidora_aire"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "impresora",
+      "multifuncional",
+      "printer"
+    ],
+    "objectID": "impresora"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "juego",
+      "videojuego",
+      "videojuegos",
+      "games",
+      "game"
+    ],
+    "objectID": "juego"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "laptop",
+      "portátil",
+      "portatil",
+      "notebook",
+      "computador portátil"
+    ],
+    "objectID": "laptop"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "lavadora",
+      "washing machine",
+      "maquina de lavar",
+      "máquina de lavar"
+    ],
+    "objectID": "lavadora"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "lavavajillas",
+      "lavaplatos",
+      "dishwasher"
+    ],
+    "objectID": "lavavajillas"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "licuadora",
+      "licuadoras",
+      "blender"
+    ],
+    "objectID": "licuadora"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "microondas",
+      "horno microondas",
+      "microhondas"
+    ],
+    "objectID": "microondas"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "monitor",
+      "pantalla",
+      "display"
+    ],
+    "objectID": "monitor"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "mouse",
+      "raton",
+      "ratón"
+    ],
+    "objectID": "mouse"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "nevera",
+      "refrigerador",
+      "refri",
+      "frigorifico",
+      "frigorífico"
+    ],
+    "objectID": "nevera"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "papel",
+      "resma",
+      "resmas"
+    ],
+    "objectID": "papel"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "parlante",
+      "parlantes",
+      "bafle",
+      "bafles",
+      "speaker",
+      "altavoz",
+      "altavoces",
+      "bocina",
+      "bocinas"
+    ],
+    "objectID": "parlante"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "plancha",
+      "plancha ropa",
+      "plancha de ropa",
+      "iron"
+    ],
+    "objectID": "plancha_ropa"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "powerbank",
+      "power bank",
+      "bateria externa",
+      "batería externa",
+      "cargador portatil"
+    ],
+    "objectID": "powerbank"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "proyector",
+      "videobeam",
+      "video beam",
+      "video-beam",
+      "projector"
+    ],
+    "objectID": "proyector"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "router",
+      "wifi",
+      "routers",
+      "modem"
+    ],
+    "objectID": "router"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "secador de cabello",
+      "secador",
+      "hair dryer"
+    ],
+    "objectID": "secador_cabello"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "secadora",
+      "dryer",
+      "maquina de secar",
+      "máquina de secar"
+    ],
+    "objectID": "secadora"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "smartphone",
+      "celular",
+      "móvil",
+      "movil",
+      "teléfono",
+      "telefono"
+    ],
+    "objectID": "smartphone"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "smartwatch",
+      "smart watch",
+      "reloj inteligente",
+      "reloj smart"
+    ],
+    "objectID": "smartwatch"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "tablet",
+      "tableta",
+      "ipad"
+    ],
+    "objectID": "tablet"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "teclado",
+      "keyboard"
+    ],
+    "objectID": "teclado"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "tinta",
+      "cartucho",
+      "toner",
+      "tóner"
+    ],
+    "objectID": "tinta"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "ventilador",
+      "ventiladores",
+      "fan",
+      "abanico"
+    ],
+    "objectID": "ventilador"
+  },
+  {
+    "type": "synonym",
+    "synonyms": [
+      "vinera",
+      "minibar",
+      "mini bar",
+      "mini nevera",
+      "mini-nevera",
+      "bar de vino"
+    ],
+    "objectID": "vinera_minibar"
+  }
+]

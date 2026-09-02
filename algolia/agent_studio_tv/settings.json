@@ -1,0 +1,108 @@
+{
+  "attributeForDistinct": null,
+  "attributesForFaceting": [
+    "tipo_producto",
+    "Marca",
+    "filterOnly(Categoría)",
+    "filterOnly(metodos_pago)",
+    "filterOnly(Resolucion Pantalla)",
+    "filterOnly(Tipo de Pantalla)",
+    "filterOnly(Smart TV)",
+    "filterOnly(Sistema Operativo)",
+    "filterOnly(Tasa de Refresco del TV)"
+  ],
+  "attributesToHighlight": [
+    "Título"
+  ],
+  "attributesToRetrieve": [
+    "objectID",
+    "Identificador del producto",
+    "Título",
+    "Marca",
+    "tipo_producto",
+    "Categoría",
+    "Precio de lista",
+    "Precio de venta",
+    "descuento_porcentaje",
+    "metodos_pago",
+    "precio_codensa",
+    "precio_tarjeta_alkosto",
+    "precio_master_bines",
+    "Enlace del producto",
+    "Enlace link1",
+    "Disponibilidad",
+    "Garantía",
+    "Características",
+    "Caracteristica claves_1",
+    "Caracteristica claves_2",
+    "Caracteristica claves_3",
+    "Caracteristica claves_4",
+    "Caracteristica claves_5",
+    "screen_size_inches",
+    "Tamaño Pantalla_2",
+    "Resolucion Pantalla",
+    "Tipo de Pantalla",
+    "Diseño de la pantalla",
+    "Sistema Operativo",
+    "Smart TV",
+    "Tasa de Refresco del TV",
+    "No. Puertos HDMI",
+    "No. Puertos USB",
+    "Potencia de Audio",
+    "Asistente de Voz",
+    "Recomendado para Gaming",
+    "Aplicaciones Preinstaladas",
+    "Medidas del TV. Sin la base (Ancho x Alto x Fondo)",
+    "Opciones de Conectividad"
+  ],
+  "customRanking": [
+    "desc(Disponibilidad)",
+    "desc(descuento_porcentaje)"
+  ],
+  "hitsPerPage": 20,
+  "ignorePlurals": [
+    "es"
+  ],
+  "queryLanguages": [
+    "es"
+  ],
+  "ranking": [
+    "typo",
+    "geo",
+    "words",
+    "filters",
+    "proximity",
+    "attribute",
+    "exact",
+    "custom"
+  ],
+  "removeStopWords": [
+    "es"
+  ],
+  "searchableAttributes": [
+    "Título",
+    "Marca",
+    "Categoría",
+    "unordered(Caracteristica claves_1)",
+    "unordered(Caracteristica claves_2)",
+    "unordered(Caracteristica claves_3)",
+    "unordered(Caracteristica claves_4)",
+    "unordered(Caracteristica claves_5)",
+    "Características",
+    "unordered(Tamaño Pantalla_2)",
+    "unordered(Resolucion Pantalla)",
+    "unordered(Tipo de Pantalla)",
+    "unordered(Diseño de la pantalla)",
+    "unordered(Sistema Operativo)",
+    "unordered(Smart TV)",
+    "unordered(Tasa de Refresco del TV)",
+    "unordered(No. Puertos HDMI)",
+    "unordered(No. Puertos USB)",
+    "unordered(Potencia de Audio)",
+    "unordered(Asistente de Voz)",
+    "unordered(Recomendado para Gaming)",
+    "unordered(Aplicaciones Preinstaladas)",
+    "unordered(Medidas del TV. Sin la base (Ancho x Alto x Fondo))",
+    "unordered(Opciones de Conectividad)"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "attributeForDistinct": null,
+  "attributesForFaceting": [
+    "filterOnly(Alto Externo)",
+    "filterOnly(Ancho o Frente Externo)",
+    "filterOnly(Capacidad de la Bateria)",
+    "filterOnly(Caracteristicas Especiales)",
+    "filterOnly(Categoría)",
+    "filterOnly(Color)",
+    "filterOnly(Conexion a Datos)",
+    "filterOnly(Diseño)",
+    "filterOnly(Eficiencia Energetica)",
+    "filterOnly(Familia)",
+    "filterOnly(Fondo Externo)",
+    "filterOnly(Marca)",
+    "filterOnly(Marca del Procesador)",
+    "filterOnly(Memoria Interna)",
+    "filterOnly(Memoria RAM)",
+    "filterOnly(Para Ubicar en)",
+    "filterOnly(Recomendado para Gaming)",
+    "filterOnly(Red de Transmision de Datos)",
+    "filterOnly(Resolucion Camara Posterior 1)",
+    "filterOnly(Resolucion Pantalla)",
+    "filterOnly(Sistema Operativo)",
+    "filterOnly(Tamaño)",
+    "filterOnly(Tamaño Pantalla_1)",
+    "filterOnly(Tamaño Pantalla_2)",
+    "filterOnly(Tecnologia de Frio)",
+    "filterOnly(Tipo de Pantalla)",
+    "filterOnly(Tipo de Papel)",
+    "filterOnly(Tipo de Alimentacion de La Secadora)",
+    "filterOnly(Uso)",
+    "filterOnly(metodos_pago)",
+    "filterOnly(producto-recondicionado_string_mv)",
+    "filterOnly(tipo_producto)"
+  ],
+  "attributesToHighlight": null,
+  "attributesToRetrieve": null,
+  "customRanking": [
+    "desc(Disponibilidad)"
+  ],
+  "hitsPerPage": 20,
+  "ignorePlurals": [
+    "es"
+  ],
+  "queryLanguages": [
+    "es"
+  ],
+  "ranking": [
+    "typo",
+    "geo",
+    "words",
+    "filters",
+    "proximity",
+    "attribute",
+    "exact",
+    "custom"
+  ],
+  "removeStopWords": [
+    "es"
+  ],
+  "searchableAttributes": [
+    "Título",
+    "Marca",
+    "Categoría",
+    "unordered(Caracteristica claves_1)",
+    "unordered(Caracteristica claves_2)",
+    "unordered(Caracteristica claves_3)",
+    "unordered(Caracteristica claves_4)",
+    "unordered(Caracteristica claves_5)",
+    "Características",
+    "unordered(Procesador)",
+    "unordered(Modelo del Procesador)",
+    "unordered(Marca del Procesador)",
+    "unordered(Memoria RAM)",
+    "unordered(Capacidad de Disco)",
+    "unordered(Tipos de Discos que Incluye)",
+    "unordered(Tamaño Pantalla_1)",
+    "unordered(Resolucion Pantalla)",
+    "unordered(Sistema Operativo)",
+    "unordered(Version Sistema Operativo)",
+    "unordered(Velocidad del Procesador)",
+    "unordered(Duracion de la Bateria)",
+    "unordered(objectID)"
+  ]
+}

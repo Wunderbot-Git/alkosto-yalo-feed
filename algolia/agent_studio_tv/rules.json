@@ -1,0 +1,68 @@
+[
+  {
+    "conditions": [
+      {
+        "anchoring": "contains",
+        "pattern": "barra de sonido"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "soundbar"
+      }
+    ],
+    "consequence": {
+      "params": {
+        "filters": "tipo_producto:barra_sonido"
+      }
+    },
+    "objectID": "rule-barra-sonido"
+  },
+  {
+    "conditions": [
+      {
+        "anchoring": "contains",
+        "pattern": "proyector"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "videobeam"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "video beam"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "projector"
+      }
+    ],
+    "consequence": {
+      "params": {
+        "filters": "tipo_producto:proyector"
+      }
+    },
+    "objectID": "rule-proyector"
+  },
+  {
+    "conditions": [
+      {
+        "anchoring": "contains",
+        "pattern": "televisor"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "smart tv"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "pantalla led"
+      }
+    ],
+    "consequence": {
+      "params": {
+        "filters": "tipo_producto:televisor"
+      }
+    },
+    "objectID": "rule-televisor"
+  }
+]

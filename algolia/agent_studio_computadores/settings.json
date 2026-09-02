@@ -1,0 +1,102 @@
+{
+  "attributeForDistinct": null,
+  "attributesForFaceting": [
+    "category",
+    "brand",
+    "filterOnly(os)",
+    "filterOnly(cpu_brand)",
+    "filterOnly(gpu_brand)",
+    "filterOnly(has_dedicated_gpu)",
+    "filterOnly(has_ai)",
+    "filterOnly(is_convertible)",
+    "filterOnly(is_touchscreen)",
+    "filterOnly(in_stock)"
+  ],
+  "attributesToHighlight": [
+    "name"
+  ],
+  "attributesToRetrieve": [
+    "objectID",
+    "name",
+    "url",
+    "image_url",
+    "brand",
+    "category",
+    "price_sale",
+    "price_list",
+    "price_sale_label",
+    "discount_pct",
+    "ram_gb",
+    "ram_label",
+    "storage_gb",
+    "storage_label",
+    "screen_inches",
+    "screen_label",
+    "weight_kg",
+    "weight_label",
+    "battery_hours",
+    "battery_label",
+    "cpu_cores",
+    "os",
+    "cpu_brand",
+    "cpu_model",
+    "gpu_brand",
+    "gpu_model",
+    "has_dedicated_gpu",
+    "has_ai",
+    "is_convertible",
+    "is_touchscreen",
+    "has_fingerprint",
+    "backlit_keyboard",
+    "has_webcam",
+    "in_stock",
+    "stock",
+    "short_specs",
+    "key_features"
+  ],
+  "customRanking": [
+    "desc(stock)",
+    "desc(discount_pct)"
+  ],
+  "hitsPerPage": 20,
+  "ignorePlurals": [
+    "es"
+  ],
+  "numericAttributesForFiltering": [
+    "price_sale",
+    "price_list",
+    "discount_pct",
+    "ram_gb",
+    "storage_gb",
+    "screen_inches",
+    "weight_kg",
+    "battery_hours",
+    "cpu_cores",
+    "refresh_hz",
+    "stock"
+  ],
+  "queryLanguages": [
+    "es"
+  ],
+  "ranking": [
+    "typo",
+    "geo",
+    "words",
+    "filters",
+    "proximity",
+    "attribute",
+    "exact",
+    "custom"
+  ],
+  "removeStopWords": [
+    "es"
+  ],
+  "searchableAttributes": [
+    "name",
+    "brand",
+    "cpu_model",
+    "gpu_model",
+    "unordered(short_specs)",
+    "unordered(key_features)"
+  ]
+}

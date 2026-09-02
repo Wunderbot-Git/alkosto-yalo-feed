@@ -1,0 +1,39 @@
+[
+  {
+    "conditions": [
+      {
+        "alternatives": false,
+        "anchoring": "contains",
+        "pattern": "celular"
+      },
+      {
+        "alternatives": false,
+        "anchoring": "contains",
+        "pattern": "smartphone"
+      },
+      {
+        "alternatives": false,
+        "anchoring": "contains",
+        "pattern": "movil"
+      },
+      {
+        "alternatives": false,
+        "anchoring": "contains",
+        "pattern": "teléfono"
+      },
+      {
+        "alternatives": false,
+        "anchoring": "contains",
+        "pattern": "telefono"
+      }
+    ],
+    "consequence": {
+      "filterPromotes": false,
+      "params": {
+        "filters": "tipo_producto:celular"
+      }
+    },
+    "enabled": true,
+    "objectID": "rule-celular"
+  }
+]

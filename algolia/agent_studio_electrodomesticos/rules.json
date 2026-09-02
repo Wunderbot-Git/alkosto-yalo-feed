@@ -1,0 +1,292 @@
+[
+  {
+    "conditions": [
+      {
+        "anchoring": "contains",
+        "pattern": "aire acondicionado"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "ac split"
+      }
+    ],
+    "consequence": {
+      "params": {
+        "filters": "tipo_producto:aire_acondicionado"
+      }
+    },
+    "objectID": "rule-aire-acondicionado"
+  },
+  {
+    "conditions": [
+      {
+        "anchoring": "contains",
+        "pattern": "calentador"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "calefón"
+      }
+    ],
+    "consequence": {
+      "params": {
+        "filters": "tipo_producto:calentador"
+      }
+    },
+    "objectID": "rule-calentador"
+  },
+  {
+    "conditions": [
+      {
+        "anchoring": "contains",
+        "pattern": "congelador"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "freezer"
+      }
+    ],
+    "consequence": {
+      "params": {
+        "filters": "tipo_producto:congelador"
+      }
+    },
+    "objectID": "rule-congelador"
+  },
+  {
+    "conditions": [
+      {
+        "anchoring": "contains",
+        "pattern": "dispensador de agua"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "dispensador agua"
+      }
+    ],
+    "consequence": {
+      "params": {
+        "filters": "tipo_producto:dispensador_agua"
+      }
+    },
+    "objectID": "rule-dispensador-agua"
+  },
+  {
+    "conditions": [
+      {
+        "anchoring": "contains",
+        "pattern": "estufa"
+      }
+    ],
+    "consequence": {
+      "params": {
+        "filters": "tipo_producto:estufa OR tipo_producto:estufa_empotrar"
+      }
+    },
+    "objectID": "rule-estufa"
+  },
+  {
+    "conditions": [
+      {
+        "anchoring": "contains",
+        "pattern": "fabricador"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "ice maker"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "máquina de hielo"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "maquina de hielo"
+      }
+    ],
+    "consequence": {
+      "params": {
+        "filters": "tipo_producto:fabricador_hielo"
+      }
+    },
+    "objectID": "rule-fabricador-hielo"
+  },
+  {
+    "conditions": [
+      {
+        "anchoring": "contains",
+        "pattern": "lavadora"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "washing machine"
+      }
+    ],
+    "consequence": {
+      "params": {
+        "filters": "tipo_producto:lavadora OR tipo_producto:lavadora_secadora"
+      }
+    },
+    "objectID": "rule-lavadora"
+  },
+  {
+    "conditions": [
+      {
+        "anchoring": "contains",
+        "pattern": "lavadora secadora"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "lavadora-secadora"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "torre lavado"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "torre de lavado"
+      }
+    ],
+    "consequence": {
+      "params": {
+        "filters": "tipo_producto:lavadora_secadora"
+      }
+    },
+    "objectID": "rule-lavadora-secadora"
+  },
+  {
+    "conditions": [
+      {
+        "anchoring": "contains",
+        "pattern": "lavavajillas"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "lavaplatos"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "dishwasher"
+      }
+    ],
+    "consequence": {
+      "params": {
+        "filters": "tipo_producto:lavavajillas"
+      }
+    },
+    "objectID": "rule-lavavajillas"
+  },
+  {
+    "conditions": [
+      {
+        "anchoring": "contains",
+        "pattern": "nevecón"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "nevecon"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "side by side"
+      }
+    ],
+    "consequence": {
+      "params": {
+        "filters": "tipo_producto:nevecon"
+      }
+    },
+    "objectID": "rule-nevecon"
+  },
+  {
+    "conditions": [
+      {
+        "anchoring": "contains",
+        "pattern": "nevera"
+      }
+    ],
+    "consequence": {
+      "params": {
+        "filters": "tipo_producto:nevera"
+      }
+    },
+    "objectID": "rule-nevera"
+  },
+  {
+    "conditions": [
+      {
+        "anchoring": "contains",
+        "pattern": "refrigerador"
+      }
+    ],
+    "consequence": {
+      "params": {
+        "filters": "tipo_producto:nevera OR tipo_producto:nevecon"
+      }
+    },
+    "objectID": "rule-refrigerador"
+  },
+  {
+    "conditions": [
+      {
+        "anchoring": "contains",
+        "pattern": "secadora"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "dryer"
+      }
+    ],
+    "consequence": {
+      "params": {
+        "filters": "tipo_producto:secadora OR tipo_producto:lavadora_secadora"
+      }
+    },
+    "objectID": "rule-secadora"
+  },
+  {
+    "conditions": [
+      {
+        "anchoring": "contains",
+        "pattern": "ventilador"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "abanico"
+      }
+    ],
+    "consequence": {
+      "params": {
+        "filters": "tipo_producto:ventilador"
+      }
+    },
+    "objectID": "rule-ventilador"
+  },
+  {
+    "conditions": [
+      {
+        "anchoring": "contains",
+        "pattern": "vinera"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "minibar"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "mini bar"
+      },
+      {
+        "anchoring": "contains",
+        "pattern": "mini nevera"
+      }
+    ],
+    "consequence": {
+      "params": {
+        "filters": "tipo_producto:vinera_minibar"
+      }
+    },
+    "objectID": "rule-vinera-minibar"
+  }
+]
