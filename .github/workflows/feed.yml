@@ -2,11 +2,12 @@ name: Refresh Alkosto product feed
 
 on:
   schedule:
-    # Bogotá is UTC-5. 6:45 AM / 12:45 PM local => 11:45 / 17:45 UTC.
-    # Kicks off ~75 min before the Algolia connector polls (at 8:00 AM / 2:00 PM
-    # Bogotá), leaving enough buffer for GitHub's typical 30-50 min cron delay.
-    - cron: "45 11 * * *"
-    - cron: "45 17 * * *"
+    # BACKSTOP ONLY. The real trigger is cron-job.org calling workflow_dispatch
+    # at 07:00 / 13:00 Bogotá (GitHub's scheduled runs start hours late).
+    # This cron fires an hour later (08:00 / 14:00 Bogotá = 13:00 / 19:00 UTC);
+    # if the external trigger already ran, the CSV is unchanged and this is a no-op.
+    - cron: "0 13 * * *"
+    - cron: "0 19 * * *"
   workflow_dispatch:
     inputs:
       wait_for_fresh:
@@ -44,7 +45,9 @@ jobs:
         env:
           ALKOSTO_USERNAME: ${{ secrets.ALKOSTO_USERNAME }}
           ALKOSTO_PASSWORD: ${{ secrets.ALKOSTO_PASSWORD }}
-          FEED_WAIT_ATTEMPTS: ${{ (github.event_name == 'workflow_dispatch' && inputs.wait_for_fresh == false) && '1' || '4' }}
+          # Wait for a fresh CSV only on the real trigger; the backstop cron and
+          # explicit "no wait" runs take whatever Alkosto currently serves.
+          FEED_WAIT_ATTEMPTS: ${{ (github.event_name == 'workflow_dispatch' && inputs.wait_for_fresh != false) && '4' || '1' }}
         run: python scripts/wait_for_fresh_feed.py
 
       - name: Process products feed (laptops/desktops/tablets/monitors/printers/TVs)

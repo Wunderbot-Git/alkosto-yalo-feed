@@ -4,7 +4,7 @@ Health report for the Alkosto → Algolia pipeline. Runs inside GitHub Actions
 (.github/workflows/health-report.yml) shortly after each refresh cycle and
 produces report.txt (emailed), a step summary, and a `subject` output.
 
-Checks, for the most recent cycle (06:45 / 12:45 Bogotá):
+Checks, for the most recent cycle (07:00 / 13:00 Bogotá):
   1. Did the feed workflow run, and was it started by the external trigger
      (workflow_dispatch) or only by GitHub's late backstop cron (schedule)?
   2. Did it succeed, and did the "Reload Algolia indices" step run?
@@ -35,7 +35,7 @@ ADMIN_KEY = os.environ.get("ALGOLIA_ADMIN_API_KEY", "").strip()
 AGENT_KEY = os.environ.get("ALGOLIA_AGENT_KEY", "").strip()
 INGEST = "https://data.us.algolia.com"
 REPO_MARKER = "alkosto-yalo-feed/main/"
-CYCLES = [(6, 45), (12, 45)]
+CYCLES = [(7, 0), (13, 0)]  # Bogotá; when cron-job.org triggers the feed workflow
 PRODUCTION_INDICES = [
     "Yalo_computadores_tables_monitores_impresores_pantallas",
     "agent_studio_celulares",

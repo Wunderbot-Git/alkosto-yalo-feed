@@ -19,13 +19,13 @@ Alkosto publica un CSV con todo su catálogo (~11.800 productos, ~920 columnas).
 
 ```
 Alkosto (CSV, Basic Auth)
-   │  06:45 · 12:45 Bogotá
+   │  07:00 · 13:00 Bogotá
    ▼
 GitHub Actions ── descarga, filtra, limpia, deriva campos, imágenes al CDN, un JSON por índice
    │  commit automático solo si cambió
    ▼
 Repositorio (main) ── raw.githubusercontent.com, público, caché 5 min
-   │  ≈ 06:53 · 12:53 Bogotá (crons 08:00 · 14:00 solo de respaldo)
+   │  ≈ 07:08 · 13:08 Bogotá (crons 08:00 · 14:00 solo de respaldo)
    ▼
 Connectors de Algolia ── full reindexing: borran y recargan cada índice
    │
@@ -92,13 +92,13 @@ Desde el 7 de septiembre de 2026 la actualización es **por evento, no por horar
 
 | Paso | Cuándo (Bogotá) | Cómo |
 |---|---|---|
-| Disparo | 06:45 · 12:45 | [cron-job.org](https://cron-job.org) llama a la API de GitHub (`workflow_dispatch`) con un token de alcance mínimo. Un run disparado así arranca en segundos; los programados por GitHub, no. |
+| Disparo | 07:00 · 13:00 | [cron-job.org](https://cron-job.org) llama a la API de GitHub (`workflow_dispatch`) con un token de alcance mínimo. Un run disparado así arranca en segundos; los programados por GitHub, no. |
 | Comprobación de frescura | +0 – 30 min | `scripts/wait_for_fresh_feed.py` descarga el CSV y, si es idéntico al de la corrida anterior (`feed.sha256`), reintenta cada 10 minutos hasta media hora. Así no se ingiere el feed de ayer si Alkosto publica tarde. |
 | Procesar y publicar | +30 s | igual que siempre; commit solo si algo cambió. |
 | Recargar índices | +6 min | `scripts/trigger_connectors.py` espera 330 s (caché del CDN de GitHub), ejecuta todos los connectors cuya fuente sea un archivo de este repositorio y espera el resultado. Si alguna ingesta falla, el run queda en rojo y llega el correo. |
-| **Precios en producción** | **≈ 06:53 · 12:53** | medido: 7 min 20 s de punta a punta el 7 de septiembre de 2026. |
+| **Precios en producción** | **≈ 07:08 · 13:08** | medido: 7 min 20 s de punta a punta el 7 de septiembre de 2026. |
 
-Respaldos (sin cambios): cron de GitHub `45 11,17 * * *` y crons de los connectors `0 13,19 * * *` (UTC). Si el reloj externo falla, el día se actualiza igual, solo más tarde. Los runs se ejecutan de uno en uno (`concurrency`), así que un run de respaldo que coincida con uno en curso se pone en cola.
+Respaldos: cron de GitHub `0 13,19 * * *` (08:00 · 14:00 Bogotá, una hora después del disparo real; si el CSV no cambió, no hace nada) y crons de los connectors `0 13,19 * * *` (UTC). Si el reloj externo falla, el día se actualiza igual, solo más tarde. Los runs se ejecutan de uno en uno (`concurrency`), así que un run de respaldo que coincida con uno en curso se pone en cola.
 
 **Por qué se hizo así.** Del 3 al 6 de septiembre de 2026 GitHub arrancó sus runs programados con 2 a 3,5 horas de retraso; los connectors, puntuales a las 8:00 y 14:00, leyeron cada vez el ciclo anterior y el bot mostró precios desfasados. En agosto había pasado lo mismo con 40 minutos de retraso. Ningún colchón fijo aguanta: GitHub no garantiza la hora de los crons programados.
 
@@ -194,11 +194,11 @@ gh run list --workflow=feed.yml --repo Wunderbot-Git/alkosto-yalo-feed --limit 6
 gh workflow run feed.yml --repo Wunderbot-Git/alkosto-yalo-feed     # corrida manual
 ```
 
-**Reporte diario por correo:** a las 07:15 y 13:15 (Bogotá), unos 20 minutos después de cada ciclo, el workflow `health-report.yml` (también disparado por cron-job.org) revisa el disparo (¿vino del reloj externo o del respaldo tardío?), el run y su paso de recarga, cuándo cambió el CSV por última vez, y en Algolia el número de registros y la última ingestión de cada índice productivo. Llega a los destinatarios del secret `MAIL_TO` con asunto ✅ / ⚠️ / ❌ y una línea por comprobación. Si un día no llega, el propio reloj externo avisa por su cuenta.
+**Reporte diario por correo:** a las 07:30 y 13:20 (Bogotá), 20–30 minutos después de cada ciclo, el workflow `health-report.yml` (también disparado por cron-job.org) revisa el disparo (¿vino del reloj externo o del respaldo tardío?), el run y su paso de recarga, cuándo cambió el CSV por última vez, y en Algolia el número de registros y la última ingestión de cada índice productivo. Llega a los destinatarios del secret `MAIL_TO` con asunto ✅ / ⚠️ / ❌ y una línea por comprobación. Si un día no llega, el propio reloj externo avisa por su cuenta.
 
 **Forzar una actualización:** Actions → *Run workflow* → marcar **`force_reload`** (y desmarcar `wait_for_fresh` para no esperar hasta 30 min a un CSV nuevo). El run descarga, publica y recarga los seis índices él solo; no hay que tocar nada en Algolia.
 
-**Si el workflow no arrancó a las 06:45:** en Actions, el evento del run dice de dónde vino — `workflow_dispatch` es el reloj externo, `schedule` es el respaldo de GitHub (tarde). Revisar en cron-job.org el historial del job: un `401` significa que el token de GitHub venció (7 de septiembre de 2027) o se cambió; se regenera en GitHub → Settings → Developer settings → Fine-grained tokens y se pega de nuevo en el job.
+**Si el workflow no arrancó a las 07:00:** en Actions, el evento del run dice de dónde vino — `workflow_dispatch` es el reloj externo, `schedule` es el respaldo de GitHub (tarde). Revisar en cron-job.org el historial del job: un `401` significa que el token de GitHub venció (7 de septiembre de 2027) o se cambió; se regenera en GitHub → Settings → Developer settings → Fine-grained tokens y se pega de nuevo en el job.
 
 | Síntoma | Causa | Qué hacer |
 |---|---|---|

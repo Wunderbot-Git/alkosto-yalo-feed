@@ -89,13 +89,14 @@ the connectors' crons stay only as backstops.
 
 | Step | When (Bogotá) | Mechanism |
 |---|---|---|
-| Trigger | 06:45 · 12:45 | cron-job.org calls `POST …/actions/workflows/feed.yml/dispatches` (`workflow_dispatch`) with a fine-grained GitHub token (Actions: read/write, this repo only). Dispatched runs start within seconds; *scheduled* runs do not. |
+| Trigger | 07:00 · 13:00 | cron-job.org calls `POST …/actions/workflows/feed.yml/dispatches` (`workflow_dispatch`) with a fine-grained GitHub token (Actions: read/write, this repo only). Dispatched runs start within seconds; *scheduled* runs do not. |
 | Fresh-feed check | +0 – 30 min | `scripts/wait_for_fresh_feed.py` re-downloads every 10 min until the CSV's SHA-256 differs from `feed.sha256` (the previous run's file), then proceeds. |
 | Process + commit | +30 s | unchanged; the commit step exposes `pushed=true/false`. |
 | Reload indices | +6 min | `scripts/trigger_connectors.py`: waits 330 s for the raw-URL CDN cache, then runs every connector whose source is a file in this repo (discovered dynamically, no list to maintain) and waits for the results. Any failed ingestion turns the run red. Skipped when nothing was pushed unless `force_reload` is set. |
-| **Prices live** | **≈ 06:53 · 12:53** | measured 7 min 20 s end-to-end on 2026-09-07. |
+| **Prices live** | **≈ 07:08 · 13:08** | measured 7 min 20 s end-to-end on 2026-09-07. |
 
-Backstops, unchanged: GitHub cron `45 11,17 * * *` and connector crons
+Backstops: GitHub cron `0 13,19 * * *` (08:00 · 14:00 Bogotá, an hour after the
+real trigger; a no-op when the CSV is unchanged) and connector crons
 `0 13,19 * * *` (both UTC). If the external trigger fails, the day still
 refreshes — just later. Runs are serialised (`concurrency: feed-refresh`), so an
 overlapping backstop run queues instead of racing the push.
@@ -221,7 +222,7 @@ gh workflow run feed.yml --repo Wunderbot-Git/alkosto-yalo-feed   # manual run
 ```
 
 Daily health report: `.github/workflows/health-report.yml` runs
-`scripts/health_report.py` at 07:15 and 13:15 Bogotá (triggered by cron-job.org,
+`scripts/health_report.py` at 07:30 and 13:20 Bogotá (triggered by cron-job.org,
 like the feed — a GitHub schedule would be hours late) and emails `MAIL_TO` via
 Gmail SMTP. It checks the trigger source (dispatch vs. backstop cron), the run
 and its reload step, when the CSV last changed, and every production index's
@@ -237,7 +238,7 @@ Known failure modes:
 | Symptom | Cause | Fix |
 |---|---|---|
 | Prices one cycle behind | The external trigger did not fire (cron-job.org history) so only the late backstop cron ran; or the reload step failed (run is red, email sent) | Actions → *Run workflow* with `force_reload`; fix the trigger or read the failing step's log |
-| Workflow started long after 06:45 | The run came from GitHub's backstop cron (`schedule` event), not from cron-job.org (`workflow_dispatch`) | Check the job and token in cron-job.org; a `401` there means the token expired (2027-09-07) — regenerate and paste it back |
+| Workflow started long after 07:00 | The run came from GitHub's backstop cron (`schedule` event), not from cron-job.org (`workflow_dispatch`) | Check the job and token in cron-job.org; a `401` there means the token expired (2027-09-07) — regenerate and paste it back |
 | Connector "success", index unchanged, tasks `notPublished` | Algolia plan record limit reached; writes silently dropped | Settings → Usage; free records or upgrade (Apr 2026) |
 | Product "missing" from index | Searching the EAN as text; it's not a searchable attribute | Look it up by `objectID`; if truly absent, check `CATEGORY_PREFIXES` |
 | 403 on a new index although the key allows it | Trailing space in the index or key restriction name (happened twice) | Type the name and press Enter; verify via the keys API |
