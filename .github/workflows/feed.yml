@@ -13,6 +13,10 @@ on:
         description: "Wait (up to 30 min) for the Alkosto CSV to change before processing"
         type: boolean
         default: true
+      force_reload:
+        description: "Reload the Algolia indices even if the feed output did not change"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -74,7 +78,7 @@ jobs:
           fi
 
       - name: Reload Algolia indices
-        if: steps.commit.outputs.pushed == 'true'
+        if: steps.commit.outputs.pushed == 'true' || inputs.force_reload == true
         env:
           ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
           ALGOLIA_ADMIN_API_KEY: ${{ secrets.ALGOLIA_ADMIN_API_KEY }}

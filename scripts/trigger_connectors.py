@@ -22,8 +22,12 @@ POLL_SECONDS = 10
 MAX_WAIT_SECONDS = 900
 
 
+def env(name: str) -> str:
+    return os.environ.get(name, "").strip()
+
+
 def headers(key: str) -> dict:
-    return {"X-Algolia-API-Key": key, "X-Algolia-Application-Id": os.environ["ALGOLIA_APP_ID"]}
+    return {"X-Algolia-API-Key": key, "X-Algolia-Application-Id": env("ALGOLIA_APP_ID")}
 
 
 def discover(keys: list[str]) -> dict:
@@ -52,7 +56,7 @@ def run(task_id: str, keys: list[str]) -> tuple[str, str] | None:
 
 
 def main() -> None:
-    keys = [os.environ[k] for k in ("ALGOLIA_ADMIN_API_KEY", "ALGOLIA_AGENT_KEY") if os.environ.get(k)]
+    keys = [env(k) for k in ("ALGOLIA_ADMIN_API_KEY", "ALGOLIA_AGENT_KEY") if env(k)]
     if not keys:
         sys.exit("✗ no Algolia keys in environment")
 
