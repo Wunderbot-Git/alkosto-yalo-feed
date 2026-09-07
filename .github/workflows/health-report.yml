@@ -1,7 +1,7 @@
 name: Pipeline health report
 
-# Triggered by cron-job.org at 07:30 and 13:20 Bogotá (12:30 / 18:20 UTC),
-# 20–30 min after each refresh cycle (07:00 / 13:00). Deliberately NOT on a GitHub schedule:
+# Triggered by cron-job.org at 07:20 and 13:20 Bogotá (12:20 / 18:20 UTC),
+# 20 min after each refresh cycle (07:00 / 13:00). Deliberately NOT on a GitHub schedule:
 # scheduled runs start hours late, which would make the report as unreliable
 # as the problem it watches for. Can also be run by hand from the Actions tab.
 on:
