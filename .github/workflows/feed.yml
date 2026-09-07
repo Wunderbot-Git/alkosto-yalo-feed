@@ -8,6 +8,11 @@ on:
     - cron: "45 11 * * *"
     - cron: "45 17 * * *"
   workflow_dispatch:
+    inputs:
+      wait_for_fresh:
+        description: "Wait (up to 30 min) for the Alkosto CSV to change before processing"
+        type: boolean
+        default: true
 
 permissions:
   contents: write
@@ -25,12 +30,16 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Process products feed (laptops/desktops/tablets/monitors/printers/TVs)
+      - name: Download Alkosto feed (wait until it changed since last run)
         env:
           ALKOSTO_USERNAME: ${{ secrets.ALKOSTO_USERNAME }}
           ALKOSTO_PASSWORD: ${{ secrets.ALKOSTO_PASSWORD }}
+          FEED_WAIT_ATTEMPTS: ${{ (github.event_name == 'workflow_dispatch' && inputs.wait_for_fresh == false) && '1' || '4' }}
+        run: python scripts/wait_for_fresh_feed.py
+
+      - name: Process products feed (laptops/desktops/tablets/monitors/printers/TVs)
         run: |
-          python process_alkosto_products.py
+          python process_alkosto_products.py --skip-download
           python replace_image_urls.py filtered_products.json
 
       - name: Generate computers + tablets subset
@@ -50,13 +59,27 @@ jobs:
         run: python build_agent_indices.py --input filtered_products.json --config agent_indices.json
 
       - name: Commit updated JSON if changed
+        id: commit
         run: |
           git config user.name "alkosto-feed-bot"
           git config user.email "alkosto-feed-bot@users.noreply.github.com"
-          git add filtered_products.json filtered_computadores_tablets.json filtered_agente_computadores.json agent_studio_*.json
+          git add feed.sha256 filtered_products.json filtered_computadores_tablets.json filtered_agente_computadores.json agent_studio_*.json
           if git diff --cached --quiet; then
             echo "No changes in feed output."
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "feed: refresh $(date -u +'%Y-%m-%d %H:%MZ')"
             git push
+            echo "pushed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      - name: Reload Algolia indices
+        if: steps.commit.outputs.pushed == 'true'
+        env:
+          ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
+          ALGOLIA_ADMIN_API_KEY: ${{ secrets.ALGOLIA_ADMIN_API_KEY }}
+          ALGOLIA_AGENT_KEY: ${{ secrets.ALGOLIA_AGENT_KEY }}
+        run: |
+          echo "Waiting 330 s for the raw.githubusercontent.com cache (5 min TTL) to expire"
+          sleep 330
+          python scripts/trigger_connectors.py
