@@ -194,6 +194,8 @@ gh run list --workflow=feed.yml --repo Wunderbot-Git/alkosto-yalo-feed --limit 6
 gh workflow run feed.yml --repo Wunderbot-Git/alkosto-yalo-feed     # corrida manual
 ```
 
+**Reporte diario por correo:** a las 07:15 y 13:15 (Bogotá), unos 20 minutos después de cada ciclo, el workflow `health-report.yml` (también disparado por cron-job.org) revisa el disparo (¿vino del reloj externo o del respaldo tardío?), el run y su paso de recarga, cuándo cambió el CSV por última vez, y en Algolia el número de registros y la última ingestión de cada índice productivo. Llega a los destinatarios del secret `MAIL_TO` con asunto ✅ / ⚠️ / ❌ y una línea por comprobación. Si un día no llega, el propio reloj externo avisa por su cuenta.
+
 **Forzar una actualización:** Actions → *Run workflow* → marcar **`force_reload`** (y desmarcar `wait_for_fresh` para no esperar hasta 30 min a un CSV nuevo). El run descarga, publica y recarga los seis índices él solo; no hay que tocar nada en Algolia.
 
 **Si el workflow no arrancó a las 06:45:** en Actions, el evento del run dice de dónde vino — `workflow_dispatch` es el reloj externo, `schedule` es el respaldo de GitHub (tarde). Revisar en cron-job.org el historial del job: un `401` significa que el token de GitHub venció (7 de septiembre de 2027) o se cambió; se regenera en GitHub → Settings → Developer settings → Fine-grained tokens y se pega de nuevo en el job.

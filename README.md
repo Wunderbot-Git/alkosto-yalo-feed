@@ -220,6 +220,14 @@ gh run list --workflow=feed.yml --repo Wunderbot-Git/alkosto-yalo-feed --limit 6
 gh workflow run feed.yml --repo Wunderbot-Git/alkosto-yalo-feed   # manual run
 ```
 
+Daily health report: `.github/workflows/health-report.yml` runs
+`scripts/health_report.py` at 07:15 and 13:15 Bogotá (triggered by cron-job.org,
+like the feed — a GitHub schedule would be hours late) and emails `MAIL_TO` via
+Gmail SMTP. It checks the trigger source (dispatch vs. backstop cron), the run
+and its reload step, when the CSV last changed, and every production index's
+record count and latest connector ingestion. Subject starts with ✅ / ⚠️ / ❌;
+one line per check in the body.
+
 Force a refresh: Actions → *Run workflow* → tick **`force_reload`** (and untick
 `wait_for_fresh` to skip the up-to-30-min wait). The run downloads, publishes and
 reloads every index by itself; nothing to click in Algolia.
