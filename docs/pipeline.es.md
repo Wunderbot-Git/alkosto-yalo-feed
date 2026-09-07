@@ -7,7 +7,7 @@ Este archivo es la versión canónica. Existe una copia con formato en [claude.a
 - **Repositorio:** <https://github.com/Wunderbot-Git/alkosto-yalo-feed>
 - **Aplicación Algolia:** `QX5IPS1B1Q` (región US)
 - **Responsable:** Philipp Hasskamp
-- **Última revisión:** 2 de septiembre de 2026
+- **Última revisión:** 7 de septiembre de 2026
 
 **¿Nuevo aquí?** Empieza por [§12 Cómo empezar](#12-cómo-empezar).
 
@@ -25,7 +25,7 @@ GitHub Actions ── descarga, filtra, limpia, deriva campos, imágenes al CDN,
    │  commit automático solo si cambió
    ▼
 Repositorio (main) ── raw.githubusercontent.com, público, caché 5 min
-   │  08:00 · 14:00 Bogotá
+   │  ≈ 06:53 · 12:53 Bogotá (crons 08:00 · 14:00 solo de respaldo)
    ▼
 Connectors de Algolia ── full reindexing: borran y recargan cada índice
    │
@@ -63,6 +63,8 @@ Connectors de Algolia ── full reindexing: borran y recargan cada índice
 | `algolia/<índice>/` | Configuración de Algolia versionada: `settings.json`, `synonyms.json`, `rules.json` por índice. |
 | `scripts/export_algolia_config.py` | Baja la configuración viva de todos los índices a `algolia/`. Correr después de tocar algo en el dashboard. |
 | `scripts/apply_algolia_config.py` | Sube `algolia/<índice>/` al índice; con `--load archivo.json` hace la primera carga de un índice nuevo. |
+| `scripts/wait_for_fresh_feed.py` | Paso del workflow: descarga el CSV y reintenta hasta que cambie respecto a `feed.sha256`. |
+| `scripts/trigger_connectors.py` | Paso del workflow: tras un commit, ejecuta todos los connectors que leen de este repositorio y espera el resultado. |
 | `.env.example` | Variables de los scripts locales. Se copia a `.env` (ignorado por git). |
 | `requirements.txt` | `requests`, `pandas`, `python-dotenv`. Python 3.12 en el runner. |
 
@@ -86,26 +88,19 @@ Un connector es la pareja *source* (URL del JSON) + *destination* (índice) + *t
 
 ## 3. El ciclo diario
 
-Dos ciclos idénticos. Los horarios están escalonados a propósito: GitHub Actions no arranca puntual (su cola retrasa los jobs programados entre 30 y 50 minutos) y el JSON tarda hasta 5 minutos en refrescarse en el CDN. El connector se programa 75 minutos después para leer siempre datos frescos.
+Desde el 7 de septiembre de 2026 la actualización es **por evento, no por horario**: un reloj externo arranca el workflow a la hora exacta, y el propio workflow recarga todos los índices de Algolia en cuanto publica el JSON nuevo. Los crons de GitHub y de los connectors siguen existiendo solo como respaldo.
 
-| Hora Bogotá | UTC | Qué pasa |
+| Paso | Cuándo (Bogotá) | Cómo |
 |---|---|---|
-| 06:45 | 11:45 | Se programa el workflow. Alkosto ya publicó el CSV de la mañana. |
-| ≈ 07:00–07:35 | | El job arranca de verdad (delay de GitHub). Tarda ~30 s. |
-| 08:00 | 13:00 | Los connectors leen los JSON y reconstruyen los índices. |
-| 12:45 | 17:45 | Segundo workflow. |
-| 14:00 | 19:00 | Segunda recarga. Precios de la tarde en producción. |
+| Disparo | 06:45 · 12:45 | [cron-job.org](https://cron-job.org) llama a la API de GitHub (`workflow_dispatch`) con un token de alcance mínimo. Un run disparado así arranca en segundos; los programados por GitHub, no. |
+| Comprobación de frescura | +0 – 30 min | `scripts/wait_for_fresh_feed.py` descarga el CSV y, si es idéntico al de la corrida anterior (`feed.sha256`), reintenta cada 10 minutos hasta media hora. Así no se ingiere el feed de ayer si Alkosto publica tarde. |
+| Procesar y publicar | +30 s | igual que siempre; commit solo si algo cambió. |
+| Recargar índices | +6 min | `scripts/trigger_connectors.py` espera 330 s (caché del CDN de GitHub), ejecuta todos los connectors cuya fuente sea un archivo de este repositorio y espera el resultado. Si alguna ingesta falla, el run queda en rojo y llega el correo. |
+| **Precios en producción** | **≈ 06:53 · 12:53** | medido: 7 min 20 s de punta a punta el 7 de septiembre de 2026. |
 
-> **Por qué importa el escalonamiento.** En agosto de 2026 el connector estaba 20 minutos después del workflow; como GitHub arrancaba 40 minutos tarde, leía el JSON del día anterior y el bot mostró precios viejos hasta la tarde. El síntoma, si vuelve: índice al día por la tarde, desactualizado por la mañana.
+Respaldos (sin cambios): cron de GitHub `45 11,17 * * *` y crons de los connectors `0 13,19 * * *` (UTC). Si el reloj externo falla, el día se actualiza igual, solo más tarde. Los runs se ejecutan de uno en uno (`concurrency`), así que un run de respaldo que coincida con uno en curso se pone en cola.
 
-```
-# GitHub Actions — .github/workflows/feed.yml   (UTC)
-45 11 * * *     # 06:45 Bogotá
-45 17 * * *     # 12:45 Bogotá
-
-# Todos los connectors de Algolia
-0 13,19 * * *   # 08:00 y 14:00 Bogotá
-```
+**Por qué se hizo así.** Del 3 al 6 de septiembre de 2026 GitHub arrancó sus runs programados con 2 a 3,5 horas de retraso; los connectors, puntuales a las 8:00 y 14:00, leyeron cada vez el ciclo anterior y el bot mostró precios desfasados. En agosto había pasado lo mismo con 40 minutos de retraso. Ningún colchón fijo aguanta: GitHub no garantiza la hora de los crons programados.
 
 ## 4. Los índices
 
@@ -186,7 +181,7 @@ Regla: un cambio se hace en el repo y se aplica, o se hace en el dashboard y se 
 
 **Agregar una categoría al índice principal.** Ubicar la ruta exacta (el log del workflow lista todas las subcategorías detectadas). En `process_alkosto_products.py`, agregar el prefijo a `CATEGORY_PREFIXES` y una línea por subcategoría a `TIPO_PRODUCTO_PREFIXES` (rutas específicas antes que genéricas). Push. Verificar en el JSON publicado el nuevo `tipo_producto` y que no queden productos sin tipo. Agregar regla y sinónimos en `algolia/…` y aplicar.
 
-**Agregar un índice de Agent Studio.** Entrada en `agent_indices.json` (nombre con prefijo `agent_studio_`, tipos, atributos). Push. Crear la carpeta `algolia/<índice>/` copiando la de un índice hermano y ajustar; `apply --load` con el JSON generado. Connector en Algolia → Connectors → JSON: URL del archivo, identificador según §4.1, *Create one for me*, cron `0 13,19 * * *`, full reindexing. Candidatos ya definidos: audio, pequeños electrodomésticos, videojuegos, casa inteligente + cámaras, accesorios.
+**Agregar un índice de Agent Studio.** Entrada en `agent_indices.json` (nombre con prefijo `agent_studio_`, tipos, atributos). Push. Crear la carpeta `algolia/<índice>/` copiando la de un índice hermano y ajustar; `apply --load` con el JSON generado. Connector en Algolia → Connectors → JSON: URL del archivo, identificador según §4.1, *Create one for me*, cron `0 13,19 * * *` (solo de respaldo: la recarga real la dispara el workflow, y detecta el connector nuevo solo), full reindexing. Candidatos ya definidos: audio, pequeños electrodomésticos, videojuegos, casa inteligente + cámaras, accesorios.
 
 **Agregar un campo derivado.** En `convert_to_json` de `process_alkosto_products.py`, dentro del bucle por registro, antes de la limpieza de vacíos. **El índice guarda hechos, no interpretaciones**: sí pulgadas, litros, porcentaje; no «ideal para gaming». Eso lo decide el agente.
 
@@ -199,7 +194,9 @@ gh run list --workflow=feed.yml --repo Wunderbot-Git/alkosto-yalo-feed --limit 6
 gh workflow run feed.yml --repo Wunderbot-Git/alkosto-yalo-feed     # corrida manual
 ```
 
-**Forzar una actualización:** Actions → *Run workflow*; esperar el commit (~1 min); **esperar 5 minutos más** (caché del CDN); Connectors → tarea → *Run*. Si se corre el connector antes, lee la versión anterior.
+**Forzar una actualización:** Actions → *Run workflow* → marcar **`force_reload`** (y desmarcar `wait_for_fresh` para no esperar hasta 30 min a un CSV nuevo). El run descarga, publica y recarga los seis índices él solo; no hay que tocar nada en Algolia.
+
+**Si el workflow no arrancó a las 06:45:** en Actions, el evento del run dice de dónde vino — `workflow_dispatch` es el reloj externo, `schedule` es el respaldo de GitHub (tarde). Revisar en cron-job.org el historial del job: un `401` significa que el token de GitHub venció (7 de septiembre de 2027) o se cambió; se regenera en GitHub → Settings → Developer settings → Fine-grained tokens y se pega de nuevo en el job.
 
 | Síntoma | Causa | Qué hacer |
 |---|---|---|
@@ -218,6 +215,8 @@ gh workflow run feed.yml --repo Wunderbot-Git/alkosto-yalo-feed     # corrida ma
 | `ALKOSTO_USERNAME` / `ALKOSTO_PASSWORD` | GitHub → Settings → Secrets → Actions | Solo lectura del datafeed. Lo único que necesita el workflow. |
 | Key «principal» | `.env` local (`ALGOLIA_ADMIN_API_KEY`) | Índice principal de Yalo. |
 | Key «agent studio» | `.env` local (`ALGOLIA_AGENT_KEY`) | Comodín `agent_studio_*`, incluye `deleteIndex`. |
+| Los tres valores de Algolia (`ALGOLIA_APP_ID`, `ALGOLIA_ADMIN_API_KEY`, `ALGOLIA_AGENT_KEY`) | también como *secrets* del repositorio en GitHub | Los usa el paso del workflow que recarga los índices. |
+| Token de GitHub (*fine-grained*) | cron-job.org, en la cabecera `Authorization` del job | Único permiso: ejecutar workflows de este repositorio. Vence el **7 de septiembre de 2027**: regenerar y pegar de nuevo antes de esa fecha. No guardarlo en ningún otro sitio. |
 | Keys de los connectors | Generadas por Algolia (*Create one for me*) | Una por connector, invisibles. |
 
 Cada colaborador crea **sus propias** llaves restringidas siguiendo `.env.example`; no se comparten. Nunca pegar keys en chat, commits ni JSON: el repositorio es público. Ninguna llave de este sistema alcanza `alkostoIndexAlgoliaPRD` (índice de la web).
@@ -283,4 +282,4 @@ Fechas aproximadas; el historial de git tiene el detalle.
 | May 2026 | `descuento_porcentaje`. Subset computadores + tablets. Entran celulares, tintas y papel. |
 | Jun 2026 | Ceros iniciales en EAN (imágenes rotas). Schema limpio para computadores → `Philipp_Alkosto_AI`. Entran refrigeración, lavado y proyectores. |
 | Ago 2026 | `screen_size_inches`. Descuento truncado para coincidir con la web. Desfase connector/workflow → crons 6:45/12:45 y 8:00/14:00. Entran 11 categorías (audio, videojuegos, cámaras, casa inteligente, accesorios, pequeños electro, climatización, cocina…): el índice pasa de 1.500 a ~5.000. |
-| Sep 2026 | Cuatro índices de Agent Studio derivados del feed principal, configuración como código (`algolia/`, `scripts/`), retiro del pipeline paralelo de celulares. `Philipp_Alkosto_AI` queda como sandbox. |
+| Sep 2026 | Cuatro índices de Agent Studio derivados del feed principal; configuración de Algolia como código (`algolia/`, `scripts/`); retirado el pipeline aparte de celulares; `Philipp_Alkosto_AI` se conserva como sandbox. El cron de GitHub se retrasa 2–3,5 h → la actualización pasa a ser por evento: cron-job.org dispara el workflow y el workflow recarga los índices, con comprobación de frescura del CSV. |

@@ -74,20 +74,35 @@ fields and a category added once shows up everywhere it belongs.
 | `algolia/<index>/` | Versioned Algolia configuration: `settings.json`, `synonyms.json`, `rules.json` per index. |
 | `scripts/export_algolia_config.py` | Pulls the live configuration of all indices into `algolia/`. Run after changing anything in the dashboard. |
 | `scripts/apply_algolia_config.py` | Pushes `algolia/<index>/` to the live index; `--load file.json` bootstraps a new index. |
+| `scripts/wait_for_fresh_feed.py` | Workflow step: downloads the CSV, retrying until it differs from `feed.sha256`. |
+| `scripts/trigger_connectors.py` | Workflow step: runs every Algolia connector sourced from this repo after a commit and waits for the results. |
+| `feed.sha256` | Fingerprint of the last processed CSV (written by the workflow). |
 | `scripts/algolia_common.py` | Key selection per index + minimal REST client. |
 | `.env.example` | Variables for the local admin scripts. Copy to `.env` (git-ignored). |
 
 ## Daily schedule
 
-All crons are UTC. Bogotá is UTC−5.
+Bogotá is UTC−5. Since 2026-09-07 the refresh is **event-driven**: an external
+scheduler starts the workflow at an exact time, and the workflow itself reloads
+every Algolia index as soon as the new JSON is published. GitHub's own cron and
+the connectors' crons stay only as backstops.
 
-| Step | Cron | Bogotá | Notes |
-|---|---|---|---|
-| GitHub Actions workflow | `45 11,17 * * *` | 06:45 · 12:45 | GitHub's scheduler typically starts 30–50 min late; the job itself takes ~30 s. |
-| Algolia connectors (all indices) | `0 13,19 * * *` | 08:00 · 14:00 | 75 min after the workflow: absorbs the GitHub delay plus the 5-minute raw-URL CDN cache. |
+| Step | When (Bogotá) | Mechanism |
+|---|---|---|
+| Trigger | 06:45 · 12:45 | cron-job.org calls `POST …/actions/workflows/feed.yml/dispatches` (`workflow_dispatch`) with a fine-grained GitHub token (Actions: read/write, this repo only). Dispatched runs start within seconds; *scheduled* runs do not. |
+| Fresh-feed check | +0 – 30 min | `scripts/wait_for_fresh_feed.py` re-downloads every 10 min until the CSV's SHA-256 differs from `feed.sha256` (the previous run's file), then proceeds. |
+| Process + commit | +30 s | unchanged; the commit step exposes `pushed=true/false`. |
+| Reload indices | +6 min | `scripts/trigger_connectors.py`: waits 330 s for the raw-URL CDN cache, then runs every connector whose source is a file in this repo (discovered dynamically, no list to maintain) and waits for the results. Any failed ingestion turns the run red. Skipped when nothing was pushed unless `force_reload` is set. |
+| **Prices live** | **≈ 06:53 · 12:53** | measured 7 min 20 s end-to-end on 2026-09-07. |
 
-Do not shrink that gap. In Aug 2026 the connector was 20 minutes behind the
-workflow and read the previous day's JSON every morning.
+Backstops, unchanged: GitHub cron `45 11,17 * * *` and connector crons
+`0 13,19 * * *` (both UTC). If the external trigger fails, the day still
+refreshes — just later. Runs are serialised (`concurrency: feed-refresh`), so an
+overlapping backstop run queues instead of racing the push.
+
+Why this exists: on 3–6 Sep 2026 GitHub's scheduled runs started 2–3.5 h late
+and the fixed-cron connectors ingested the previous cycle every time; Aug 2026
+had the same failure with a 40-minute delay. Any fixed gap eventually loses.
 
 ## Outputs (committed to `main`)
 
@@ -205,15 +220,16 @@ gh run list --workflow=feed.yml --repo Wunderbot-Git/alkosto-yalo-feed --limit 6
 gh workflow run feed.yml --repo Wunderbot-Git/alkosto-yalo-feed   # manual run
 ```
 
-Force a refresh: run the workflow, wait for its commit, **wait 5 more minutes**
-for the CDN, then run the connector task. Running the connector earlier
-re-ingests the previous JSON.
+Force a refresh: Actions → *Run workflow* → tick **`force_reload`** (and untick
+`wait_for_fresh` to skip the up-to-30-min wait). The run downloads, publishes and
+reloads every index by itself; nothing to click in Algolia.
 
 Known failure modes:
 
 | Symptom | Cause | Fix |
 |---|---|---|
-| Morning prices stale, afternoon fine | Connector ran before the workflow finished (GitHub delay) or inside the CDN window | Check timestamps in Actions vs Connector Debugger; widen the gap or trigger the connector from the workflow |
+| Prices one cycle behind | The external trigger did not fire (cron-job.org history) so only the late backstop cron ran; or the reload step failed (run is red, email sent) | Actions → *Run workflow* with `force_reload`; fix the trigger or read the failing step's log |
+| Workflow started long after 06:45 | The run came from GitHub's backstop cron (`schedule` event), not from cron-job.org (`workflow_dispatch`) | Check the job and token in cron-job.org; a `401` there means the token expired (2027-09-07) — regenerate and paste it back |
 | Connector "success", index unchanged, tasks `notPublished` | Algolia plan record limit reached; writes silently dropped | Settings → Usage; free records or upgrade (Apr 2026) |
 | Product "missing" from index | Searching the EAN as text; it's not a searchable attribute | Look it up by `objectID`; if truly absent, check `CATEGORY_PREFIXES` |
 | 403 on a new index although the key allows it | Trailing space in the index or key restriction name (happened twice) | Type the name and press Enter; verify via the keys API |
@@ -228,9 +244,9 @@ on `tipo_producto`.
 
 | Credential | Lives in | Scope |
 |---|---|---|
-| `ALKOSTO_USERNAME` / `ALKOSTO_PASSWORD` | GitHub → Settings → Secrets → Actions | Read the datafeed. The only secrets the workflow needs; pushes use the automatic `GITHUB_TOKEN`. |
-| `ALGOLIA_ADMIN_API_KEY` | maintainer's local `.env` | Restricted to the main Yalo index. |
-| `ALGOLIA_AGENT_KEY` | maintainer's local `.env` | Restricted to the wildcard `agent_studio_*`; includes `deleteIndex`. |
+| `ALKOSTO_USERNAME` / `ALKOSTO_PASSWORD` | GitHub → Settings → Secrets → Actions | Read the datafeed. Pushes use the automatic `GITHUB_TOKEN`. |
+| `ALGOLIA_APP_ID`, `ALGOLIA_ADMIN_API_KEY`, `ALGOLIA_AGENT_KEY` | GitHub Secrets **and** the maintainer's local `.env` | The workflow's reload step and the admin scripts. Admin key: restricted to the main Yalo index. Agent key: wildcard `agent_studio_*`, includes `deleteIndex`. |
+| GitHub fine-grained token | cron-job.org (Authorization header of the trigger job) | Actions: read and write on this repo only. Expires **2027-09-07**; regenerate and paste it into cron-job.org before then. Never store it anywhere else. |
 | Connector keys | generated by Algolia (*Create one for me*) | Write access for one connector each. |
 
 The repo is public. Never commit keys, never paste them into chat. No key here
@@ -248,7 +264,7 @@ Approximate; git history has the detail.
 | May 2026 | `descuento_porcentaje`. Computers + tablets subset. Phones, ink and paper added. |
 | Jun 2026 | Leading zeros in EANs preserved (broken images). Lean schema for computers → `Philipp_Alkosto_AI`. Refrigeration, laundry and projectors added. |
 | Aug 2026 | `screen_size_inches`. Discount truncated to match the website. Connector/workflow drift fixed → crons 6:45/12:45 and 8:00/14:00. Eleven category trees added; index grows from 1.5k to ~5k. |
-| Sep 2026 | Four Agent Studio indices derived from the main feed; Algolia config as code (`algolia/`, `scripts/`); standalone phones pipeline retired; `Philipp_Alkosto_AI` kept as a sandbox. |
+| Sep 2026 | Four Agent Studio indices derived from the main feed; Algolia config as code (`algolia/`, `scripts/`); standalone phones pipeline retired; `Philipp_Alkosto_AI` kept as a sandbox. GitHub's cron drifted to 2–3.5 h late → refresh made event-driven: cron-job.org triggers the workflow, the workflow reloads the indices, plus a fresh-feed check. |
 
 ## Retired
 

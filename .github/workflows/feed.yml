@@ -21,6 +21,12 @@ on:
 permissions:
   contents: write
 
+# Never run two refreshes at once (external trigger + backstop cron could
+# overlap while one is waiting for a fresh CSV); queue them instead.
+concurrency:
+  group: feed-refresh
+  cancel-in-progress: false
+
 jobs:
   refresh:
     runs-on: ubuntu-latest
