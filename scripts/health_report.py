@@ -48,8 +48,8 @@ OK, WARN, CRIT = "✅", "⚠️", "❌"
 RANK = {OK: 0, WARN: 1, CRIT: 2}
 
 
-def gh(path: str, **params):
-    r = requests.get(f"https://api.github.com/repos/{REPO}/{path}", headers=GH, params=params, timeout=30)
+def gh(endpoint: str, **params):
+    r = requests.get(f"https://api.github.com/repos/{REPO}/{endpoint}", headers=GH, params=params, timeout=30)
     r.raise_for_status()
     return r.json()
 
