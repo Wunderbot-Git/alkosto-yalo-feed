@@ -81,14 +81,12 @@ def build() -> tuple[str, list[tuple[str, str]], str]:
     """Returns (overall icon, [(icon, line)], one-line summary)."""
     now = datetime.now(timezone.utc)
     cycle = current_cycle(now)
-    lines: list[tuple[str, str]] = []
-    worst = OK
+    lines: list[list[str]] = []
+    reload_gave_up = False   # workflow marked failure only because it stopped waiting for Algolia
+    post_cycle_ok = True     # every production index has a successful ingestion after the cycle
 
     def add(icon: str, text: str):
-        nonlocal worst
-        lines.append((icon, text))
-        if RANK[icon] > RANK[worst]:
-            worst = icon
+        lines.append([icon, text])
 
     # 1 + 2 — the feed run for this cycle
     runs = gh("actions/workflows/feed.yml/runs", per_page=15).get("workflow_runs", [])
@@ -119,6 +117,7 @@ def build() -> tuple[str, list[tuple[str, str]], str]:
             steps.extend(job.get("steps", []))
         reload_step = next((s for s in steps if s["name"].startswith("Reload Algolia")), None)
         failed = [s["name"] for s in steps if s.get("conclusion") == "failure"]
+        reload_gave_up = bool(reload_step) and reload_step.get("conclusion") == "failure" and failed == [reload_step["name"]]
         if failed:
             add(CRIT, "Pasos fallidos: " + ", ".join(failed))
         if reload_step is None:
@@ -170,23 +169,37 @@ def build() -> tuple[str, list[tuple[str, str]], str]:
             add(WARN, f"{short}: {n} registros · sin connector detectado.")
             continue
         task_id, h = task
-        last = requests.get(f"{INGEST}/1/runs", headers=h,
-                            params={"taskID": task_id, "itemsPerPage": 1, "sort": "createdAt", "order": "desc"},
-                            timeout=30).json().get("runs", [])
-        if not last:
-            add(WARN, f"{short}: {n} registros · el connector nunca corrió.")
+        recent = requests.get(f"{INGEST}/1/runs", headers=h,
+                              params={"taskID": task_id, "itemsPerPage": 4, "sort": "createdAt", "order": "desc"},
+                              timeout=30).json().get("runs", [])
+        finished = [r for r in recent if r.get("status") == "finished"]
+        in_progress = [r for r in recent if r.get("status") != "finished"]
+        extra = " · otra en curso" if in_progress else ""
+        if not finished:
+            add(WARN, f"{short}: {n} registros · sin ingestiones terminadas{extra}.")
+            post_cycle_ok = False
             continue
-        lr = last[0]
+        lr = finished[0]
         when = parse(lr.get("startedAt") or lr.get("createdAt"))
         outcome = lr.get("outcome")
         recv = (lr.get("progress") or {}).get("receivedNbOfEvents")
         if outcome != "success":
-            add(CRIT, f"{short}: última ingestión {hhmm(when)} → {outcome}.")
-        elif when < cycle - timedelta(hours=6):
-            add(WARN, f"{short}: {n} registros · última ingestión {when.astimezone(BOG):%d/%m %H:%M} (vieja).")
+            add(CRIT, f"{short}: última ingestión {hhmm(when)} → {outcome}{extra}.")
+            post_cycle_ok = False
+        elif when < cycle - timedelta(minutes=5):
+            old = when < cycle - timedelta(hours=6)
+            add(WARN if old else OK, f"{short}: {n} registros · última ingestión {when.astimezone(BOG):%d/%m %H:%M} (anterior al ciclo){extra}.")
+            post_cycle_ok = False
         else:
-            add(OK, f"{short}: {n} registros · ingestión {hhmm(when)} OK ({recv} recibidos).")
+            add(OK, f"{short}: {n} registros · ingestión {hhmm(when)} OK ({recv} recibidos){extra}.")
 
+    if reload_gave_up and post_cycle_ok:
+        for entry in lines:
+            if entry[0] == CRIT and entry[1].startswith(("Run #", "Pasos fallidos", "Recarga de índices")):
+                entry[0] = WARN
+        add(WARN, "El workflow dejó de esperar a Algolia antes de tiempo, pero todas las ingestas del ciclo terminaron bien después: los datos están al día, solo tardó más de lo previsto.")
+
+    worst = max((e[0] for e in lines), key=lambda i: RANK[i], default=OK)
     summary = f"{products or '?'} productos" + ("" if worst == OK else " · revisar")
     return worst, lines, f"{cycle:%d %b %H:%M} → {summary}"
 

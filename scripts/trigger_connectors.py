@@ -19,7 +19,9 @@ import requests
 REPO_MARKER = "Wunderbot-Git/alkosto-yalo-feed/main/"
 INGEST = "https://data.us.algolia.com"
 POLL_SECONDS = 10
-MAX_WAIT_SECONDS = 900
+# Six full reindexes run concurrently and Algolia serialises the big ones;
+# on 2026-09-08 the main index took 18 min. 15 min produced a false failure.
+MAX_WAIT_SECONDS = 1800
 
 
 def env(name: str) -> str:
