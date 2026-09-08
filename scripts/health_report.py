@@ -234,6 +234,8 @@ def build() -> tuple[str, str, str]:
             desc = f"última ingestión {hm(parse(last['startedAt']))} → {last.get('outcome')}" if last else "sin ingestiones"
             row(hm(cur), CRIT, f"{name}: {num(st['n'])} registros · no hay una carga exitosa de este ciclo ({desc}).")
 
+    index_rows = rows[len(rows) - len(PRODUCTION):]
+    rows[len(rows) - len(PRODUCTION):] = sorted(index_rows, key=lambda x: x[0])
     if reload_gave_up and all_ok:
         row(hm(latest_finish), WARN, "Falsa alarma: Algolia terminó todas las cargas después de que el workflow dejara de esperar. Datos correctos.")
 
