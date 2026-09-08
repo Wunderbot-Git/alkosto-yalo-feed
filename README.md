@@ -222,12 +222,13 @@ gh workflow run feed.yml --repo Wunderbot-Git/alkosto-yalo-feed   # manual run
 ```
 
 Daily health report: `.github/workflows/health-report.yml` runs
-`scripts/health_report.py` at 07:20 and 13:20 Bogotá (triggered by cron-job.org,
+`scripts/health_report.py` every morning at 08:00 Bogotá (triggered by cron-job.org, with a GitHub cron at 08:15 as a backstop that only sends if the 08:00 report did not go out;
 like the feed — a GitHub schedule would be hours late) and emails `MAIL_TO` via
 Gmail SMTP. It checks the trigger source (dispatch vs. backstop cron), the run
 and its reload step, when the CSV last changed, and every production index's
-record count and latest connector ingestion. Subject starts with ✅ / ⚠️ / ❌;
-one line per check in the body.
+record count and latest connector ingestion, verifies a random sample of
+prices between the published feed and the live index, and summarises the
+previous 13:00 cycle in one line. Timeline format; subject starts with ✅ / ⚠️ / ❌.
 
 Force a refresh: Actions → *Run workflow* → tick **`force_reload`** (and untick
 `wait_for_fresh` to skip the up-to-30-min wait). The run downloads, publishes and

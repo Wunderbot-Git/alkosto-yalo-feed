@@ -194,7 +194,7 @@ gh run list --workflow=feed.yml --repo Wunderbot-Git/alkosto-yalo-feed --limit 6
 gh workflow run feed.yml --repo Wunderbot-Git/alkosto-yalo-feed     # corrida manual
 ```
 
-**Reporte diario por correo:** a las 07:20 y 13:20 (Bogotá), 20 minutos después de cada ciclo, el workflow `health-report.yml` (también disparado por cron-job.org) revisa el disparo (¿vino del reloj externo o del respaldo tardío?), el run y su paso de recarga, cuándo cambió el CSV por última vez, y en Algolia el número de registros y la última ingestión de cada índice productivo. Llega a los destinatarios del secret `MAIL_TO` con asunto ✅ / ⚠️ / ❌ y una línea por comprobación. Si un día no llega, el propio reloj externo avisa por su cuenta.
+**Reporte diario por correo:** cada mañana a las 08:00 (Bogotá) — disparado por cron-job.org, con un cron de GitHub a las 08:15 como respaldo que solo envía si el de las 08:00 no salió — el workflow `health-report.yml` revisa el disparo (¿vino del reloj externo o del respaldo tardío?), el run y su paso de recarga, cuándo cambió el CSV por última vez, y en Algolia el número de registros y la última ingestión de cada índice productivo, compara una muestra aleatoria de precios entre el feed publicado y el índice, y resume en una línea el ciclo de las 13:00 del día anterior. Formato de línea de tiempo. Llega a los destinatarios del secret `MAIL_TO` con asunto ✅ / ⚠️ / ❌ y una línea por comprobación. Si un día no llega, el propio reloj externo avisa por su cuenta.
 
 **Forzar una actualización:** Actions → *Run workflow* → marcar **`force_reload`** (y desmarcar `wait_for_fresh` para no esperar hasta 30 min a un CSV nuevo). El run descarga, publica y recarga los seis índices él solo; no hay que tocar nada en Algolia.
 

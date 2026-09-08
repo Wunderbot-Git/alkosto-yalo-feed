@@ -1,11 +1,12 @@
 name: Pipeline health report
 
-# Triggered by cron-job.org at 07:20 and 13:20 Bogotá (12:20 / 18:20 UTC),
-# 20 min after each refresh cycle (07:00 / 13:00). Deliberately NOT on a GitHub schedule:
-# scheduled runs start hours late, which would make the report as unreliable
-# as the problem it watches for. Can also be run by hand from the Actions tab.
+# Morning report, every day at 08:00 Bogotá, dispatched by cron-job.org (a
+# GitHub schedule alone would start hours late). The 08:15 Bogotá cron below is
+# only a backstop: the script skips the email if the 08:00 report already went out.
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "15 13 * * *"   # 08:15 Bogotá backstop
 
 permissions:
   contents: read
@@ -33,7 +34,7 @@ jobs:
         run: python scripts/health_report.py
 
       - name: Email report
-        if: always()
+        if: always() && steps.report.outputs.skip != 'true'
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
