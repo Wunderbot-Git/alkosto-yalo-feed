@@ -152,7 +152,7 @@ El nombre del índice principal es histórico (empezó solo con computadores) y 
 | `screen_size_inches` | número | «Pulgadas» en `Tamaño Pantalla_2` (monitores, TV) y luego en `_1`; si solo hay centímetros, convierte. | `screen_size_inches >= 27`. |
 | `Enlace link1 / link2` | URL | Reescritas al CDN. | Imagen estable. |
 
-Limpieza aplicada a todos: se eliminan columnas totalmente vacías (~920 → ~110) y, por producto, los atributos vacíos o `NaN` (quedan 27–57). El EAN se lee como texto para conservar ceros iniciales. `EXCLUDED_SUBCATEGORIES` está vacía. `Smartwatch>` está mapeada pero Alkosto no la incluye hoy en el feed.
+Limpieza aplicada a todos: se eliminan columnas totalmente vacías (~920 → ~110) y, por producto, los atributos vacíos o `NaN` (quedan 27–57). El EAN se lee como texto para conservar ceros iniciales. `EXCLUDED_SUBCATEGORIES` está vacía. `EXCLUDED_TITLE_PATTERNS` descarta por título, después del filtro de categorías: hoy contiene `reacondicionad`, porque los productos reacondicionados están listados dentro de las rutas de marca normales (`Celulares>Smartphones>Celulares Samsung` tiene equipos nuevos y reacondicionados) y ninguna exclusión por categoría puede separarlos. `Smartwatch>` está mapeada pero Alkosto no la incluye hoy en el feed.
 
 ## 6. Configuración en Algolia
 

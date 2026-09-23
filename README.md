@@ -65,7 +65,7 @@ fields and a category added once shows up everywhere it belongs.
 | Path | Role |
 |---|---|
 | `.github/workflows/feed.yml` | The schedule and the steps. Commits outputs only when they changed. |
-| `process_alkosto_products.py` | Main pipeline. Holds `CATEGORY_PREFIXES` (what enters) and `TIPO_PRODUCTO_PREFIXES` (category path → `tipo_producto`). |
+| `process_alkosto_products.py` | Main pipeline. Holds `CATEGORY_PREFIXES` (what enters), `EXCLUDED_TITLE_PATTERNS` (what is dropped whatever its category, e.g. refurbished units) and `TIPO_PRODUCTO_PREFIXES` (category path → `tipo_producto`). |
 | `replace_image_urls.py` | Rewrites `Enlace link1/link2` to the static CDN: `cdn.dam.alkosto.com/products/<EAN>/<EAN>-001.webp`. |
 | `agent_indices.json` | One entry per Agent Studio index: which `tipo_producto` values it contains and which attributes the agent sees. |
 | `build_agent_indices.py` | Writes `agent_studio_<name>.json` for every entry above. |
@@ -197,6 +197,17 @@ lists every matched subcategory). Add its prefix to `CATEGORY_PREFIXES` and one
 line per subcategory to `TIPO_PRODUCTO_PREFIXES` (specific paths before generic
 ones). Push, check the published JSON for the new `tipo_producto` and for
 records left without one, then add a rule and synonyms in `algolia/…` and apply.
+
+**Keep a kind of product out of every index.** When the unwanted products sit
+inside subcategories you want to keep — refurbished units are listed under the
+ordinary brand paths, so `Celulares>Smartphones>Celulares Samsung` holds both
+new and refurbished phones — a category exclusion cannot separate them. Add a
+case-insensitive regex to `EXCLUDED_TITLE_PATTERNS` instead; it is applied
+after the category filter and the workflow log reports how many products it
+dropped. Because every index is a slice of `filtered_products.json`, one entry
+removes them everywhere, and the next connector run (a full reindex) clears the
+ones already live. Use `EXCLUDED_SUBCATEGORIES` when a whole subcategory path
+should go.
 
 **Add an Agent Studio index.** Add an entry to `agent_indices.json` (name with
 the `agent_studio_` prefix, `tipos`, `attributes`). Push. Create the index

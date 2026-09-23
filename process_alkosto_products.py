@@ -44,6 +44,15 @@ CATEGORY_PREFIXES = [
 ]
 EXCLUDED_SUBCATEGORIES = []
 
+# Title patterns (case-insensitive regex) that disqualify a product whatever
+# its category. Refurbished units live inside the ordinary brand
+# subcategories — 'Celulares>Smartphones>Celulares Samsung' holds both new and
+# refurbished phones — so EXCLUDED_SUBCATEGORIES cannot separate them and the
+# title is the only reliable marker in the datafeed.
+EXCLUDED_TITLE_PATTERNS = [
+    r"reacondicionad",   # Reacondicionado / Reacondicionada
+]
+
 # Derived 'tipo_producto' field — maps a category-tree prefix to a short type
 # label. Used by Algolia Rules so query routing doesn't depend on enumerating
 # brand-level paths. Order matters: first matching prefix wins, so list the
@@ -219,10 +228,11 @@ def download_csv(url, username, password, output_file="productFeed.csv"):
         sys.exit(1)
 
 
-def filter_by_categories(input_file, prefixes, excluded, output_file):
+def filter_by_categories(input_file, prefixes, excluded, excluded_titles, output_file):
     """
     Filter CSV rows: keep everything whose category starts with any of the
-    given prefixes, minus the excluded full subcategory paths.
+    given prefixes, minus the excluded full subcategory paths and minus the
+    products whose title matches one of the excluded title patterns.
     """
     print(f"Filtering products by categories...")
 
@@ -266,6 +276,28 @@ def filter_by_categories(input_file, prefixes, excluded, output_file):
     df_filtered = df[mask]
 
     print(f"Products after filtering: {len(df_filtered)}")
+
+    # Title exclusions run after the category filter: these products sit inside
+    # kept subcategories, so only the title tells them apart.
+    if excluded_titles:
+        title_column = None
+        for col in df_filtered.columns:
+            if col.lower().strip() in ('título', 'titulo', 'title'):
+                title_column = col
+                break
+
+        if title_column is None:
+            print("✗ Could not find title column, cannot apply title exclusions")
+            print(f"Available columns: {', '.join(df_filtered.columns[:20])}...")
+            sys.exit(1)
+
+        pattern = '|'.join(excluded_titles)
+        excluded_mask = df_filtered[title_column].astype(str).str.contains(
+            pattern, case=False, regex=True, na=False
+        )
+        print(f"Excluding by title pattern '{pattern}': {int(excluded_mask.sum())} products")
+        df_filtered = df_filtered[~excluded_mask]
+        print(f"Products after title exclusions: {len(df_filtered)}")
 
     matched = sorted(df_filtered[category_column].astype(str).unique())
     print(f"Matched subcategories ({len(matched)}):")
@@ -451,7 +483,8 @@ Examples:
         print()
 
     # Step 2: Filter by categories
-    df_filtered = filter_by_categories(downloaded_file, CATEGORY_PREFIXES, EXCLUDED_SUBCATEGORIES, OUTPUT_CSV)
+    df_filtered = filter_by_categories(downloaded_file, CATEGORY_PREFIXES, EXCLUDED_SUBCATEGORIES,
+                                       EXCLUDED_TITLE_PATTERNS, OUTPUT_CSV)
     print()
 
     # Step 3: Clean empty columns
