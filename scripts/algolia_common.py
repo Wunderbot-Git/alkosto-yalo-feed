@@ -17,14 +17,20 @@ KNOWN_INDICES = [
     "agent_studio_computadores",
     "agent_studio_tv",
     "agent_studio_electrodomesticos",
+    "Philipp_Alkosto_AI",
 ]
 
-# The subset of index settings worth versioning; everything else is Algolia's default.
+# The subset of index settings worth versioning; everything else is Algolia's
+# default. A key missing here is invisible to export_algolia_config.py, so
+# apply_algolia_config.py never sends it and Algolia resets it to its default —
+# that is how the main index lost 'removeWordsIfNoResults' from the repo while
+# the live index still ran on 'allOptional'. Anything changed in the dashboard
+# belongs in this set; settings.live.json records the rest as a safety net.
 SETTINGS_KEYS = {
     "searchableAttributes", "attributesForFaceting", "numericAttributesForFiltering",
     "customRanking", "ranking", "attributesToRetrieve", "attributesToHighlight",
     "queryLanguages", "removeStopWords", "ignorePlurals", "typoTolerance",
-    "distinct", "attributeForDistinct", "hitsPerPage",
+    "distinct", "attributeForDistinct", "hitsPerPage", "removeWordsIfNoResults",
 }
 
 

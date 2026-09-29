@@ -71,7 +71,8 @@ fields and a category added once shows up everywhere it belongs.
 | `build_agent_indices.py` | Writes `agent_studio_<name>.json` for every entry above. |
 | `transform_to_schema.py` | Lean agent schema (English field names, numeric value + display label per spec). Used by `agent_studio_computadores`. |
 | `filter_subset.py` | Generic subset by `tipo_producto`. Produces `filtered_computadores_tablets.json`. |
-| `algolia/<index>/` | Versioned Algolia configuration: `settings.json`, `synonyms.json`, `rules.json` per index. |
+| `.github/workflows/config-drift.yml` | Weekly check: exports the live Algolia config and goes red if it differs from the repo. |
+| `algolia/<index>/` | Versioned Algolia configuration per index: `settings.json` (the curated subset that gets applied), `settings.live.json` (full snapshot, for drift detection only), `synonyms.json`, `rules.json`. |
 | `scripts/export_algolia_config.py` | Pulls the live configuration of all indices into `algolia/`. Run after changing anything in the dashboard. |
 | `scripts/apply_algolia_config.py` | Pushes `algolia/<index>/` to the live index; `--load file.json` bootstraps a new index. |
 | `scripts/wait_for_fresh_feed.py` | Workflow step: downloads the CSV, retrying until it differs from `feed.sha256`. |
@@ -189,6 +190,32 @@ Conventions that hold today:
 
 Change the config in the repo and `apply`, or change it in the dashboard and
 `export` — either way commit the result so the two never drift.
+
+### Why drift is dangerous, and what stops it
+
+`apply` **replaces**: settings go out as a `PUT` (any key not sent reverts to
+Algolia's default), synonyms use `replaceExistingSynonyms`, rules use
+`clearExistingRules`. So applying a repo that lags behind the dashboard does
+not merge the two — it deletes whatever the dashboard added. Three things
+guard against that:
+
+- **`settings.live.json`** — every export writes the index's full settings
+  next to the curated `settings.json`. It is never applied; it exists so a
+  dashboard change to a key outside `SETTINGS_KEYS` still shows up in
+  `git diff`, and so `apply` has something to compare against.
+- **`apply` refuses to run on a drifted index.** It reads the live settings
+  first and aborts if they differ from `settings.live.json`, naming each key.
+  Override with `--allow-drift` only when overwriting is the intent. After the
+  write it reads the settings back and prints every key that actually changed,
+  so an unintended reset is visible immediately rather than weeks later.
+- **`config-drift.yml`** runs the export weekly and goes red if anything
+  differs from the repo — the early warning, so drift is caught in days rather
+  than at the next `apply`.
+
+A key that is changed in the dashboard belongs in `SETTINGS_KEYS`
+(`scripts/algolia_common.py`); otherwise the export cannot record it and
+`apply` will keep resetting it. That is exactly how the main index came to run
+on `removeWordsIfNoResults: allOptional` while the repo said nothing at all.
 
 ## Extending
 
