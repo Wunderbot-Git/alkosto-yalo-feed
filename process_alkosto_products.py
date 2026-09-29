@@ -47,7 +47,6 @@ CATEGORY_PREFIXES = [
     "Accesorios de Electrónica>",
     "Muebles>",
     "Colchones>",
-    "Llantas>",
 ]
 EXCLUDED_SUBCATEGORIES = []
 
@@ -174,13 +173,6 @@ TIPO_PRODUCTO_PREFIXES = [
     # Colchones — the subcategory is the bed size (Doble, King…), not a product
     # type, so the whole branch maps to one type and size stays an attribute.
     ("Colchones>", "colchon"),
-    # Llantas — split by vehicle so the bot can route 'llantas para moto'.
-    ("Llantas>Llantas Camioneta", "llanta_camioneta"),
-    ("Llantas>Llantas Automóvil", "llanta_automovil"),
-    ("Llantas>Llantas Moto", "llanta_moto"),
-    ("Llantas>Llantas Utilitarias", "llanta_utilitaria"),
-    ("Llantas>Llantas Camión", "llanta_camion"),
-    ("Llantas>", "llanta"),
     # Cámaras
     ("Cámaras>Cámaras Fotográficas", "camara"),
     ("Cámaras>Cámaras de Acción", "camara_accion"),
