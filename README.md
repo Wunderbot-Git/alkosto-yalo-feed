@@ -72,6 +72,7 @@ fields and a category added once shows up everywhere it belongs.
 | `transform_to_schema.py` | Lean agent schema (English field names, numeric value + display label per spec). Used by `agent_studio_computadores`. |
 | `filter_subset.py` | Generic subset by `tipo_producto`. Produces `filtered_computadores_tablets.json`. |
 | `.github/workflows/config-drift.yml` | Weekly check: exports the live Algolia config and goes red if it differs from the repo. |
+| `.github/workflows/config-export.yml` | Run by hand: exports the live Algolia config and opens a pull request with it. Fixes what the drift check reports, without needing the keys locally. |
 | `algolia/<index>/` | Versioned Algolia configuration per index: `settings.json` (the curated subset that gets applied), `settings.live.json` (full snapshot, for drift detection only), `synonyms.json`, `rules.json`. |
 | `scripts/export_algolia_config.py` | Pulls the live configuration of all indices into `algolia/`. Run after changing anything in the dashboard. |
 | `scripts/apply_algolia_config.py` | Pushes `algolia/<index>/` to the live index; `--load file.json` bootstraps a new index. |
@@ -211,6 +212,12 @@ guard against that:
 - **`config-drift.yml`** runs the export weekly and goes red if anything
   differs from the repo — the early warning, so drift is caught in days rather
   than at the next `apply`.
+- **`config-export.yml`** is how you then fix it: run it by hand from the
+  Actions tab and it exports the live configuration and opens a pull request
+  with the result. Every line of that diff is a dashboard change nobody
+  committed; review it and merge. Doing the same thing locally (`.env` plus
+  `export_algolia_config.py`) still works and is the faster path if you
+  already hold the keys.
 
 A key that is changed in the dashboard belongs in `SETTINGS_KEYS`
 (`scripts/algolia_common.py`); otherwise the export cannot record it and
