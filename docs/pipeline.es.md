@@ -62,7 +62,8 @@ Connectors de Algolia ── full reindexing: borran y recargan cada índice
 | `filter_subset.py` | Recorte genérico por `tipo_producto`. Genera `filtered_computadores_tablets.json`. |
 | `algolia/<índice>/` | Configuración de Algolia versionada: `settings.json`, `synonyms.json`, `rules.json` por índice. |
 | `scripts/export_algolia_config.py` | Baja la configuración viva de todos los índices a `algolia/`. Correr después de tocar algo en el dashboard. |
-| `scripts/apply_algolia_config.py` | Sube `algolia/<índice>/` al índice; con `--load archivo.json` hace la primera carga de un índice nuevo. |
+| `scripts/apply_algolia_config.py` | Sube `algolia/<índice>/` al índice; aborta si el índice cambió desde el último export; con `--load archivo.json` hace la primera carga de un índice nuevo. |
+| `.github/workflows/config-drift.yml` | Chequeo semanal: exporta la configuración viva y queda en rojo si difiere del repo. |
 | `scripts/wait_for_fresh_feed.py` | Paso del workflow: descarga el CSV y reintenta hasta que cambie respecto a `feed.sha256`. |
 | `scripts/trigger_connectors.py` | Paso del workflow: tras un commit, ejecuta todos los connectors que leen de este repositorio y espera el resultado. |
 | `.env.example` | Variables de los scripts locales. Se copia a `.env` (ignorado por git). |
@@ -176,6 +177,14 @@ python scripts/apply_algolia_config.py agent_studio_audio --load agent_studio_au
 ```
 
 Regla: un cambio se hace en el repo y se aplica, o se hace en el dashboard y se exporta — pero siempre termina en un commit. Así nunca hay dos versiones de la verdad.
+
+**Por qué la regla importa tanto.** `apply` **reemplaza**, no fusiona: los settings salen como `PUT` (toda clave que no se envía vuelve al valor por defecto de Algolia), los sinónimos usan `replaceExistingSynonyms` y las reglas `clearExistingRules`. Aplicar un repo desactualizado no combina las dos versiones: borra lo que se hizo en el dashboard. Tres mecanismos lo impiden:
+
+- **`settings.live.json`** — cada export guarda los settings completos del índice junto al `settings.json` curado. Nunca se aplica; existe para que un cambio en una clave fuera de `SETTINGS_KEYS` igual aparezca en el `git diff`, y para que `apply` tenga contra qué comparar.
+- **`apply` se niega a correr sobre un índice con deriva.** Lee los settings vivos y aborta si difieren de `settings.live.json`, nombrando cada clave. `--allow-drift` fuerza la sobrescritura cuando esa es la intención. Después de escribir vuelve a leer y lista toda clave que cambió de verdad, así un reseteo no deseado se ve en el momento y no semanas después.
+- **`config-drift.yml`** corre el export cada lunes y queda en rojo si algo difiere del repo — la alerta temprana.
+
+Una clave que se toca en el dashboard tiene que estar en `SETTINGS_KEYS` (`scripts/algolia_common.py`); si no, el export no puede registrarla y `apply` la va a seguir reseteando. Así fue como el índice principal terminó corriendo con `removeWordsIfNoResults: allOptional` mientras el repo no decía nada al respecto.
 
 ## 7. Cómo extender
 

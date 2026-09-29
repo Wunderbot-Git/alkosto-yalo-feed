@@ -1,0 +1,55 @@
+name: Algolia config drift check
+
+# Exports the live Algolia configuration and fails if it differs from what is
+# committed. A difference means somebody changed an index in the dashboard and
+# never ran export_algolia_config.py, which leaves the repo unable to be
+# applied safely — apply_algolia_config.py replaces rather than merges, so a
+# stale repo deletes the dashboard work.
+#
+# Weekly rather than per-run: dashboard changes are rare, and the point is to
+# notice them within days instead of at the next apply, which may be a month
+# away. apply itself refuses to run on a drifted index, so this is the early
+# warning, not the safety net.
+
+on:
+  schedule:
+    - cron: "0 12 * * 1"   # lunes 07:00 Bogotá
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  drift:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Export the live Algolia configuration
+        env:
+          ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
+          ALGOLIA_ADMIN_API_KEY: ${{ secrets.ALGOLIA_ADMIN_API_KEY }}
+          ALGOLIA_AGENT_KEY: ${{ secrets.ALGOLIA_AGENT_KEY }}
+        run: python scripts/export_algolia_config.py
+
+      - name: Compare against the committed configuration
+        run: |
+          if git diff --quiet -- algolia/; then
+            echo "✓ the live Algolia configuration matches the repository"
+            exit 0
+          fi
+          echo "::error::The live Algolia configuration differs from the repository. Someone changed an index in the dashboard without exporting. Until this is committed, apply_algolia_config.py will refuse to run on the affected index."
+          echo
+          git diff --stat -- algolia/
+          echo
+          git diff -- algolia/
+          echo
+          echo "To fix: run 'python scripts/export_algolia_config.py' locally, review the diff and commit it."
+          exit 1
