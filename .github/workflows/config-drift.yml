@@ -33,6 +33,10 @@ jobs:
       - run: pip install -r requirements.txt
 
       - name: Export the live Algolia configuration
+        id: export
+        # Not fatal on its own: one index the key cannot reach must not stop the
+        # drift comparison for all the others, which is the point of this job.
+        continue-on-error: true
         env:
           ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
           ALGOLIA_ADMIN_API_KEY: ${{ secrets.ALGOLIA_ADMIN_API_KEY }}
@@ -40,20 +44,27 @@ jobs:
         run: python scripts/export_algolia_config.py
 
       - name: Compare against the committed configuration
+        if: always()
         run: |
           # git diff ignores untracked files, and an export that adds an index —
           # or the first one after settings.live.json was introduced — creates
           # new ones. Mark them intent-to-add so the diff covers them too.
           git add --intent-to-add -A -- algolia/
+          DRIFT=0
           if git diff --quiet -- algolia/; then
-            echo "✓ the live Algolia configuration matches the repository"
-            exit 0
+            echo "✓ no drift in the indices that were exported"
+          else
+            echo "::error::The live Algolia configuration differs from the repository. Someone changed an index in the dashboard without exporting. Until this is committed, apply_algolia_config.py will refuse to run on the affected index."
+            echo
+            git diff --stat -- algolia/
+            echo
+            git diff -- algolia/
+            echo
+            echo "To fix: run 'python scripts/export_algolia_config.py' locally, review the diff and commit it."
+            DRIFT=1
           fi
-          echo "::error::The live Algolia configuration differs from the repository. Someone changed an index in the dashboard without exporting. Until this is committed, apply_algolia_config.py will refuse to run on the affected index."
-          echo
-          git diff --stat -- algolia/
-          echo
-          git diff -- algolia/
-          echo
-          echo "To fix: run 'python scripts/export_algolia_config.py' locally, review the diff and commit it."
-          exit 1
+          if [ "${{ steps.export.outcome }}" != "success" ]; then
+            echo "::error::The export did not cover every index (see the previous step), so the comparison above speaks only for the ones that did export. An index nobody can export is an index whose configuration exists nowhere but the live service."
+            exit 1
+          fi
+          exit $DRIFT
