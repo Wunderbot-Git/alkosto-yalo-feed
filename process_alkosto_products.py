@@ -37,10 +37,16 @@ CATEGORY_PREFIXES = [
     "Electrodomésticos>Pequeños Electrodomésticos>",
     "Audio>",
     "Videojuegos>",
+    # Alkosto renamed this branch from 'Smartwatch>' to 'Relojes y Anillos
+    # inteligentes>' (it now holds smart rings too). The old prefix stays as a
+    # fallback: it costs nothing and protects us if the datafeed lags behind.
+    "Relojes y Anillos inteligentes>",
     "Smartwatch>",
     "Cámaras>",
     "Casa Inteligente - Domótica>",
     "Accesorios de Electrónica>",
+    "Muebles>",
+    "Colchones>",
 ]
 EXCLUDED_SUBCATEGORIES = []
 
@@ -143,9 +149,30 @@ TIPO_PRODUCTO_PREFIXES = [
     ("Videojuegos>Accesorios Videojuegos>Accesorios Xbox", "accesorio_videojuego"),
     ("Videojuegos>Accesorios Videojuegos>Accesorios para Otras Plataformas", "accesorio_videojuego"),
     ("Videojuegos>Coleccionables>Figuras Coleccionables", "figura_coleccionable"),
-    # Smartwatch
+    # Relojes y anillos inteligentes (ex 'Smartwatch>', renamed by Alkosto)
+    ("Relojes y Anillos inteligentes>Relojes Inteligentes", "smartwatch"),
+    ("Relojes y Anillos inteligentes>Anillos Inteligentes", "anillo_inteligente"),
+    ("Relojes y Anillos inteligentes>Bandas de Actividad", "banda_actividad"),
     ("Smartwatch>Relojes Inteligentes", "smartwatch"),
     ("Smartwatch>Bandas de Actividad", "banda_actividad"),
+    # Muebles. Each branch ends in a generic fallback so a subcategory Alkosto
+    # adds later still gets a type instead of none.
+    ("Muebles>Sofás Y Sillones", "sofa"),
+    ("Muebles>Camas y Bases Camas", "cama"),
+    ("Muebles>Armarios", "armario"),
+    ("Muebles>Cajoneras y Cómodas", "comoda"),
+    ("Muebles>Centros de Entretenimiento-Mesas TV", "mueble_tv"),
+    ("Muebles>Muebles de cocina", "mueble_cocina"),
+    ("Muebles>Escritorios y Centros de Computo", "escritorio"),
+    ("Muebles>Bibliotecas", "biblioteca"),
+    ("Muebles>Repisas", "repisa"),
+    ("Muebles>Exterior", "mueble_exterior"),
+    ("Muebles>Sillas", "silla"),
+    ("Muebles>Mesas", "mesa"),
+    ("Muebles>", "mueble"),
+    # Colchones — the subcategory is the bed size (Doble, King…), not a product
+    # type, so the whole branch maps to one type and size stays an attribute.
+    ("Colchones>", "colchon"),
     # Cámaras
     ("Cámaras>Cámaras Fotográficas", "camara"),
     ("Cámaras>Cámaras de Acción", "camara_accion"),
