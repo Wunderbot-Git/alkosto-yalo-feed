@@ -41,6 +41,10 @@ jobs:
 
       - name: Compare against the committed configuration
         run: |
+          # git diff ignores untracked files, and an export that adds an index —
+          # or the first one after settings.live.json was introduced — creates
+          # new ones. Mark them intent-to-add so the diff covers them too.
+          git add --intent-to-add -A -- algolia/
           if git diff --quiet -- algolia/; then
             echo "✓ the live Algolia configuration matches the repository"
             exit 0
