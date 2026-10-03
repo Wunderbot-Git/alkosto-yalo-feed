@@ -183,6 +183,7 @@ Regla: un cambio se hace en el repo y se aplica, o se hace en el dashboard y se 
 - **`settings.live.json`** — cada export guarda los settings completos del índice junto al `settings.json` curado. Nunca se aplica; existe para que un cambio en una clave fuera de `SETTINGS_KEYS` igual aparezca en el `git diff`, y para que `apply` tenga contra qué comparar.
 - **`apply` se niega a correr sobre un índice con deriva.** Lee los settings vivos y aborta si difieren de `settings.live.json`, nombrando cada clave. `--allow-drift` fuerza la sobrescritura cuando esa es la intención. Después de escribir vuelve a leer y lista toda clave que cambió de verdad, así un reseteo no deseado se ve en el momento y no semanas después.
 - **`config-drift.yml`** corre el export cada lunes y queda en rojo si algo difiere del repo — la alerta temprana.
+- **`config-export.yml`** es cómo se arregla: se lanza a mano desde la pestaña Actions, exporta la configuración viva y abre un pull request con el resultado. Cada línea de ese diff es un cambio hecho en el dashboard que nadie commiteó; se revisa y se mergea. No hace falta tener las llaves de Algolia en el equipo propio (hacerlo local con `.env` sigue funcionando y es más rápido si ya las tienes).
 
 Una clave que se toca en el dashboard tiene que estar en `SETTINGS_KEYS` (`scripts/algolia_common.py`); si no, el export no puede registrarla y `apply` la va a seguir reseteando. Así fue como el índice principal terminó corriendo con `removeWordsIfNoResults: allOptional` mientras el repo no decía nada al respecto.
 
