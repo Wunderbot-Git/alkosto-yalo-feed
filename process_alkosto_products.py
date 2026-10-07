@@ -47,6 +47,12 @@ CATEGORY_PREFIXES = [
     "Accesorios de Electrónica>",
     "Muebles>",
     "Colchones>",
+    # Llantas: enabled to discover which source columns the datafeed actually
+    # carries for tyres. They are absent from filtered_products.json today, so
+    # clean_columns() drops them (~920 columns → ~110) and no local file shows
+    # their names. Size parsing, faceting and the llanta/llanto disambiguation
+    # are NOT in place yet — see the pull request before merging this.
+    "Llantas>",
 ]
 EXCLUDED_SUBCATEGORIES = []
 
@@ -173,6 +179,10 @@ TIPO_PRODUCTO_PREFIXES = [
     # Colchones — the subcategory is the bed size (Doble, King…), not a product
     # type, so the whole branch maps to one type and size stays an attribute.
     ("Colchones>", "colchon"),
+    # Llantas — one generic fallback for now. The real subcategory paths are
+    # unknown until a branch-scoped feed run reveals them; if they turn out to
+    # separate car/truck/motorcycle tyres, split this into specific types then.
+    ("Llantas>", "llanta"),
     # Cámaras
     ("Cámaras>Cámaras Fotográficas", "camara"),
     ("Cámaras>Cámaras de Acción", "camara_accion"),
