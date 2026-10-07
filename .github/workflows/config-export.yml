@@ -1,0 +1,102 @@
+name: Algolia config export
+
+# Exports the live Algolia configuration and opens a pull request with the
+# result, so the repository can be brought back in sync without anyone holding
+# Algolia keys on their own machine.
+#
+# config-drift.yml tells you the repo and the live indices disagree; this is
+# how you fix it. Manual only: it writes to the repository, and the diff is
+# exactly the thing a human should look at before it lands — every line is a
+# change someone made in the dashboard and never committed.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+env:
+  # Regenerated from main on every run and force-pushed. Nothing a person
+  # authored lives here, so overwriting it loses nothing; an already-open pull
+  # request simply picks up the new commit instead of a second one appearing.
+  BRANCH: algolia-config-export
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Export the live Algolia configuration
+        id: export
+        # One index the key cannot reach must not throw away the export of the
+        # others. Which ones failed is in the log, and the log goes in the PR.
+        continue-on-error: true
+        shell: bash            # gives -o pipefail, so tee cannot mask a failure
+        env:
+          ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
+          ALGOLIA_ADMIN_API_KEY: ${{ secrets.ALGOLIA_ADMIN_API_KEY }}
+          ALGOLIA_AGENT_KEY: ${{ secrets.ALGOLIA_AGENT_KEY }}
+        run: python scripts/export_algolia_config.py 2>&1 | tee export.log
+
+      - name: Open a pull request with the result
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "alkosto-feed-bot"
+          git config user.email "alkosto-feed-bot@users.noreply.github.com"
+
+          git add -A -- algolia/
+          if git diff --cached --quiet -- algolia/; then
+            echo "✓ the repository already matches the live configuration — nothing to open"
+            if [ "${{ steps.export.outcome }}" != "success" ]; then
+              echo "::warning::…but the export did not cover every index (see the step above), so this says nothing about the ones that failed."
+            fi
+            exit 0
+          fi
+
+          git diff --cached --stat -- algolia/ > stat.txt
+
+          {
+            echo "Exported from the live Algolia indices by \`config-export.yml\` on $(date -u '+%Y-%m-%d %H:%M UTC')."
+            echo
+            echo "**Every line in this diff is a change someone made in the Algolia dashboard that was never committed.** Read it as a record of what the live indices do today. Merging makes the repository match them again, which is what lets \`apply_algolia_config.py\` run without deleting any of it."
+            echo
+            echo '```'
+            cat stat.txt
+            echo '```'
+            echo
+            echo "Export log:"
+            echo
+            echo '```'
+            cat export.log
+            echo '```'
+            echo
+            echo "_Opened automatically; re-running the workflow updates this pull request rather than opening another._"
+          } > pr-body.md
+
+          git checkout -B "$BRANCH"
+          git commit -q \
+            -m "algolia: export live configuration" \
+            -m "Exported by config-export.yml. Each change is a dashboard edit that was never committed; see the pull request for the summary and the export log."
+          git push -q --force origin "$BRANCH"
+
+          if gh pr view "$BRANCH" --json number >/dev/null 2>&1; then
+            gh pr edit "$BRANCH" --body-file pr-body.md
+            echo "✓ updated the open pull request for $BRANCH"
+          else
+            gh pr create --base main --head "$BRANCH" \
+              --title "algolia: export live configuration" --body-file pr-body.md
+          fi
+
+          if [ "${{ steps.export.outcome }}" != "success" ]; then
+            echo "::warning::The export did not cover every index (see the step above). The pull request covers only the indices that exported successfully; the log inside it names the rest."
+          fi
