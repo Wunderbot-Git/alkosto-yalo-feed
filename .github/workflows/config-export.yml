@@ -89,12 +89,21 @@ jobs:
             -m "Exported by config-export.yml. Each change is a dashboard edit that was never committed; see the pull request for the summary and the export log."
           git push -q --force origin "$BRANCH"
 
+          # The export, the branch and the push are the work; opening the pull
+          # request is just delivery. A repository with "Allow GitHub Actions
+          # to create and approve pull requests" switched off refuses
+          # createPullRequest, and run #1 failed there with the branch already
+          # pushed — a red run whose output was in fact complete and sitting
+          # on the branch. So a refusal here reports how to finish by hand and
+          # leaves the run green.
           if gh pr view "$BRANCH" --json number >/dev/null 2>&1; then
             gh pr edit "$BRANCH" --body-file pr-body.md
             echo "✓ updated the open pull request for $BRANCH"
+          elif gh pr create --base main --head "$BRANCH" \
+                 --title "algolia: export live configuration" --body-file pr-body.md; then
+            echo "✓ opened a pull request for $BRANCH"
           else
-            gh pr create --base main --head "$BRANCH" \
-              --title "algolia: export live configuration" --body-file pr-body.md
+            echo "::warning::The export is committed and pushed to '$BRANCH', but this workflow could not open the pull request — most likely because 'Allow GitHub Actions to create and approve pull requests' is off under Settings → Actions → General → Workflow permissions. Nothing is lost: open it from https://github.com/${{ github.repository }}/compare/main...$BRANCH"
           fi
 
           if [ "${{ steps.export.outcome }}" != "success" ]; then

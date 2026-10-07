@@ -47,6 +47,12 @@ CATEGORY_PREFIXES = [
     "Accesorios de Electrónica>",
     "Muebles>",
     "Colchones>",
+    # Llantas: enabled to discover which source columns the datafeed actually
+    # carries for tyres. They are absent from filtered_products.json today, so
+    # clean_columns() drops them (~920 columns → ~110) and no local file shows
+    # their names. Size parsing, faceting and the llanta/llanto disambiguation
+    # are NOT in place yet — see the pull request before merging this.
+    "Llantas>",
 ]
 EXCLUDED_SUBCATEGORIES = []
 
@@ -173,6 +179,16 @@ TIPO_PRODUCTO_PREFIXES = [
     # Colchones — the subcategory is the bed size (Doble, King…), not a product
     # type, so the whole branch maps to one type and size stays an attribute.
     ("Colchones>", "colchon"),
+    # Llantas. Split by subcategory because the vehicle class changes both the
+    # product and the notation its size uses (see derive_llanta_fields): a
+    # motorcycle tyre is 3.00x18, a car tyre 205/55R16. Lumping them under one
+    # type would let the agent offer motorcycle tyres for a car.
+    ("Llantas>Llantas Automóvil", "llanta"),
+    ("Llantas>Llantas Camioneta", "llanta_camioneta"),
+    ("Llantas>Llantas Moto", "llanta_moto"),
+    ("Llantas>Llantas Camión", "llanta_camion"),
+    ("Llantas>Llantas Utilitarias", "llanta_utilitaria"),
+    ("Llantas>", "llanta"),
     # Cámaras
     ("Cámaras>Cámaras Fotográficas", "camara"),
     ("Cámaras>Cámaras de Acción", "camara_accion"),
@@ -369,6 +385,133 @@ def save_to_csv(df, output_file):
     print(f"✓ CSV saved successfully")
 
 
+# Every tipo_producto that derive_llanta_fields() applies to.
+LLANTA_TIPOS = {
+    "llanta", "llanta_camioneta", "llanta_moto", "llanta_camion",
+    "llanta_utilitaria",
+}
+
+
+def _llanta_notacion(ancho, categoria):
+    """Which notation 'Ancho de la Llanta' uses for this record.
+
+    The column is NOT a width in millimetres — it carries four notations, and
+    for 4x4 sizes it does not even mean the width:
+
+      >= 100        155-315 mm, cars and vans          -> metric
+      70-99 (moto)  motorcycle metric widths, 90/90x19 -> metric
+      30-37         4x4 in inches, 35/12.5 R20, where
+                    'Ancho' is the overall DIAMETER and
+                    'Perfil' is the width                -> inches
+      9-13          truck in inches, 12 R22.5            -> inches
+      < 5           motorcycle in inches, 3.00x18        -> inches
+
+    The observed ranges do not overlap, and motorcycle metric widths of 100
+    and up fall into the first case, where millimetres are right anyway. Only
+    the 70-99 band needs the category to disambiguate it from 4x4 inches.
+    """
+    if not isinstance(ancho, (int, float)):
+        return None
+    if ancho >= 100:
+        return "metrica"
+    if 70 <= ancho <= 99 and "Moto" in (categoria or ""):
+        return "metrica"
+    return "pulgadas"
+
+
+def _rin_str(rin):
+    """Rim diameter as it is written in a size: 17, but 22.5 for trucks."""
+    return f"{rin:g}"
+
+
+def derive_llanta_fields(record):
+    """Tyre attributes: numeric sizes, the composed size, and the compound
+    source columns split into something filterable.
+
+    'Medida de la Llanta' exists in the feed but is populated for 81 of 2380
+    tyres (3%), so the composed value has to be derived. Where both exist the
+    derivation matched the source column in 74 of 74 cases, after normalising
+    the source's space ('265/70 R17'). The format written here is the one
+    Llantas_base_externa uses ('215/75R15', no space), which makes 'medida' a
+    literal join key to that index.
+
+    Nothing is guessed: outside metric notation no size is composed at all,
+    because the separator differs per vehicle class ('x' for motorcycles, 'R'
+    for 4x4) and a wrong size is worse than a missing one. Those ~187 tyres
+    stay findable through 'Título', which is a searchable attribute and spells
+    the size out.
+    """
+    if record.get('tipo_producto') not in LLANTA_TIPOS:
+        return
+
+    ancho = record.get('Ancho de la Llanta')
+    perfil = record.get('Perfil')
+    rin = record.get('Rin')
+    notacion = _llanta_notacion(ancho, record.get('Categoría'))
+
+    # Rim diameter is the one size figure that means the same thing for every
+    # vehicle class, and the feed fills it for 100% of tyres.
+    if isinstance(rin, (int, float)):
+        record['llanta_rin'] = float(rin)
+
+    if notacion == 'metrica':
+        record['llanta_ancho_mm'] = int(ancho)
+        # A 'Perfil' of 0 is the feed's way of saying there is none ('195 R14'),
+        # not a profile of zero. Treating it as a number yields '195/0R14'.
+        tiene_perfil = isinstance(perfil, (int, float)) and perfil > 0
+        if tiene_perfil:
+            record['llanta_perfil'] = int(perfil)
+
+        # 'medida' is only written where it is both correct and useful, which
+        # excludes motorcycles. Their size has no single notation — across the
+        # 90 metric motorcycle tyres Alkosto's own titles use '-' 75 times,
+        # 'x' 11, '/' twice and 'R' once — so any rendering would be wrong for
+        # most of them. And medida earns its name as the join key to
+        # Llantas_base_externa, which only holds cars, SUVs and vans, so a
+        # motorcycle value could never match anything there. Motorcycle tyres
+        # keep llanta_rin, llanta_ancho_mm and llanta_perfil, and their size
+        # stays searchable through 'Título'.
+        if isinstance(rin, (int, float)) and record['tipo_producto'] != 'llanta_moto':
+            if tiene_perfil:
+                record['medida'] = f"{int(ancho)}/{int(perfil)}R{_rin_str(rin)}"
+            else:
+                record['medida'] = f"{int(ancho)}R{_rin_str(rin)}"
+
+    # 'Capacidad de Carga' arrives as '91 I.C - 615Kg': load index and
+    # kilograms in one string, which is why the column has 137 distinct values
+    # and is useless as a facet until it is split.
+    carga = record.get('Capacidad de Carga')
+    if isinstance(carga, str):
+        m = re.match(r'\s*(\d+)\s*I\.?\s*C\.?\s*-\s*(\d+)\s*Kg', carga, re.I)
+        if m:
+            record['indice_carga'] = m.group(1)
+            record['carga_max_kg'] = int(m.group(2))
+
+    # 'Indice de Velocidad' arrives as 'H 210 Km/h' or 'Y 300 Km/h o más'.
+    vel = record.get('Indice de Velocidad')
+    if isinstance(vel, str):
+        m = re.match(r'\s*([A-Z]+)\s+(\d+)\s*Km/h', vel, re.I)
+        if m:
+            record['indice_velocidad'] = m.group(1).upper()
+            record['velocidad_max_kmh'] = int(m.group(2))
+
+    # 'Tipo de Fabricacion' encodes three independent things at once:
+    # construction, self-sealing, and run-flat. Note that '(sin sellomatic)'
+    # is a negation, so a substring test for 'sellomatic' alone would invert
+    # the meaning for 52 tyres.
+    fab = record.get('Tipo de Fabricacion')
+    if isinstance(fab, str):
+        low = fab.lower()
+        if 'radial' in low:
+            record['estructura'] = 'Radial'
+        elif 'convencional' in low:
+            record['estructura'] = 'Convencional'
+        if 'run-flat' in low or 'run flat' in low:
+            record['run_flat'] = True
+        if 'sellomatic' in low:
+            record['sellomatic'] = 'sin sellomatic' not in low
+
+
 def convert_to_json(df, output_file):
     """
     Convert DataFrame to JSON format. Drops attributes that are null or empty
@@ -421,6 +564,8 @@ def convert_to_json(df, output_file):
                     cm = float(m.group(1).replace(',', '.'))
                     record['screen_size_inches'] = round(cm / 2.54, 1)
                     break
+
+        derive_llanta_fields(record)
 
         pmp = record.get('Precio por método de pago')
         if not isinstance(pmp, str) or not pmp:
