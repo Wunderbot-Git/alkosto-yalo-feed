@@ -65,13 +65,35 @@
     "filterOnly(tipo-computador_string_mv)",
     "filterOnly(tipo-impresion_string_mv)",
     "filterOnly(tipo-insumo-multifuncional_string_mv)",
-    "filterOnly(tipo_producto)"
+    "filterOnly(tipo_producto)",
+    "filterOnly(llanta_rin)",
+    "filterOnly(llanta_ancho_mm)",
+    "filterOnly(llanta_perfil)",
+    "filterOnly(medida)",
+    "filterOnly(indice_carga)",
+    "filterOnly(carga_max_kg)",
+    "filterOnly(indice_velocidad)",
+    "filterOnly(velocidad_max_kmh)",
+    "filterOnly(estructura)",
+    "filterOnly(run_flat)",
+    "filterOnly(sellomatic)",
+    "filterOnly(Usos de La Llanta)",
+    "filterOnly(Posicion Recomendada)",
+    "filterOnly(No. Lonas)"
   ],
   "attributesToHighlight": null,
   "attributesToRetrieve": null,
   "attributesToSnippet": null,
   "customRanking": [
     "desc(Disponibilidad)"
+  ],
+  "disableTypoToleranceOnWords": [
+    "llanta",
+    "llantas",
+    "llanto",
+    "llantos",
+    "rin",
+    "rines"
   ],
   "exactOnSingleWordQuery": "attribute",
   "highlightPostTag": "</em>",
@@ -128,7 +150,11 @@
     "unordered(Duracion de la Bateria)",
     "unordered(objectID)",
     "unordered(Tipo de Producto_1)",
-    "unordered(Capacidad Carga Lavado_1)"
+    "unordered(Capacidad Carga Lavado_1)",
+    "unordered(medida)",
+    "unordered(Labrado)",
+    "unordered(Línea de la Llanta)",
+    "unordered(Referencia de la llanta)"
   ],
   "separatorsToIndex": "",
   "synonyms": [

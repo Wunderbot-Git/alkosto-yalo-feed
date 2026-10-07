@@ -82,6 +82,14 @@
   "customRanking": [
     "desc(Disponibilidad)"
   ],
+  "disableTypoToleranceOnWords": [
+    "llanta",
+    "llantas",
+    "llanto",
+    "llantos",
+    "rin",
+    "rines"
+  ],
   "hitsPerPage": 20,
   "ignorePlurals": [
     "es"
@@ -132,13 +140,5 @@
     "unordered(Labrado)",
     "unordered(Línea de la Llanta)",
     "unordered(Referencia de la llanta)"
-  ],
-  "disableTypoToleranceOnWords": [
-    "llanta",
-    "llantas",
-    "llanto",
-    "llantos",
-    "rin",
-    "rines"
   ]
 }
