@@ -407,12 +407,11 @@
     "objectID": "smartwatch"
   },
   {
-    "type": "synonym",
     "synonyms": [
       "tablet",
-      "tableta",
-      "ipad"
+      "tableta"
     ],
+    "type": "synonym",
     "objectID": "tablet"
   },
   {
@@ -434,13 +433,12 @@
     "objectID": "tinta"
   },
   {
-    "type": "synonym",
     "synonyms": [
       "ventilador",
       "ventiladores",
-      "fan",
       "abanico"
     ],
+    "type": "synonym",
     "objectID": "ventilador"
   },
   {

@@ -1,0 +1,409 @@
+{
+  "alternativesAsExact": [
+    "ignorePlurals",
+    "singleWordSynonym"
+  ],
+  "attributeForDistinct": null,
+  "attributesForFaceting": [
+    "tipo_producto",
+    "Marca",
+    "filterOnly(Categoría)",
+    "filterOnly(metodos_pago)",
+    "filterOnly(Resolucion Pantalla)",
+    "filterOnly(Tipo de Pantalla)",
+    "filterOnly(Smart TV)",
+    "filterOnly(Sistema Operativo)",
+    "filterOnly(Tasa de Refresco del TV)"
+  ],
+  "attributesToHighlight": [
+    "Título"
+  ],
+  "attributesToRetrieve": [
+    "objectID",
+    "Identificador del producto",
+    "Título",
+    "Marca",
+    "tipo_producto",
+    "Categoría",
+    "Precio de lista",
+    "Precio de venta",
+    "descuento_porcentaje",
+    "metodos_pago",
+    "precio_codensa",
+    "precio_tarjeta_alkosto",
+    "precio_master_bines",
+    "Enlace del producto",
+    "Enlace link1",
+    "Disponibilidad",
+    "Garantía",
+    "Características",
+    "Caracteristica claves_1",
+    "Caracteristica claves_2",
+    "Caracteristica claves_3",
+    "Caracteristica claves_4",
+    "Caracteristica claves_5",
+    "screen_size_inches",
+    "Tamaño Pantalla_2",
+    "Resolucion Pantalla",
+    "Tipo de Pantalla",
+    "Diseño de la pantalla",
+    "Sistema Operativo",
+    "Smart TV",
+    "Tasa de Refresco del TV",
+    "No. Puertos HDMI",
+    "No. Puertos USB",
+    "Potencia de Audio",
+    "Asistente de Voz",
+    "Recomendado para Gaming",
+    "Aplicaciones Preinstaladas",
+    "Medidas del TV. Sin la base (Ancho x Alto x Fondo)",
+    "Opciones de Conectividad"
+  ],
+  "attributesToSnippet": null,
+  "customRanking": [
+    "desc(Disponibilidad)",
+    "desc(descuento_porcentaje)"
+  ],
+  "exactOnSingleWordQuery": "attribute",
+  "highlightPostTag": "</em>",
+  "highlightPreTag": "<em>",
+  "hitsPerPage": 20,
+  "ignorePlurals": [
+    "es"
+  ],
+  "maxValuesPerFacet": 100,
+  "minWordSizefor1Typo": 4,
+  "minWordSizefor2Typos": 8,
+  "numericAttributesToIndex": null,
+  "optionalWords": null,
+  "paginationLimitedTo": 1000,
+  "queryLanguages": [
+    "es"
+  ],
+  "queryType": "prefixLast",
+  "ranking": [
+    "typo",
+    "geo",
+    "words",
+    "filters",
+    "proximity",
+    "attribute",
+    "exact",
+    "custom"
+  ],
+  "removeStopWords": [
+    "es"
+  ],
+  "removeWordsIfNoResults": "none",
+  "searchableAttributes": [
+    "Título",
+    "Marca",
+    "Categoría",
+    "unordered(Caracteristica claves_1)",
+    "unordered(Caracteristica claves_2)",
+    "unordered(Caracteristica claves_3)",
+    "unordered(Caracteristica claves_4)",
+    "unordered(Caracteristica claves_5)",
+    "Características",
+    "unordered(Tamaño Pantalla_2)",
+    "unordered(Resolucion Pantalla)",
+    "unordered(Tipo de Pantalla)",
+    "unordered(Diseño de la pantalla)",
+    "unordered(Sistema Operativo)",
+    "unordered(Smart TV)",
+    "unordered(Tasa de Refresco del TV)",
+    "unordered(No. Puertos HDMI)",
+    "unordered(No. Puertos USB)",
+    "unordered(Potencia de Audio)",
+    "unordered(Asistente de Voz)",
+    "unordered(Recomendado para Gaming)",
+    "unordered(Aplicaciones Preinstaladas)",
+    "unordered(Medidas del TV. Sin la base (Ancho x Alto x Fondo))",
+    "unordered(Opciones de Conectividad)"
+  ],
+  "separatorsToIndex": "",
+  "synonyms": [
+    [
+      "vinera",
+      "minibar",
+      "mini bar",
+      "mini nevera",
+      "mini-nevera",
+      "bar de vino"
+    ],
+    [
+      "ventilador",
+      "ventiladores",
+      "fan",
+      "abanico"
+    ],
+    [
+      "tinta",
+      "cartucho",
+      "toner",
+      "tóner"
+    ],
+    [
+      "teclado",
+      "keyboard"
+    ],
+    [
+      "tablet",
+      "tableta",
+      "ipad"
+    ],
+    [
+      "smartwatch",
+      "smart watch",
+      "reloj inteligente",
+      "reloj smart"
+    ],
+    [
+      "smartphone",
+      "celular",
+      "móvil",
+      "movil",
+      "teléfono",
+      "telefono"
+    ],
+    [
+      "secadora",
+      "dryer",
+      "maquina de secar",
+      "máquina de secar"
+    ],
+    [
+      "secador de cabello",
+      "secador",
+      "hair dryer"
+    ],
+    [
+      "router",
+      "wifi",
+      "routers",
+      "modem"
+    ],
+    [
+      "proyector",
+      "videobeam",
+      "video beam",
+      "video-beam",
+      "projector"
+    ],
+    [
+      "powerbank",
+      "power bank",
+      "bateria externa",
+      "batería externa",
+      "cargador portatil"
+    ],
+    [
+      "plancha",
+      "plancha ropa",
+      "plancha de ropa",
+      "iron"
+    ],
+    [
+      "parlante",
+      "parlantes",
+      "bafle",
+      "bafles",
+      "speaker",
+      "altavoz",
+      "altavoces",
+      "bocina",
+      "bocinas"
+    ],
+    [
+      "papel",
+      "resma",
+      "resmas"
+    ],
+    [
+      "nevera",
+      "refrigerador",
+      "refri",
+      "frigorifico",
+      "frigorífico"
+    ],
+    [
+      "mouse",
+      "raton",
+      "ratón"
+    ],
+    [
+      "monitor",
+      "pantalla",
+      "display"
+    ],
+    [
+      "microondas",
+      "horno microondas",
+      "microhondas"
+    ],
+    [
+      "licuadora",
+      "licuadoras",
+      "blender"
+    ],
+    [
+      "lavavajillas",
+      "lavaplatos",
+      "dishwasher"
+    ],
+    [
+      "lavadora",
+      "washing machine",
+      "maquina de lavar",
+      "máquina de lavar"
+    ],
+    [
+      "laptop",
+      "portátil",
+      "portatil",
+      "notebook",
+      "computador portátil"
+    ],
+    [
+      "juego",
+      "videojuego",
+      "videojuegos",
+      "games",
+      "game"
+    ],
+    [
+      "impresora",
+      "multifuncional",
+      "printer"
+    ],
+    [
+      "freidora de aire",
+      "freidora aire",
+      "airfryer",
+      "air fryer"
+    ],
+    [
+      "fabricador de hielo",
+      "fabricadora de hielo",
+      "ice maker",
+      "máquina de hielo",
+      "maquina de hielo"
+    ],
+    [
+      "estufa",
+      "estufas",
+      "cocina",
+      "stove"
+    ],
+    [
+      "dron",
+      "drone",
+      "drones"
+    ],
+    [
+      "dispensador",
+      "dispensador de agua",
+      "dispensador agua"
+    ],
+    [
+      "desktop",
+      "escritorio",
+      "all-in-one",
+      "aio",
+      "computador de escritorio"
+    ],
+    [
+      "consola",
+      "consolas",
+      "playstation",
+      "nintendo",
+      "xbox",
+      "ps5",
+      "ps4",
+      "switch"
+    ],
+    [
+      "congelador",
+      "freezer",
+      "congeladora"
+    ],
+    [
+      "camara seguridad",
+      "cámara seguridad",
+      "cctv",
+      "camara vigilancia",
+      "security camera"
+    ],
+    [
+      "camara",
+      "cámara",
+      "camara fotografica",
+      "camera",
+      "fotografica"
+    ],
+    [
+      "calentador",
+      "calentadores",
+      "calefón",
+      "calefon"
+    ],
+    [
+      "cafetera",
+      "cafeteras",
+      "coffee maker",
+      "coffee machine"
+    ],
+    [
+      "cargador",
+      "cable cargador",
+      "cable",
+      "adaptador",
+      "charger"
+    ],
+    [
+      "bombillo",
+      "bombillo inteligente",
+      "smart bulb",
+      "foco",
+      "foco inteligente"
+    ],
+    [
+      "barra de sonido",
+      "barra sonido",
+      "soundbar",
+      "sound bar",
+      "home theater"
+    ],
+    [
+      "audifono",
+      "audífono",
+      "audifonos",
+      "audífonos",
+      "auricular",
+      "auriculares",
+      "headphones",
+      "earbuds"
+    ],
+    [
+      "aspiradora",
+      "aspiradoras",
+      "vacuum",
+      "vacuum cleaner"
+    ],
+    [
+      "aire acondicionado",
+      "aire",
+      "ac",
+      "ac split",
+      "split"
+    ],
+    [
+      "afeitadora",
+      "depiladora",
+      "shaver",
+      "trimmer"
+    ]
+  ],
+  "unretrievableAttributes": null,
+  "version": 1
+}

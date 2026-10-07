@@ -91,6 +91,7 @@
   "removeStopWords": [
     "es"
   ],
+  "removeWordsIfNoResults": "none",
   "searchableAttributes": [
     "name",
     "brand",

@@ -1,0 +1,400 @@
+{
+  "alternativesAsExact": [
+    "ignorePlurals",
+    "singleWordSynonym"
+  ],
+  "attributeForDistinct": null,
+  "attributesForFaceting": [
+    "category",
+    "brand",
+    "filterOnly(os)",
+    "filterOnly(cpu_brand)",
+    "filterOnly(gpu_brand)",
+    "filterOnly(has_dedicated_gpu)",
+    "filterOnly(has_ai)",
+    "filterOnly(is_convertible)",
+    "filterOnly(is_touchscreen)",
+    "filterOnly(in_stock)"
+  ],
+  "attributesToHighlight": [
+    "name"
+  ],
+  "attributesToRetrieve": [
+    "objectID",
+    "name",
+    "url",
+    "image_url",
+    "brand",
+    "category",
+    "price_sale",
+    "price_list",
+    "price_sale_label",
+    "discount_pct",
+    "ram_gb",
+    "ram_label",
+    "storage_gb",
+    "storage_label",
+    "screen_inches",
+    "screen_label",
+    "weight_kg",
+    "weight_label",
+    "battery_hours",
+    "battery_label",
+    "cpu_cores",
+    "os",
+    "cpu_brand",
+    "cpu_model",
+    "gpu_brand",
+    "gpu_model",
+    "has_dedicated_gpu",
+    "has_ai",
+    "is_convertible",
+    "is_touchscreen",
+    "has_fingerprint",
+    "backlit_keyboard",
+    "has_webcam",
+    "in_stock",
+    "stock",
+    "short_specs",
+    "key_features"
+  ],
+  "attributesToSnippet": null,
+  "customRanking": [
+    "desc(stock)",
+    "desc(discount_pct)"
+  ],
+  "exactOnSingleWordQuery": "attribute",
+  "highlightPostTag": "</em>",
+  "highlightPreTag": "<em>",
+  "hitsPerPage": 20,
+  "ignorePlurals": [
+    "es"
+  ],
+  "maxValuesPerFacet": 100,
+  "minWordSizefor1Typo": 4,
+  "minWordSizefor2Typos": 8,
+  "numericAttributesForFiltering": [
+    "price_sale",
+    "price_list",
+    "discount_pct",
+    "ram_gb",
+    "storage_gb",
+    "screen_inches",
+    "weight_kg",
+    "battery_hours",
+    "cpu_cores",
+    "refresh_hz",
+    "stock"
+  ],
+  "optionalWords": null,
+  "paginationLimitedTo": 1000,
+  "queryLanguages": [
+    "es"
+  ],
+  "queryType": "prefixLast",
+  "ranking": [
+    "typo",
+    "geo",
+    "words",
+    "filters",
+    "proximity",
+    "attribute",
+    "exact",
+    "custom"
+  ],
+  "removeStopWords": [
+    "es"
+  ],
+  "removeWordsIfNoResults": "none",
+  "searchableAttributes": [
+    "name",
+    "brand",
+    "cpu_model",
+    "gpu_model",
+    "unordered(short_specs)",
+    "unordered(key_features)"
+  ],
+  "separatorsToIndex": "",
+  "synonyms": [
+    [
+      "vinera",
+      "minibar",
+      "mini bar",
+      "mini nevera",
+      "mini-nevera",
+      "bar de vino"
+    ],
+    [
+      "ventilador",
+      "ventiladores",
+      "abanico"
+    ],
+    [
+      "tinta",
+      "cartucho",
+      "toner",
+      "tóner"
+    ],
+    [
+      "teclado",
+      "keyboard"
+    ],
+    [
+      "tablet",
+      "tableta"
+    ],
+    [
+      "smartwatch",
+      "smart watch",
+      "reloj inteligente",
+      "reloj smart"
+    ],
+    [
+      "smartphone",
+      "celular",
+      "móvil",
+      "movil",
+      "teléfono",
+      "telefono"
+    ],
+    [
+      "secadora",
+      "dryer",
+      "maquina de secar",
+      "máquina de secar"
+    ],
+    [
+      "secador de cabello",
+      "secador",
+      "hair dryer"
+    ],
+    [
+      "router",
+      "wifi",
+      "routers",
+      "modem"
+    ],
+    [
+      "proyector",
+      "videobeam",
+      "video beam",
+      "video-beam",
+      "projector"
+    ],
+    [
+      "powerbank",
+      "power bank",
+      "bateria externa",
+      "batería externa",
+      "cargador portatil"
+    ],
+    [
+      "plancha",
+      "plancha ropa",
+      "plancha de ropa",
+      "iron"
+    ],
+    [
+      "parlante",
+      "parlantes",
+      "bafle",
+      "bafles",
+      "speaker",
+      "altavoz",
+      "altavoces",
+      "bocina",
+      "bocinas"
+    ],
+    [
+      "papel",
+      "resma",
+      "resmas"
+    ],
+    [
+      "nevera",
+      "refrigerador",
+      "refri",
+      "frigorifico",
+      "frigorífico"
+    ],
+    [
+      "mouse",
+      "raton",
+      "ratón"
+    ],
+    [
+      "monitor",
+      "pantalla",
+      "display"
+    ],
+    [
+      "microondas",
+      "horno microondas",
+      "microhondas"
+    ],
+    [
+      "licuadora",
+      "licuadoras",
+      "blender"
+    ],
+    [
+      "lavavajillas",
+      "lavaplatos",
+      "dishwasher"
+    ],
+    [
+      "lavadora",
+      "washing machine",
+      "maquina de lavar",
+      "máquina de lavar"
+    ],
+    [
+      "laptop",
+      "portátil",
+      "portatil",
+      "notebook",
+      "computador portátil"
+    ],
+    [
+      "juego",
+      "videojuego",
+      "videojuegos",
+      "games",
+      "game"
+    ],
+    [
+      "impresora",
+      "multifuncional",
+      "printer"
+    ],
+    [
+      "freidora de aire",
+      "freidora aire",
+      "airfryer",
+      "air fryer"
+    ],
+    [
+      "fabricador de hielo",
+      "fabricadora de hielo",
+      "ice maker",
+      "máquina de hielo",
+      "maquina de hielo"
+    ],
+    [
+      "estufa",
+      "estufas",
+      "cocina",
+      "stove"
+    ],
+    [
+      "dron",
+      "drone",
+      "drones"
+    ],
+    [
+      "dispensador",
+      "dispensador de agua",
+      "dispensador agua"
+    ],
+    [
+      "desktop",
+      "escritorio",
+      "all-in-one",
+      "aio",
+      "computador de escritorio"
+    ],
+    [
+      "consola",
+      "consolas",
+      "playstation",
+      "nintendo",
+      "xbox",
+      "ps5",
+      "ps4",
+      "switch"
+    ],
+    [
+      "congelador",
+      "freezer",
+      "congeladora"
+    ],
+    [
+      "camara seguridad",
+      "cámara seguridad",
+      "cctv",
+      "camara vigilancia",
+      "security camera"
+    ],
+    [
+      "camara",
+      "cámara",
+      "camara fotografica",
+      "camera",
+      "fotografica"
+    ],
+    [
+      "calentador",
+      "calentadores",
+      "calefón",
+      "calefon"
+    ],
+    [
+      "cafetera",
+      "cafeteras",
+      "coffee maker",
+      "coffee machine"
+    ],
+    [
+      "cargador",
+      "cable cargador",
+      "cable",
+      "adaptador",
+      "charger"
+    ],
+    [
+      "bombillo",
+      "bombillo inteligente",
+      "smart bulb",
+      "foco",
+      "foco inteligente"
+    ],
+    [
+      "barra de sonido",
+      "barra sonido",
+      "soundbar",
+      "sound bar",
+      "home theater"
+    ],
+    [
+      "audifono",
+      "audífono",
+      "audifonos",
+      "audífonos",
+      "auricular",
+      "auriculares",
+      "headphones",
+      "earbuds"
+    ],
+    [
+      "aspiradora",
+      "aspiradoras",
+      "vacuum",
+      "vacuum cleaner"
+    ],
+    [
+      "aire acondicionado",
+      "aire",
+      "ac",
+      "ac split",
+      "split"
+    ],
+    [
+      "afeitadora",
+      "depiladora",
+      "shaver",
+      "trimmer"
+    ]
+  ],
+  "unretrievableAttributes": null,
+  "version": 1
+}

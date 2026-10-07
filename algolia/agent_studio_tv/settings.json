@@ -79,6 +79,7 @@
   "removeStopWords": [
     "es"
   ],
+  "removeWordsIfNoResults": "none",
   "searchableAttributes": [
     "Título",
     "Marca",
