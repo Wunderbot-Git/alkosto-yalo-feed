@@ -1,0 +1,140 @@
+name: Algolia config apply
+
+# Pushes the committed algolia/<index>/ configuration to the live index — the
+# one write path in this repository that was only ever a local command.
+#
+# Everything else about the Algolia configuration already runs here:
+# config-export.yml reads live into the repo, config-drift.yml compares the
+# two. Only apply required somebody to hold ALGOLIA_ADMIN_API_KEY on their own
+# machine, which is exactly what config-export.yml says this setup exists to
+# avoid. So a merged change to algolia/*/settings.json could be reviewed by
+# anyone and applied by almost nobody.
+#
+# Manual only, and deliberately so: apply_algolia_config.py PUTs rather than
+# merges, so this replaces the live settings, synonyms and rules with what is
+# on the default branch. The script's own drift guard aborts when the live
+# index moved since the last export, and the run ends by exporting the index
+# back out and opening a pull request with the refreshed snapshot — without
+# that, settings.live.json still describes the pre-apply index and both the
+# drift check and the next apply would report a change nobody made.
+
+on:
+  workflow_dispatch:
+    inputs:
+      index:
+        description: "Index to apply"
+        type: choice
+        default: Yalo_computadores_tables_monitores_impresores_pantallas
+        # KNOWN_INDICES minus Philipp_Alkosto_AI: no key in this repository can
+        # reach it, so offering it here would only ever produce a failed run.
+        options:
+          - Yalo_computadores_tables_monitores_impresores_pantallas
+          - agent_studio_celulares
+          - agent_studio_computadores
+          - agent_studio_tv
+          - agent_studio_electrodomesticos
+      allow_drift:
+        description: "Apply even though the live index changed since the last export (overwrites those changes)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+env:
+  # Regenerated from the default branch on every run and force-pushed, like
+  # config-export.yml's branch. Nothing a person authored lives here.
+  BRANCH: algolia-config-resync
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Apply the committed configuration
+        shell: bash            # gives -o pipefail, so tee cannot mask a failure
+        env:
+          ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
+          ALGOLIA_ADMIN_API_KEY: ${{ secrets.ALGOLIA_ADMIN_API_KEY }}
+          ALGOLIA_AGENT_KEY: ${{ secrets.ALGOLIA_AGENT_KEY }}
+        run: |
+          python scripts/apply_algolia_config.py "${{ inputs.index }}" \
+            ${{ inputs.allow_drift && '--allow-drift' || '' }} 2>&1 | tee apply.log
+
+      # Only reached when the apply succeeded: a refused or failed apply left
+      # the index untouched, so the committed snapshot still describes it.
+      - name: Export the index back out
+        shell: bash
+        env:
+          ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
+          ALGOLIA_ADMIN_API_KEY: ${{ secrets.ALGOLIA_ADMIN_API_KEY }}
+          ALGOLIA_AGENT_KEY: ${{ secrets.ALGOLIA_AGENT_KEY }}
+        run: python scripts/export_algolia_config.py "${{ inputs.index }}" 2>&1 | tee export.log
+
+      - name: Open a pull request with the refreshed snapshot
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "alkosto-feed-bot"
+          git config user.email "alkosto-feed-bot@users.noreply.github.com"
+
+          git add -A -- algolia/
+          if git diff --cached --quiet -- algolia/; then
+            echo "✓ the snapshot already matches the applied index — nothing to open"
+            exit 0
+          fi
+
+          git diff --cached --stat -- algolia/ > stat.txt
+
+          {
+            echo "\`config-apply.yml\` applied \`algolia/${{ inputs.index }}/\` to the live index on $(date -u '+%Y-%m-%d %H:%M UTC')."
+            echo
+            echo "**The live index is already changed — this pull request only catches the snapshot up.** \`settings.live.json\` is what \`config-drift.yml\` and the next \`apply_algolia_config.py\` compare against, so until this lands they both report a difference that nobody made in the dashboard."
+            echo
+            echo '```'
+            cat stat.txt
+            echo '```'
+            echo
+            echo "What the apply changed:"
+            echo
+            echo '```'
+            cat apply.log
+            echo '```'
+            echo
+            echo "Export log:"
+            echo
+            echo '```'
+            cat export.log
+            echo '```'
+            echo
+            echo "_Opened automatically; re-running the workflow updates this pull request rather than opening another._"
+          } > pr-body.md
+
+          git checkout -B "$BRANCH"
+          git commit -q \
+            -m "algolia: refresh the ${{ inputs.index }} snapshot after apply" \
+            -m "Exported by config-apply.yml right after applying the committed configuration. See the pull request for the apply log."
+          git push -q --force origin "$BRANCH"
+
+          # Same reasoning as in config-export.yml: the apply is the work and it
+          # is already done, so a repository with "Allow GitHub Actions to
+          # create and approve pull requests" switched off must not turn a
+          # successful apply into a red run.
+          if gh pr view "$BRANCH" --json number >/dev/null 2>&1; then
+            gh pr edit "$BRANCH" --body-file pr-body.md
+            echo "✓ updated the open pull request for $BRANCH"
+          elif gh pr create --base main --head "$BRANCH" \
+                 --title "algolia: refresh the ${{ inputs.index }} snapshot after apply" --body-file pr-body.md; then
+            echo "✓ opened a pull request for $BRANCH"
+          else
+            echo "::warning::The configuration is applied and the refreshed snapshot is pushed to '$BRANCH', but this workflow could not open the pull request — most likely because 'Allow GitHub Actions to create and approve pull requests' is off under Settings → Actions → General → Workflow permissions. Nothing is lost: open it from https://github.com/${{ github.repository }}/compare/main...$BRANCH"
+          fi
