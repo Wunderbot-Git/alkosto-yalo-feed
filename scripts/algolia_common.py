@@ -31,6 +31,11 @@ SETTINGS_KEYS = {
     "customRanking", "ranking", "attributesToRetrieve", "attributesToHighlight",
     "queryLanguages", "removeStopWords", "ignorePlurals", "typoTolerance",
     "distinct", "attributeForDistinct", "hitsPerPage", "removeWordsIfNoResults",
+    # Tracked because the tyre vocabulary relies on it: 'llanta' sits one
+    # character from 'llanto' (crying). A key the export does not read back
+    # would be applied to the live index and then be invisible to both the
+    # snapshot and the drift check — the very problem this module exists for.
+    "disableTypoToleranceOnWords",
 }
 
 
