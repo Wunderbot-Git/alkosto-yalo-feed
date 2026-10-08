@@ -154,8 +154,36 @@ El nombre del índice principal es histórico (empezó solo con computadores) y 
 | `metodos_pago` | lista | Los medios detectados. | Facet. |
 | `screen_size_inches` | número | «Pulgadas» en `Tamaño Pantalla_2` (monitores, TV) y luego en `_1`; si solo hay centímetros, convierte. | `screen_size_inches >= 27`. |
 | `Enlace link1 / link2` | URL | Reescritas al CDN. | Imagen estable. |
+| Columnas de `MULTIVALUE_COLUMNS` | lista | El CSV une varios atributos con ` \| ` en un solo texto; `split_multivalues()` los separa, quita espacios y repetidos, y conserva el orden del PIM. Siempre lista, incluso con un solo valor. | Facet por atributo individual. |
 
 Limpieza aplicada a todos: se eliminan columnas totalmente vacías (~920 → ~110) y, por producto, los atributos vacíos o `NaN` (quedan 27–57). El EAN se lee como texto para conservar ceros iniciales. `EXCLUDED_SUBCATEGORIES` está vacía. `EXCLUDED_TITLE_PATTERNS` descarta por título, después del filtro de categorías: hoy contiene `reacondicionad`, porque los productos reacondicionados están listados dentro de las rutas de marca normales (`Celulares>Smartphones>Celulares Samsung` tiene equipos nuevos y reacondicionados) y ninguna exclusión por categoría puede separarlos. Sobre `Smartwatch>`: esa rama no estaba «desactivada», Alkosto la **renombró** a `Relojes y Anillos inteligentes>` (ahora incluye también anillos inteligentes). El prefijo viejo se conserva como respaldo y el nuevo ya está mapeado, así que relojes, anillos y bandas entran al índice. Muebles y Colchones también están habilitadas. Llantas también, desde octubre de 2026: 2.380 productos, +41 % sobre el índice principal (5.838 → 8.218), repartidos en cinco subcategorías que reciben su propio `tipo_producto` porque la clase de vehículo cambia la notación de la medida: Camioneta 1.214 (`llanta_camioneta`), Automóvil 683 (`llanta`), Moto 426 (`llanta_moto`), Utilitarias 42 (`llanta_utilitaria`), Camión 15 (`llanta_camion`).
+
+### 5.1 Atributos de varios valores
+
+El CSV entrega varios atributos dentro de un mismo texto separados por ` | `. Algolia facetea el valor **tal como está guardado**, así que cada combinación se vuelve un valor de facet distinto y ningún atributo individual se puede filtrar. El caso que lo destapó: de los 30 hornos que gratinan, un filtro por `Dorar/Gratinar` encontraba **2**; los otros 28 lo tenían dentro de `Calentar | Dorar/Gratinar` y seis combinaciones más. Ya separado, el mismo filtro encuentra los 30.
+
+`split_multivalues()` convierte estas columnas en listas. El efecto sobre el número de valores de facet (combinaciones → valores reales):
+
+| Columna | Antes | Después |
+|---|---|---|
+| `Caracteristicas Especiales` | 424 | 177 |
+| `Uso` | 135 | 23 |
+| `Tipo de Producto_1` | 143 | 128 |
+| `Funcionalidades del Horno` | 21 | 9 |
+| `Tipo de Pantalla` | 21 | 20 |
+| `Funcionamiento` | 9 | 8 |
+| `Conexion a Datos` | 5 | 4 |
+| `Característica de Limpieza` | 4 | 3 |
+
+Tres decisiones que conviene no deshacer sin leer esto:
+
+- **`MULTIVALUE_COLUMNS` es una tabla explícita, no una regla sobre la forma del valor.** Muchas columnas llevan `|` sin ser listas: `Características` y `Observaciones Adicionales` son prosa, `Título` es el nombre del producto. Una regla basada en la forma del valor además reclasificaría una columna el primer día que aparezca un valor largo, cambiando en silencio el tipo de un atributo vivo entre dos corridas de un pipeline diario.
+- **Siempre lista, incluso con un solo valor.** Un tipo mixto (texto unas veces, lista otras) es justo lo que se lee bien y pierde la mitad de los datos: `_haystack()` en `transform_to_schema.py` recogía `Caracteristicas Especiales` con un `isinstance(v, str)`. Sin ajustarlo, `has_webcam` habría caído de 171 a 20 y `has_fingerprint` de 52 a 17, sin ningún error. Ya ajustado, los ocho booleanos salen idénticos.
+- **`warn_unsplit_facets()` cubre lo que la tabla no puede.** El próximo atributo que alguien facetee en el dashboard reintroduce el problema en silencio, porque un texto unido parece un facet que funciona hasta que alguien filtra por uno de sus valores. La función avisa al final de cada corrida.
+
+Aparte, `collapse_repeated_value()` arregla un problema distinto y en columnas de un solo valor: unos pocos registros repiten el mismo valor en lugar de listar varios (`No Frost | No Frost`, `294 Litros | 294 Litros`, `A | A`). Algolia los cuenta como valores de facet propios, así que `A | A` convivía con `A` en el facet de eficiencia energética y nada que seleccionara `A` lo encontraba. Se colapsan a un solo valor y el tipo sigue siendo texto. Son cinco columnas, un registro cada una: `Eficiencia Energetica`, `Almacenamiento`, `Capacidad Carga Lavado_1`, `Diseño`, `Tecnologia de Frio`.
+
+**Lo que esto no arregla: el vocabulario.** Separar las listas no unifica sinónimos. En `Funcionalidades del Horno` conviven `Gratinador` (86 productos) y `Dorar/Gratinar` (30) para lo mismo, más `Dorar` (50) por separado. Un cliente que pide «que gratine» debería ver 116 productos; un filtro por `Dorar/Gratinar` ve 30. Eso se arregla normalizando el vocabulario en el PIM o con un mapa de sinónimos en el repo, y es una decisión de taxonomía, no de pipeline.
 
 Sobre los atributos de llanta hay tres cosas que conviene saber antes de tocarlos:
 

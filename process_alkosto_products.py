@@ -385,6 +385,96 @@ def save_to_csv(df, output_file):
     print(f"✓ CSV saved successfully")
 
 
+# Columns whose value is a list of independent attributes that the source CSV
+# joins with ' | '. Algolia facets on the value as stored, so a joined string
+# makes every *combination* its own facet value and no single attribute can be
+# filtered: of the 30 ovens that grill, a filter on 'Dorar/Gratinar' matched 2
+# — the other 28 store it inside 'Calentar | Dorar/Gratinar' and six further
+# combinations. Stored as a list, Algolia facets each element on its own.
+#
+# Deliberately an explicit table rather than a rule about value shape. Plenty
+# of columns carry a '|' without being lists: 'Características' and
+# 'Observaciones Adicionales' are prose, 'Título' is a product name. A
+# shape-based rule would also reclassify a column the first day a long value
+# appears, which silently changes the type of a live attribute between two
+# runs of a daily pipeline. warn_unsplit_facets() covers what this table
+# misses by construction: it reports a faceted column that starts carrying
+# '|' and is not listed here.
+MULTIVALUE_COLUMNS = {
+    "Caracteristicas Especiales",
+    "Uso",
+    "Funcionalidades del Horno",
+    "Tipo de Producto_1",
+    "Conexion a Datos",
+    "Característica de Limpieza",
+    "Tipo de Pantalla",
+    "Funcionamiento",
+}
+
+
+def split_multivalues(record):
+    """Turn the MULTIVALUE_COLUMNS of one record into de-duplicated lists.
+
+    Always a list once the column is listed, even for a single value, so a
+    consumer never has to ask whether this attribute is a string this time.
+    A mixed type is the kind of thing that reads fine and then drops half the
+    data — see _haystack() in transform_to_schema.py, which collected these
+    columns with an isinstance(v, str) test.
+    """
+    for col in MULTIVALUE_COLUMNS:
+        v = record.get(col)
+        if not isinstance(v, str):
+            continue
+        # dict instead of set: the source order carries the PIM's own ordering,
+        # and a facet list that reshuffles daily churns the index for nothing.
+        parts = list(dict.fromkeys(p.strip() for p in v.split('|') if p.strip()))
+        record[col] = parts
+
+
+def collapse_repeated_value(v):
+    """'A | A' -> 'A'. Returns v unchanged when it is not that.
+
+    A different bug from the one above, and in scalar columns: a handful of
+    records repeat one value instead of listing several ('No Frost | No Frost',
+    '294 Litros | 294 Litros', 'A | A'). Algolia counts each as a facet value
+    of its own, so 'A | A' sits next to 'A' in the energy-rating facet and
+    nothing selecting 'A' finds it. These columns hold one value by nature, so
+    collapsing is the fix and the type stays a string.
+    """
+    if not isinstance(v, str) or '|' not in v:
+        return v
+    parts = [p.strip() for p in v.split('|')]
+    if len(set(parts)) == 1 and parts[0]:
+        return parts[0]
+    return v
+
+
+def warn_unsplit_facets(records, settings_file):
+    """Report faceted columns that carry '|' and are not in MULTIVALUE_COLUMNS.
+
+    The table above is a list, and lists go stale: the next attribute someone
+    facets in the dashboard reintroduces the bug silently, because a joined
+    string looks like a working facet right up to the point somebody filters on
+    one of its values. This prints the warning the facet itself cannot.
+    """
+    try:
+        with open(settings_file, encoding='utf-8') as f:
+            faceting = json.load(f).get('attributesForFaceting', [])
+    except (OSError, json.JSONDecodeError):
+        return      # no committed settings here; nothing to check against
+    faceted = {re.sub(r'^\w+\((.*)\)$', r'\1', a) for a in faceting}
+    suspect = {}
+    for r in records:
+        for col in faceted - MULTIVALUE_COLUMNS:
+            v = r.get(col)
+            if isinstance(v, str) and '|' in v:
+                suspect[col] = suspect.get(col, 0) + 1
+    for col, n in sorted(suspect.items(), key=lambda kv: -kv[1]):
+        print(f"⚠ faceted attribute {col!r} holds '|' in {n} record(s) and is not in "
+              f"MULTIVALUE_COLUMNS — filtering on a single one of its values will "
+              f"miss every record that combines it with another")
+
+
 # Every tipo_producto that derive_llanta_fields() applies to.
 LLANTA_TIPOS = {
     "llanta", "llanta_camioneta", "llanta_moto", "llanta_camion",
@@ -567,6 +657,10 @@ def convert_to_json(df, output_file):
 
         derive_llanta_fields(record)
 
+        for key, val in record.items():
+            record[key] = collapse_repeated_value(val)
+        split_multivalues(record)
+
         pmp = record.get('Precio por método de pago')
         if not isinstance(pmp, str) or not pmp:
             continue
@@ -583,7 +677,10 @@ def convert_to_json(df, output_file):
             record['metodos_pago'] = methods
 
     data = [
-        {k: v for k, v in record.items() if v is not None and v != ''}
+        # '' and [] both mean "the source left this blank": a MULTIVALUE column
+        # whose value was empty or only separators splits to an empty list, and
+        # an attribute Algolia never sees is cheaper than one it facets as empty.
+        {k: v for k, v in record.items() if v is not None and v != '' and v != []}
         for record in raw
     ]
 
@@ -591,6 +688,12 @@ def convert_to_json(df, output_file):
         json.dump(data, f, indent=2, ensure_ascii=False)
 
     print(f"✓ JSON saved successfully with {len(data)} products")
+    warn_unsplit_facets(
+        data,
+        os.path.join(os.path.dirname(os.path.abspath(__file__)), 'algolia',
+                     'Yalo_computadores_tables_monitores_impresores_pantallas',
+                     'settings.json'),
+    )
 
 
 def main():
