@@ -73,6 +73,7 @@ fields and a category added once shows up everywhere it belongs.
 | `filter_subset.py` | Generic subset by `tipo_producto`. Produces `filtered_computadores_tablets.json`. |
 | `.github/workflows/config-drift.yml` | Weekly check: exports the live Algolia config and goes red if it differs from the repo. |
 | `.github/workflows/config-export.yml` | Run by hand: exports the live Algolia config and opens a pull request with it. Fixes what the drift check reports, without needing the keys locally. |
+| `.github/workflows/config-apply.yml` | Run by hand: applies a committed `algolia/<index>/` to the live index, then exports it back out and opens a pull request with the refreshed snapshot. The other direction of `config-export.yml`, and the only one that writes to Algolia. |
 | `algolia/<index>/` | Versioned Algolia configuration per index: `settings.json` (the curated subset that gets applied), `settings.live.json` (full snapshot, for drift detection only), `synonyms.json`, `rules.json`. |
 | `scripts/export_algolia_config.py` | Pulls the live configuration of all indices into `algolia/`. Run after changing anything in the dashboard. |
 | `scripts/apply_algolia_config.py` | Pushes `algolia/<index>/` to the live index; `--load file.json` bootstraps a new index. |
@@ -218,6 +219,15 @@ guard against that:
   committed; review it and merge. Doing the same thing locally (`.env` plus
   `export_algolia_config.py`) still works and is the faster path if you
   already hold the keys.
+- **`config-apply.yml`** is the other direction, and the only workflow that
+  writes to Algolia: run it by hand, pick the index, and it applies what is on
+  `main`. It exists because merging a change to `algolia/*/settings.json` used
+  to do nothing on its own — the apply was a local command, so a change anyone
+  could review could be applied only by someone holding
+  `ALGOLIA_ADMIN_API_KEY` on their own machine, which is the thing this setup
+  is meant to avoid. The run ends by exporting the index back out and opening a
+  pull request with the refreshed `settings.live.json`; without that the drift
+  check and the next `apply` would both report a change nobody made.
 
 A key that is changed in the dashboard belongs in `SETTINGS_KEYS`
 (`scripts/algolia_common.py`); otherwise the export cannot record it and

@@ -143,7 +143,13 @@ def _haystack(record):
     for k in ('Título', 'Características', 'Caracteristicas Especiales',
               'Caracteristicas del Teclado', 'Qué incluye el producto'):
         v = record.get(k)
-        if isinstance(v, str):
+        # 'Caracteristicas Especiales' is a MULTIVALUE_COLUMNS entry and arrives
+        # as a list (see split_multivalues in process_alkosto_products.py). A
+        # plain isinstance(v, str) test skips it without failing, which would
+        # quietly cost every boolean this haystack detects.
+        if isinstance(v, list):
+            parts.extend(str(x) for x in v)
+        elif isinstance(v, str):
             parts.append(v)
     for i in range(1, 6):
         v = record.get(f'Caracteristica claves_{i}')
