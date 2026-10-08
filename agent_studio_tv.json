@@ -81,7 +81,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "127 Centímetros",
     "Tamaño Pantalla_2": "50 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -140,7 +142,9 @@
     "Fondo_1": "20.5 Centímetros",
     "Color.1": "Negro",
     "Qué incluye el producto": "Cable HDMI, cable AV, base tipo trípode, control remoto y cable de alimentación.",
-    "Uso": "Hogar-Entretenimiento",
+    "Uso": [
+      "Hogar-Entretenimiento"
+    ],
     "Opciones de Conectividad": "Bluetooth | WiFi",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto Auxiliar de Audio | Puerto AV Para Cable RCA | Puerto HDMI | Puerto USB | Puerto USB Tipo C",
@@ -174,9 +178,14 @@
     "Linea Modelo Referencia": "S40T.DCOLLLK",
     "Garantía": "12 Meses",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Ideales para Gaming | Tiene Luces LED",
+    "Caracteristicas Especiales": [
+      "Ideales para Gaming",
+      "Tiene Luces LED"
+    ],
     "Qué incluye el producto": "Cable Óptico|Control Remoto|Tarjeta de garantía",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Inalámbrica",
     "Duracion de la Bateria": "0 Horas Aproximadas",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -220,7 +229,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "190.5 Centímetros",
     "Tamaño Pantalla_2": "75 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -278,7 +289,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "195 Centímetros",
     "Tamaño Pantalla_2": "77 Pulgadas",
-    "Tipo de Pantalla": "OLED",
+    "Tipo de Pantalla": [
+      "OLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -330,7 +343,9 @@
     "Garantía": "12 Meses",
     "Color.1": "Negro",
     "Qué incluye el producto": "Parlantes posteriores con emisor y control remoto",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Alámbrica",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -369,9 +384,14 @@
     "Linea Modelo Referencia": "S60TR.ACOLLLK",
     "Garantía": "12 Meses",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Ideales para Gaming | Tiene Luces LED",
+    "Caracteristicas Especiales": [
+      "Ideales para Gaming",
+      "Tiene Luces LED"
+    ],
     "Qué incluye el producto": "Cable Óptico|Control Remoto|Tarjeta de garantía",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Inalámbrica",
     "Duracion de la Bateria": "0 Horas Aproximadas",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -413,7 +433,9 @@
     "Fondo_1": "24.3 Centímetros",
     "Color.1": "Blanco",
     "Qué incluye el producto": "Control Remoto, Cable de Voltaje y Manual de Usuario",
-    "Uso": "Empresa-Educación",
+    "Uso": [
+      "Empresa-Educación"
+    ],
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto AV Para Cable RCA | Puerto HDMI | Puerto USB 2.0 | Salida de Parlantes",
@@ -454,7 +476,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "190 Centímetros",
     "Tamaño Pantalla_2": "75 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -513,7 +537,9 @@
     "Opciones de Conectividad": "Bluetooth | Inalámbrico | USB | WiFi",
     "Tamaño Pantalla_1": "139.7 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -571,7 +597,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "165 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "OLED",
+    "Tipo de Pantalla": [
+      "OLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -624,9 +652,13 @@
     "Linea Modelo Referencia": "S45H",
     "Garantía": "12 Meses",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Apto para Llamadas en Altavoz",
+    "Caracteristicas Especiales": [
+      "Apto para Llamadas en Altavoz"
+    ],
     "Qué incluye el producto": "Cables, Kit para ensamble en pared, control remoto",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Inalámbrica",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Cable óptico digital | Puerto HDMI | Puerto USB",
@@ -670,7 +702,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "215 Centímetros",
     "Tamaño Pantalla_2": "85 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -785,7 +819,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "139 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -843,7 +879,9 @@
     "Opciones de Conectividad": "Conexión Con Cable | WiFi",
     "Tamaño Pantalla_1": "177.8 Centímetros",
     "Tamaño Pantalla_2": "70 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -899,7 +937,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "140 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "OLED",
+    "Tipo de Pantalla": [
+      "OLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -956,7 +996,9 @@
     "Fondo_1": "22 Centímetros",
     "Color.1": "Negro",
     "Qué incluye el producto": "Incluye Cable de Poder",
-    "Uso": "Hogar-Entretenimiento",
+    "Uso": [
+      "Hogar-Entretenimiento"
+    ],
     "Opciones de Conectividad": "Conexión Con Cable",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto Auxiliar de Audio | Puerto AV Para Cable RCA | Puerto HDMI | Puerto USB 2.0 | Puerto VGA | Salida de Audífonos",
@@ -990,9 +1032,14 @@
     "Linea Modelo Referencia": "SH5A.DCOLLLK",
     "Garantía": "12 Meses",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Ideales para Gaming | Tiene Luces LED",
+    "Caracteristicas Especiales": [
+      "Ideales para Gaming",
+      "Tiene Luces LED"
+    ],
     "Qué incluye el producto": "Cable HDMI|Control Remoto|Tarjeta de garantía",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Inalámbrica",
     "Duracion de la Bateria": "0 Horas Aproximadas",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -1038,7 +1085,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "146 Centímetros",
     "Tamaño Pantalla_2": "58 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -1095,7 +1144,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "100 Centímetros",
     "Tamaño Pantalla_2": "40 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "FHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -1151,7 +1202,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "122 Centímetros",
     "Tamaño Pantalla_2": "48 Pulgadas",
-    "Tipo de Pantalla": "OLED",
+    "Tipo de Pantalla": [
+      "OLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -1209,7 +1262,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "195 Centímetros",
     "Tamaño Pantalla_2": "77 Pulgadas",
-    "Tipo de Pantalla": "OLED",
+    "Tipo de Pantalla": [
+      "OLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -1263,7 +1318,9 @@
     "Linea Modelo Referencia": "GEN2",
     "Garantía": "12 Meses",
     "Color.1": "Blanco",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Alámbrica",
     "Opciones de Conectividad": "Conexión Con Cable | NFC | WiFi",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -1305,7 +1362,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | Inalámbrico | USB | WiFi",
     "Tamaño Pantalla_1": "147 Centímetros",
     "Tamaño Pantalla_2": "58 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -1365,7 +1424,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "139 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -1426,7 +1487,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | Inalámbrico | USB | WiFi",
     "Tamaño Pantalla_1": "189 Centímetros",
     "Tamaño Pantalla_2": "75 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -1480,7 +1543,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "139.7 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -1534,7 +1599,9 @@
     "Garantía": "12 Meses",
     "Color.1": "Negro",
     "Qué incluye el producto": "Cable de alimentación, control remoto, cable auxiliar y soporte para pared.",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Inalámbrica",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto Auxiliar de Audio | Puerto HDMI | Puerto USB",
@@ -1575,7 +1642,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "139.7 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -1633,7 +1702,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "139 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -1692,7 +1763,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "164 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -1748,7 +1821,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "127 Centímetros",
     "Tamaño Pantalla_2": "50 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -1806,7 +1881,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "100 Centímetros",
     "Tamaño Pantalla_2": "40 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "FHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -1862,7 +1939,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "190.5 Centímetros",
     "Tamaño Pantalla_2": "75 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -1921,7 +2000,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "139.7 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -1981,7 +2062,9 @@
     "Opciones de Conectividad": "Conexión Con Cable | Inalámbrico | USB | WiFi",
     "Tamaño Pantalla_1": "165.1 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -2044,7 +2127,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "139 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -2097,8 +2182,14 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "Parlante BOSE LifeStyle Ultra",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Apto para Llamadas en Altavoz | Controlable con Asistente de Voz Externo | Ideales para Gaming",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Caracteristicas Especiales": [
+      "Apto para Llamadas en Altavoz",
+      "Controlable con Asistente de Voz Externo",
+      "Ideales para Gaming"
+    ],
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Inalámbrica",
     "Duracion de la Bateria": "0 Horas Aproximadas",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -2142,7 +2233,9 @@
     "Opciones de Conectividad": "Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "101.6 Centímetros",
     "Tamaño Pantalla_2": "40 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "FHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -2200,7 +2293,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "139 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -2257,7 +2352,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | Inalámbrico | USB | WiFi",
     "Tamaño Pantalla_1": "218 Centímetros",
     "Tamaño Pantalla_2": "86 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -2316,7 +2413,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "127 Centímetros",
     "Tamaño Pantalla_2": "50 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "FHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -2374,7 +2473,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "127 Centímetros",
     "Tamaño Pantalla_2": "50 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -2437,7 +2538,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "248.9 Centímetros",
     "Tamaño Pantalla_2": "98 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -2492,10 +2595,14 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "Caja externa de subwoofer",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Ideales para Gaming",
+    "Caracteristicas Especiales": [
+      "Ideales para Gaming"
+    ],
     "Qué incluye el producto": "Barra de sonido | Mando a distancia con pilas | Cables de alimentación (hasta 4 unidades) | Cable HDMI | Kit de montaje en pared con tornillos | Guía de inicio rápido | Tarjeta de garantía | Ficha de seguridad",
     "Observaciones Adicionales": "El subwoofer integrado ofrece graves profundos sin necesidad de otra caja ni cables adicionales que ocupen espacio.",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Inalámbrica",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Cable óptico digital | Puerto HDMI | Puerto USB",
@@ -2539,7 +2646,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "165 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -2598,7 +2707,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "165 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -2654,7 +2765,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "165.1 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -2711,7 +2824,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "190.5 Centímetros",
     "Tamaño Pantalla_2": "75 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -2768,7 +2883,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "210.82 Centímetros",
     "Tamaño Pantalla_2": "83 Pulgadas",
-    "Tipo de Pantalla": "OLED",
+    "Tipo de Pantalla": [
+      "OLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -2826,7 +2943,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "210 Centímetros",
     "Tamaño Pantalla_2": "83 Pulgadas",
-    "Tipo de Pantalla": "OLED",
+    "Tipo de Pantalla": [
+      "OLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -2885,7 +3004,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "248.9 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -2938,7 +3059,10 @@
     "Linea Modelo Referencia": "HW-B650F/ZL",
     "Garantía": "12 Meses",
     "Color.1": "Black",
-    "Tipo de Producto_1": "Barra de Sonido | Subwoofer",
+    "Tipo de Producto_1": [
+      "Barra de Sonido",
+      "Subwoofer"
+    ],
     "Conexión": "Alámbrica",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto HDMI | Puerto USB",
@@ -2983,7 +3107,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "126 Centímetros",
     "Tamaño Pantalla_2": "50 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -3044,7 +3170,9 @@
     "Fondo_1": "25 Centímetros",
     "Color.1": "Blanco|Negro",
     "Qué incluye el producto": "Control remoto, Cable de poder, Manual de usuario",
-    "Uso": "Empresa-Educación",
+    "Uso": [
+      "Empresa-Educación"
+    ],
     "Opciones de Conectividad": "Conexión Con Cable | USB | WiFi",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto Auxiliar de Audio | Puerto HDMI | Puerto USB 2.0",
@@ -3084,7 +3212,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "190 Centímetros",
     "Tamaño Pantalla_2": "75 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -3143,7 +3273,9 @@
     "Opciones de Conectividad": "Bluetooth | WiFi",
     "Tamaño Pantalla_1": "190 Centímetros",
     "Tamaño Pantalla_2": "75 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -3202,7 +3334,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "80 Centímetros",
     "Tamaño Pantalla_2": "32 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "HD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -3255,7 +3389,9 @@
     "Garantía": "12 Meses",
     "Color.1": "Negro Bose",
     "Qué incluye el producto": "Cable HDMI eARC<br> Cable óptico Cable de alimentación<br>Control remoto",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Inalámbrica",
     "Duracion de la Bateria": "0 Horas Aproximadas",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -3299,7 +3435,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "190.5 Centímetros",
     "Tamaño Pantalla_2": "75 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -3357,7 +3495,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "195 Centímetros",
     "Tamaño Pantalla_2": "77 Pulgadas",
-    "Tipo de Pantalla": "OLED",
+    "Tipo de Pantalla": [
+      "OLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -3449,7 +3589,9 @@
     "Color.1": "Blanco",
     "Qué incluye el producto": "Cable de alimentación, control remoto, control remoto para SMP, guía del usuario, cable USB, cable HDMI <br>Epson smart dongle",
     "Observaciones Adicionales": "12 meses adicionales con registro em www.epson.com.co para un total de 24 meses.",
-    "Uso": "Hogar-Entretenimiento",
+    "Uso": [
+      "Hogar-Entretenimiento"
+    ],
     "Opciones de Conectividad": "Bluetooth | WiFi",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto HDMI 2.1",
@@ -3490,7 +3632,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "165 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -3548,7 +3692,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "126 Centímetros",
     "Tamaño Pantalla_2": "50 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -3607,7 +3753,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "139 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -3666,7 +3814,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "126 Centímetros",
     "Tamaño Pantalla_2": "50 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -3716,7 +3866,9 @@
     "Precio de venta": 1399900,
     "Marca": "BOSE",
     "Garantía": "12 Meses",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Alámbrica",
     "Opciones de Conectividad": "Bluetooth",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -3759,7 +3911,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "165 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -3819,7 +3973,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "139 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -3878,7 +4034,9 @@
     "Color.1": "Gris Oscuro",
     "Qué incluye el producto": "Proyector EF-30, Cable de alimentación, 1 Control remoto, Guía de instalación rápida",
     "Observaciones Adicionales": "Hasta 2 años de garantía, con registro del producto en el sitio web de Epson colombia. Para obtener 12 meses adicionales (un total de 24 meses de garantía), registre su producto dentro de los 30 días posteriores a la fecha de compra del producto en www.https://epson.com.co/registro",
-    "Uso": "Hogar-Entretenimiento",
+    "Uso": [
+      "Hogar-Entretenimiento"
+    ],
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto HDMI | Puerto USB 2.0",
@@ -3919,7 +4077,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "108 Centímetros",
     "Tamaño Pantalla_2": "43 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -3976,7 +4136,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "190 Centímetros",
     "Tamaño Pantalla_2": "75 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -4034,7 +4196,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "139 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -4093,7 +4257,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "215.19 Centímetros",
     "Tamaño Pantalla_2": "85 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -4152,7 +4318,9 @@
     "Opciones de Conectividad": "Conexión Con Cable | WiFi",
     "Tamaño Pantalla_1": "139 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -4211,7 +4379,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "138 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -4267,7 +4437,9 @@
     "Fondo_1": "16.53 Centímetros",
     "Color.1": "Beige",
     "Qué incluye el producto": "Cable HDMI,cable de alimentación y control remoto.",
-    "Uso": "Hogar-Entretenimiento",
+    "Uso": [
+      "Hogar-Entretenimiento"
+    ],
     "Opciones de Conectividad": "Bluetooth | WiFi",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto Auxiliar de Audio | Puerto HDMI | Puerto USB 2.0",
@@ -4306,7 +4478,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "165 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "OLED",
+    "Tipo de Pantalla": [
+      "OLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -4365,7 +4539,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "139 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -4424,7 +4600,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "190.5 Centímetros",
     "Tamaño Pantalla_2": "75 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -4482,7 +4660,9 @@
     "Fondo_1": "17 Centímetros",
     "Color.1": "Negro",
     "Qué incluye el producto": "Incluye Control Remoto, cable de poder",
-    "Uso": "Hogar-Entretenimiento",
+    "Uso": [
+      "Hogar-Entretenimiento"
+    ],
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto HDMI | Puerto USB 2.0 | Salida de Audífonos",
@@ -4521,7 +4701,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | Inalámbrico | USB | WiFi",
     "Tamaño Pantalla_1": "165 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -4579,7 +4761,9 @@
     "Opciones de Conectividad": "Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "80 Centímetros",
     "Tamaño Pantalla_2": "32 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "HD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -4638,7 +4822,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "165 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -4695,7 +4881,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "139.7 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -4753,7 +4941,9 @@
     "Color.1": "Blanco",
     "Qué incluye el producto": "Proyector LED, Cable de poder, Control remoto, Manual de usuario",
     "Observaciones Adicionales": "Tenga en cuenta que la función de duplicar pantalla solo está habilitada para algunos modelos de celular, verifique si su modelo es compatible y cuenta con esta función.",
-    "Uso": "Hogar-Entretenimiento",
+    "Uso": [
+      "Hogar-Entretenimiento"
+    ],
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto Auxiliar de Audio | Puerto HDMI | Puerto USB",
@@ -4794,7 +4984,9 @@
     "Opciones de Conectividad": "Conexión Con Cable | WiFi",
     "Tamaño Pantalla_1": "139.7 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -4850,7 +5042,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "165.1 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "OLED",
+    "Tipo de Pantalla": [
+      "OLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -4904,10 +5098,15 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye TV",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Ideales para Gaming",
+    "Caracteristicas Especiales": [
+      "Ideales para Gaming"
+    ],
     "Qué incluye el producto": "1 Barra de sonido | 1 Altavoz de graves inalámbrico (Subwoofer) | 1 Mando a distancia con pilas | 1 Cables de alimentación | 1 Cable HDMI | Kit de soporte de montaje en pared con tornillos | 1 Guía de iniciación rápida | 1 Tarjeta de garantía | 1 Hoja de seguridad",
     "Observaciones Adicionales": "Subwoofer inalámbrico para bajos profundos. | Versión Bluetooth 5.3",
-    "Tipo de Producto_1": "Barra de Sonido | Subwoofer",
+    "Tipo de Producto_1": [
+      "Barra de Sonido",
+      "Subwoofer"
+    ],
     "Conexión": "Inalámbrica",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Cable óptico digital | Puerto HDMI | Puerto HDMI 2.1 | Puerto USB",
@@ -4949,7 +5148,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "165.1 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -5002,10 +5203,18 @@
     "Linea Modelo Referencia": "HW-QS700F/ZL",
     "Garantía": "12 Meses",
     "Color.1": "Titan Black",
-    "Caracteristicas Especiales": "Apto para Llamadas en Altavoz | Controlable con Asistente de Voz Externo | Ideales para Gaming | Tiene Luces LED",
+    "Caracteristicas Especiales": [
+      "Apto para Llamadas en Altavoz",
+      "Controlable con Asistente de Voz Externo",
+      "Ideales para Gaming",
+      "Tiene Luces LED"
+    ],
     "Qué incluye el producto": "CABLE HDMI - SOPORTE MONTAJE DE PARED (BARRA) - CONTROL REMOTO - MANUAL DE USUARIO - CABLE DE PODER ( BARRA Y SUBWOOFER) - SUBWOOFER",
     "Producto Exclusivo": "Sí es exclusivo",
-    "Tipo de Producto_1": "Barra de Sonido | Subwoofer",
+    "Tipo de Producto_1": [
+      "Barra de Sonido",
+      "Subwoofer"
+    ],
     "Conexión": "Inalámbrica",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Cable óptico digital | Puerto HDMI",
@@ -5050,7 +5259,9 @@
     "Color.1": "Blanco",
     "Qué incluye el producto": "Cable de poder, Control remoto, Manual de usuario",
     "Observaciones Adicionales": "Sistema Android 11, Tecnologia de visualizacion LED",
-    "Uso": "Hogar-Entretenimiento",
+    "Uso": [
+      "Hogar-Entretenimiento"
+    ],
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto Auxiliar de Audio | Puerto HDMI | Puerto USB 2.0",
@@ -5093,7 +5304,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "139 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -5155,7 +5368,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "254 Centímetros",
     "Tamaño Pantalla_2": "100 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -5213,7 +5428,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "215 Centímetros",
     "Tamaño Pantalla_2": "85 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -5271,7 +5488,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "109 Centímetros",
     "Tamaño Pantalla_2": "43 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -5322,9 +5541,13 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye tv",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Ideales para Gaming",
+    "Caracteristicas Especiales": [
+      "Ideales para Gaming"
+    ],
     "Qué incluye el producto": "Control",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Alámbrica",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Cable óptico digital | Puerto Auxiliar de Audio | Puerto HDMI",
@@ -5366,7 +5589,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "195.58 Centímetros",
     "Tamaño Pantalla_2": "77 Pulgadas",
-    "Tipo de Pantalla": "OLED",
+    "Tipo de Pantalla": [
+      "OLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -5420,7 +5645,9 @@
     "Qué No incluye el producto": "Cable HDMI",
     "Color.1": "Negro",
     "Qué incluye el producto": "1  Cable auxiliar de Audio de 3.5mm<br>1 Manual de usuario<br>1 Hoja de Garantia<br>1 Control Remoto<br>1 Kit Soporte de pared",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Inalámbrica",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Cable óptico digital | Puerto Auxiliar de Audio | Puerto HDMI | Puerto USB",
@@ -5464,7 +5691,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "108 Centímetros",
     "Tamaño Pantalla_2": "43 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -5520,7 +5749,9 @@
     "Opciones de Conectividad": "Conexión Con Cable | WiFi",
     "Tamaño Pantalla_1": "127 Centímetros",
     "Tamaño Pantalla_2": "50 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "FHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -5571,9 +5802,14 @@
     "Linea Modelo Referencia": "S90TY.DCOLLLK",
     "Garantía": "12 Meses",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Ideales para Gaming | Tiene Luces LED",
+    "Caracteristicas Especiales": [
+      "Ideales para Gaming",
+      "Tiene Luces LED"
+    ],
     "Qué incluye el producto": "Cable Óptico|Control Remoto|Tarjeta de garantía",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Inalámbrica",
     "Duracion de la Bateria": "0 Horas Aproximadas",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -5618,7 +5854,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "138 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -5676,7 +5914,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "81 Centímetros",
     "Tamaño Pantalla_2": "32 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "FHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -5728,7 +5968,9 @@
     "Garantía": "12 Meses",
     "Color.1": "Negro",
     "Qué incluye el producto": "Incluye control remoto, cable de conexión , set de <br>tornillos/chazos.",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Inalámbrica",
     "Duracion de la Bateria": "0 Horas Aproximadas",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -5773,7 +6015,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "127 Centímetros",
     "Tamaño Pantalla_2": "50 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -5829,7 +6073,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "139.7 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -5884,7 +6130,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "165.1 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -5943,7 +6191,9 @@
     "Color.1": "Blanco",
     "Qué incluye el producto": "Cable de alimentación, Control remoto, Guía de instalación, Garantía.",
     "Observaciones Adicionales": "12 meses adicionales con registro em www.epson.com.co para un total de 24 meses.",
-    "Uso": "Empresa-Educación",
+    "Uso": [
+      "Empresa-Educación"
+    ],
     "Opciones de Conectividad": "Conexión Con Cable",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto Auxiliar de Audio | Puerto AV Para Cable RCA | Puerto HDMI | Puerto VGA",
@@ -6038,7 +6288,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "139.7 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "OLED",
+    "Tipo de Pantalla": [
+      "OLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -6091,10 +6343,14 @@
     "Linea Modelo Referencia": "S95TR.DCOLLLK",
     "Garantía": "12 Meses",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Ideales para Gaming",
+    "Caracteristicas Especiales": [
+      "Ideales para Gaming"
+    ],
     "Qué incluye el producto": "Parlantes traseros | Control Remoto|Tarjeta de garantía",
     "Producto Exclusivo": "Sí es exclusivo",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Inalámbrica",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Cable óptico digital | Puerto HDMI | Puerto HDMI 2.1 | Puerto USB",
@@ -6137,7 +6393,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "165.1 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -6198,7 +6456,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "190.5 Centímetros",
     "Tamaño Pantalla_2": "75 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -6257,7 +6517,9 @@
     "Color.1": "Negro",
     "Qué incluye el producto": "Cable de poder, Control remoto, Manual de usuario, Cable de audio AV, Clable HDMI",
     "Observaciones Adicionales": "Sistema android 11",
-    "Uso": "Empresa-Educación",
+    "Uso": [
+      "Empresa-Educación"
+    ],
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto Auxiliar de Audio | Puerto AV Para Cable RCA | Puerto HDMI | Puerto HDMI 2.1 | Puerto USB",
@@ -6298,7 +6560,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "190.5 Centímetros",
     "Tamaño Pantalla_2": "75 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -6356,7 +6620,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "254 Centímetros",
     "Tamaño Pantalla_2": "100 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -6409,9 +6675,16 @@
     "Linea Modelo Referencia": "HW-B450F/ZL",
     "Garantía": "12 Meses",
     "Color.1": "Titan Black",
-    "Caracteristicas Especiales": "Apto para Llamadas en Altavoz | Controlable con Asistente de Voz Externo | Tiene Luces LED",
+    "Caracteristicas Especiales": [
+      "Apto para Llamadas en Altavoz",
+      "Controlable con Asistente de Voz Externo",
+      "Tiene Luces LED"
+    ],
     "Qué incluye el producto": "SOPORTE MONTAJE DE PARED (BARRA) - CONTROL REMOTO - MANUAL DE USUARIO - CABLE DE PODER ( BARRA Y SUBWOOFER) - SUBWOOFER",
-    "Tipo de Producto_1": "Barra de Sonido | Subwoofer",
+    "Tipo de Producto_1": [
+      "Barra de Sonido",
+      "Subwoofer"
+    ],
     "Conexión": "Inalámbrica",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Cable óptico digital | Puerto HDMI | Puerto USB",
@@ -6457,7 +6730,9 @@
     "Color.1": "Verde Humo",
     "Qué incluye el producto": "Proyector EF-61, Cable de alimentación, 1 Control remoto, <br>Guía de instalación rápida",
     "Observaciones Adicionales": "Hasta 2 años de garantía, con registro del producto en el sitio web de Epson colombia. Para obtener 12 meses adicionales (un total de 24 meses de garantía), registre su producto dentro de los 30 días posteriores a la fecha de compra del producto en www.https://epson.com.co/registro",
-    "Uso": "Hogar-Entretenimiento",
+    "Uso": [
+      "Hogar-Entretenimiento"
+    ],
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto HDMI | Puerto USB 2.0",
@@ -6492,9 +6767,15 @@
     "Linea Modelo Referencia": "HW-B400F/ZL",
     "Garantía": "12 Meses",
     "Color.1": "Titan Black",
-    "Caracteristicas Especiales": "Apto para Llamadas en Altavoz | Controlable con Asistente de Voz Externo | Tiene Luces LED",
+    "Caracteristicas Especiales": [
+      "Apto para Llamadas en Altavoz",
+      "Controlable con Asistente de Voz Externo",
+      "Tiene Luces LED"
+    ],
     "Qué incluye el producto": "CONTROL REMOTO - MANUAL DE USUARIO - CABLE DE PODER",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Inalámbrica",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Cable óptico digital | Puerto HDMI | Puerto USB",
@@ -6539,7 +6820,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "215 Centímetros",
     "Tamaño Pantalla_2": "85 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -6598,7 +6881,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "108 Centímetros",
     "Tamaño Pantalla_2": "43 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "FHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -6657,7 +6942,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "126 Centímetros",
     "Tamaño Pantalla_2": "50 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -6713,7 +7000,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "215.9 Centímetros",
     "Tamaño Pantalla_2": "85 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -6765,9 +7054,17 @@
     "Linea Modelo Referencia": "HW-Q930H/ZL",
     "Garantía": "12 Meses",
     "Color.1": "Titan Black",
-    "Caracteristicas Especiales": "Apto para Llamadas en Altavoz | Controlable con Asistente de Voz Externo | Ideales para Gaming | Tiene Luces LED",
+    "Caracteristicas Especiales": [
+      "Apto para Llamadas en Altavoz",
+      "Controlable con Asistente de Voz Externo",
+      "Ideales para Gaming",
+      "Tiene Luces LED"
+    ],
     "Observaciones Adicionales": "Soporte montaje de pared (Barra)-Control Remoto-Manual de usuario-Cable de poder (Barra y Subwoofer)-Subwoofer",
-    "Tipo de Producto_1": "Barra de Sonido | Subwoofer",
+    "Tipo de Producto_1": [
+      "Barra de Sonido",
+      "Subwoofer"
+    ],
     "Conexión": "Inalámbrica",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Cable óptico digital | Puerto HDMI",
@@ -6813,7 +7110,9 @@
     "Opciones de Conectividad": "Bluetooth | Inalámbrico | USB | WiFi",
     "Tamaño Pantalla_1": "147.32 Centímetros",
     "Tamaño Pantalla_2": "58 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -6877,7 +7176,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "164 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -6935,7 +7236,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "80 Centímetros",
     "Tamaño Pantalla_2": "32 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "FHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -7052,7 +7355,9 @@
     "Fondo_1": "10.7 Centímetros",
     "Color.1": "Blanco",
     "Qué incluye el producto": "Cable de alimentación, Control remoto, 2 micrófonos inalámbricos",
-    "Uso": "Hogar-Entretenimiento",
+    "Uso": [
+      "Hogar-Entretenimiento"
+    ],
     "Opciones de Conectividad": "Bluetooth | WiFi",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto Auxiliar de Audio | Puerto HDMI | Puerto USB 2.0",
@@ -7091,7 +7396,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "215.9 Centímetros",
     "Tamaño Pantalla_2": "85 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -7147,7 +7454,9 @@
     "Qué No incluye el producto": "Cable HDMI",
     "Color.1": "Negro",
     "Qué incluye el producto": "1  Cable auxiliar de Audio de 3.5mm<br>1 Manual de usuario<br>1 Hoja de Garantia<br>1 Control Remoto<br>1 Kit Soporte de pared",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Inalámbrica",
     "Duracion de la Bateria": "0 Horas Aproximadas",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -7192,7 +7501,9 @@
     "Opciones de Conectividad": "Inalámbrico | USB | WiFi",
     "Tamaño Pantalla_1": "101.6 Centímetros",
     "Tamaño Pantalla_2": "40 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "FHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -7308,7 +7619,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "190.5 Centímetros",
     "Tamaño Pantalla_2": "75 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -7367,7 +7680,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "139 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -7429,7 +7744,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "109 Centímetros",
     "Tamaño Pantalla_2": "43 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "FHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -7484,7 +7801,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "109.22 Centímetros",
     "Tamaño Pantalla_2": "43 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -7540,7 +7859,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "139.7 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -7596,10 +7917,16 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "Cable HDMI",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Controlable con Asistente de Voz Externo | Tiene Integrado Asistente de Voz | Tiene Luces LED",
+    "Caracteristicas Especiales": [
+      "Controlable con Asistente de Voz Externo",
+      "Tiene Integrado Asistente de Voz",
+      "Tiene Luces LED"
+    ],
     "Qué incluye el producto": "Cable HDMI y de energia",
     "Observaciones Adicionales": "Por expresa instrucción de la Superintendencia de Industria y Comercio se informa a los consumidores que para comparar el desempeño de los equipos reproductores de sonido, se debe utilizar la potencia en términos de RMS, debido a que la potencia PMPO no es compatible entre productos similares de fabricas diferentes.",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Inalámbrica",
     "Duracion de la Bateria": "0 Horas Aproximadas",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -7641,7 +7968,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | Inalámbrico | USB | WiFi",
     "Tamaño Pantalla_1": "139 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -7695,10 +8024,15 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No aplica",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Apto para Llamadas en Altavoz | Ideales para Gaming",
+    "Caracteristicas Especiales": [
+      "Apto para Llamadas en Altavoz",
+      "Ideales para Gaming"
+    ],
     "Qué incluye el producto": "Cables, Kit para ensamble en pared, control remoto",
     "Observaciones Adicionales": "Subwoofer y altavoces de conexión inalambrica",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Inalámbrica",
     "Resistencia al Agua": "No Resistente al Agua",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -7743,7 +8077,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "165 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -7803,7 +8139,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "190.5 Centímetros",
     "Tamaño Pantalla_2": "75 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -7862,7 +8200,9 @@
     "Opciones de Conectividad": "Conexión Con Cable | WiFi",
     "Tamaño Pantalla_1": "126 Centímetros",
     "Tamaño Pantalla_2": "50 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -7922,7 +8262,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "165.1 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -7980,7 +8322,9 @@
     "Opciones de Conectividad": "WiFi",
     "Tamaño Pantalla_1": "253 Centímetros",
     "Tamaño Pantalla_2": "100 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -8037,7 +8381,9 @@
     "Opciones de Conectividad": "Conexión Con Cable | WiFi",
     "Tamaño Pantalla_1": "126 Centímetros",
     "Tamaño Pantalla_2": "50 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -8095,7 +8441,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "218 Centímetros",
     "Tamaño Pantalla_2": "86 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -8149,9 +8497,13 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye más accesorios",
     "Color.1": "Negro Brillante",
-    "Caracteristicas Especiales": "Tiene Luces LED",
+    "Caracteristicas Especiales": [
+      "Tiene Luces LED"
+    ],
     "Qué incluye el producto": "Incluye control remoto, cable auxiliar, cable de alimentación y kit de instalación",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Alámbrica",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto Auxiliar de Audio | Puerto HDMI | Puerto USB",
@@ -8194,7 +8546,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "165 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "OLED",
+    "Tipo de Pantalla": [
+      "OLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -8252,7 +8606,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "165 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -8305,9 +8661,13 @@
     "Linea Modelo Referencia": "S55H",
     "Garantía": "12 Meses",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Apto para Llamadas en Altavoz",
+    "Caracteristicas Especiales": [
+      "Apto para Llamadas en Altavoz"
+    ],
     "Qué incluye el producto": "Cables, Kit para ensamble en pared, control remoto",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Inalámbrica",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Cable óptico digital | Puerto HDMI | Puerto USB",
@@ -8349,7 +8709,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "139.7 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -8408,7 +8770,9 @@
     "Color.1": "Roble",
     "Qué incluye el producto": "Proyector EF-72, Cable de alimentación, 1 Control remoto, <br>Guía de instalación rápida",
     "Observaciones Adicionales": "Hasta 2 años de garantía, con registro del producto en el sitio web de Epson colombia. Para obtener 12 meses adicionales (un total de 24 meses de garantía), registre su producto dentro de los 30 días posteriores a la fecha de compra del producto en www.https://epson.com.co/registro",
-    "Uso": "Hogar-Entretenimiento",
+    "Uso": [
+      "Hogar-Entretenimiento"
+    ],
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto HDMI | Puerto USB 2.0",
@@ -8449,7 +8813,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "127 Centímetros",
     "Tamaño Pantalla_2": "50 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -8506,7 +8872,9 @@
     "Fondo_1": "30.1 Centímetros",
     "Color.1": "Negro",
     "Qué incluye el producto": "Control remoto, Cable de poder y Manual de usuario",
-    "Uso": "Empresa-Educación",
+    "Uso": [
+      "Empresa-Educación"
+    ],
     "Opciones de Conectividad": "Bluetooth | Inalámbrico | WiFi",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto HDMI | Puerto USB",
@@ -8545,7 +8913,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "109 Centímetros",
     "Tamaño Pantalla_2": "43 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -8602,7 +8972,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "165.1 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -8662,7 +9034,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "164 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -8721,7 +9095,9 @@
     "Color.1": "Negro Metalizado",
     "Qué incluye el producto": "Proyector EF-62, Cable de alimentación, 1 Control remoto, <br>Guía de instalación rápida",
     "Observaciones Adicionales": "Hasta 2 años de garantía, con registro del producto en el sitio web de Epson colombia. Para obtener 12 meses adicionales (un total de 24 meses de garantía), registre su producto dentro de los 30 días posteriores a la fecha de compra del producto en www.https://epson.com.co/registro",
-    "Uso": "Hogar-Entretenimiento",
+    "Uso": [
+      "Hogar-Entretenimiento"
+    ],
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto HDMI | Puerto USB 2.0",
@@ -8761,7 +9137,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "139 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -8817,7 +9195,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "165 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -8876,7 +9256,9 @@
     "Opciones de Conectividad": "Bluetooth | Inalámbrico | USB | WiFi",
     "Tamaño Pantalla_1": "139.7 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -8929,8 +9311,14 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "Parlante BOSE LifeStyle Ultra",
     "Color.1": "Blanco",
-    "Caracteristicas Especiales": "Apto para Llamadas en Altavoz | Controlable con Asistente de Voz Externo | Ideales para Gaming",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Caracteristicas Especiales": [
+      "Apto para Llamadas en Altavoz",
+      "Controlable con Asistente de Voz Externo",
+      "Ideales para Gaming"
+    ],
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Inalámbrica",
     "Duracion de la Bateria": "0 Horas Aproximadas",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -8975,7 +9363,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "165 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -9034,7 +9424,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "126 Centímetros",
     "Tamaño Pantalla_2": "50 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -9090,7 +9482,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "248.92 Centímetros",
     "Tamaño Pantalla_2": "98 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -9149,7 +9543,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "218 Centímetros",
     "Tamaño Pantalla_2": "86 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -9202,9 +9598,14 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "microfono",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Apto para Llamadas en Altavoz",
+    "Caracteristicas Especiales": [
+      "Apto para Llamadas en Altavoz"
+    ],
     "Qué incluye el producto": "Cable AC 1,5 metros/Manual Usuario/Manual Garantía/Control Remoto",
-    "Tipo de Producto_1": "Barra de Sonido | Subwoofer",
+    "Tipo de Producto_1": [
+      "Barra de Sonido",
+      "Subwoofer"
+    ],
     "Conexión": "Alámbrica",
     "Duracion de la Bateria": "0 Horas Aproximadas",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -9246,7 +9647,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "195.6 Centímetros",
     "Tamaño Pantalla_2": "77 Pulgadas",
-    "Tipo de Pantalla": "OLED",
+    "Tipo de Pantalla": [
+      "OLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -9305,7 +9708,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | Inalámbrico | USB | WiFi",
     "Tamaño Pantalla_1": "177.8 Centímetros",
     "Tamaño Pantalla_2": "70 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -9360,7 +9765,9 @@
     "Fondo_1": "14.5 Centímetros",
     "Color.1": "Gris",
     "Qué incluye el producto": "Control Remoto, Cable de Voltaje y Manual de Usuario",
-    "Uso": "Hogar-Entretenimiento",
+    "Uso": [
+      "Hogar-Entretenimiento"
+    ],
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto AV Para Cable RCA | Puerto HDMI | Puerto USB 2.0 | Salida de Parlantes",
@@ -9395,9 +9802,13 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye tv",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Ideales para Gaming",
+    "Caracteristicas Especiales": [
+      "Ideales para Gaming"
+    ],
     "Qué incluye el producto": "Control",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Alámbrica",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Cable óptico digital | Puerto Auxiliar de Audio | Puerto HDMI",
@@ -9436,9 +9847,14 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No aplica",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Apto para Llamadas en Altavoz | Ideales para Gaming",
+    "Caracteristicas Especiales": [
+      "Apto para Llamadas en Altavoz",
+      "Ideales para Gaming"
+    ],
     "Qué incluye el producto": "Cables, Kit para ensamble en pared, control remoto",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Alámbrica",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Cable óptico digital | Puerto HDMI | Puerto USB",
@@ -9474,9 +9890,17 @@
     "Linea Modelo Referencia": "HW-Q800H/ZL",
     "Garantía": "12 Meses",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Apto para Llamadas en Altavoz | Controlable con Asistente de Voz Externo | Ideales para Gaming | Tiene Luces LED",
+    "Caracteristicas Especiales": [
+      "Apto para Llamadas en Altavoz",
+      "Controlable con Asistente de Voz Externo",
+      "Ideales para Gaming",
+      "Tiene Luces LED"
+    ],
     "Observaciones Adicionales": "Soporte montaje de pared (Barra)-Control Remoto-Manual de usuario-Cable de poder (Barra y Subwoofer)-Subwoofer",
-    "Tipo de Producto_1": "Barra de Sonido | Subwoofer",
+    "Tipo de Producto_1": [
+      "Barra de Sonido",
+      "Subwoofer"
+    ],
     "Conexión": "Inalámbrica",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Cable óptico digital | Puerto HDMI",
@@ -9514,7 +9938,10 @@
     "Garantía": "24 Meses",
     "Color.1": "Negro",
     "Qué incluye el producto": "1 Barra de sonido<br>1 Altavoz de graves inalámbrico (Subwoofer)<br>1 Mando a distancia con pilas<br>1 Cables de alimentación <br>1 Cable HDMI <br>Kit de soporte de montaje en pared con tornillos<br>1 Guía de iniciación rápida<br>1 Tarjeta de garantía<br>1 Hoja de seguridad",
-    "Tipo de Producto_1": "Barra de Sonido | Subwoofer",
+    "Tipo de Producto_1": [
+      "Barra de Sonido",
+      "Subwoofer"
+    ],
     "Conexión": "Inalámbrica",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Cable óptico digital | Puerto HDMI | Puerto USB",
@@ -9556,7 +9983,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "215.9 Centímetros",
     "Tamaño Pantalla_2": "85 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -9613,7 +10042,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "139.7 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -9672,7 +10103,9 @@
     "Opciones de Conectividad": "Conexión Con Cable | WiFi",
     "Tamaño Pantalla_1": "165.1 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -9728,7 +10161,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "190.5 Centímetros",
     "Tamaño Pantalla_2": "75 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -9786,7 +10221,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "189 Centímetros",
     "Tamaño Pantalla_2": "75 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -9843,7 +10280,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | Inalámbrico | USB | WiFi",
     "Tamaño Pantalla_1": "190 Centímetros",
     "Tamaño Pantalla_2": "75 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -9903,7 +10342,9 @@
     "Opciones de Conectividad": "Conexión Con Cable | WiFi",
     "Tamaño Pantalla_1": "152.4 Centímetros",
     "Tamaño Pantalla_2": "60 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -9961,7 +10402,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "165.1 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "OLED",
+    "Tipo de Pantalla": [
+      "OLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -10019,7 +10462,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "210 Centímetros",
     "Tamaño Pantalla_2": "83 Pulgadas",
-    "Tipo de Pantalla": "OLED",
+    "Tipo de Pantalla": [
+      "OLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -10077,7 +10522,9 @@
     "Opciones de Conectividad": "Conexión Con Cable | WiFi",
     "Tamaño Pantalla_1": "100 Centímetros",
     "Tamaño Pantalla_2": "40 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "FHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -10136,7 +10583,9 @@
     "Opciones de Conectividad": "Conexión Con Cable | WiFi",
     "Tamaño Pantalla_1": "109.2 Centímetros",
     "Tamaño Pantalla_2": "43 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "FHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -10196,7 +10645,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "127 Centímetros",
     "Tamaño Pantalla_2": "50 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -10249,7 +10700,9 @@
     "Garantía": "12 Meses",
     "Color.1": "Negro",
     "Qué incluye el producto": "guia de  inicio y control remoto",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Alámbrica",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Cable óptico digital | Puerto HDMI",
@@ -10294,7 +10747,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "190 Centímetros",
     "Tamaño Pantalla_2": "75 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -10357,7 +10812,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "139 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -10414,7 +10871,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "121.92 Centímetros",
     "Tamaño Pantalla_2": "48 Pulgadas",
-    "Tipo de Pantalla": "OLED",
+    "Tipo de Pantalla": [
+      "OLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -10470,7 +10929,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "190.5 Centímetros",
     "Tamaño Pantalla_2": "75 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -10524,7 +10985,9 @@
     "Garantía": "12 Meses",
     "Color.1": "Negro",
     "Qué incluye el producto": "control y manual de instrucciones",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Alámbrica",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -10627,7 +11090,9 @@
     "Fondo_1": "13 Centímetros",
     "Color.1": "Blanco",
     "Qué incluye el producto": "Cable de poder, Control remoto, Manual de usuario",
-    "Uso": "Hogar-Entretenimiento",
+    "Uso": [
+      "Hogar-Entretenimiento"
+    ],
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto Auxiliar de Audio | Puerto HDMI | Puerto USB 2.0 | Puerto USB Tipo C",
@@ -10666,7 +11131,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "165 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "OLED",
+    "Tipo de Pantalla": [
+      "OLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -10724,7 +11191,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "215.9 Centímetros",
     "Tamaño Pantalla_2": "85 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -10784,7 +11253,9 @@
     "Color.1": "Blanco Calido",
     "Qué incluye el producto": "Proyector EF-61, Cable de alimentación, 1 Control remoto, <br>Guía de instalación rápida",
     "Observaciones Adicionales": "Hasta 2 años de garantía, con registro del producto en el sitio web de Epson colombia. Para obtener 12 meses adicionales (un total de 24 meses de garantía), registre su producto dentro de los 30 días posteriores a la fecha de compra del producto en www.https://epson.com.co/registro",
-    "Uso": "Hogar-Entretenimiento",
+    "Uso": [
+      "Hogar-Entretenimiento"
+    ],
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto HDMI | Puerto USB 2.0",
@@ -10823,7 +11294,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "177.8 Centímetros",
     "Tamaño Pantalla_2": "70 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -10880,7 +11353,9 @@
     "Opciones de Conectividad": "Conexión Con Cable | WiFi",
     "Tamaño Pantalla_1": "109.22 Centímetros",
     "Tamaño Pantalla_2": "43 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "FHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -10937,7 +11412,9 @@
     "Color.1": "Rosado Beige",
     "Qué incluye el producto": "Proyector EF-61, Cable de alimentación, 1 Control remoto, <br>Guía de instalación rápida",
     "Observaciones Adicionales": "Hasta 2 años de garantía, con registro del producto en el sitio web de Epson colombia. Para obtener 12 meses adicionales (un total de 24 meses de garantía), registre su producto dentro de los 30 días posteriores a la fecha de compra del producto en www.https://epson.com.co/registro",
-    "Uso": "Hogar-Entretenimiento",
+    "Uso": [
+      "Hogar-Entretenimiento"
+    ],
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto HDMI | Puerto USB 2.0",
@@ -10978,7 +11455,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "248.9 Centímetros",
     "Tamaño Pantalla_2": "75 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -11035,7 +11514,9 @@
     "Opciones de Conectividad": "Bluetooth | Inalámbrico | USB | WiFi",
     "Tamaño Pantalla_1": "81.28 Centímetros",
     "Tamaño Pantalla_2": "32 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "HD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -11094,7 +11575,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "140 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "OLED",
+    "Tipo de Pantalla": [
+      "OLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -11154,7 +11637,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "126 Centímetros",
     "Tamaño Pantalla_2": "50 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -11217,7 +11702,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "195.58 Centímetros",
     "Tamaño Pantalla_2": "77 Pulgadas",
-    "Tipo de Pantalla": "OLED",
+    "Tipo de Pantalla": [
+      "OLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -11275,7 +11762,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "127 Centímetros",
     "Tamaño Pantalla_2": "50 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -11333,7 +11822,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "109 Centímetros",
     "Tamaño Pantalla_2": "43 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -11392,7 +11883,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "80 Centímetros",
     "Tamaño Pantalla_2": "32 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "HD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -11449,7 +11942,9 @@
     "Fondo_1": "10.15 Centímetros",
     "Color.1": "Blanco",
     "Qué incluye el producto": "Cable Corriente, Control Remoto",
-    "Uso": "Hogar-Entretenimiento",
+    "Uso": [
+      "Hogar-Entretenimiento"
+    ],
     "Opciones de Conectividad": "Bluetooth | Inalámbrico | USB | WiFi",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto Auxiliar de Audio | Puerto HDMI | Puerto USB",
@@ -11490,7 +11985,9 @@
     "Opciones de Conectividad": "USB | WiFi",
     "Tamaño Pantalla_1": "80 Centímetros",
     "Tamaño Pantalla_2": "32 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "HD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -11543,7 +12040,10 @@
     "Garantía": "12 Meses",
     "Color.1": "Negro",
     "Qué incluye el producto": "Soporte para pared, Control remoto, Cable de CAx2, Cable 3.5mm",
-    "Tipo de Producto_1": "Barra de Sonido | Subwoofer",
+    "Tipo de Producto_1": [
+      "Barra de Sonido",
+      "Subwoofer"
+    ],
     "Conexión": "Alámbrica",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -11588,7 +12088,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | Inalámbrico | USB | WiFi",
     "Tamaño Pantalla_1": "164 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -11646,7 +12148,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "164 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -11704,7 +12208,9 @@
     "Opciones de Conectividad": "Conexión Con Cable | Inalámbrico | USB | WiFi",
     "Tamaño Pantalla_1": "127 Centímetros",
     "Tamaño Pantalla_2": "50 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "FHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -11762,7 +12268,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "139 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "OLED",
+    "Tipo de Pantalla": [
+      "OLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -11815,9 +12323,14 @@
     "Linea Modelo Referencia": "S70TR.ACOLLLK",
     "Garantía": "12 Meses",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Ideales para Gaming | Tiene Luces LED",
+    "Caracteristicas Especiales": [
+      "Ideales para Gaming",
+      "Tiene Luces LED"
+    ],
     "Qué incluye el producto": "Cable Óptico|Control Remoto|Tarjeta de garantía",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Inalámbrica",
     "Duracion de la Bateria": "0 Horas Aproximadas",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -11857,7 +12370,9 @@
     "Qué No incluye el producto": "Cable HDMI",
     "Color.1": "Negro",
     "Qué incluye el producto": "1  Cable auxiliar de Audio de 3.5mm<br>1 Manual de usuario<br>1 Hoja de Garantia<br>1 Control Remoto<br>1 Kit Soporte de pared",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Inalámbrica",
     "Duracion de la Bateria": "0 Horas Aproximadas",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -11962,7 +12477,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "108 Centímetros",
     "Tamaño Pantalla_2": "43 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "FHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -12019,7 +12536,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "190.5 Centímetros",
     "Tamaño Pantalla_2": "75 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -12074,10 +12593,16 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "Cable HDMI",
     "Color.1": "Blanco",
-    "Caracteristicas Especiales": "Controlable con Asistente de Voz Externo | Tiene Integrado Asistente de Voz | Tiene Luces LED",
+    "Caracteristicas Especiales": [
+      "Controlable con Asistente de Voz Externo",
+      "Tiene Integrado Asistente de Voz",
+      "Tiene Luces LED"
+    ],
     "Qué incluye el producto": "Cable HDMI y de energia",
     "Observaciones Adicionales": "Por expresa instrucción de la Superintendencia de Industria y Comercio se informa a los consumidores que para comparar el desempeño de los equipos reproductores de sonido, se debe utilizar la potencia en términos de RMS, debido a que la potencia PMPO no es compatible entre productos similares de fabricas diferentes.",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Inalámbrica",
     "Duracion de la Bateria": "0 Horas Aproximadas",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -12122,7 +12647,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "139 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -12186,7 +12713,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "190.5 Centímetros",
     "Tamaño Pantalla_2": "75 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -12246,7 +12775,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "139 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -12306,7 +12837,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "152.4 Centímetros",
     "Tamaño Pantalla_2": "60 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -12366,7 +12899,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "290 Centímetros",
     "Tamaño Pantalla_2": "115 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -12419,7 +12954,9 @@
     "Garantía": "12 Meses",
     "Color.1": "Negro",
     "Qué incluye el producto": "Incluye el cables HDMI™ y el cable de audio óptico",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Inalámbrica",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Cable óptico digital | Puerto HDMI",
@@ -12460,7 +12997,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "147.32 Centímetros",
     "Tamaño Pantalla_2": "58 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -12519,7 +13058,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "292.1 Centímetros",
     "Tamaño Pantalla_2": "115 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -12578,7 +13119,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "139 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -12636,7 +13179,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "165.1 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -12695,7 +13240,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "100.4 Centímetros",
     "Tamaño Pantalla_2": "40 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "FHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -12752,7 +13299,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "215.9 Centímetros",
     "Tamaño Pantalla_2": "85 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -12809,7 +13358,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | Inalámbrico | USB | WiFi",
     "Tamaño Pantalla_1": "248 Centímetros",
     "Tamaño Pantalla_2": "98 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -12867,7 +13418,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "217 Centímetros",
     "Tamaño Pantalla_2": "86 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -12924,7 +13477,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "165.1 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -12985,7 +13540,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "139 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -13039,9 +13596,14 @@
     "Linea Modelo Referencia": "S20A.ACOLLLK",
     "Garantía": "12 Meses",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Ideales para Gaming | Tiene Luces LED",
+    "Caracteristicas Especiales": [
+      "Ideales para Gaming",
+      "Tiene Luces LED"
+    ],
     "Qué incluye el producto": "Control Remoto|Tarjeta de garantía",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Alámbrica",
     "Duracion de la Bateria": "0 Horas Aproximadas",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -13085,7 +13647,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "165 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -13138,9 +13702,13 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "microfono",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Apto para Llamadas en Altavoz",
+    "Caracteristicas Especiales": [
+      "Apto para Llamadas en Altavoz"
+    ],
     "Qué incluye el producto": "Cable AC 1,5 metros/Manual Usuario/Manual Garantía/Control Remoto",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Alámbrica",
     "Duracion de la Bateria": "0 Horas Aproximadas",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -13184,7 +13752,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "248.9 Centímetros",
     "Tamaño Pantalla_2": "98 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -13242,7 +13812,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "248.9 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -13296,7 +13868,9 @@
     "Garantía": "12 Meses",
     "Color.1": "Negro",
     "Qué incluye el producto": "CONTROL REMOTO Baterías para el control remoto Cable ópticoCable de CA",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Inalámbrica",
     "Opciones de Conectividad": "Bluetooth",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -13341,7 +13915,9 @@
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "215.9 Centímetros",
     "Tamaño Pantalla_2": "85 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -13399,7 +13975,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "165 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -13459,7 +14037,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "177 Centímetros",
     "Tamaño Pantalla_2": "70 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -13517,7 +14097,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "164 Centímetros",
     "Tamaño Pantalla_2": "65 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -13574,7 +14156,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | Inalámbrico | USB | WiFi",
     "Tamaño Pantalla_1": "177 Centímetros",
     "Tamaño Pantalla_2": "70 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -13625,9 +14209,17 @@
     "Linea Modelo Referencia": "HW-Q600H/ZL",
     "Garantía": "12 Meses",
     "Color.1": "Titan Black",
-    "Caracteristicas Especiales": "Apto para Llamadas en Altavoz | Controlable con Asistente de Voz Externo | Ideales para Gaming | Tiene Luces LED",
+    "Caracteristicas Especiales": [
+      "Apto para Llamadas en Altavoz",
+      "Controlable con Asistente de Voz Externo",
+      "Ideales para Gaming",
+      "Tiene Luces LED"
+    ],
     "Observaciones Adicionales": "Soporte montaje de pared (Barra)-Control Remoto-Manual de usuario-Cable de poder (Barra y Subwoofer)-Subwoofer",
-    "Tipo de Producto_1": "Barra de Sonido | Subwoofer",
+    "Tipo de Producto_1": [
+      "Barra de Sonido",
+      "Subwoofer"
+    ],
     "Conexión": "Inalámbrica",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Cable óptico digital | Puerto HDMI",
@@ -13667,7 +14259,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "190.5 Centímetros",
     "Tamaño Pantalla_2": "75 Pulgadas",
-    "Tipo de Pantalla": "QLED",
+    "Tipo de Pantalla": [
+      "QLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -13722,7 +14316,9 @@
     "Linea Modelo Referencia": "GEN2",
     "Garantía": "12 Meses",
     "Color.1": "Negro",
-    "Tipo de Producto_1": "Barra de Sonido",
+    "Tipo de Producto_1": [
+      "Barra de Sonido"
+    ],
     "Conexión": "Alámbrica",
     "Opciones de Conectividad": "Conexión Con Cable | NFC | WiFi",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -13762,7 +14358,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "139.7 Centímetros",
     "Tamaño Pantalla_2": "55 Pulgadas",
-    "Tipo de Pantalla": "OLED",
+    "Tipo de Pantalla": [
+      "OLED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -13822,7 +14420,9 @@
     "Color.1": "Azul Marino metalizado",
     "Qué incluye el producto": "Proyector EF-62, Cable de alimentación, 1 Control remoto, <br>Guía de instalación rápida",
     "Observaciones Adicionales": "Hasta 2 años de garantía, con registro del producto en el sitio web de Epson colombia. Para obtener 12 meses adicionales (un total de 24 meses de garantía), registre su producto dentro de los 30 días posteriores a la fecha de compra del producto en www.https://epson.com.co/registro",
-    "Uso": "Hogar-Entretenimiento",
+    "Uso": [
+      "Hogar-Entretenimiento"
+    ],
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
     "Tipos de Puertos Entradas y Salidas": "Puerto HDMI | Puerto USB 2.0",
@@ -13860,7 +14460,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "254 Centímetros",
     "Tamaño Pantalla_2": "100 Pulgadas",
-    "Tipo de Pantalla": "Mini LED",
+    "Tipo de Pantalla": [
+      "Mini LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "4K-UHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",
@@ -13919,7 +14521,9 @@
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "108 Centímetros",
     "Tamaño Pantalla_2": "43 Pulgadas",
-    "Tipo de Pantalla": "LED",
+    "Tipo de Pantalla": [
+      "LED"
+    ],
     "Diseño de la pantalla": "Plano",
     "Resolucion Pantalla": "FHD",
     "Fuentes de Alimentacion de Energia": "Energía Eléctrica",

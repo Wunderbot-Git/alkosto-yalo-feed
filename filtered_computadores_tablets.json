@@ -73,7 +73,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Plateado",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
     "Tamaño Pantalla_1": "14 Pulgadas",
@@ -128,7 +130,10 @@
     "Linea Modelo Referencia": "Macbook Neo",
     "Garantía": "12 Meses",
     "Color.1": "Plata",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Reconocimiento de Voz",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Reconocimiento de Voz"
+    ],
     "Qué incluye el producto": "Adaptador de corriente USB-C de 20W, Cable de carga USB-C (1,5 metros)",
     "Duracion de la Bateria": "16 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
@@ -235,7 +240,11 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Cerceta",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Pantalla Táctil | Reconocimiento Facial",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Pantalla Táctil",
+      "Reconocimiento Facial"
+    ],
     "Qué incluye el producto": "Lapiz digital Lenovo Recargable",
     "Observaciones Adicionales": "PC con IA Copilot",
     "Duracion de la Bateria": "8 Horas Aproximadas",
@@ -295,7 +304,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Adaptador a Corriente",
     "Duracion de la Bateria": "6 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
@@ -353,7 +364,9 @@
     "Garantía": "36 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office, Maletin, mouse, cable HDMI",
     "Color.1": "Plata",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Adaptador a Corriente",
     "Duracion de la Bateria": "5 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -406,7 +419,9 @@
     "Linea Modelo Referencia": "83M00089LM",
     "Garantía": "12 Meses",
     "Color.1": "Eclipse",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Duracion de la Bateria": "7 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "15.1 Pulgadas",
@@ -462,7 +477,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Nube",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "23.8 Pulgadas",
@@ -539,7 +556,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 11 Pulgadas 512GB Chip M4 WiFi Gris Espacial se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 11 Pulgadas 512GB Chip M4 WiFi Gris Espacial tiene una pantalla de 11 pulgadas con resolución 2360 x 1640.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 11 Pulgadas 512GB Chip M4 WiFi Gris Espacial funciona con el chip Apple M4.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 11.0
@@ -566,7 +585,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Adaptador a Corriente",
     "Observaciones Adicionales": "La garantía de 24 Meses aplica desde el 1 de Agosto del 2026",
     "Duracion de la Bateria": "8 Horas Aproximadas",
@@ -626,7 +647,10 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Luna",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella"
+    ],
     "Qué incluye el producto": "Incluye Adaptador de Corriente",
     "Producto Exclusivo": "Sí es exclusivo",
     "Duracion de la Bateria": "12 Horas Aproximadas",
@@ -703,7 +727,10 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 11 Pulgadas 1TB Chip M4 WiFi + Red Cellular Gris Espacial admite conexión Red Celular 5G, WiFi: puedes usarlo con WiFi y también con datos móviles (SIM/eSIM según el modelo).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 11 Pulgadas 1TB Chip M4 WiFi + Red Cellular Gris Espacial tiene una pantalla de 11 pulgadas con resolución 2360 x 1640.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 11 Pulgadas 1TB Chip M4 WiFi + Red Cellular Gris Espacial funciona con el chip Apple M4.",
-    "Conexion a Datos": "Red Celular 5G | WiFi",
+    "Conexion a Datos": [
+      "Red Celular 5G",
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 11.0
@@ -729,7 +756,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador de Corriente",
     "Duracion de la Bateria": "6 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
@@ -809,7 +838,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Pro 13 Pulgadas 512GB Chip M5 WiFi Plateado se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Pro 13 Pulgadas 512GB Chip M5 WiFi Plateado tiene una pantalla de 13 pulgadas con resolución 2420 x 1668.",
     "¿Qué chip tiene esta tablet?": "El iPad Pro 13 Pulgadas 512GB Chip M5 WiFi Plateado funciona con el chip Apple M5.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad Pro 13 Pulgadas 512GB Chip M5 WiFi Plateado tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -838,7 +869,10 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Gris Mecha",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Pantalla Táctil",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Pantalla Táctil"
+    ],
     "Qué incluye el producto": "Stylus (ASUS Pen SA205H-MPP2.6 support), Adaptador a Corriente",
     "Observaciones Adicionales": "La garantía de 24 Meses aplica desde el 1 de Agosto del 2026",
     "Duracion de la Bateria": "10 Horas Aproximadas",
@@ -896,7 +930,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye paquete office",
     "Color.1": "Plateado natural",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Duracion de la Bateria": "10 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -955,7 +991,10 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Nano Black",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Pantalla Táctil",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Pantalla Táctil"
+    ],
     "Qué incluye el producto": "Incluye Adaptador de Corriente, Morral",
     "Observaciones Adicionales": "Material de aluminio - Pantalla Validada por PANTONE",
     "Duracion de la Bateria": "8 Horas Aproximadas",
@@ -1034,7 +1073,9 @@
     "Velocidad del Procesador": "Hasta 2.7 GHz",
     "Núcleos del Procesador": "8 Nucleos",
     "Capacidad de Almacenamiento": "256 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "8 Megapixeles",
     "Resolucion Camara Posterior": "8 Megapixeles",
     "tipo_producto": "tablet",
@@ -1063,7 +1104,11 @@
     "Linea Modelo Referencia": "MDH74E/A",
     "Garantía": "12 Meses",
     "Color.1": "Plata",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella | Reconocimiento de Voz",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella",
+      "Reconocimiento de Voz"
+    ],
     "Qué incluye el producto": "Adaptador de corriente dinámico de 40 W con un máximo de 60 W, Cable de USB‑C a MagSafe 3 (2 m)",
     "Observaciones Adicionales": "El GPU ( Unidad de Procesamiento Gráfico) viene integrado con el Chip M5",
     "Duracion de la Bateria": "18 Horas Aproximadas",
@@ -1121,7 +1166,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Blanco Algodón",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Combo de teclado y mouse inalámbricos,Adaptador a Corriente",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "23.8 Pulgadas",
@@ -1227,14 +1274,16 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye paquete Office",
     "Color.1": "Luna",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Duracion de la Bateria": "7.5 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "15.6 Pulgadas",
     "Resolucion Pantalla": "Full HD",
     "Fuentes de Alimentacion de Energia": "Batería Recargable Interna",
     "Tipos de Puertos Entradas y Salidas": "Puerto HDMI 2.1 | Puerto LAN/Ethernet | Puerto USB 3.2 | Puerto USB Tipo C | Salida de Audífonos",
-    "Aviso Legal": "En Los computadores PORTATILES La duración de la batería es un valor aproximado y depende del uso que se le de al equipo. (Los computadores De escritorio NO tienen batería)|En Los computadores PORTATILES La duración de la batería es un valor aproximado y depende del uso que se le de al equipo. (Los computadores De escritorio NO tienen batería)",
+    "Aviso Legal": "En Los computadores PORTATILES La duración de la batería es un valor aproximado y depende del uso que se le de al equipo. (Los computadores De escritorio NO tienen batería)",
     "Memoria RAM": "16 GB",
     "Marca del Procesador": "INTEL",
     "Sistema Operativo": "Windows",
@@ -1305,7 +1354,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 13 Pulgadas 128GB Chip M4 WiFi Gris Espacial se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 13 Pulgadas 128GB Chip M4 WiFi Gris Espacial tiene una pantalla de 13 pulgadas con resolución 2732 x 2048.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 13 Pulgadas 128GB Chip M4 WiFi Gris Espacial funciona con el chip Apple M4.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 13.0
@@ -1331,7 +1382,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Quiet Blue",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador Corriente, Mouse óptico Alámbrico USB",
     "Observaciones Adicionales": "Chasis con certificado US MIL-STD 810H military-grade",
     "Duracion de la Bateria": "6 Horas Aproximadas",
@@ -1412,7 +1465,12 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 13 Pulgadas 1TB Chip M3 WiFi + Red Cellular Gris Espacial admite conexión Red Celular 3G, Red Celular 4G, Red Celular 5G, WiFi: puedes usarlo con WiFi y también con datos móviles (SIM/eSIM según el modelo).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 13 Pulgadas 1TB Chip M3 WiFi + Red Cellular Gris Espacial tiene una pantalla de 13 pulgadas con resolución 2360 x 1640.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 13 Pulgadas 1TB Chip M3 WiFi + Red Cellular Gris Espacial funciona con el chip Apple M3.",
-    "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
+    "Conexion a Datos": [
+      "Red Celular 3G",
+      "Red Celular 4G",
+      "Red Celular 5G",
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad Air 13 Pulgadas 1TB Chip M3 WiFi + Red Cellular Gris Espacial tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -1441,7 +1499,13 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Azul",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella | Pantalla Táctil | Reconocimiento Facial | Windows Ink",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella",
+      "Pantalla Táctil",
+      "Reconocimiento Facial",
+      "Windows Ink"
+    ],
     "Qué incluye el producto": "Cargador y Manual de Usuario y Stylus",
     "Producto Exclusivo": "Sí es exclusivo",
     "Duracion de la Bateria": "12 Horas Aproximadas",
@@ -1516,7 +1580,9 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "256 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "8 Megapixeles",
     "Resolucion Camara Posterior": "13 Megapixeles",
     "tipo_producto": "tablet",
@@ -1544,7 +1610,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 366",
     "Color.1": "Plateado",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
     "Tamaño Pantalla_1": "15.6 Pulgadas",
@@ -1597,7 +1665,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Mouse y Teclado inalámbrico",
     "Opciones de Conectividad": "Bluetooth | WiFi",
     "Tamaño Pantalla_1": "27 Pulgadas",
@@ -1648,7 +1718,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Adaptador a Corriente",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
@@ -1707,7 +1779,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "Teclado retroiluminado",
     "Color.1": "Abismo",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Duracion de la Bateria": "7.5 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "15.6 Pulgadas",
@@ -1759,7 +1833,10 @@
     "Linea Modelo Referencia": "21S7000RLM",
     "Garantía": "36 Meses",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella"
+    ],
     "Qué incluye el producto": "Adaptador a corriente",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
@@ -1837,7 +1914,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 11 Pulgadas 128GB Chip M4 WiFi Azul se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 11 Pulgadas 128GB Chip M4 WiFi Azul tiene una pantalla de 11 pulgadas con resolución 2360 x 1640.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 11 Pulgadas 128GB Chip M4 WiFi Azul funciona con el chip Apple M4.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad Air 11 Pulgadas 128GB Chip M4 WiFi Azul tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -1867,7 +1946,10 @@
     "Linea Modelo Referencia": "Macbook Neo",
     "Garantía": "12 Meses",
     "Color.1": "Azul",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Reconocimiento de Voz",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Reconocimiento de Voz"
+    ],
     "Qué incluye el producto": "Adaptador de corriente USB-C de 20W, Cable de carga USB-C (1,5 metros)",
     "Duracion de la Bateria": "16 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
@@ -1922,7 +2004,11 @@
     "Linea Modelo Referencia": "MDHG4E/A",
     "Garantía": "12 Meses",
     "Color.1": "Azul",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella | Reconocimiento de Voz",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella",
+      "Reconocimiento de Voz"
+    ],
     "Qué incluye el producto": "Adaptador de corriente dinámico de 40 W con un máximo de 60 W, Cable de USB‑C a MagSafe 3 (2 m)",
     "Observaciones Adicionales": "El GPU ( Unidad de Procesamiento Gráfico) viene integrado con el Chip M5",
     "Duracion de la Bateria": "18 Horas Aproximadas",
@@ -2000,7 +2086,9 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "512 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "13 Megapixeles",
     "tipo_producto": "tablet",
@@ -2028,7 +2116,11 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office - Bateria de lapiz digital",
     "Color.1": "Cosmico",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Pantalla Táctil | Reconocimiento Facial",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Pantalla Táctil",
+      "Reconocimiento Facial"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente - Manuales - Lapiz digital",
     "Duracion de la Bateria": "7.5 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
@@ -2265,7 +2357,9 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "128 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "5 Megapixeles",
     "Resolucion Camara Posterior": "8 Megapixeles",
     "tipo_producto": "tablet",
@@ -2293,7 +2387,10 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Negro Nano",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Pantalla Táctil",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Pantalla Táctil"
+    ],
     "Qué incluye el producto": "Adaptador de Corriente, Lápiz óptico, Funda y Soporte",
     "Observaciones Adicionales": "Material de aluminio - Pantalla Validada por PANTONE",
     "Duracion de la Bateria": "10 Horas Aproximadas",
@@ -2353,7 +2450,10 @@
     "Linea Modelo Referencia": "MacBook Pro",
     "Garantía": "12 Meses",
     "Color.1": "Plata",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella"
+    ],
     "Qué incluye el producto": "Cable de carga USB-C (2 m) / Adaptador de corriente USB-C de 67 W",
     "Observaciones Adicionales": "Tipo de Procesador: Apple M2, CPU 8 núcleos GPU 10 Núcleos, CPU & GPU unificada en Chip M2",
     "Duracion de la Bateria": "20 Horas Aproximadas",
@@ -2411,7 +2511,10 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye paquete Office",
     "Color.1": "Abismo",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Pantalla Táctil",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Pantalla Táctil"
+    ],
     "Qué incluye el producto": "Incluye Adaptador de Corriente",
     "Duracion de la Bateria": "7 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
@@ -2471,7 +2574,10 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye paquete Office",
     "Color.1": "Luna",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Reconocimiento Facial",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Reconocimiento Facial"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Duracion de la Bateria": "18 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
@@ -2528,7 +2634,12 @@
     "Garantía": "36 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella | Pantalla Táctil | Reconocimiento Facial",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella",
+      "Pantalla Táctil",
+      "Reconocimiento Facial"
+    ],
     "Qué incluye el producto": "Adaptador a corriente",
     "Duracion de la Bateria": "7 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
@@ -2586,7 +2697,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye paquete office",
     "Color.1": "Negro Sombra",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Duracion de la Bateria": "10 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
@@ -2660,7 +2773,9 @@
     "Velocidad del Procesador": "(4x 2.0Ghz + 4x 1.5GHz)",
     "Núcleos del Procesador": "8 Nucleos",
     "Capacidad de Almacenamiento": "128 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "5 Megapixeles",
     "Resolucion Camara Posterior": "8 Megapixeles",
     "tipo_producto": "tablet",
@@ -2705,7 +2820,9 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "128 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "8 Megapixeles",
     "Resolucion Camara Posterior": "13 Megapixeles",
     "tipo_producto": "tablet",
@@ -2753,7 +2870,10 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 11 Pulgadas 256GB Chip M4 WiFi + Red Cellular Morado admite conexión Red Celular 5G, WiFi: puedes usarlo con WiFi y también con datos móviles (SIM/eSIM según el modelo).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 11 Pulgadas 256GB Chip M4 WiFi + Red Cellular Morado tiene una pantalla de 11 pulgadas con resolución 2360 x 1640.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 11 Pulgadas 256GB Chip M4 WiFi + Red Cellular Morado funciona con el chip Apple M4.",
-    "Conexion a Datos": "Red Celular 5G | WiFi",
+    "Conexion a Datos": [
+      "Red Celular 5G",
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 11.0
@@ -2779,7 +2899,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye paquete office",
     "Color.1": "Plata Mica",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Duracion de la Bateria": "7 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
@@ -2837,7 +2959,10 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye paquete Office",
     "Color.1": "Luna",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Reconocimiento Facial",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Reconocimiento Facial"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Opciones de Conectividad": "Bluetooth | Inalámbrico | USB | WiFi",
     "Tamaño Pantalla_1": "23.8 Pulgadas",
@@ -2893,7 +3018,10 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye paquete office",
     "Color.1": "Azul",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Pantalla Táctil",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Pantalla Táctil"
+    ],
     "Qué incluye el producto": "Adaptador de Corriente",
     "Observaciones Adicionales": "La garantía de 24 Meses aplica desde el 1 de Agosto del 2026",
     "Duracion de la Bateria": "8 Horas Aproximadas",
@@ -2947,7 +3075,9 @@
     "Linea Modelo Referencia": "F0HM0085LD",
     "Garantía": "12 Meses",
     "Color.1": "Luna",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Observaciones Adicionales": "Mouse y teclado Inalámbrico",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "27 Pulgadas",
@@ -3019,7 +3149,9 @@
     "Velocidad del Procesador": "4X 2.2GHz, 4X 2GHz",
     "Núcleos del Procesador": "8 Nucleos",
     "Capacidad de Almacenamiento": "128 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "8 Megapixeles",
     "Resolucion Camara Posterior": "2 Megapixeles",
     "tipo_producto": "tablet",
@@ -3047,7 +3179,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Adaptador de Corriente",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -3100,7 +3234,10 @@
     "Linea Modelo Referencia": "PB440G10",
     "Garantía": "12 Meses",
     "Color.1": "Plata",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Pantalla Táctil",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Pantalla Táctil"
+    ],
     "Producto Exclusivo": "Sí es exclusivo",
     "Duracion de la Bateria": "11 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -3154,7 +3291,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Duracion de la Bateria": "6 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
@@ -3229,7 +3368,9 @@
     "Velocidad del Procesador": "Hasta 2.7 GHz",
     "Núcleos del Procesador": "8 Nucleos",
     "Capacidad de Almacenamiento": "128 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "8 Megapixeles",
     "Resolucion Camara Posterior": "8 Megapixeles",
     "tipo_producto": "tablet",
@@ -3256,7 +3397,9 @@
     "Linea Modelo Referencia": "9S7-15Q342-1081",
     "Garantía": "24 Meses",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Morral, Adaptador a Corriente",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
@@ -3333,7 +3476,9 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "128 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "5 Megapixeles",
     "Resolucion Camara Posterior": "8 Megapixeles",
     "tipo_producto": "tablet",
@@ -3411,7 +3556,10 @@
     "Linea Modelo Referencia": "MWUC3LZ/A",
     "Garantía": "12 Meses",
     "Color.1": "Plateado",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Reconocimiento de Voz",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Reconocimiento de Voz"
+    ],
     "Qué incluye el producto": "Incluye Magic Keyboard con Lock Key y Magic Mouse",
     "Observaciones Adicionales": "Tarjeta Gráfica incluida en el Chip M4: La innovadora arquitectura del sistema en chip (SoC) combina en un mismo chip el CPU, el GPU, la memoria y mucho más, para que todo funcione más rápido con un consumo de energía mucho menor.",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -3491,7 +3639,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Pro 13 Pulgadas 256GB Chip M5 WiFi Plateado se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Pro 13 Pulgadas 256GB Chip M5 WiFi Plateado tiene una pantalla de 13 pulgadas con resolución 2420 x 1668.",
     "¿Qué chip tiene esta tablet?": "El iPad Pro 13 Pulgadas 256GB Chip M5 WiFi Plateado funciona con el chip Apple M5.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad Pro 13 Pulgadas 256GB Chip M5 WiFi Plateado tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -3538,7 +3688,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Mini 8.3 Pulgadas 128GB WiFi Azul se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Mini 8.3 Pulgadas 128GB WiFi Azul tiene una pantalla de 8,3 pulgadas con resolución 2266 x 1488.",
     "¿Qué chip tiene esta tablet?": "El iPad Mini 8.3 Pulgadas 128GB WiFi Azul funciona con el chip Apple A17.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad Mini 8.3 Pulgadas 128GB WiFi Azul tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -3567,7 +3719,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye paquete office",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a corriente",
     "Observaciones Adicionales": "La garantía de 24 Meses aplica desde el 1 de Agosto del 2026",
     "Duracion de la Bateria": "8 Horas Aproximadas",
@@ -3643,7 +3797,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 11 Pulgadas 256GB Chip M4 WiFi Morado se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 11 Pulgadas 256GB Chip M4 WiFi Morado tiene una pantalla de 11 pulgadas con resolución 2360 x 1640.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 11 Pulgadas 256GB Chip M4 WiFi Morado funciona con el chip Apple M4.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 11.0
@@ -3692,7 +3848,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Pro 13 Pulgadas 256GB Chip M5 WiFi Negro se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Pro 13 Pulgadas 256GB Chip M5 WiFi Negro tiene una pantalla de 13 pulgadas con resolución 2420 x 1668.",
     "¿Qué chip tiene esta tablet?": "El iPad Pro 13 Pulgadas 256GB Chip M5 WiFi Negro funciona con el chip Apple M5.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad Pro 13 Pulgadas 256GB Chip M5 WiFi Negro tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -3721,7 +3879,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office, Teclado retroiluminado",
     "Color.1": "Luna",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Duracion de la Bateria": "6 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "14 Pulgadas",
@@ -3795,7 +3955,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Mini 8.3 Pulgadas 256GB WiFi Blanco Estelar se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Mini 8.3 Pulgadas 256GB WiFi Blanco Estelar tiene una pantalla de 8,3 pulgadas con resolución 2266 x 1488.",
     "¿Qué chip tiene esta tablet?": "El iPad Mini 8.3 Pulgadas 256GB WiFi Blanco Estelar funciona con el chip Apple A17.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad Mini 8.3 Pulgadas 256GB WiFi Blanco Estelar tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -3838,7 +4000,9 @@
     "Velocidad del Procesador": "6*ARM Cortex-A55 @ 2.0 GHz,2*ARM Cortex-A76 @ 2.2 GHz",
     "Núcleos del Procesador": "8 Nucleos",
     "Capacidad de Almacenamiento": "256 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "13 Megapixeles",
     "Resolucion Camara Posterior": "8 Megapixeles",
     "tipo_producto": "tablet",
@@ -3866,7 +4030,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Plateado",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
     "Tamaño Pantalla_1": "15.6 Pulgadas",
@@ -3920,7 +4086,10 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Plateado",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Pantalla Táctil",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Pantalla Táctil"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Duracion de la Bateria": "15 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -4032,7 +4201,11 @@
     "Linea Modelo Referencia": "MDVD4E/A",
     "Garantía": "12 Meses",
     "Color.1": "Blanco",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella | Reconocimiento de Voz",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella",
+      "Reconocimiento de Voz"
+    ],
     "Qué incluye el producto": "Adaptador de corriente dinámico de 40 W con un máximo de 60 W, Cable de USB‑C a MagSafe 3 (2 m)",
     "Observaciones Adicionales": "El GPU ( Unidad de Procesamiento Gráfico) viene integrado con el Chip M5",
     "Duracion de la Bateria": "18 Horas Aproximadas",
@@ -4090,7 +4263,10 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Aluminio espresso profundo",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Pantalla Táctil",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Pantalla Táctil"
+    ],
     "Qué incluye el producto": "Incluye Adaptador de corriente",
     "Duracion de la Bateria": "12 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -4165,7 +4341,9 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "512 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "13 Megapixeles",
     "tipo_producto": "tablet",
@@ -4247,7 +4425,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Duracion de la Bateria": "6 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
@@ -4304,7 +4484,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "Audífonos",
     "Color.1": "Plateado",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Observaciones Adicionales": "La garantía de 24 Meses aplica desde el 1 de Agosto del 2026",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -4381,7 +4563,12 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Pro 11 Pulgadas 256GB Chip M5 WiFi + Red Cellular Negro admite conexión Red Celular 3G, Red Celular 4G, Red Celular 5G, WiFi: puedes usarlo con WiFi y también con datos móviles (SIM/eSIM según el modelo).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Pro 11 Pulgadas 256GB Chip M5 WiFi + Red Cellular Negro tiene una pantalla de 11 pulgadas con resolución 2420 x 1668.",
     "¿Qué chip tiene esta tablet?": "El iPad Pro 11 Pulgadas 256GB Chip M5 WiFi + Red Cellular Negro funciona con el chip Apple M5.",
-    "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
+    "Conexion a Datos": [
+      "Red Celular 3G",
+      "Red Celular 4G",
+      "Red Celular 5G",
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad Pro 11 Pulgadas 256GB Chip M5 WiFi + Red Cellular Negro tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -4424,7 +4611,9 @@
     "Velocidad del Procesador": "2.2",
     "Núcleos del Procesador": "8 Nucleos",
     "Capacidad de Almacenamiento": "256 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "5 Megapixeles",
     "Resolucion Camara Posterior": "13 Megapixeles",
     "tipo_producto": "tablet",
@@ -4452,7 +4641,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Duracion de la Bateria": "6 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
     "Tamaño Pantalla_1": "15.6 Pulgadas",
@@ -4508,7 +4699,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Azul",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Adaptador de Corriente",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -4584,7 +4777,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 11 Pulgadas 256GB Chip M4 WiFi Gris Espacial se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 11 Pulgadas 256GB Chip M4 WiFi Gris Espacial tiene una pantalla de 11 pulgadas con resolución 2360 x 1640.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 11 Pulgadas 256GB Chip M4 WiFi Gris Espacial funciona con el chip Apple M4.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 11.0
@@ -4610,7 +4805,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Ártico",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Observaciones Adicionales": "Certificación TÜV Luz azul baja (hardware Solución)",
     "Duracion de la Bateria": "6 Horas Aproximadas",
@@ -4687,7 +4884,10 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 13 Pulgadas 256GB Chip M4 WiFi + Red Cellular Gris Espacial admite conexión Red Celular 5G, WiFi: puedes usarlo con WiFi y también con datos móviles (SIM/eSIM según el modelo).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 13 Pulgadas 256GB Chip M4 WiFi + Red Cellular Gris Espacial tiene una pantalla de 13 pulgadas con resolución 2732 x 2048.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 13 Pulgadas 256GB Chip M4 WiFi + Red Cellular Gris Espacial funciona con el chip Apple M4.",
-    "Conexion a Datos": "Red Celular 5G | WiFi",
+    "Conexion a Datos": [
+      "Red Celular 5G",
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 13.0
@@ -4734,7 +4934,10 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 11 Pulgadas 128GB Chip M4 WiFi + Red Cellular Gris Espacial admite conexión Red Celular 5G, WiFi: puedes usarlo con WiFi y también con datos móviles (SIM/eSIM según el modelo).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 11 Pulgadas 128GB Chip M4 WiFi + Red Cellular Gris Espacial tiene una pantalla de 11 pulgadas con resolución 2360 x 1640.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 11 Pulgadas 128GB Chip M4 WiFi + Red Cellular Gris Espacial funciona con el chip Apple M4.",
-    "Conexion a Datos": "Red Celular 5G | WiFi",
+    "Conexion a Datos": [
+      "Red Celular 5G",
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 11.0
@@ -4782,7 +4985,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 13 Pulgadas 256GB Chip M4 WiFi Morado se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 13 Pulgadas 256GB Chip M4 WiFi Morado tiene una pantalla de 13 pulgadas con resolución 2732 x 2048.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 13 Pulgadas 256GB Chip M4 WiFi Morado funciona con el chip Apple M4.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 13.0
@@ -4808,7 +5013,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Gentle Grey",
-    "Caracteristicas Especiales": "Lector de Huella",
+    "Caracteristicas Especiales": [
+      "Lector de Huella"
+    ],
     "Qué incluye el producto": "Adaptador Corriente, Mouse óptico Alámbrico USB",
     "Observaciones Adicionales": "Certificado US MIL-STD 810H military-grade - Cámara Full HD 1080p Con obturador de privacidad",
     "Producto Exclusivo": "Sí es exclusivo",
@@ -4943,7 +5150,10 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 13 Pulgadas 512GB Chip M4 WiFi + Red Cellular Gris Espacial admite conexión Red Celular 5G, WiFi: puedes usarlo con WiFi y también con datos móviles (SIM/eSIM según el modelo).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 13 Pulgadas 512GB Chip M4 WiFi + Red Cellular Gris Espacial tiene una pantalla de 13 pulgadas con resolución 2732 x 2048.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 13 Pulgadas 512GB Chip M4 WiFi + Red Cellular Gris Espacial funciona con el chip Apple M4.",
-    "Conexion a Datos": "Red Celular 5G | WiFi",
+    "Conexion a Datos": [
+      "Red Celular 5G",
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 13.0
@@ -4991,7 +5201,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 13 Pulgadas 128GB Chip M4 WiFi Blanco Estelar se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 13 Pulgadas 128GB Chip M4 WiFi Blanco Estelar tiene una pantalla de 13 pulgadas con resolución 2732 x 2048.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 13 Pulgadas 128GB Chip M4 WiFi Blanco Estelar funciona con el chip Apple M4.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 13.0
@@ -5039,7 +5251,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 13 Pulgadas 256GB Chip M4 WiFi Gris Espacial se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 13 Pulgadas 256GB Chip M4 WiFi Gris Espacial tiene una pantalla de 13 pulgadas con resolución 2732 x 2048.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 13 Pulgadas 256GB Chip M4 WiFi Gris Espacial funciona con el chip Apple M4.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 13.0
@@ -5065,7 +5279,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Iceland Gray",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador de Corriente, Funda",
     "Observaciones Adicionales": "Materia de Ceraluminum™ (aleación de aluminio-magnesio ceramizada)",
     "Duracion de la Bateria": "9 Horas Aproximadas",
@@ -5144,7 +5360,9 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "128 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "13 Megapixeles",
     "tipo_producto": "tablet",
@@ -5227,7 +5445,10 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Azul Claro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Pantalla Táctil",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Pantalla Táctil"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Duracion de la Bateria": "10 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -5307,7 +5528,10 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 11 Pulgadas 128GB Chip M4 WiFi + Red Cellular Morado admite conexión Red Celular 5G, WiFi: puedes usarlo con WiFi y también con datos móviles (SIM/eSIM según el modelo).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 11 Pulgadas 128GB Chip M4 WiFi + Red Cellular Morado tiene una pantalla de 11 pulgadas con resolución 2360 x 1640.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 11 Pulgadas 128GB Chip M4 WiFi + Red Cellular Morado funciona con el chip Apple M4.",
-    "Conexion a Datos": "Red Celular 5G | WiFi",
+    "Conexion a Datos": [
+      "Red Celular 5G",
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 11.0
@@ -5333,7 +5557,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye paquete Office",
     "Color.1": "Luna",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Duracion de la Bateria": "7 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
@@ -5391,7 +5617,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye paquete office",
     "Color.1": "Plateado natural",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Duracion de la Bateria": "10 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -5462,7 +5690,9 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "128 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "5 Megapixeles",
     "Resolucion Camara Posterior": "8 Megapixeles",
     "tipo_producto": "tablet",
@@ -5495,7 +5725,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye paquete office",
     "Color.1": "Gris Mecha",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Observaciones Adicionales": "La garantía de 24 Meses aplica desde el 1 de Agosto del 2026",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -5578,7 +5810,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad 11 Pulgadas 128GB Chip A16 WiFi Azul se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad 11 Pulgadas 128GB Chip A16 WiFi Azul tiene una pantalla de 11 pulgadas con resolución 2360 x 1640.",
     "¿Qué chip tiene esta tablet?": "El iPad 11 Pulgadas 128GB Chip A16 WiFi Azul funciona con el chip Apple A16.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad 11 Pulgadas 128GB Chip A16 WiFi Azul tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -5607,7 +5841,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye paquete Office",
     "Color.1": "Plateado Glacial",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Duracion de la Bateria": "10 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -5680,7 +5916,9 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "128 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "8 Megapixeles",
     "Resolucion Camara Posterior": "13 Megapixeles",
     "tipo_producto": "tablet",
@@ -5707,7 +5945,10 @@
     "Linea Modelo Referencia": "AV14-52P-72B2",
     "Garantía": "12 Meses",
     "Color.1": "Azul",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella"
+    ],
     "Duracion de la Bateria": "10 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "14 Pulgadas",
@@ -5760,7 +6001,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye paquete office",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a corriente",
     "Observaciones Adicionales": "La garantía de 24 Meses aplica desde el 1 de Agosto del 2026",
     "Duracion de la Bateria": "8 Horas Aproximadas",
@@ -5830,7 +6073,9 @@
     "Velocidad del Procesador": "4X 2.5GHz, 4X 2GHz",
     "Núcleos del Procesador": "8 Nucleos",
     "Capacidad de Almacenamiento": "256 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "5 Megapixeles",
     "Resolucion Camara Posterior": "8 Megapixeles",
     "tipo_producto": "tablet",
@@ -5857,7 +6102,12 @@
     "Linea Modelo Referencia": "83ED003PLM",
     "Garantía": "12 Meses",
     "Color.1": "Cósmico",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Pantalla Táctil | Reconocimiento de Voz | Reconocimiento Facial",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Pantalla Táctil",
+      "Reconocimiento de Voz",
+      "Reconocimiento Facial"
+    ],
     "Observaciones Adicionales": "Eyesafe 2,0 - Certificación TÜV Luz azul baja (software Solución)",
     "Duracion de la Bateria": "16 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
@@ -5909,7 +6159,9 @@
     "Linea Modelo Referencia": "9S7-15QL42-097",
     "Garantía": "24 Meses",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Morral",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
@@ -5968,7 +6220,12 @@
     "Garantía": "36 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella | Pantalla Táctil | Reconocimiento Facial",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella",
+      "Pantalla Táctil",
+      "Reconocimiento Facial"
+    ],
     "Qué incluye el producto": "Adaptador a corriente",
     "Duracion de la Bateria": "7 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
@@ -6025,7 +6282,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Musgo de brisa",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Duracion de la Bateria": "6 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
@@ -6082,7 +6341,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Gris",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador de Corriente",
     "Observaciones Adicionales": "La garantía de 24 Meses aplica desde el 1 de Agosto del 2026",
     "Duracion de la Bateria": "8 Horas Aproximadas",
@@ -6154,7 +6415,9 @@
     "Velocidad del Procesador": "Hasta 3.0 GHz",
     "Núcleos del Procesador": "8 Nucleos",
     "Capacidad de Almacenamiento": "256 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "8 Megapixeles",
     "Resolucion Camara Posterior": "13 Megapixeles",
     "tipo_producto": "tablet",
@@ -6183,7 +6446,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "Teclado retroiluminado, ni paquete Office",
     "Color.1": "Cósmico",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Adaptador de Corriente",
     "Duracion de la Bateria": "6 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
@@ -6242,7 +6507,10 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Nube",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Reconocimiento Facial",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Reconocimiento Facial"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente - Manuales",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "23.8 Pulgadas",
@@ -6297,7 +6565,10 @@
     "Linea Modelo Referencia": "16-ag1052la",
     "Garantía": "12 Meses",
     "Color.1": "Plata glaciar",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Pantalla Táctil",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Pantalla Táctil"
+    ],
     "Duracion de la Bateria": "14 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
     "Tamaño Pantalla_1": "16 Pulgadas",
@@ -6353,7 +6624,11 @@
     "Linea Modelo Referencia": "MDHF4E/A",
     "Garantía": "12 Meses",
     "Color.1": "Azul",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella | Reconocimiento de Voz",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella",
+      "Reconocimiento de Voz"
+    ],
     "Qué incluye el producto": "Adaptador de corriente dinámico de 40 W con un máximo de 60 W, Cable de USB‑C a MagSafe 3 (2 m)",
     "Observaciones Adicionales": "El GPU ( Unidad de Procesamiento Gráfico) viene integrado con el Chip M5",
     "Duracion de la Bateria": "18 Horas Aproximadas",
@@ -6433,7 +6708,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 13 Pulgadas 256GB Chip M4 WiFi Azul se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 13 Pulgadas 256GB Chip M4 WiFi Azul tiene una pantalla de 13 pulgadas con resolución 2732 x 2048.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 13 Pulgadas 256GB Chip M4 WiFi Azul funciona con el chip Apple M4.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 13.0
@@ -6458,7 +6735,9 @@
     "Linea Modelo Referencia": "9S7-15A341-227",
     "Garantía": "24 Meses",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Morral, Adaptador a Corriente",
     "Duracion de la Bateria": "12 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
@@ -6517,7 +6796,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Plateado",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Adaptador a Corriente",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
@@ -6573,7 +6854,10 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Artico",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella"
+    ],
     "Qué incluye el producto": "Adaptador a corriente",
     "Duracion de la Bateria": "10 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
@@ -6632,7 +6916,11 @@
     "Linea Modelo Referencia": "MDVH4E/A",
     "Garantía": "12 Meses",
     "Color.1": "Azul",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella | Reconocimiento de Voz",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella",
+      "Reconocimiento de Voz"
+    ],
     "Qué incluye el producto": "Adaptador de corriente dinámico de 40 W con un máximo de 60 W, Cable de USB‑C a MagSafe 3 (2 m)",
     "Observaciones Adicionales": "El GPU ( Unidad de Procesamiento Gráfico) viene integrado con el Chip M5",
     "Duracion de la Bateria": "18 Horas Aproximadas",
@@ -6709,7 +6997,9 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "128 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "13 Megapixeles",
     "tipo_producto": "tablet",
@@ -6736,7 +7026,9 @@
     "Linea Modelo Referencia": "9S7-13S121-030",
     "Garantía": "24 Meses",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Maletín",
     "Observaciones Adicionales": "Dos años de garantía , seguridad y respaldo",
     "Duracion de la Bateria": "8 Horas Aproximadas",
@@ -6795,7 +7087,10 @@
     "Garantía": "36 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella"
+    ],
     "Qué incluye el producto": "Adaptador a  Corriente, Convertidor USB C – Rj45",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
@@ -6852,7 +7147,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Duracion de la Bateria": "6 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
@@ -6928,7 +7225,9 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "128 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 35,
     "screen_size_inches": 13.1
@@ -6976,7 +7275,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 11 Pulgadas 128GB Chip M4 WiFi Blanco Estelar se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 11 Pulgadas 128GB Chip M4 WiFi Blanco Estelar tiene una pantalla de 11 pulgadas con resolución 2360 x 1640.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 11 Pulgadas 128GB Chip M4 WiFi Blanco Estelar funciona con el chip Apple M4.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 11.0
@@ -7002,7 +7303,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye paquete Office",
     "Color.1": "Eclipse",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Duracion de la Bateria": "7 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
@@ -7075,7 +7378,9 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "256 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "8 Megapixeles",
     "Resolucion Camara Posterior": "13 Megapixeles",
     "tipo_producto": "tablet",
@@ -7103,7 +7408,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Plata Nouvelle",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Adaptador de corriente",
     "Duracion de la Bateria": "12 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -7182,7 +7489,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 11 Pulgadas 128GB Chip M4 WiFi Morado se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 11 Pulgadas 128GB Chip M4 WiFi Morado tiene una pantalla de 11 pulgadas con resolución 2360 x 1640.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 11 Pulgadas 128GB Chip M4 WiFi Morado funciona con el chip Apple M4.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 11.0
@@ -7208,7 +7517,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Plateado",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Adaptador a Corriente",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -7279,7 +7590,9 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "256 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "8 Megapixeles",
     "Resolucion Camara Posterior": "8 Megapixeles",
     "tipo_producto": "tablet",
@@ -7306,7 +7619,11 @@
     "Linea Modelo Referencia": "83JR000FLM",
     "Garantía": "12 Meses",
     "Color.1": "Cerceta",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Pantalla Táctil | Reconocimiento Facial",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Pantalla Táctil",
+      "Reconocimiento Facial"
+    ],
     "Qué incluye el producto": "Lápiz digital Lenovo Recargable",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
@@ -7362,7 +7679,10 @@
     "Garantía": "36 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella"
+    ],
     "Qué incluye el producto": "Adaptador a  Corriente, Convertidor USB C – Rj45",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
@@ -7419,7 +7739,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Duracion de la Bateria": "6 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
@@ -7501,7 +7823,12 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Pro 13 Pulgadas 256GB Chip M5 WiFi + Red Cellular Negro admite conexión Red Celular 3G, Red Celular 4G, Red Celular 5G, WiFi: puedes usarlo con WiFi y también con datos móviles (SIM/eSIM según el modelo).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Pro 13 Pulgadas 256GB Chip M5 WiFi + Red Cellular Negro tiene una pantalla de 13 pulgadas con resolución 2420 x 1668.",
     "¿Qué chip tiene esta tablet?": "El iPad Pro 13 Pulgadas 256GB Chip M5 WiFi + Red Cellular Negro funciona con el chip Apple M5.",
-    "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
+    "Conexion a Datos": [
+      "Red Celular 3G",
+      "Red Celular 4G",
+      "Red Celular 5G",
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad Pro 13 Pulgadas 256GB Chip M5 WiFi + Red Cellular Negro tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -7530,7 +7857,9 @@
     "Linea Modelo Referencia": "15-fa2009la",
     "Garantía": "12 Meses",
     "Color.1": "Plata Mica",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Duracion de la Bateria": "6 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
     "Tamaño Pantalla_1": "15 Pulgadas",
@@ -7609,7 +7938,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad de 10.2 Pulgadas 256 GB Wifi 9na Gen Plata se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad de 10.2 Pulgadas 256 GB Wifi 9na Gen Plata tiene una pantalla de 10,2 pulgadas con resolución 2160 x 1620.",
     "¿Qué chip tiene esta tablet?": "El iPad de 10.2 Pulgadas 256 GB Wifi 9na Gen Plata funciona con el chip Apple A13 Bionic.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "8 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad de 10.2 Pulgadas 256 GB Wifi 9na Gen Plata tiene cámara posterior de 8 MP y cámara frontal de 12 MP.",
@@ -7655,7 +7986,9 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "256 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "13 Megapixeles",
     "tipo_producto": "tablet",
@@ -7683,7 +8016,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Nube",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente, Mouse y Teclado Alámbrico - Manuales",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "23.8 Pulgadas",
@@ -7738,7 +8073,9 @@
     "Linea Modelo Referencia": "16-ah0003la",
     "Garantía": "12 Meses",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Duracion de la Bateria": "7 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
     "Tamaño Pantalla_1": "16 Pulgadas",
@@ -7816,7 +8153,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad 11 Pulgadas 128GB Chip A16 WiFi Rosado se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad 11 Pulgadas 128GB Chip A16 WiFi Rosado tiene una pantalla de 11 pulgadas con resolución 2360 x 1640.",
     "¿Qué chip tiene esta tablet?": "El iPad 11 Pulgadas 128GB Chip A16 WiFi Rosado funciona con el chip Apple A16.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad 11 Pulgadas 128GB Chip A16 WiFi Rosado tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -7877,7 +8216,9 @@
     "Linea Modelo Referencia": "9S7-13S113-096",
     "Garantía": "24 Meses",
     "Color.1": "Plateado",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Maletín",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
@@ -7935,7 +8276,9 @@
     "Linea Modelo Referencia": "15-fn0072la",
     "Garantía": "12 Meses",
     "Color.1": "Plata glaciar",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Duracion de la Bateria": "12 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
     "Tamaño Pantalla_1": "15 Pulgadas",
@@ -7989,7 +8332,11 @@
     "Linea Modelo Referencia": "MD3H4LZ/A",
     "Garantía": "12 Meses",
     "Color.1": "Plateado",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella | Reconocimiento de Voz",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella",
+      "Reconocimiento de Voz"
+    ],
     "Qué incluye el producto": "Incluye Magic Keyboard con Touch ID y Magic Mouse",
     "Observaciones Adicionales": "Tarjeta Gráfica incluida en el Chip M4: La innovadora arquitectura del sistema en chip (SoC) combina en un mismo chip el CPU, el GPU, la memoria y mucho más, para que todo funcione más rápido con un consumo de energía mucho menor.",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -8045,7 +8392,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Azul",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Adpatador de Corriente",
     "Observaciones Adicionales": "La garantía de 24 Meses aplica desde el 1 de Agosto del 2026",
     "Duracion de la Bateria": "8 Horas Aproximadas",
@@ -8127,7 +8476,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Pro 11 Pulgadas 1TB Chip M5 WiFi Negro se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Pro 11 Pulgadas 1TB Chip M5 WiFi Negro tiene una pantalla de 11 pulgadas con resolución 2420 x 1668.",
     "¿Qué chip tiene esta tablet?": "El iPad Pro 11 Pulgadas 1TB Chip M5 WiFi Negro funciona con el chip Apple M5.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad Pro 11 Pulgadas 1TB Chip M5 WiFi Negro tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -8172,7 +8523,9 @@
     "Velocidad del Procesador": "Hasta 2.2 GHz",
     "Núcleos del Procesador": "8 Nucleos",
     "Capacidad de Almacenamiento": "256 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "5 Megapixeles",
     "Resolucion Camara Posterior": "8 Megapixeles",
     "tipo_producto": "tablet",
@@ -8221,7 +8574,12 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad 11 Pulgadas 512GB Chip A16 WiFi + Red Cellular Plateado admite conexión Red Celular 3G, Red Celular 4G, Red Celular 5G, WiFi: puedes usarlo con WiFi y también con datos móviles (SIM/eSIM según el modelo).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad 11 Pulgadas 512GB Chip A16 WiFi + Red Cellular Plateado tiene una pantalla de 11 pulgadas con resolución 2360 x 1640.",
     "¿Qué chip tiene esta tablet?": "El iPad 11 Pulgadas 512GB Chip A16 WiFi + Red Cellular Plateado funciona con el chip Apple A16.",
-    "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
+    "Conexion a Datos": [
+      "Red Celular 3G",
+      "Red Celular 4G",
+      "Red Celular 5G",
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad 11 Pulgadas 512GB Chip A16 WiFi + Red Cellular Plateado tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -8250,7 +8608,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Ponder Blue",
-    "Caracteristicas Especiales": "Pantalla Táctil",
+    "Caracteristicas Especiales": [
+      "Pantalla Táctil"
+    ],
     "Qué incluye el producto": "Incluye Adaptador de Corriente",
     "Observaciones Adicionales": "Chasis de aluminio certificado US MIL-STD 810H military-grade",
     "Duracion de la Bateria": "10 Horas Aproximadas",
@@ -8325,7 +8685,9 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "256 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "5 Megapixeles",
     "Resolucion Camara Posterior": "8 Megapixeles",
     "tipo_producto": "tablet",
@@ -8352,7 +8714,9 @@
     "Linea Modelo Referencia": "16-ah0006la",
     "Garantía": "12 Meses",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Duracion de la Bateria": "6 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
     "Tamaño Pantalla_1": "16 Pulgadas",
@@ -8426,7 +8790,9 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "128 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "5 Megapixeles",
     "Resolucion Camara Posterior": "8 Megapixeles",
     "tipo_producto": "tablet",
@@ -8454,7 +8820,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Luna",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador de Corriente",
     "Duracion de la Bateria": "7.5 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
@@ -8512,7 +8880,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Blanco nácar",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Combo de teclado y mouse inalámbricos, Cable poder",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
     "Tamaño Pantalla_1": "24 Pulgadas",
@@ -8568,7 +8938,9 @@
     "Linea Modelo Referencia": "83JE00TELM",
     "Garantía": "12 Meses",
     "Color.1": "Luna",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Duracion de la Bateria": "7.5 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "15.6 Pulgadas",
@@ -8624,7 +8996,11 @@
     "Linea Modelo Referencia": "MGDT4E/A",
     "Garantía": "12 Meses",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella | Reconocimiento de Voz",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella",
+      "Reconocimiento de Voz"
+    ],
     "Qué incluye el producto": "Adaptador de corriente USB-C de 70 W, Cable de USB-C a MagSafe 3 (2 m)",
     "Observaciones Adicionales": "El GPU ( Unidad de Procesamiento Gráfico) viene integrado con el Chip M5",
     "Duracion de la Bateria": "24 Horas Aproximadas",
@@ -8684,7 +9060,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye paquete Office",
     "Color.1": "Luna",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Duracion de la Bateria": "7 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "15.6 Pulgadas",
@@ -8740,7 +9118,9 @@
     "Linea Modelo Referencia": "82X700FULM",
     "Garantía": "12 Meses",
     "Color.1": "Ártico",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Duracion de la Bateria": "7.5 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "15.6 Pulgadas",
@@ -8794,7 +9174,10 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Plata Glaciar",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Pantalla Táctil",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Pantalla Táctil"
+    ],
     "Qué incluye el producto": "Incluye Adaptador de corriente",
     "Duracion de la Bateria": "12 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -8853,7 +9236,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Beige",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Sleeve",
     "Observaciones Adicionales": "La garantía de 24 Meses aplica desde el 1 de Agosto del 2026",
     "Duracion de la Bateria": "12 Horas Aproximadas",
@@ -8908,7 +9293,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye paquete office",
     "Color.1": "Negro Sombra",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Duracion de la Bateria": "10 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
@@ -8967,7 +9354,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Plateado Natural",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Adaptador de corriente",
     "Duracion de la Bateria": "11 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -9024,7 +9413,11 @@
     "Linea Modelo Referencia": "MW1L3E/A",
     "Garantía": "12 Meses",
     "Color.1": "Azul Medianoche",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella | Reconocimiento de Voz",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella",
+      "Reconocimiento de Voz"
+    ],
     "Qué incluye el producto": "Adaptador de corriente compacto de 35W con dos puertos USB‑C, Cable de USB‑C a MagSafe 3",
     "Duracion de la Bateria": "18 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
@@ -9098,7 +9491,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad de 10.2 Pulgadas 64 GB Wifi 9na Gen Plata se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad de 10.2 Pulgadas 64 GB Wifi 9na Gen Plata tiene una pantalla de 10,2 pulgadas con resolución 2160 x 1620.",
     "¿Qué chip tiene esta tablet?": "El iPad de 10.2 Pulgadas 64 GB Wifi 9na Gen Plata funciona con el chip Apple A13 Bionic.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "8 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad de 10.2 Pulgadas 64 GB Wifi 9na Gen Plata tiene cámara posterior de 8 MP y cámara frontal de 12 MP.",
@@ -9127,7 +9522,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye paquete office",
     "Color.1": "Plata glaciar",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Duracion de la Bateria": "11 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
@@ -9185,7 +9582,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Plateado",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador de Corriente",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -9243,7 +9642,9 @@
     "Linea Modelo Referencia": "F0HM0086LD",
     "Garantía": "12 Meses",
     "Color.1": "Gris",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
     "Tamaño Pantalla_1": "27 Pulgadas",
     "Resolucion Pantalla": "Full HD",
@@ -9297,7 +9698,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Mouse y Teclado inalámbrico",
     "Opciones de Conectividad": "Bluetooth | WiFi",
     "Tamaño Pantalla_1": "27 Pulgadas",
@@ -9347,7 +9750,9 @@
     "Linea Modelo Referencia": "83CV002GLM",
     "Garantía": "12 Meses",
     "Color.1": "Gris",
-    "Caracteristicas Especiales": "Reconocimiento Facial",
+    "Caracteristicas Especiales": [
+      "Reconocimiento Facial"
+    ],
     "Observaciones Adicionales": "PC con IA Copilot",
     "Duracion de la Bateria": "22 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -9426,7 +9831,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Pro 11 Pulgadas 256GB Chip M5 WiFi Negro se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Pro 11 Pulgadas 256GB Chip M5 WiFi Negro tiene una pantalla de 11 pulgadas con resolución 2420 x 1668.",
     "¿Qué chip tiene esta tablet?": "El iPad Pro 11 Pulgadas 256GB Chip M5 WiFi Negro funciona con el chip Apple M5.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad Pro 11 Pulgadas 256GB Chip M5 WiFi Negro tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -9455,7 +9862,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Duracion de la Bateria": "6 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
     "Tamaño Pantalla_1": "15.6 Pulgadas",
@@ -9510,7 +9919,9 @@
     "Linea Modelo Referencia": "83KA001NLM",
     "Garantía": "12 Meses",
     "Color.1": "Azul",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Duracion de la Bateria": "7.6 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
     "Tamaño Pantalla_1": "15.3 Pulgadas",
@@ -9588,7 +9999,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 11 Pulgadas 512GB Chip M4 WiFi Morado se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 11 Pulgadas 512GB Chip M4 WiFi Morado tiene una pantalla de 11 pulgadas con resolución 2360 x 1640.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 11 Pulgadas 512GB Chip M4 WiFi Morado funciona con el chip Apple M4.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 11.0
@@ -9629,7 +10042,9 @@
     "Velocidad del Procesador": "2*A75 2.0GHz 6*A55 1.8GHz",
     "Núcleos del Procesador": "8 Nucleos",
     "Capacidad de Almacenamiento": "128 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "2 Megapixeles",
     "Resolucion Camara Posterior": "5 Megapixeles",
     "tipo_producto": "tablet",
@@ -9657,7 +10072,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Observaciones Adicionales": "La garantía de 24 Meses aplica desde el 1 de Agosto del 2026",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
@@ -9712,7 +10129,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Adaptador de Corriente",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -9767,7 +10186,11 @@
     "Linea Modelo Referencia": "MDVQ4E/A",
     "Garantía": "12 Meses",
     "Color.1": "Azul",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella | Reconocimiento de Voz",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella",
+      "Reconocimiento de Voz"
+    ],
     "Qué incluye el producto": "Adaptador de corriente dinámico de 40 W con un máximo de 60 W, Cable de USB‑C a MagSafe 3 (2 m)",
     "Observaciones Adicionales": "El GPU ( Unidad de Procesamiento Gráfico) viene integrado con el Chip M5",
     "Duracion de la Bateria": "18 Horas Aproximadas",
@@ -9826,7 +10249,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Gris Mecha",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador de Corriente",
     "Observaciones Adicionales": "La garantía de 24 Meses aplica desde el 1 de Agosto del 2026",
     "Duracion de la Bateria": "8 Horas Aproximadas",
@@ -9889,7 +10314,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Luna",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador de Corriente",
     "Duracion de la Bateria": "7.5 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
@@ -9947,7 +10374,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Adaptador a Corriente",
     "Duracion de la Bateria": "6 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
@@ -10004,7 +10433,10 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Gris Niebla",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi | Conexión Con Cable",
@@ -10060,7 +10492,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Gentle Grey",
-    "Caracteristicas Especiales": "Lector de Huella",
+    "Caracteristicas Especiales": [
+      "Lector de Huella"
+    ],
     "Qué incluye el producto": "Adaptador Corriente, Mouse óptico Alámbrico USB",
     "Observaciones Adicionales": "Certificado US MIL-STD 810H military-grade - Cámara Full HD 1080p Con obturador de privacidad",
     "Producto Exclusivo": "Sí es exclusivo",
@@ -10122,7 +10556,11 @@
     "Linea Modelo Referencia": "MDHE4E/A",
     "Garantía": "12 Meses",
     "Color.1": "Azul",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella | Reconocimiento de Voz",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella",
+      "Reconocimiento de Voz"
+    ],
     "Qué incluye el producto": "Adaptador de corriente dinámico de 40 W con un máximo de 60 W, Cable de USB‑C a MagSafe 3 (2 m)",
     "Observaciones Adicionales": "El GPU ( Unidad de Procesamiento Gráfico) viene integrado con el Chip M5",
     "Duracion de la Bateria": "18 Horas Aproximadas",
@@ -10233,7 +10671,11 @@
     "Linea Modelo Referencia": "MDVN4E/A",
     "Garantía": "12 Meses",
     "Color.1": "Azul",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella | Reconocimiento de Voz",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella",
+      "Reconocimiento de Voz"
+    ],
     "Qué incluye el producto": "Adaptador de corriente dinámico de 40 W con un máximo de 60 W, Cable de USB‑C a MagSafe 3 (2 m)",
     "Observaciones Adicionales": "El GPU ( Unidad de Procesamiento Gráfico) viene integrado con el Chip M5",
     "Duracion de la Bateria": "18 Horas Aproximadas",
@@ -10291,7 +10733,10 @@
     "Garantía": "36 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office, Maletin, mouse, cable HDMI",
     "Color.1": "Plata",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella"
+    ],
     "Qué incluye el producto": "Incluye Adaptador a Corriente",
     "Duracion de la Bateria": "5 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -10360,7 +10805,10 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "128 GB",
-    "Conexion a Datos": "WiFi | Red Celular 4G",
+    "Conexion a Datos": [
+      "WiFi",
+      "Red Celular 4G"
+    ],
     "Resolucion Camara Frontal": "2 Megapixeles",
     "Resolucion Camara Posterior": "8 Megapixeles",
     "tipo_producto": "tablet",
@@ -10408,7 +10856,10 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 13 Pulgadas 1TB Chip M4 WiFi + Red Cellular Gris Espacial admite conexión Red Celular 5G, WiFi: puedes usarlo con WiFi y también con datos móviles (SIM/eSIM según el modelo).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 13 Pulgadas 1TB Chip M4 WiFi + Red Cellular Gris Espacial tiene una pantalla de 13 pulgadas con resolución 2732 x 2048.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 13 Pulgadas 1TB Chip M4 WiFi + Red Cellular Gris Espacial funciona con el chip Apple M4.",
-    "Conexion a Datos": "Red Celular 5G | WiFi",
+    "Conexion a Datos": [
+      "Red Celular 5G",
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 13.0
@@ -10435,7 +10886,11 @@
     "Linea Modelo Referencia": "MDHC4E/A",
     "Garantía": "12 Meses",
     "Color.1": "Blanco",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella | Reconocimiento de Voz",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella",
+      "Reconocimiento de Voz"
+    ],
     "Qué incluye el producto": "Adaptador de corriente dinámico de 40 W con un máximo de 60 W, Cable de USB‑C a MagSafe 3 (2 m)",
     "Observaciones Adicionales": "El GPU ( Unidad de Procesamiento Gráfico) viene integrado con el Chip M5",
     "Duracion de la Bateria": "18 Horas Aproximadas",
@@ -10515,7 +10970,12 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 11 Pulgadas 1TB Chip M3 WiFi + Red Cellular Gris Espacial admite conexión Red Celular 3G, Red Celular 4G, Red Celular 5G, WiFi: puedes usarlo con WiFi y también con datos móviles (SIM/eSIM según el modelo).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 11 Pulgadas 1TB Chip M3 WiFi + Red Cellular Gris Espacial tiene una pantalla de 11 pulgadas con resolución 2360 x 1640.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 11 Pulgadas 1TB Chip M3 WiFi + Red Cellular Gris Espacial funciona con el chip Apple M3.",
-    "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
+    "Conexion a Datos": [
+      "Red Celular 3G",
+      "Red Celular 4G",
+      "Red Celular 5G",
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad Air 11 Pulgadas 1TB Chip M3 WiFi + Red Cellular Gris Espacial tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -10544,7 +11004,11 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Luna",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Pantalla Táctil | Reconocimiento Facial",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Pantalla Táctil",
+      "Reconocimiento Facial"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente - Manuales",
     "Duracion de la Bateria": "7 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
@@ -10601,7 +11065,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye paquete office",
     "Color.1": "Plata glaciar",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Duracion de la Bateria": "11 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
@@ -10675,7 +11141,9 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "256 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "8 Megapixeles",
     "Resolucion Camara Posterior": "13 Megapixeles",
     "tipo_producto": "tablet",
@@ -10725,7 +11193,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 13 Pulgadas 256GB Chip M4 WiFi Blanco Estelar se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 13 Pulgadas 256GB Chip M4 WiFi Blanco Estelar tiene una pantalla de 13 pulgadas con resolución 2732 x 2048.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 13 Pulgadas 256GB Chip M4 WiFi Blanco Estelar funciona con el chip Apple M4.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 13.0
@@ -10751,7 +11221,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Ponder Blue",
-    "Caracteristicas Especiales": "Pantalla Táctil",
+    "Caracteristicas Especiales": [
+      "Pantalla Táctil"
+    ],
     "Qué incluye el producto": "Adaptador de Corriente, Funda",
     "Observaciones Adicionales": "Chasis de aluminio certificado US MIL-STD 810H military-grade",
     "Duracion de la Bateria": "10 Horas Aproximadas",
@@ -10831,7 +11303,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad de 10.2 Pulgadas 64 GB Wifi 9na Gen Gris Espacial se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad de 10.2 Pulgadas 64 GB Wifi 9na Gen Gris Espacial tiene una pantalla de 10,2 pulgadas con resolución 2160 x 1620.",
     "¿Qué chip tiene esta tablet?": "El iPad de 10.2 Pulgadas 64 GB Wifi 9na Gen Gris Espacial funciona con el chip Apple A13 Bionic.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "8 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad de 10.2 Pulgadas 64 GB Wifi 9na Gen Gris Espacial tiene cámara posterior de 8 MP y cámara frontal de 12 MP.",
@@ -10914,7 +11388,10 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye paquete Office",
     "Color.1": "Gris estelar",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Pantalla Táctil",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Pantalla Táctil"
+    ],
     "Qué incluye el producto": "Maletin y Mouse ROG,Adaptador de Corriente",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
@@ -10971,7 +11448,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Gris",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Adaptador de Corriente",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -11083,7 +11562,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Azul mezclilla",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Combo de Teclado y Mouse inalámbricos, Cable poder",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
     "Tamaño Pantalla_1": "24 Pulgadas",
@@ -11162,7 +11643,12 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Mini 8.3 Pulgadas 128GB WiFi + Red Cellular Gris Espacial admite conexión Red Celular 3G, Red Celular 4G, Red Celular 5G, WiFi: puedes usarlo con WiFi y también con datos móviles (SIM/eSIM según el modelo).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Mini 8.3 Pulgadas 128GB WiFi + Red Cellular Gris Espacial tiene una pantalla de 8,3 pulgadas con resolución 2266 x 1488.",
     "¿Qué chip tiene esta tablet?": "El iPad Mini 8.3 Pulgadas 128GB WiFi + Red Cellular Gris Espacial funciona con el chip Apple A17.",
-    "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
+    "Conexion a Datos": [
+      "Red Celular 3G",
+      "Red Celular 4G",
+      "Red Celular 5G",
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad Mini 8.3 Pulgadas 128GB WiFi + Red Cellular Gris Espacial tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -11208,7 +11694,9 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "128 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "5 Megapixeles",
     "Resolucion Camara Posterior": "8 Megapixeles",
     "tipo_producto": "tablet",
@@ -11236,7 +11724,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Plateado",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Adaptador a Corriente",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -11305,7 +11795,9 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "128 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "2 Megapixeles",
     "Resolucion Camara Posterior": "8 Megapixeles",
     "tipo_producto": "tablet",
@@ -11333,7 +11825,11 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Gris",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella | Reconocimiento Facial",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella",
+      "Reconocimiento Facial"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente y Manual de Usuario",
     "Producto Exclusivo": "Sí es exclusivo",
     "Duracion de la Bateria": "12 Horas Aproximadas",
@@ -11390,7 +11886,10 @@
     "Linea Modelo Referencia": "83KY0027LM",
     "Garantía": "12 Meses",
     "Color.1": "Glaciar",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Reconocimiento Facial",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Reconocimiento Facial"
+    ],
     "Observaciones Adicionales": "Certificación TÜV Luz azul baja (hardware Solución)",
     "Producto Exclusivo": "Sí es exclusivo",
     "Duracion de la Bateria": "7.5 Horas Aproximadas",
@@ -11450,7 +11949,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye paquete office",
     "Color.1": "Negro grafito",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador de Corriente",
     "Observaciones Adicionales": "La garantía de 24 Meses aplica desde el 1 de Agosto del 2026",
     "Duracion de la Bateria": "8 Horas Aproximadas",
@@ -11509,7 +12010,10 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye paquete Office",
     "Color.1": "Plateado natural",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Pantalla Táctil",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Pantalla Táctil"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Duracion de la Bateria": "10 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -11564,7 +12068,10 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Verdoso mareal",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Reconocimiento Facial",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Reconocimiento Facial"
+    ],
     "Observaciones Adicionales": "PC con IA Copilot",
     "Duracion de la Bateria": "9 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -11617,7 +12124,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Blanco",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Mouse y teclado inalámbricos, Adaptador a Corriente",
     "Opciones de Conectividad": "Bluetooth | WiFi",
     "Tamaño Pantalla_1": "23.8 Pulgadas",
@@ -11687,7 +12196,9 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "256 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "5 Megapixeles",
     "Resolucion Camara Posterior": "8 Megapixeles",
     "tipo_producto": "tablet",
@@ -11731,7 +12242,9 @@
     "Velocidad del Procesador": "4 - A73 2.4GHz | 4 - A53 1.9GHz",
     "Núcleos del Procesador": "8 Nucleos",
     "Capacidad de Almacenamiento": "128 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "5 Megapixeles",
     "Resolucion Camara Posterior": "5 Megapixeles",
     "tipo_producto": "tablet",
@@ -11758,7 +12271,9 @@
     "Linea Modelo Referencia": "14-fb1002la",
     "Garantía": "36 Meses",
     "Color.1": "Negro sombra",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
     "Tamaño Pantalla_1": "14 Pulgadas",
@@ -11815,7 +12330,11 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Plateado",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella | Reconocimiento Facial",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella",
+      "Reconocimiento Facial"
+    ],
     "Qué incluye el producto": "Cargador y Manual de Usuario",
     "Observaciones Adicionales": "Incluye Adaptador de Corriente",
     "Producto Exclusivo": "Sí es exclusivo",
@@ -11875,7 +12394,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Luna",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Adaptador de Corriente",
     "Duracion de la Bateria": "7 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
@@ -11952,7 +12473,11 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 13 Pulgadas 128GB Chip M3 WiFi + Cellular Gris Espacial admite conexión Red Celular 3G, Red Celular 4G, WiFi: puedes usarlo con WiFi y también con datos móviles (SIM/eSIM según el modelo).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 13 Pulgadas 128GB Chip M3 WiFi + Cellular Gris Espacial tiene una pantalla de 13 pulgadas con resolución 2732 x 2048.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 13 Pulgadas 128GB Chip M3 WiFi + Cellular Gris Espacial funciona con el chip Apple M3.",
-    "Conexion a Datos": "Red Celular 3G | Red Celular 4G | WiFi",
+    "Conexion a Datos": [
+      "Red Celular 3G",
+      "Red Celular 4G",
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad Air 13 Pulgadas 128GB Chip M3 WiFi + Cellular Gris Espacial tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -12002,7 +12527,10 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 11 Pulgadas 256GB Chip M4 WiFi + Red Cellular Gris Espacial admite conexión Red Celular 5G, WiFi: puedes usarlo con WiFi y también con datos móviles (SIM/eSIM según el modelo).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 11 Pulgadas 256GB Chip M4 WiFi + Red Cellular Gris Espacial tiene una pantalla de 11 pulgadas con resolución 2360 x 1640.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 11 Pulgadas 256GB Chip M4 WiFi + Red Cellular Gris Espacial funciona con el chip Apple M4.",
-    "Conexion a Datos": "Red Celular 5G | WiFi",
+    "Conexion a Datos": [
+      "Red Celular 5G",
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 11.0
@@ -12048,7 +12576,10 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 11 Pulgadas 256GB Chip M3 WiFi + Red Cellular Azul admite conexión Red Celular 5G, WiFi: puedes usarlo con WiFi y también con datos móviles (SIM/eSIM según el modelo).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 11 Pulgadas 256GB Chip M3 WiFi + Red Cellular Azul tiene una pantalla de 11 pulgadas con resolución 2732 x 2048.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 11 Pulgadas 256GB Chip M3 WiFi + Red Cellular Azul funciona con el chip Apple M3.",
-    "Conexion a Datos": "Red Celular 5G | WiFi",
+    "Conexion a Datos": [
+      "Red Celular 5G",
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad Air 11 Pulgadas 256GB Chip M3 WiFi + Red Cellular Azul tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -12093,7 +12624,9 @@
     "Velocidad del Procesador": "Hasta 2.1 GHz",
     "Núcleos del Procesador": "8 Nucleos",
     "Capacidad de Almacenamiento": "128 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "5 Megapixeles",
     "Resolucion Camara Posterior": "8 Megapixeles",
     "tipo_producto": "tablet",
@@ -12143,7 +12676,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 13 Pulgadas 128GB Chip M4 WiFi Azul se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 13 Pulgadas 128GB Chip M4 WiFi Azul tiene una pantalla de 13 pulgadas con resolución 2732 x 2048.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 13 Pulgadas 128GB Chip M4 WiFi Azul funciona con el chip Apple M4.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 13.0
@@ -12186,7 +12721,9 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "128 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "5 Megapixeles",
     "Resolucion Camara Posterior": "8 Megapixeles",
     "tipo_producto": "tablet",
@@ -12214,7 +12751,10 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Nebulosa",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Reconocimiento Facial",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Reconocimiento Facial"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Observaciones Adicionales": "Certificación TÜV Luz azul baja (hardware Solución)",
     "Producto Exclusivo": "Sí es exclusivo",
@@ -12277,7 +12817,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Blanco Algodón",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Combo de teclado y mouse inalámbricos,Adaptador a Corriente",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "23.8 Pulgadas",
@@ -12334,7 +12876,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Adaptador de Corriente",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -12389,7 +12933,11 @@
     "Linea Modelo Referencia": "MDHJ4E/A",
     "Garantía": "12 Meses",
     "Color.1": "Azul",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella | Reconocimiento de Voz",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella",
+      "Reconocimiento de Voz"
+    ],
     "Qué incluye el producto": "Adaptador de corriente dinámico de 40 W con un máximo de 60 W, Cable de USB‑C a MagSafe 3 (2 m)",
     "Observaciones Adicionales": "El GPU ( Unidad de Procesamiento Gráfico) viene integrado con el Chip M5",
     "Duracion de la Bateria": "18 Horas Aproximadas",
@@ -12448,7 +12996,11 @@
     "Linea Modelo Referencia": "MDVT4E/A",
     "Garantía": "12 Meses",
     "Color.1": "Azul",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella | Reconocimiento de Voz",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella",
+      "Reconocimiento de Voz"
+    ],
     "Qué incluye el producto": "Adaptador de corriente dinámico de 40 W con un máximo de 60 W, Cable de USB‑C a MagSafe 3 (2 m)",
     "Observaciones Adicionales": "El GPU ( Unidad de Procesamiento Gráfico) viene integrado con el Chip M5",
     "Duracion de la Bateria": "18 Horas Aproximadas",
@@ -12506,7 +13058,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Gris Mecha",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador de Corriente",
     "Observaciones Adicionales": "La garantía de 24 Meses aplica desde el 1 de Agosto del 2026",
     "Duracion de la Bateria": "8 Horas Aproximadas",
@@ -12587,7 +13141,12 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Mini 8.3 Pulgadas 256GB WiFi + Red Cellular Gris Espacial admite conexión Red Celular 3G, Red Celular 4G, Red Celular 5G, WiFi: puedes usarlo con WiFi y también con datos móviles (SIM/eSIM según el modelo).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Mini 8.3 Pulgadas 256GB WiFi + Red Cellular Gris Espacial tiene una pantalla de 8,3 pulgadas con resolución 2266 x 1488.",
     "¿Qué chip tiene esta tablet?": "El iPad Mini 8.3 Pulgadas 256GB WiFi + Red Cellular Gris Espacial funciona con el chip Apple A17.",
-    "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
+    "Conexion a Datos": [
+      "Red Celular 3G",
+      "Red Celular 4G",
+      "Red Celular 5G",
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad Mini 8.3 Pulgadas 256GB WiFi + Red Cellular Gris Espacial tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -12616,7 +13175,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Plateado",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
     "Tamaño Pantalla_1": "15.6 Pulgadas",
@@ -12692,7 +13253,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 13 Pulgadas 128GB Chip M4 WiFi Morado se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 13 Pulgadas 128GB Chip M4 WiFi Morado tiene una pantalla de 13 pulgadas con resolución 2732 x 2048.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 13 Pulgadas 128GB Chip M4 WiFi Morado funciona con el chip Apple M4.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 13.0
@@ -12719,7 +13282,11 @@
     "Linea Modelo Referencia": "MDHA4E/A",
     "Garantía": "12 Meses",
     "Color.1": "Blanco",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella | Reconocimiento de Voz",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella",
+      "Reconocimiento de Voz"
+    ],
     "Qué incluye el producto": "Adaptador de corriente dinámico de 40 W con un máximo de 60 W, Cable de USB‑C a MagSafe 3 (2 m)",
     "Observaciones Adicionales": "El GPU ( Unidad de Procesamiento Gráfico) viene integrado con el Chip M5",
     "Duracion de la Bateria": "18 Horas Aproximadas",
@@ -12797,7 +13364,10 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 13 Pulgadas 128GB Chip M4 WiFi + Red Cellular Gris Espacial admite conexión Red Celular 5G, WiFi: puedes usarlo con WiFi y también con datos móviles (SIM/eSIM según el modelo).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 13 Pulgadas 128GB Chip M4 WiFi + Red Cellular Gris Espacial tiene una pantalla de 13 pulgadas con resolución 2732 x 2048.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 13 Pulgadas 128GB Chip M4 WiFi + Red Cellular Gris Espacial funciona con el chip Apple M4.",
-    "Conexion a Datos": "Red Celular 5G | WiFi",
+    "Conexion a Datos": [
+      "Red Celular 5G",
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 13.0
@@ -12823,7 +13393,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Nube",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente,Manuales",
     "Duracion de la Bateria": "7 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
@@ -12881,7 +13453,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office, Maletin, mouse, cable HDMI",
     "Color.1": "Platino Plata",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Adaptador a Corriente",
     "Duracion de la Bateria": "5 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -12934,7 +13508,9 @@
     "Linea Modelo Referencia": "F0HM00HALD",
     "Garantía": "12 Meses",
     "Color.1": "Gris",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
     "Tamaño Pantalla_1": "27 Pulgadas",
     "Resolucion Pantalla": "Full HD",
@@ -12988,7 +13564,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador de Corriente",
     "Observaciones Adicionales": "La garantía de 24 Meses aplica desde el 1 de Agosto del 2026",
     "Duracion de la Bateria": "8 Horas Aproximadas",
@@ -13045,7 +13623,12 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella | Pantalla Táctil | Reconocimiento Facial",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella",
+      "Pantalla Táctil",
+      "Reconocimiento Facial"
+    ],
     "Qué incluye el producto": "Cargador y Manual de Usuario",
     "Observaciones Adicionales": "Incluye Adaptador de Corriente, Adaptador (dongle) USB Tipo-C a Ethernet (RJ-45)",
     "Producto Exclusivo": "Sí es exclusivo",
@@ -13103,7 +13686,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "Audífonos",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Observaciones Adicionales": "La garantía de 24 Meses aplica desde el 1 de Agosto del 2026",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -13172,7 +13757,9 @@
     "Velocidad del Procesador": "1.6",
     "Núcleos del Procesador": "8 Nucleos",
     "Capacidad de Almacenamiento": "128 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "2 Megapixeles",
     "Resolucion Camara Posterior": "5 Megapixeles",
     "tipo_producto": "tablet",
@@ -13222,7 +13809,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 11 Pulgadas 128GB Chip M4 WiFi Gris Espacial se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 11 Pulgadas 128GB Chip M4 WiFi Gris Espacial tiene una pantalla de 11 pulgadas con resolución 2360 x 1640.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 11 Pulgadas 128GB Chip M4 WiFi Gris Espacial funciona con el chip Apple M4.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad Air 11 Pulgadas 128GB Chip M4 WiFi Gris Espacial tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -13251,7 +13840,10 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "Paquete de office",
     "Color.1": "Cósmico",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Reconocimiento Facial",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Reconocimiento Facial"
+    ],
     "Qué incluye el producto": "Incluye Adaptador de Corriente",
     "Duracion de la Bateria": "6 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
@@ -13307,7 +13899,9 @@
     "Linea Modelo Referencia": "UX3407QA-QD232W",
     "Garantía": "24 Meses",
     "Color.1": "Iceland Gris",
-    "Caracteristicas Especiales": "Reconocimiento Facial",
+    "Caracteristicas Especiales": [
+      "Reconocimiento Facial"
+    ],
     "Qué incluye el producto": "Funda",
     "Observaciones Adicionales": "La garantía de 24 Meses aplica desde el 1 de Agosto del 2026",
     "Duracion de la Bateria": "18 Horas Aproximadas",
@@ -13363,7 +13957,11 @@
     "Linea Modelo Referencia": "MDHK4E/A",
     "Garantía": "12 Meses",
     "Color.1": "Azul",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella | Reconocimiento de Voz",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella",
+      "Reconocimiento de Voz"
+    ],
     "Qué incluye el producto": "Adaptador de corriente dinámico de 40 W con un máximo de 60 W, Cable de USB‑C a MagSafe 3 (2 m)",
     "Observaciones Adicionales": "El GPU ( Unidad de Procesamiento Gráfico) viene integrado con el Chip M5",
     "Duracion de la Bateria": "18 Horas Aproximadas",
@@ -13422,7 +14020,11 @@
     "Linea Modelo Referencia": "MDE14E/A",
     "Garantía": "12 Meses",
     "Color.1": "Negro Espacial",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella | Reconocimiento de Voz",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella",
+      "Reconocimiento de Voz"
+    ],
     "Qué incluye el producto": "Adaptador de Corriente USB-C 70W",
     "Observaciones Adicionales": "El GPU ( Unidad de Procesamiento Gráfico) viene integrado con el Chip M5, El GPU también ofrece funcionalidades gráficas mejoradas y trazado de rayos de tercera generación, que se combinan para lograr un rendimiento gráfico hasta un 45% superior al del chip M4",
     "Duracion de la Bateria": "24 Horas Aproximadas",
@@ -13483,7 +14085,10 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Artico",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella"
+    ],
     "Qué incluye el producto": "Adaptador a corriente",
     "Duracion de la Bateria": "10 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
@@ -13542,7 +14147,10 @@
     "Linea Modelo Referencia": "Macbook Neo",
     "Garantía": "12 Meses",
     "Color.1": "Amarillo",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Reconocimiento de Voz",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Reconocimiento de Voz"
+    ],
     "Qué incluye el producto": "Adaptador de corriente USB-C de 20W, Cable de carga USB-C (1,5 metros)",
     "Duracion de la Bateria": "16 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
@@ -13597,7 +14205,10 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Concha",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Reconocimiento Facial",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Reconocimiento Facial"
+    ],
     "Observaciones Adicionales": "PC con IA Copilot",
     "Duracion de la Bateria": "18 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -13651,7 +14262,11 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "Bateria de lapiz digital",
     "Color.1": "Cosmico",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Pantalla Táctil | Reconocimiento Facial",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Pantalla Táctil",
+      "Reconocimiento Facial"
+    ],
     "Qué incluye el producto": "Lápiz digital Lenovo Sin Bateria",
     "Duracion de la Bateria": "7.5 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
@@ -13725,7 +14340,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Mini 8.3 Pulgadas 256GB WiFi Azul se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Mini 8.3 Pulgadas 256GB WiFi Azul tiene una pantalla de 8,3 pulgadas con resolución 2266 x 1488.",
     "¿Qué chip tiene esta tablet?": "El iPad Mini 8.3 Pulgadas 256GB WiFi Azul funciona con el chip Apple A17.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad Mini 8.3 Pulgadas 256GB WiFi Azul tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -13753,7 +14370,9 @@
     "Linea Modelo Referencia": "9S7-15MM72-075",
     "Garantía": "24 Meses",
     "Color.1": "Gris",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Morral, Adaptador a Corriente",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
@@ -13813,7 +14432,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Gris",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Adaptador de Corriente",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -13884,7 +14505,9 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "128 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "5 Megapixeles",
     "Resolucion Camara Posterior": "8 Megapixeles",
     "tipo_producto": "tablet",
@@ -13932,7 +14555,10 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 11 Pulgadas 512GB Chip M4 WiFi + Red Cellular Gris Espacial admite conexión Red Celular 5G, WiFi: puedes usarlo con WiFi y también con datos móviles (SIM/eSIM según el modelo).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 11 Pulgadas 512GB Chip M4 WiFi + Red Cellular Gris Espacial tiene una pantalla de 11 pulgadas con resolución 2360 x 1640.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 11 Pulgadas 512GB Chip M4 WiFi + Red Cellular Gris Espacial funciona con el chip Apple M4.",
-    "Conexion a Datos": "Red Celular 5G | WiFi",
+    "Conexion a Datos": [
+      "Red Celular 5G",
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 11.0
@@ -13975,7 +14601,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 10,9 Pulgadas 64 GB Wifi 5ta Gen - Blanco se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 10,9 Pulgadas 64 GB Wifi 5ta Gen - Blanco tiene una pantalla de 10,9 pulgadas con resolución 2360 x 1640.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 10,9 Pulgadas 64 GB Wifi 5ta Gen - Blanco funciona con el chip Apple M1.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad Air 10,9 Pulgadas 64 GB Wifi 5ta Gen - Blanco tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -14004,7 +14632,10 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Verdoso mareal",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Reconocimiento Facial",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Reconocimiento Facial"
+    ],
     "Observaciones Adicionales": "PC con IA Copilot",
     "Duracion de la Bateria": "9 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -14082,7 +14713,12 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 13 Pulgadas 512GB Chip M3 WiFi + Red Cellular Gris Espacial admite conexión Red Celular 3G, Red Celular 4G, Red Celular 5G, WiFi: puedes usarlo con WiFi y también con datos móviles (SIM/eSIM según el modelo).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 13 Pulgadas 512GB Chip M3 WiFi + Red Cellular Gris Espacial tiene una pantalla de 13 pulgadas con resolución 2360 x 1640.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 13 Pulgadas 512GB Chip M3 WiFi + Red Cellular Gris Espacial funciona con el chip Apple M3.",
-    "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
+    "Conexion a Datos": [
+      "Red Celular 3G",
+      "Red Celular 4G",
+      "Red Celular 5G",
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad Air 13 Pulgadas 512GB Chip M3 WiFi + Red Cellular Gris Espacial tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -14111,7 +14747,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Duracion de la Bateria": "6 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
@@ -14168,7 +14806,11 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Gris",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Lector de Huella | Reconocimiento Facial",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Lector de Huella",
+      "Reconocimiento Facial"
+    ],
     "Qué incluye el producto": "Cargador y Manual de Usuario",
     "Producto Exclusivo": "Sí es exclusivo",
     "Duracion de la Bateria": "12 Horas Aproximadas",
@@ -14241,7 +14883,9 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "256 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "8 Megapixeles",
     "Resolucion Camara Posterior": "8 Megapixeles",
     "tipo_producto": "tablet",
@@ -14291,7 +14935,12 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Mini 8.3 Pulgadas 512GB WiFi + Red Cellular Gris Espacial admite conexión Red Celular 3G, Red Celular 4G, Red Celular 5G, WiFi: puedes usarlo con WiFi y también con datos móviles (SIM/eSIM según el modelo).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Mini 8.3 Pulgadas 512GB WiFi + Red Cellular Gris Espacial tiene una pantalla de 8,3 pulgadas con resolución 2266 x 1488.",
     "¿Qué chip tiene esta tablet?": "El iPad Mini 8.3 Pulgadas 512GB WiFi + Red Cellular Gris Espacial funciona con el chip Apple A17.",
-    "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
+    "Conexion a Datos": [
+      "Red Celular 3G",
+      "Red Celular 4G",
+      "Red Celular 5G",
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad Mini 8.3 Pulgadas 512GB WiFi + Red Cellular Gris Espacial tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -14320,7 +14969,10 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye paquete Office",
     "Color.1": "Luna",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Reconocimiento Facial",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Reconocimiento Facial"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Duracion de la Bateria": "8 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
@@ -14375,7 +15027,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office 365",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Duracion de la Bateria": "6 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
@@ -14447,7 +15101,9 @@
     "Velocidad del Procesador": "4 - A73 2.4GHz | 4 - A53 1.9GHz",
     "Núcleos del Procesador": "8 Nucleos",
     "Capacidad de Almacenamiento": "128 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "5 Megapixeles",
     "Resolucion Camara Posterior": "8 Megapixeles",
     "tipo_producto": "tablet",
@@ -14493,7 +15149,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Mini 8.3 Pulgadas 256GB WiFi Morado se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Mini 8.3 Pulgadas 256GB WiFi Morado tiene una pantalla de 8,3 pulgadas con resolución 2266 x 1488.",
     "¿Qué chip tiene esta tablet?": "El iPad Mini 8.3 Pulgadas 256GB WiFi Morado funciona con el chip Apple A17.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad Mini 8.3 Pulgadas 256GB WiFi Morado tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -14545,7 +15203,12 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Pro 11 Pulgadas 1TB Chip M5 WiFi + Red Cellular Negro admite conexión Red Celular 3G, Red Celular 4G, Red Celular 5G, WiFi: puedes usarlo con WiFi y también con datos móviles (SIM/eSIM según el modelo).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Pro 11 Pulgadas 1TB Chip M5 WiFi + Red Cellular Negro tiene una pantalla de 11 pulgadas con resolución 2420 x 1668.",
     "¿Qué chip tiene esta tablet?": "El iPad Pro 11 Pulgadas 1TB Chip M5 WiFi + Red Cellular Negro funciona con el chip Apple M5.",
-    "Conexion a Datos": "Red Celular 3G | Red Celular 4G | Red Celular 5G | WiFi",
+    "Conexion a Datos": [
+      "Red Celular 3G",
+      "Red Celular 4G",
+      "Red Celular 5G",
+      "WiFi"
+    ],
     "Resolucion Camara Frontal": "12 Megapixeles",
     "Resolucion Camara Posterior": "12 Megapixeles",
     "¿Qué cámaras tiene esta tablet?": "El iPad Pro 11 Pulgadas 1TB Chip M5 WiFi + Red Cellular Negro tiene cámara posterior de 12 MP y cámara frontal de 12 MP.",
@@ -14574,7 +15237,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye paquete office",
     "Color.1": "Nube",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | USB | WiFi",
     "Tamaño Pantalla_1": "23.8 Pulgadas",
@@ -14629,7 +15294,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Luna",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Adaptador de Corriente",
     "Duracion de la Bateria": "7 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | USB | WiFi",
@@ -14687,7 +15354,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Matte Gray",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador Corriente, Mouse óptico Alámbrico USB",
     "Observaciones Adicionales": "Chasis con certificado US MIL-STD 810H military-grade",
     "Duracion de la Bateria": "10 Horas Aproximadas",
@@ -14747,7 +15416,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Negro",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Mouse y Teclado inalámbrico",
     "Opciones de Conectividad": "Bluetooth | WiFi",
     "Tamaño Pantalla_1": "27 Pulgadas",
@@ -14798,7 +15469,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Azul Atmosferico",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Adaptador de corriente",
     "Observaciones Adicionales": "Pantalla 2K",
     "Duracion de la Bateria": "12 Horas Aproximadas",
@@ -14857,7 +15530,9 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Misty Grey",
-    "Caracteristicas Especiales": "Lector de Huella",
+    "Caracteristicas Especiales": [
+      "Lector de Huella"
+    ],
     "Qué incluye el producto": "Incluye Adaptador de Corriente",
     "Observaciones Adicionales": "Certificado US MIL-STD 810H military-grade - Cámara HD 720p Con obturador de privacidad",
     "Producto Exclusivo": "Sí es exclusivo",
@@ -14940,7 +15615,9 @@
     "¿Esta tablet es solo WiFi o también funciona con datos móviles?": "El iPad Air 11 Pulgadas 256GB Chip M4 WiFi Blanco Estelar se conecta por WiFi (modelo solo WiFi, no usa datos móviles).",
     "¿De qué tamaño es la pantalla de esta tablet?": "El iPad Air 11 Pulgadas 256GB Chip M4 WiFi Blanco Estelar tiene una pantalla de 11 pulgadas con resolución 2360 x 1640.",
     "¿Qué chip tiene esta tablet?": "El iPad Air 11 Pulgadas 256GB Chip M4 WiFi Blanco Estelar funciona con el chip Apple M4.",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 0,
     "screen_size_inches": 11.0
@@ -14966,7 +15643,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye paquete Office",
     "Color.1": "Plata Mica",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Adaptador a Corriente",
     "Duracion de la Bateria": "9 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -15023,7 +15702,9 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Lila",
-    "Caracteristicas Especiales": "Cámara WEB Integrada",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada"
+    ],
     "Qué incluye el producto": "Incluye Combo de Teclado y Mouse inalámbricos, Cable poder",
     "Opciones de Conectividad": "Bluetooth | Conexión Con Cable | WiFi",
     "Tamaño Pantalla_1": "24 Pulgadas",
@@ -15079,7 +15760,9 @@
     "Linea Modelo Referencia": "82XQ0063LM",
     "Garantía": "12 Meses",
     "Color.1": "Azul",
-    "Caracteristicas Especiales": "Lector de Huella",
+    "Caracteristicas Especiales": [
+      "Lector de Huella"
+    ],
     "Observaciones Adicionales": "Prueba militar MIL-STD-810H aprobada",
     "Duracion de la Bateria": "11 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -15153,7 +15836,9 @@
     "Núcleos del Procesador": "8 Nucleos",
     "Producto en Combo": "Sí es en Combo",
     "Capacidad de Almacenamiento": "128 GB",
-    "Conexion a Datos": "WiFi",
+    "Conexion a Datos": [
+      "WiFi"
+    ],
     "tipo_producto": "tablet",
     "descuento_porcentaje": 35,
     "screen_size_inches": 13.1
@@ -15180,7 +15865,10 @@
     "Garantía": "12 Meses",
     "Qué No incluye el producto": "No incluye Microsoft Office",
     "Color.1": "Plata Natural",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Pantalla Táctil",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Pantalla Táctil"
+    ],
     "Qué incluye el producto": "Incluye Adaptador de corriente",
     "Duracion de la Bateria": "7 Horas Aproximadas",
     "Opciones de Conectividad": "Bluetooth | WiFi",
@@ -15240,7 +15928,10 @@
     "Garantía": "24 Meses",
     "Qué No incluye el producto": "No incluye paquete office",
     "Color.1": "Azul",
-    "Caracteristicas Especiales": "Cámara WEB Integrada | Pantalla Táctil",
+    "Caracteristicas Especiales": [
+      "Cámara WEB Integrada",
+      "Pantalla Táctil"
+    ],
     "Qué incluye el producto": "Adaptador de Corriente",
     "Observaciones Adicionales": "La garantía de 24 Meses aplica desde el 1 de Agosto del 2026",
     "Duracion de la Bateria": "8 Horas Aproximadas",
