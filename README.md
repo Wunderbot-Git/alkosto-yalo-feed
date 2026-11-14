@@ -79,6 +79,7 @@ fields and a category added once shows up everywhere it belongs.
 | `scripts/apply_algolia_config.py` | Pushes `algolia/<index>/` to the live index; `--load file.json` bootstraps a new index. |
 | `scripts/wait_for_fresh_feed.py` | Workflow step: downloads the CSV, retrying until it differs from `feed.sha256`. |
 | `scripts/trigger_connectors.py` | Workflow step: runs every Algolia connector sourced from this repo after a commit and waits for the results. |
+| `scripts/push_to_algolia.py` | Writes the JSON straight to the indices (incremental: changed records only), to replace the connectors so the repo can go private. For now a dry-run step after the connector load; it must report 0 changes before it takes over. |
 | `feed.sha256` | Fingerprint of the last processed CSV (written by the workflow). |
 | `scripts/algolia_common.py` | Key selection per index + minimal REST client. |
 | `.env.example` | Variables for the local admin scripts. Copy to `.env` (git-ignored). |

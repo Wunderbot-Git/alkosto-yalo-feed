@@ -103,3 +103,16 @@ jobs:
           echo "Waiting 330 s for the raw.githubusercontent.com cache (5 min TTL) to expire"
           sleep 330
           python scripts/trigger_connectors.py
+
+      # Migration check for scripts/push_to_algolia.py, which will replace the
+      # connectors so the repository can go private. Runs after the connectors
+      # have loaded the indices, so the dry run must report 0 changes on every
+      # index. Read-only, and it never turns the run red.
+      - name: Compare direct push with the connector load (dry run)
+        if: github.ref == 'refs/heads/main'
+        continue-on-error: true
+        env:
+          ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
+          ALGOLIA_ADMIN_API_KEY: ${{ secrets.ALGOLIA_ADMIN_API_KEY }}
+          ALGOLIA_AGENT_KEY: ${{ secrets.ALGOLIA_AGENT_KEY }}
+        run: python scripts/push_to_algolia.py
